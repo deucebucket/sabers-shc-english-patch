@@ -1,0 +1,11 @@
+# Game data — never commit any of this
+*.iso
+*.SDAT
+*.sdat
+*.cpk
+*.CPK
+*.PUP
+source/
+work/
+game/
+*.pkg
