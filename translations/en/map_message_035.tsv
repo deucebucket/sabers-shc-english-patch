@@ -17,10 +17,10 @@ row	column	english
 18	message	A box? I don't think I saw one.\nWhat is this box?
 19	message	I don't know. It seemed necessary\nfor travel and communication…
 20	message	If there were anything suspicious,\nit would've been found.
-21	message	It's the military's doing—maybe it had\nsome evidence-destruction feature.
+21	message	It's the military's doing-maybe it had\nsome evidence-destruction feature.
 22	message	I see… next question.\nDo you know Mine Riko, Dr. Shinigami,\nor the 30th Jeanne d'Arc?
 23	message	I know their names and faces for identification.\nBut I've never met or spoken with them.
-24	message	So you weren't acting as an organization.\nThen who is the German military allied with—\nwhat forces?
+24	message	So you weren't acting as an organization.\nThen who is the German military allied with-\nwhat forces?
 25	message	That's beyond a mere soldier's knowledge.
 26	message	Could you look into it?
 27	message	The Committee is surely already on it.\nBut they'd want to avoid clumsily overdoing it\nand worsening the situation.
@@ -64,7 +64,7 @@ row	column	english
 65	message	We wanted to share a bit\nof our everyday life with you, Soniko.
 66	message	Your everyday life, Haruka, Aoi… with me?
 67	message	Yeah. Eating bentos outside like this,\nit feels like peaceful everyday life!
-68	message	…I've always thought so—Haruka,\nyou're a really, really kind girl!
+68	message	…I've always thought so-Haruka,\nyou're a really, really kind girl!
 69	message	A-am I?
 70	message	Ufufu, I think so too.
 71	message	I was going to invite everyone,\nbut the 'just the three of us today' part was Haruka's idea.
@@ -89,8 +89,8 @@ row	column	english
 90	message	I'm supposed to be the older one, yet you're\ncheering me up like this… uuuh…\nI'm sorry for being so unreliable!
 91	message	That's not true! I'm clumsy,\nI can't get up in the morning,\nand Aoi and Shirayuki tutor me in studying…
 92	message	No! Um, I'm participating\nin this location shoot,\nbut I can barely be of use to anyone…!
-93	message	Me too—all I do is call Red Angel,\nI don't know if I'm useful either.
-94	message	But, Soniko.\nThe fact that we're traveling and working hard together\nright now—that's surely something really precious.
+93	message	Me too-all I do is call Red Angel,\nI don't know if I'm useful either.
+94	message	But, Soniko.\nThe fact that we're traveling and working hard together\nright now-that's surely something really precious.
 95	message	Huh?
 96	message	I think so too.\nIt's a strange fate, but\nI'm glad I met everyone.
 97	message	Everyone's working so hard, joining forces\nto solve the problems right in front of us.\nIt makes me want to work hard too.
@@ -100,7 +100,7 @@ row	column	english
 101	message	It's okay.\nNo matter how energetic someone is,\nthere are times they get tired or down.
 102	message	When that happens, let's rest together?\nWe're friends, after all.
 103	message	Aoi…
-104	message	Forget doing it alone or in pairs—\ndo it with everyone!\nIt's way less painful, and way more fun!
+104	message	Forget doing it alone or in pairs-\ndo it with everyone!\nIt's way less painful, and way more fun!
 105	message	Haruka-chan…
 106	message	Thank you both, so much…\nI get it now!
 107	message	Instead of struggling on my own,\nthis is everyone's work, so everyone\nshould give it their all!
@@ -108,7 +108,7 @@ row	column	english
 109	message	Indeed, Haruka-san, Soniko-san.
 110	message	(Still… if we use the way to decide where we move,\nthe day we can send Soniko-san home\nmight not be so far off…)
 111	message	//Fade to black\n//Background: forest\n//Tesla and Nain are watching Soniko and the others.
-112	message	Minazuki Haruka, Kannazuki Aoi.\nHeaven's emissaries, each holding half of the "Angel's Tears"—\nthe Holy Grail fragments said to hide the greatest power…
+112	message	Minazuki Haruka, Kannazuki Aoi.\nHeaven's emissaries, each holding half of the "Angel's Tears"-\nthe Holy Grail fragments said to hide the greatest power…
 113	message	Sis, now's our chance…
 114	message	Yes, we could steal the "Angel's Tears" easily.\nBut first, there's something more important\nwe need to confirm.
 115	message	Whether Minazuki Haruka and Kannazuki Aoi\nare really Twin Angel…!
@@ -151,7 +151,7 @@ row	column	english
 159	message	What do you mean by that?
 160	message	Haruka-chan, Aoi-chan, I'm sorry\nI hid this from you! Actually,\nI'm a Twin Angel too!
 163	message	Whaaat!?
-165	message	Leave this to me— you two run!\nHurry!
+165	message	Leave this to me- you two run!\nHurry!
 166	message	(Soniko-san, so this means…)
 167	message	(…Yes!)
 168	message	Haruka-san, let's leave this to Soniko-san\nand run!
@@ -160,10 +160,10 @@ row	column	english
 171	message	Wah! Aoi-chan!?
 172	message	//Aoi and Haruka run off.
 173	message	Hey! Wait!
-174	message	N-no way—! You can't get past me!
+174	message	N-no way-! You can't get past me!
 175	message	Your opponent is, um, yours truly!\nS-Super Angel…! That's me!
 176	message	//If usable, use the cat-fist event art here.
-177	message	U-um, so… who— who wants\nto get hurt~!
+177	message	U-um, so… who- who wants\nto get hurt~!
 178	message	That stance… don't get careless!
 179	message	Come over here to this wide-open\nspot! Hiyah!
 180	message	//Battle map: open field (a park-like one if available)
@@ -209,7 +209,7 @@ row	column	english
 222	message	Super Angel?\nWhere's one of those?
 223	message	Ehehe… it's a secret♪
 224	message	Huh?
-225	message	Hm? Ahh!! Siesta, look!\nThose two over there— could they be!?
+225	message	Hm? Ahh!! Siesta, look!\nThose two over there- could they be!?
 226	message	They're the pair who kidnapped Tiffa-san!
 227	message	Tch, this got troublesome…
 228	message	…Mission: difficult.
@@ -253,7 +253,7 @@ row	column	english
 266	message	…Let's stop thinking about it for now.\nWhatever the truth is, our debt\nto Father won't change.
 267	message	…Understood.
 268	message	(Nacchan and I have survived all this time\nwith only our revenge against Twin Angel\nto support our hearts)
-269	message	(Betraying Father now… a life other\nthan revenge— we don't have…!)
+269	message	(Betraying Father now… a life other\nthan revenge- we don't have…!)
 270	message	//Fade to black\n//Background: IS Academy classroom
 271	message	Is everyone here, I wonder?\nThen let's begin the meeting.
 272	message	Yeees!
@@ -271,7 +271,7 @@ row	column	english
 284	message	We'll do our best and protect everyone's\neveryday lives across the world!
 285	message	I have zero intention of going home\nuntil I rescue Tiffa,\nso I'm not retiring.
 286	message	Miss Vallière can't do a thing\nfor herself alone,\nso I can't go home either.
-287	message	Me too— IS Academy has its own agenda,\nbut I don't wanna say bye-bye here!\nI'd be up all night wondering.
+287	message	Me too- IS Academy has its own agenda,\nbut I don't wanna say bye-bye here!\nI'd be up all night wondering.
 288	message	Same as Suzu-san!\nWhen we set off, I'm bringing MY pillow!
 289	message	I want to fight for everyone too.
 290	message	My wife's all fired up.\nThere's no way I'm not going.
@@ -286,7 +286,7 @@ row	column	english
 299	message	Something this fun doesn't happen\nin Hinamizawa, right? Right?
 300	message	Just as Rena-san says!
 301	message	You still have to keep up with your studies, okay?
-302	message	This is super fun for me too— Nipah☆
+302	message	This is super fun for me too- Nipah☆
 303	message	Dejiko's going back to Gamers, nyo!!
 304	message	……
 305	message	Nyo? Uh, um…
@@ -300,7 +300,7 @@ row	column	english
 313	message	She's not much use anyway,\nso maybe we should send her home.
 314	message	Rude way to put it, but you're right, nyo!\nI wanna go back to Akihabara, nyo!
 315	message	I think that's fine, if nobody objects.\nThough I'd like to know where the Porial\nto each reachable world is.
-316	message	That sounds good!\nWay to go, Remu-chan— whoo-hoo!
+316	message	That sounds good!\nWay to go, Remu-chan- whoo-hoo!
 317	message	("Whoo-hoo"…? …Lame.)
 320	message	Whoo-hoo!
 322	message	Stahp it, you're making me blush, heh!
@@ -323,7 +323,7 @@ row	column	english
 339	message	True. From here on we can go looking\nfor Mine Riko ourselves, so go and\nset your mother's mind at ease!
 340	message	Th-thank you…
 341	message	Then, let's split into teams!\nDejiko-chan's team and\nAria-chan's team!
-342	message	//Fade to black — time passing
+342	message	//Fade to black - time passing
 343	message	After a rigorously fair Amidakuji, Dejiko's team is:\nHaruka, Aoi, Rika-chan, Satoko, Rena,\nCharles, Laura, Tsubasa, Hibiki, and Koto!
 344	message	My team will be Louise, Siesta, Remu,\nSuzu, Houki, Cecilia, Shirayuki, Mion,\nShion, and Soniko.
 345	message	Um, my lot was a dud, though.
@@ -345,12 +345,12 @@ row	column	english
 362	message	I'll go with [MERU]-chan.
 363	message	Same as [CLAUDE]-kun for me!
 364	message	I'll go with [NOEL]-chan.
-366	message	Then it's settled.\nLet's set a number of days for regrouping—\nonce that's up, we come back to IS Academy.
+366	message	Then it's settled.\nLet's set a number of days for regrouping-\nonce that's up, we come back to IS Academy.
 367	message	Yeees!
-369	message	Then, off to Akihabara, nyo—!!
+369	message	Then, off to Akihabara, nyo-!!
 371	message	We're going to Butei High. Follow me!
 372	message	//END
-373	message	Ah, right, right. I almost forgot—
+373	message	Ah, right, right. I almost forgot-
 374	message	Wanna hear about the Heroic Boost?
 375	message	U-um…
 376	message	//
@@ -368,7 +368,7 @@ row	column	english
 388	message	Eve named it~ Basically it means\nsuper special moves!
 389	message	Oooh!?
 390	message	If you work harder and grow,\nmaybe some of you\nwill be able to use them too?
-391	message	But just learning them isn't enough—\nyou spend your grown-up Heroic Boost\nto use them!
+391	message	But just learning them isn't enough-\nyou spend your grown-up Heroic Boost\nto use them!
 392	message	G-got it…
 393	message	Got the gist?
 394	message	//

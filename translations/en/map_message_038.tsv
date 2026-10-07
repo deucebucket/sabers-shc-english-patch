@@ -36,23 +36,23 @@ row	column	english
 37	message	Dejiko-san told me, but Akihabara has lots of\nshops selling shady things once you go\ninto the back alleys.
 38	message	It's a totally different vibe from the main street, it is.
 39	message	Yeah, might be a bit early\nfor you shorties?
-40	message	Not at all! Tiny cameras, radios,\nlistening devices— things you can't\nget in Hinamizawa…!
+40	message	Not at all! Tiny cameras, radios,\nlistening devices- things you can't\nget in Hinamizawa…!
 41	message	Just looking at them makes my trap-making\ncreativity bubble up… Fufufu…
 42	message	Satoko-chan, you really love this stuff.\nI'm more interested in that curry place\nover there.
 43	message	I'm more of a foodie too, I am.\nNipah☆
 44	message	Whether it's tools or food,\nI'll buy you whatever you like.
 45	message	Eve-san, are you that rich?
 46	message	I haven't been flying around worlds\nlonger than you for nothing?\nI've built up assets.
-47	message	Wow! Then I'll take you up on that—\none regular curry and one dry curry!
+47	message	Wow! Then I'll take you up on that-\none regular curry and one dry curry!
 48	message	The drinks look tasty too, they do.
 49	message	I can't decide what to buy!
 50	message	//Fade to black\n//Background: main street (or Akihabara)\n//Tsubasa and [MERU] or [NOEL] head to that AKB theater
 51	message	I'm looking forward to it, Tsubasa-san!
-52	message	A permanent idol theater—\nsurprising.
+52	message	A permanent idol theater-\nsurprising.
 53	message	You're curious after all?
 54	message	Yes. Watching a show from another world\nshould be educational.
 55	message	I'm watching the rookie idols in\nthe opening act!
-56	message	I'd love a girl after my own heart— one who\nseems like she'll sell but doesn't, yet steadily\ngains core fans!
+56	message	I'd love a girl after my own heart- one who\nseems like she'll sell but doesn't, yet steadily\ngains core fans!
 57	message	[MERU]\nwatches the fine details.\nDo you love idols that much?
 58	message	Actually, I wanted to be\na magical idol. But I failed\nthe singing test…
 59	message	……
@@ -63,8 +63,8 @@ row	column	english
 64	message	Huh? I just followed because Tsubasa-san\nwas walking so confidently…?
 65	message	…
 66	message	Huh? Could it be, Tsubasa-san…?
-67	message	Ah—…
-68	message	Daily idol shows—\nthis town's got everything!
+67	message	Ah-…
+68	message	Daily idol shows-\nthis town's got everything!
 69	message	When I heard there was a permanent idol theater,\nI was surprised.
 70	message	Tsubasa-san the singer obviously,\nbut as a magician,\nI absolutely have to see it too!
 71	message	Yes. Watching a show from another world\nshould be educational.
@@ -81,7 +81,7 @@ row	column	english
 82	message	…
 83	message	Huh? Could it be you too, Tsubasa-san…?
 84	message	(nods)
-85	message	Ah, uh, in times like these!\nExcuse mee! Does anyone know\nwhere the theater is—!
+85	message	Ah, uh, in times like these!\nExcuse mee! Does anyone know\nwhere the theater is-!
 86	message	//Fade to black\n//Background: town (night)
 87	message	Shopping was fun!
 88	message	Didn't buy much, though.
@@ -93,7 +93,7 @@ row	column	english
 94	message	She got too excited and wandered off, no doubt.
 95	message	I'll go look for her.
 96	message	//Fade to black\n//Background: park (if available)
-97	message	Huh—? Where'd everyone go?\nAnd where is this???
+97	message	Huh-? Where'd everyone go?\nAnd where is this???
 98	message	Maybe I'll rest on the park bench a bit…
 99	message	Stop it, please!
 100	message	Just one photo, what's the harm!?
@@ -107,13 +107,13 @@ row	column	english
 109	message	//Haruka runs over.
 110	message	You're…!
 111	message	(Minazuki… Haruka…!)
-112	message	Forcing something on someone who doesn't want it— you're disqualified as a boy!
+112	message	Forcing something on someone who doesn't want it- you're disqualified as a boy!
 113	message	Who are you? Don't get in my way!\nOr will you satisfy me instead?
 114	message	S-satisfy you, huh?\nO-okay! Then!
 115	message	Um, excuse me…?
 116	message	It's fine! Leave it to me!
 117	message	How will you satisfy me?\nCome on, show me!
-118	message	Here I go! First, this—!!!
+118	message	Here I go! First, this-!!!
 119	message	//Event art: striped-panty debate
 120	message	Th-this is… striped panties!? Why are striped panties\nsuddenly coming out of your pocket!?
 121	message	Do you like striped panties?
@@ -122,7 +122,7 @@ row	column	english
 124	message	Huh?
 125	message	Hm? You call yourself a striped-panty-ist,\nso of course you carry them around, right?
 126	message	Huh!? Striped panties are something you carry around…?
-127	message	Oh, are you wearing them?\nI see— that'd be embarrassing~.
+127	message	Oh, are you wearing them?\nI see- that'd be embarrassing~.
 128	message	(This one's hopeless, I gotta do something fast)
 129	message	Here's a question.\nWhy keep striped panties on hand at all times?
 130	message	T-to put them on someone…?
@@ -158,7 +158,7 @@ row	column	english
 162	message	Ehehe, y-you think?
 163	message	Sis…
 164	message	Oh, that's right, Natchan.\nMinazuki, would you care to\njoin us for some tea?
-165	message	My treat, of course—\nto thank you for helping us.
+165	message	My treat, of course-\nto thank you for helping us.
 166	message	I-I couldn't, really~. But hmm,\nI haven't had anything sweet lately~…\nI want a strawberry cream chocolate-sauce parfait~.
 167	message	Hee hee, seconds are fine too.
 168	message	Huh? Ahaha, I won't eat that much~.\n…Probably.
@@ -192,7 +192,7 @@ row	column	english
 197	message	It's a monster!\nThat's no cosplay! Run!!
 198	message	Aoi!
 199	message	Right! Let's transform!
-200	message	Yeah! …H-huh… wha—?
+200	message	Yeah! …H-huh… wha-?
 201	message	What's wrong?
 202	message	It's gone… gone!\nIt's nowhere!! My Poketen's gone!
 203	message	Whaaat!?
@@ -203,7 +203,7 @@ row	column	english
 208	message	Dejiko's busy remodeling her shop, but\nwhat happened to the Twin Angels?
 209	message	Aoi went looking for Haruka\nand never came back.
 210	message	We'll just have to handle this ourselves!
-211	message	Then I'll just rampage twice as hard!!\nCurry power—ten times the energy!!
+211	message	Then I'll just rampage twice as hard!!\nCurry power-ten times the energy!!
 212	message	// Battle start\n// Chris appears after a set number of turns
 213	message	You bastards! What the hell are you doing!!\nDo you even know where you are!
 214	message	Huh?
@@ -212,7 +212,7 @@ row	column	english
 217	message	That voice… no way!?
 220	message	// Chris transformation movie\n// Chris appears
 221	message	You bastardsss!!
-222	message	Singing? Then that means— a Symphogear!?
+222	message	Singing? Then that means- a Symphogear!?
 223	message	Chris!!
 224	message	Yukine…!!
 225	message	Hibiki! Tsubasa!\nYou pulled a real dirty trick on me last time!!\nI won't fall for it again!!
@@ -229,7 +229,7 @@ row	column	english
 236	message	She's lost her cool…\nTachibana! Let's cool her head off!
 237	message	Understood!
 238	message	// Event triggers when Chris and Hibiki engage
-239	message	Come on! I owe you one—\nand I'm paying it back in full!!
+239	message	Come on! I owe you one-\nand I'm paying it back in full!!
 240	message	What debt!? I don't remember any!
 241	message	Don't play dumb!!\nI haven't forgotten the pain\nof getting punched in the face!
 242	message	I don't remember anything about\npunching Chris in the face!!
@@ -237,7 +237,7 @@ row	column	english
 244	message	Stand down, Yukine!
 245	message	You sheath YOUR sword!\nThen I'll riddle you full of holes, no mercy!!
 246	message	What's wrong with you…\nthis isn't like you!
-247	message	That's MY line!!\nKazanari Tsubasa pulling a sneak attack—\ncolor me impressed!!
+247	message	That's MY line!!\nKazanari Tsubasa pulling a sneak attack-\ncolor me impressed!!
 248	message	You think I'd do something like that?
 249	message	Cut the goody-two-shoes act!!\nI'll rip that mask right off!!
 250	message	// Event triggers when Chris and Koto engage
@@ -259,14 +259,14 @@ row	column	english
 266	message	Chris… why…?
 267	message	Don't let it get you down.\nThanks to Yukine, we've learned a few things.
 268	message	She said she fought Hibiki and Tsubasa~.
-269	message	Could she be one of those lookalikes~\nthat Remu was researching—\na doppelganger~?
+269	message	Could she be one of those lookalikes~\nthat Remu was researching-\na doppelganger~?
 270	message	We hadn't seen her lately, but\nthere was that shady blackish one, right?\nIt looked like somebody, y'know.
-271	message	Right—when I came to Akihabara once\nwith Soniko, I fought a small black one,\nand it looked like Dejiko.
+271	message	Right-when I came to Akihabara once\nwith Soniko, I fought a small black one,\nand it looked like Dejiko.
 272	message	Come to think of it, there was a fake Shirayuki too!\nMaybe that Barrage Girl fought\none of those things?
-273	message	But still—to be so completely convinced\nit's the real thing, like that girl was…\nisn't that going a bit far?
-274	message	A Symphogear is a relic—\nit can't be replicated. And hearing our songs,\nof course she'd think it was real.
+273	message	But still-to be so completely convinced\nit's the real thing, like that girl was…\nisn't that going a bit far?
+274	message	A Symphogear is a relic-\nit can't be replicated. And hearing our songs,\nof course she'd think it was real.
 275	message	Could something like that really happen?\nSomeone besides me singing my song,\nwielding a Symphogear that shouldn't exist…
-276	message	Yukine sang and fought beside us—\nshe's our comrade. I couldn't mistake her song.
+276	message	Yukine sang and fought beside us-\nshe's our comrade. I couldn't mistake her song.
 277	message	You're right.\nBut if she really did fight\nsomeone like that, I can understand how she feels.
 278	message	More mysteries have piled up, but\nthey're surely mysteries we must solve.
 279	message	We'll put our heads together\nand solve it, won't we!
@@ -307,9 +307,9 @@ row	column	english
 314	message	The Twin Angels never showed up,\nas expected.
 315	message	There's no doubt now.\nThe Twin Angels are Minazuki Haruka\nand Kannazuki Aoi.
 316	message	But…
-317	message	Yes—at their age,\nthey couldn't have been involved\nin the fire that burned our home. Which means…
+317	message	Yes-at their age,\nthey couldn't have been involved\nin the fire that burned our home. Which means…
 318	message	The Twin Angels… aren't our enemy…?
-319	message	…I have to admit it. But then—\nFather… Black Trader…\nlied to us…?!
+319	message	…I have to admit it. But then-\nFather… Black Trader…\nlied to us…?!
 320	message	I don't understand…\nWho is our real enemy…!?
 321	message	Father… lied…? No…!
 322	message	…We don't know anything yet.\nLet's think it over a little more…

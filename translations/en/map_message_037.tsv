@@ -5,7 +5,7 @@ row	column	english
 6	message	I would if I could.\nVisiting hours are super short.
 7	message	So? Did she look well?
 8	message	Her color wasn't bad.\nIf anything, she was worried about MY health.
-9	message	Even though she's the one having it rough—\nwhat a good mom. Treasure her.
+9	message	Even though she's the one having it rough-\nwhat a good mom. Treasure her.
 10	message	Obviously!!
 11	message	"Obviously," huh.
 12	message	What? Did I say something weird?
@@ -48,16 +48,16 @@ row	column	english
 49	message	//Scene change\n//Background: daytime town\n//Jeanne appears before Aria and the others
 50	message	Y-you're…!!
 51	message	……
-52	message	Even though your face is already known, for you—\nsaid to be one of I-U's top strategists—\nto show up in broad daylight…
+52	message	Even though your face is already known, for you-\nsaid to be one of I-U's top strategists-\nto show up in broad daylight…
 53	message	The 107 years of crimes pinned on Mama\nare yours, Durandal. Did you come all this\nway to get caught?
 54	message	Don't call me that. Holmes the Fourth.
 55	message	Then what's your business,\nthe 30th Jeanne d'Arc?
-56	message	I've come to see the Bearer of Void— Louise the Zero.
+56	message	I've come to see the Bearer of Void- Louise the Zero.
 57	message	Me?
 58	message	I've been watching you ever since you\nleft Halkeginia. You've been in good\nform lately.
 59	message	Oh, you've been watching closely. Thanks to that I'm on the upswing.\nNo idea why, though.
 60	message	I've already investigated just how great\nyour true power is.
-61	message	Louise Françoise Le Blanc de La Vallière—\nwhy not wield that magic\nfor us?
+61	message	Louise Françoise Le Blanc de La Vallière-\nwhy not wield that magic\nfor us?
 62	message	I refuse.
 63	message	That was fast!\nShe even used your full name!
 64	message	Of course! Who are you anyway?\nI feel like I've seen you somewhere,\nbut you're totally unmemorable!
@@ -144,7 +144,7 @@ row	column	english
 164	message	You'll understand after we fight a few times. Bye!
 165	message	//[NOEL] leaves the front.
 166	message	Geez, I don't get it at all…
-167	message	Worrying is part of growing too. Teacher's full of worries too,\nI'm at my wi— mmph☆
+167	message	Worrying is part of growing too. Teacher's full of worries too,\nI'm at my wi- mmph☆
 168	message	I wonder what she's worrying about…
 170	message	I was off today!\nNext time!
 171	message	You don't plan to end it here?
@@ -156,7 +156,7 @@ row	column	english
 177	message	Besides, some relationships work better\nfacing off than side by side☆
 178	message	I kinda get it.\nAlways being together isn't always best.\n…Right.
 179	message	//Battle ends when all enemies are gone.\nBackground: daytime town
-180	message	To think they'd come after Louise-san—\nsurprising.
+180	message	To think they'd come after Louise-san-\nsurprising.
 181	message	Not really.\nSomeone took Tiffa, so it's no surprise\nI'm a target.
 182	message	We still know nothing of\nTiffa-san's whereabouts.
 183	message	But it's good news.\nIf they came after me, they must be connected\nto whoever took Tiffa.
@@ -176,7 +176,7 @@ row	column	english
 197	message	True, let's pull out before this\ngets troublesome.
 198	message	(That's right, tonight I get to sleep in\nmy own room for the first time in a while…)
 199	message	//Fade to black\n//Background: in front of Butei High (day)\n//Background: in front of Butei High (night)\n//Time passing
-201	message	I'm hooome—.
+201	message	I'm hooome-.
 202	message	//Aria collapses onto the bed.\n//[Event art] Sleeping Aria
 203	message	(This room's air, it's been a while…\nI've been in all that noise\nfor so long…)
 204	message	(So quiet…)
@@ -240,7 +240,7 @@ row	column	english
 262	message	I'm going to sleep now.
 263	message	Hey, don't sleep in the bed!\nThat's my spot!\nWind Hooole!!
 264	message	//SE: gunshot
-266	message	Whoa!? A ricochet— ahh!\nA bullet in the sweet-and-sour pork!\nWhat are you doing to the food—!!
+266	message	Whoa!? A ricochet- ahh!\nA bullet in the sweet-and-sour pork!\nWhat are you doing to the food-!!
 267	message	Shut up! Take this!!
 268	message	You asked for it! Dragon Roar!!
 270	message	Hey! I can't sleep like this!!\nExplosion!!
