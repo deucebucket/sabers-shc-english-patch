@@ -37,7 +37,7 @@ row	column	english
 39	message	//Event CG off
 40	message	Water healing magic would fix that easily,\nbut I can't use water magic.
 41	message	Magic?\nAre you saying you're a mage?
-42	message	That's right. I am Louise Françoise\nLe Blanc de La Vallière.\nYou know what that name means, right?
+42	message	That's right. I am Louise Francoise\nLe Blanc de La Valliere.\nYou know what that name means, right?
 43	message	Whoa, a name like a spell!\nShe's definitely a mage!
 44	message	No! Unlike you commoners, I HAVE a family name!
 45	message	Mmm...??\nHaving a family name makes you\na mage?
@@ -229,12 +229,12 @@ row	column	english
 244	message	Louise-san,\nwhere could she have gone?\nWithout even proper food...
 245	message	I hope she hasn't collapsed\nfrom hunger. I'm worried about\nTiffa-san too, this is troubling...
 247	message	Siesta! I finally found you!
-248	message	Miss Vallière!?
+248	message	Miss Valliere!?
 249	message	I'm sorry! I won't go off on my own anymore!
 250	message	...Y-yes.
 251	message	It's dangerous here.\nI found a small cave ahead.\nLet's move there.
 252	message	(Hm...?)
-253	message	That's fine, but.\n...Um, Miss Vallière.
+253	message	That's fine, but.\n...Um, Miss Valliere.
 254	message	What?
 255	message	Have your breasts gotten a little bigger?
 256	message	Huh? Really? Isn't that your imagination?
@@ -250,8 +250,8 @@ row	column	english
 266	message	This world seems to have an interesting drug.\nYou drank the water from the canteen earlier, right?\nAt that point, you were in my grasp.
 267	message	//SE: sound of snapping fingers
 268	message	Ugh...
-270	message	Repeat after me. Miss Vallière is the enemy.
-271	message	...Miss Vallière is... the enemy...
+270	message	Repeat after me. Miss Valliere is the enemy.
+271	message	...Miss Valliere is... the enemy...
 272	message	Hoh, this is... more effective than expected.
 273	message	Andvari's ring, which bends humans to one's will.\nAnd the tainted water it was soaked in.\nA terrifying enchantment ability.
 274	message	Bearer of the Void, Louise the Zero.\nHer mighty magic recovers with emotional ups and downs -\ntruly unbelievable information.
