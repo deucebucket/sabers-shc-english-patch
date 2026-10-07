@@ -39,10 +39,10 @@ row	column	english
 42	message	Just beat these 5?
 43	message	That's right!\nThe first condition:\nbeat all of these!
 44	message	What's that? Isn't it too easy?
-45	message	Louise-san! Don't say that —\nwhat if she makes it harder, desu~!
+45	message	Louise-san! Don't say that -\nwhat if she makes it harder, desu~!
 46	message	The first one's on the house!
 47	message	Umm... there are 5 questions total,\nand clear them all within\n20 turns total!
-48	message	Oh, right —\nthe bandaged big bro over there\ncan't get taken out!
+48	message	Oh, right -\nthe bandaged big bro over there\ncan't get taken out!
 49	message	Wh-what!?\nM-me...?
 50	message	//Battle start.\n//Victory condition: defeat the 5 in order of highest max HP.
 52	message	Bzzt! No good!\nGame over!
@@ -113,12 +113,12 @@ row	column	english
 140	message	Kei-chan, there wasn't any cheating, was there?
 141	message	No unauthorized conduct confirmed.\nMission complete.
 142	message	Yeahh! How's that for ya!
-143	message	Please — that was a piece of cake!
+143	message	Please - that was a piece of cake!
 144	message	Did it work? Hoooray!
 146	message	Five turns gone!\nKeep it up~! Kyahaha!
 148	message	Ten turns elapsed, confirmed.\nTen turns remain.
 150	message	Five turns left!\nC'mon, hurry hurry~! Kyahaha!
-152	message	As promised — disclose what you know about those black ones!
+152	message	As promised - disclose what you know about those black ones!
 153	message	Sure~. That was pretty fun, after all!
 154	message	Talking face-to-face like this\nfeels strange, though…
 155	message	The fact we can talk things out is a good thing!
@@ -126,22 +126,22 @@ row	column	english
 157	message	Okay, Kei-chan, explanation duty's all yours~.
 158	message	Acknowledged.
 159	message	Currently, with Dark Remu at their center,\nthe Dark Army is carrying out\na large-scale operation.
-160	message	Hold on a moment.\nThis 'Dark' whatever —\nis that their official name?
+160	message	Hold on a moment.\nThis 'Dark' whatever -\nis that their official name?
 161	message	I came up with it myself!\nEasy to understand, right~?
-162	message	I want to get one thing straight:\nyou didn't create those black ones,\nor command them — right?
+162	message	I want to get one thing straight:\nyou didn't create those black ones,\nor command them - right?
 163	message	One of 'em's a little different, but\nI dunno about the rest!
 164	message	Different, how?
 165	message	Dark Remu was captured and used by me\nfor a certain purpose.\nShe has since escaped and is now acting on her own.
 166	message	So you'd sealed away my 'dream power'?
 167	message	Further disclosure of information\nregarding Dark Remu has not been authorized.
-168	message	Forget that boring stuff —\nlet's talk about the Dark Army!
+168	message	Forget that boring stuff -\nlet's talk about the Dark Army!
 169	message	The Dark Army split into three groups\nand went off to attack somewhere, apparently!
 170	message	Three groups?
-171	message	More importantly — where's 'somewhere'!?
-172	message	Hinamizawa, Black Fund HQ,\nand the Gamers main store — three locations.
+171	message	More importantly - where's 'somewhere'!?
+172	message	Hinamizawa, Black Fund HQ,\nand the Gamers main store - three locations.
 173	message	Hinamizawa…!
-174	message	Black Fund HQ — you don't mean!
-175	message	No 'you don't mean' about it — they're after Gustave, obviously!
+174	message	Black Fund HQ - you don't mean!
+175	message	No 'you don't mean' about it - they're after Gustave, obviously!
 176	message	…Why would they target Gamers,\nnyo?
 177	message	Who shows up is a surprise!\nAnd that was your hot tip!\nBye-bye~!
 179	message	Hey!? That's it!?
@@ -151,18 +151,18 @@ row	column	english
 184	message	They probably haven't thought it through. Without a doubt.
 185	message	So it's all just spur-of-the-moment?
 186	message	At the very least, they don't seem\nto have anything like ideals or convictions.
-187	message	The black ones — you called them the Dark Army?\nWhat of them?
+187	message	The black ones - you called them the Dark Army?\nWhat of them?
 188	message	Up until now, they've rarely shown\nany clear will of their own…
 189	message	The black me is trying to kill me.\nThat much is certain.
 190	message	The black Twin Angel holds\nthe 'Angel's Tear.'\nShe is most likely after 'Gustave.'
 191	message	The black Rika is after Oyashiro-sama's power\nin Hinamizawa.\nI must face her myself.
 192	message	Hinamizawa, Black Fund HQ,\nand Gamers.\nWe should split into three teams too.
-193	message	Alright, then — everyone figure out\nwhere you're going!
+193	message	Alright, then - everyone figure out\nwhere you're going!
 195	message	Have we more or less decided, I wonder?
 196	message	The Hinamizawa team: me, Shion, Rika-chan,\nSatoko, Rena, Houki, Cecilia, Rin, Charlotte,\nLaura, Tsubasa. Club members and IS pilots at the core.
 197	message	The Gamers team: Dejiko, Puchiko, Usada,\nLouise, Tifa, Siesta, Soniko,\nChris, and Jeanne, nyo.
 198	message	The Black Fund team: me, Remu, Shirayuki,\nReki, Kurumi, Haruka, Aoi, Hibiki, and Koto.
-199	message	And the usual leftover —\nwhere's [CLAUDE]\nheaded?
+199	message	And the usual leftover -\nwhere's [CLAUDE]\nheaded?
 200	message	'Leftover'… well, I can't argue with that.
 201	message	'Leftover'… hey,\nI'm getting treated like a leftover tooo!
 202	message	I'm [CLAUDE]'s support, so\nit can't be helped, but… yeaaah,\nguess I'm a leftover too…

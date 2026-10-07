@@ -8,9 +8,9 @@ row	column	english
 9	message	If she fires off explosions in succession,\nbuildings will be rubble in an instant.\nOpen-field combat is our only option.
 10	message	Right. Though it's plenty dangerous here too!
 11	message	Miss Vallière,\nhave you remembered anything at all\nabout Gandalfr?
-12	message	…I've been thinking about it ever since.\nBut I can't remember what kind of person it was —\nnot the form, not the voice, nothing.
+12	message	…I've been thinking about it ever since.\nBut I can't remember what kind of person it was -\nnot the form, not the voice, nothing.
 13	message	And yet, why is it?\nI keep thinking about that person.\nUnconsciously trying to remember.
-14	message	The Left Hand of God, Gandalfr — the Void's familiar.\nAnd probably, my familiar.
+14	message	The Left Hand of God, Gandalfr - the Void's familiar.\nAnd probably, my familiar.
 15	message	My black self is trying to kill me\nto meet Gandalfr.
 16	message	If I die, unable to summon a familiar,\na new bearer of the Void will be chosen.\n…That's her aim.
 17	message	If you understand, then die!\nWithout Gandalfr,\nyou're worthless!
@@ -66,15 +66,15 @@ row	column	english
 74	message	Coming all this way just to be killed.
 75	message	Is that so?\nMages are worse at close combat, aren't they.
 76	message	There are plenty of ways.
-77	message	More importantly, there's something I want to confirm.\nYou — do you love Gandalfr?
+77	message	More importantly, there's something I want to confirm.\nYou - do you love Gandalfr?
 78	message	!!
 79	message	Answer properly.
 80	message	…
 81	message	You love him, don't you.
-82	message	You want to meet him even if it means killing me.\nThat's not for the world's sake —\nit's personal, strong emotion, isn't it.
+82	message	You want to meet him even if it means killing me.\nThat's not for the world's sake -\nit's personal, strong emotion, isn't it.
 83	message	So what if it is!
 84	message	You admitted it.
-85	message	I won't choose my means for my goal!\nNo — I can't choose!
+85	message	I won't choose my means for my goal!\nNo - I can't choose!
 86	message	Would Gandalfr be happy about that?
 87	message	!?
 88	message	Would the person you long to meet so much\nrejoice at such methods?
@@ -82,7 +82,7 @@ row	column	english
 90	message	I would never sacrifice people\nto fulfill my own wishes!
 91	message	I couldn't forgive myself for that, and\nI'd never love someone\nwho'd love me for it!
 92	message	…
-93	message	I don't know what Gandalfr is like —\nnot his form, not his voice, not his personality, nothing.
+93	message	I don't know what Gandalfr is like -\nnot his form, not his voice, not his personality, nothing.
 94	message	But if he's someone special to me,\nsomeone irreplaceable,\nthere's one thing I do know.
 95	message	Even if Gandalfr is alive somewhere\nand fated never\nto meet me,
 96	message	he's surely fighting somewhere\nto protect someone's happiness, getting hurt,\naiming for the best future!
@@ -133,14 +133,14 @@ row	column	english
 147	message	Didn't YOU\nhave trouble sleeping, nyo?
 148	message	Hmm, well.\nI had quite a nice dream, actually.
 149	message	Hoho, what kind of dream, nyo?\nOne where Gandalfr-san\ndotes on you, nyo?
-150	message	Wha—! No!!\nThat's not what I'd call a nice dream!
+150	message	Wha-! No!!\nThat's not what I'd call a nice dream!
 151	message	Then what kind of dream, nyo? Tell me, nyo!
 152	message	Um, a dream where things somehow go well.\nOur battle ends with a good result!
 153	message	That's a lucky dream, nyo.
 154	message	Maybe it was Gandalfr\nwho showed me that dream.
 155	message	So it was just lovey-dovey talk after all, nyo…
 156	message	No it's not!!
-158	message	Good morning!\nEhehe~ — everyone seems to be having fun♪\nDid something happen?
+158	message	Good morning!\nEhehe~ - everyone seems to be having fun♪\nDid something happen?
 159	message	Soniko, perfect timing, nyo.\nLouise was just…
 160	message	Don't spread it around!
 161	message	It means we're at peace, nyu.
