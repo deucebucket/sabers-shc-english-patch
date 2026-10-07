@@ -9,7 +9,7 @@ row	column	english
 10	message	Ah! Chris!\nGrabbing at random right away is dangerous...!
 11	message	Hm? What? It's normally tasty, though?
 12	message	That one's mine!\nChris, what did you just say?
-13	message	I said it's tasty — something wrong with that?
+13	message	I said it's tasty - something wrong with that?
 14	message	(Huh... Chris... could it be!?)
 15	message	Tastes a bit nostalgic.\nBack when I was in the Republic of Val Verde,\nthis was a feast.
 16	message	My! A feast?\nThat country must have\na deep understanding of flavor!
@@ -24,13 +24,13 @@ row	column	english
 26	message	So gooood!!
 27	message	Delicious!
 28	message	Blugh!?
-31	message	What's with that face, Usada!\nYou look like you ate something weird!\nIt's tasty — munch munch...
+31	message	What's with that face, Usada!\nYou look like you ate something weird!\nIt's tasty - munch munch...
 32	message	Chris! You truly\nunderstand my flavor!
 33	message	There's no accounting for taste, nyu.
 35	message	Listen while you eat.\nSumming up what we know about the changed [MERU],\nthe Goddess of Destruction.
 36	message	Listen while you eat.\nSumming up what we know about the changed [NOEL],\nthe Goddess of Destruction.
 37	message	Reki, if you would.
-38	message	Yes. The Goddess of Destruction showed no reaction at all\nuntil Mie approached —\nshe was completely still.
+38	message	Yes. The Goddess of Destruction showed no reaction at all\nuntil Mie approached -\nshe was completely still.
 39	message	So we're safe as long as we don't approach?
 40	message	No. After she flew off during that battle,\naccording to Laura's observations,\nseven distant cities were annihilated.
 41	message	So once she starts rampaging...
@@ -41,7 +41,7 @@ row	column	english
 46	message	Even if we get a chance\nto approach [MERU],\nif Mie shows up, it'll be hard.
 47	message	Even if we get a chance\nto approach [NOEL],\nif Mie shows up, it'll be hard.
 49	message	What is it!? Laura!
-50	message	Reading confirmed — it's Mie!\nShe's running nearby!
+50	message	Reading confirmed - it's Mie!\nShe's running nearby!
 51	message	Is she coming here?
 52	message	No, her heading won't bring her here.\nWhich means...
 53	message	She found [MERU] and she's heading there!
@@ -133,7 +133,7 @@ row	column	english
 160	message	Laura, that's about cats.
 162	message	Hm...
 163	message	What's up?
-164	message	No, I was thinking —\nsleeping might actually be the right answer.
+164	message	No, I was thinking -\nsleeping might actually be the right answer.
 165	message	If she's human, she can't\nkeep going without sleep.
 166	message	I'm sure that's it!
 167	message	[MERU]'s still\n[MERU]! That's why\nshe sleeps!
@@ -150,7 +150,7 @@ row	column	english
 179	message	Judging by how you look...\neveryone seems unharmed.
 180	message	Yeah. Glad everyone's\nall here on this side too.
 181	message	So, how'd it go?
-182	message	We finished investigating Eve's lab.\nI thought we'd regroup in Dokoka Town —\nhow are things here?
+182	message	We finished investigating Eve's lab.\nI thought we'd regroup in Dokoka Town -\nhow are things here?
 183	message	Timing's not bad.\nLet's head to Dokoka Town.
 184	message	Yeah, sounds good!
 185	message	We haven't had a moment to breathe,\nso this is perfect.

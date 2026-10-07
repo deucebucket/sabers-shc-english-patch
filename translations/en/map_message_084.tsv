@@ -8,7 +8,7 @@ row	column	english
 9	message	No signs of activity from the target.\nNo energy detected.\nNo sign she's noticed us.
 10	message	So at this distance, we're safe?
 11	message	To run right away if something happens,\nwe need to stay near Polyal.
-12	message	This is surveillance only — watch,\nno fighting planned.
+12	message	This is surveillance only - watch,\nno fighting planned.
 13	message	But why is she\njust standing still...?\nCould she be tired...?
 14	message	I wonder if she eats?
 15	message	You're always worried about food, Koto.\nBut word is her energy is\nlimitless, so she probably doesn't eat.
@@ -38,13 +38,13 @@ row	column	english
 39	message	Hasn't she already awakened, nyu?
 40	message	Maybe her current state isn't\na complete awakening.
 41	message	Aoi, what do you mean?
-42	message	The fact that she's stopped moving like this —\ncould it be because the awakening is incomplete...?
-43	message	I see — that's probably related to how\nshe took that form without meeting\nthe 'learn the truth of the world' condition.
+42	message	The fact that she's stopped moving like this -\ncould it be because the awakening is incomplete...?
+43	message	I see - that's probably related to how\nshe took that form without meeting\nthe 'learn the truth of the world' condition.
 44	message	Hibiki, what do you think?
 45	message	She might really be incomplete.
 46	message	When truly outrageous power awakens,\nyou can't just stand still quietly like that.\nYou'd definitely go on a rampage.
 47	message	Maybe... she'd be overwhelmed\nby the overflowing power.
-48	message	Just standing still like that,\nshe couldn't possibly destroy all the worlds —\nit's more natural to think she's still incomplete!
+48	message	Just standing still like that,\nshe couldn't possibly destroy all the worlds -\nit's more natural to think she's still incomplete!
 49	message	I agree.
 50	message	Even so, what do we do?
 51	message	We can't go poking her right now...
@@ -57,7 +57,7 @@ row	column	english
 61	message	Don't do anything stupid! Go home!
 62	message	YOU go home.\nIsn't it dangerous for you~?
 63	message	You're the one in danger!\nI'll stop you no matter what!
-64	message	Ahaha! Funny joke!\nEveryone's weaker than Mii —\ncan you really stop me~?
+64	message	Ahaha! Funny joke!\nEveryone's weaker than Mii -\ncan you really stop me~?
 65	message	No matter how strong you are,\nthere are ways to deal with you!
 66	message	Hmm, you really don't want Mii\ngetting close to that black monster?
 67	message	She's not a monster!\nThat's [MERU]!
@@ -67,7 +67,7 @@ row	column	english
 71	message	No one can stop Mii!\nGo go go! Charge, charge!
 73	message	Wah! The population density!?
 74	message	They're not people, so it's not population density, but...\nthis is no time for that.\nWe need to thin their numbers!
-75	message	Strike first, strike hard — take them all down!
+75	message	Strike first, strike hard - take them all down!
 77	message	Hee, not bad.
 78	message	Heave-ho!
 80	message	Huh!?
@@ -130,10 +130,10 @@ row	column	english
 152	message	No idea why! But we're running too!
 155	message	I always strive to be elegant,\nbut to be honest,\nI was scared out of my wits...
 156	message	Anyone would feel that way.\nIf anything, it's proof you're a normal human.
-157	message	A terror on a whole different level from horror movies or mysteries —\nlike having your life scraped out from the roots...\nis that how I'd put it...?
-158	message	Not a living thing, not a machine —\nsomething more dangerous, something untouchable...\nThat's what it felt like.
+157	message	A terror on a whole different level from horror movies or mysteries -\nlike having your life scraped out from the roots...\nis that how I'd put it...?
+158	message	Not a living thing, not a machine -\nsomething more dangerous, something untouchable...\nThat's what it felt like.
 159	message	Even I could feel\nit wasn't human.
-160	message	The fact that Mie took that thing's attack head-on\nand didn't die instantly —\nshe's seriously strong.
+160	message	The fact that Mie took that thing's attack head-on\nand didn't die instantly -\nshe's seriously strong.
 161	message	Nothing but trouble, all of 'em.\nThe weird duo, the black-clad folks...
 162	message	Houki, any idea where she went?
 163	message	No, lost her.\nNo readings within sensor range.
@@ -163,8 +163,8 @@ row	column	english
 187	message	No way she'd give up!
 188	message	Soniko's right!\nWe'll all try our best! If that fails,\nwe try even harder! That's all there is!
 189	message	Yes. If we don't stay strong,\nwe won't manage even what we could.
-190	message	Overthinking everything\nand going negative —\nthat's the most dangerous thing.
-191	message	I see~ — wait,\nisn't it about mealtime?
+190	message	Overthinking everything\nand going negative -\nthat's the most dangerous thing.
+191	message	I see~ - wait,\nisn't it about mealtime?
 192	message	Honestly, I know nothing more accurate\nthan Koto's stomach clock...
 193	message	Well, with neither Siesta nor Rin here,\nI shall offer my home cooking...
 194	message	Whaaat!?
@@ -192,6 +192,6 @@ row	column	english
 220	message	'Used to it'...
 221	message	Honestly, I'm scared.\nBut there are positions where\nyou're not allowed to be scared, y'know? That's it.
 222	message	...I think I get now\nwhy you have so much charisma\nat your age~.
-223	message	Charisma!?\nNo way — I'm just the club prez!\nI'm nothing that impressive!
+223	message	Charisma!?\nNo way - I'm just the club prez!\nI'm nothing that impressive!
 224	message	Fufu!
 225	message	//END
