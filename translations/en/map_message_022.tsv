@@ -1,19 +1,19 @@
 row	column	english
-3	message	Is that the cry of the higurashi...?\nEarly summer in Japan — June, I wonder.
+3	message	Is that the cry of the higurashi...?\nEarly summer in Japan - June, I wonder.
 4	message	For now, let's head out to the main road.
 5	message	//BG: Hinamizawa (day)
 6	message	Whoa, talk about the boonies!
 7	message	Mmm, delicious.\nYou can really tell the air itself has flavor.
 8	message	Doctor Death's hideout is in a place like this?\nKinda hard to believe.
-9	message	A mysterious figure in a secluded Western-style mansion —\nthat's a classic setup.
-10	message	Doesn't even look like there's a mansion here!\nLike, "Doctor Death is hiding in that watermill" —\nthat's a joke, right?!
+9	message	A mysterious figure in a secluded Western-style mansion -\nthat's a classic setup.
+10	message	Doesn't even look like there's a mansion here!\nLike, "Doctor Death is hiding in that watermill" -\nthat's a joke, right?!
 11	message	But there's no mistaking that Doctor Death came here.\nHe's gotta be somewhere.
 12	message	True. For now we need to gather\ninformation about this land.
 13	message	There's a place name on the sign.\nLet's see... Hi-na-mi-za-wa?
 15	message	Hello.
 17	message	Everyone's wearing weird clothes...\nYou're not from the village, right?\nTraveling, kana? Kana?
 18	message	Yes, we just arrived.\nAre you from this village?
-19	message	Yes. I'm Rena — Ryugu Rena.
+19	message	Yes. I'm Rena - Ryugu Rena.
 20	message	...!!
 22	message	Hm? What's wrong, kana? Kana?
 23	message	Nothing... it's nothing. Nothing at all.
@@ -89,7 +89,7 @@ row	column	english
 93	message	Ugh... a-ahhn.
 94	message	Nmu... mugu mugu.\nBuhah!???
 95	message	Aria-chan!?
-96	message	Oh my?\nTo draw the super-spicy Russian tamagoyaki\non the first try — what luck!
+96	message	Oh my?\nTo draw the super-spicy Russian tamagoyaki\non the first try - what luck!
 97	message	Mugugu, water, water!
 98	message	Here, water, you know~.
 99	message	Gok, gok!
@@ -104,7 +104,7 @@ row	column	english
 108	message	I lost even the will to be mad, it was so spicy!\nWhere in this land did you get\nsuper-spicy spices!?
 109	message	Right, you'd think at most you'd get\nmustard paste or chili oil, no?
 110	message	Fufufu, that carelessness is what gets you killed.
-111	message	You dig a pitfall where you'd least expect one —\nthe basics and essence of traps.
+111	message	You dig a pitfall where you'd least expect one -\nthe basics and essence of traps.
 112	message	Traps?
 113	message	Satoko's a trap master, you know~.
 114	message	An elementary schooler, and traps...
@@ -134,14 +134,14 @@ row	column	english
 138	message	Yeah, don't worry about it!\nWe've never been asked stuff like that,\nso we're surprised too.
 139	message	Say! Won't you stay at my place tonight?\nAs the finale of the famous-spot tour,\nI'll invite you to the Sonozaki house.
 140	message	Mion's house?\nBut there's this many of us...
-141	message	Mii-chan's house is one of the Three Families of Hinamizawa —\na grand estate of a distinguished family.
-142	message	It's what you'd call an old traditional house —\na different flavor from modern buildings, I think?\nYou could call it a famous spot, I'd say.
+141	message	Mii-chan's house is one of the Three Families of Hinamizawa -\na grand estate of a distinguished family.
+142	message	It's what you'd call an old traditional house -\na different flavor from modern buildings, I think?\nYou could call it a famous spot, I'd say.
 143	message	Okay, then we'll take you up on it.
 144	message	You're welcome.\nNow that we've finished lunch,\nlet's go!
 145	message	(Aria-chan, is it okay to decide that fast?)
 146	message	(I haven't let my guard down, leave it to me...)
 147	message	//Fade to black, to the next day
-150	message	Wow, what an amazing house!\nIt's wooden but looks sturdy —\nlooks like it'll last another hundred years easy!
+150	message	Wow, what an amazing house!\nIt's wooden but looks sturdy -\nlooks like it'll last another hundred years easy!
 151	message	True.
 152	message	Rin-chan, nothing unusual happened\nduring our stay at the Sonozaki house, right?
 153	message	Just people working on festival preparations,\nnothing else.
@@ -159,7 +159,7 @@ row	column	english
 165	message	Got it.\nYou be careful too.
 166	message	//BG: woods (night)
 167	message	Rika's dedication dance is almost time...
-168	message	I made a round, and\nall the villagers gathered at the festival —\nnobody anywhere else...
+168	message	I made a round, and\nall the villagers gathered at the festival -\nnobody anywhere else...
 169	message	//SE: sound of walking through bushes with a rustle
 170	message	...
 171	message	...Hm? Is someone there?
@@ -219,12 +219,12 @@ row	column	english
 227	message	The ritual storehouse is sacred ground,\nso bringing impurity in there…\nOyashiro-sama might curse us, y'know?
 228	message	Still… what WAS that noise?
 229	message	Huh? Noise… what noise?
-230	message	The noise! That whole clatter-bang racket—\nyou heard how loud it was, right?
+230	message	The noise! That whole clatter-bang racket-\nyou heard how loud it was, right?
 231	message	Huh? I didn't hear any noise.\nInside the storehouse it was\ncreepily quiet, wasn't it?
 232	message	You're kidding me, right!?
 233	message	No way… you're lying… no…
 234	message	Hehe, hahaha! Bwahahaha!!\nGotcha! It was all a lie!!
-235	message	Hey!! You little—!!
+235	message	Hey!! You little-!!
 236	message	Na-na-na-na-na! You fell for it!
 238	message	What WAS that all about…
 241	message	Fwaah… that post-festival hangover thing.\nThis tiredness just won't go away…
@@ -246,7 +246,7 @@ row	column	english
 260	message	…
 262	message	…I think I've got the gist of it.
 263	message	This village is way more messed up than I imagined…
-264	message	"Onikakushi"—one disappears, one dies…\nI'm betting it's human work.
+264	message	"Onikakushi"-one disappears, one dies…\nI'm betting it's human work.
 265	message	So someone's using the legends and customs\nto commit murders and kidnappings?
 266	message	And the whole village might be\ncovering it up…
 267	message	So it looks like Oyashiro-sama's curse targets\npeople like me.
@@ -258,7 +258,7 @@ row	column	english
 273	message	Obviously!
 274	message	(Still… I wonder if Dr. Shinigami is involved in this.\nI can't sense any movement from him at all… it's unnerving…)
 276	message	Aria went toward the shrine, indeed.\nWe should follow her, indeed.
-277	message	Looks like Aria headed for the shrine.\nAlright, we should—
+277	message	Looks like Aria headed for the shrine.\nAlright, we should-
 278	message	Oh my, everyone's together.\nWhere are you all off to?
 279	message	Mion-chan!?
 280	message	Before that, there's something\nI'd like to ask you about…
@@ -282,13 +282,13 @@ row	column	english
 301	message	You're next, Rika… The Three Families all die!!
 302	message	…!
 303	message	But if I kill you here,\nI'd miss out on the fun of torturing you…
-304	message	I'll invite you down to the basement torture room—\nso much fun, fun, fun!
+304	message	I'll invite you down to the basement torture room-\nso much fun, fun, fun!
 306	message	Rika! Satoko!!
 307	message	Aria-san!?
 308	message	I came to help!
 309	message	Rena, what happened to Mii?
 310	message	I don't know… maybe Oyashiro-sama's…
-311	message	Rena, stop thinking like that!\nWhen people do something, there's always a motive!\nI'll grab Mion and make her confess—get ready!
+311	message	Rena, stop thinking like that!\nWhen people do something, there's always a motive!\nI'll grab Mion and make her confess-get ready!
 312	message	No way! Why don't YOU\nstop scurrying around and drop dead!\nBy Oyashiro-sama's curse!!
 313	message	Rena, did you know Mion\nwas like that?
 314	message	No! Mii-chan isn't like that!\nShe's kind, and caring,\nand she treasures her friends!
@@ -298,7 +298,7 @@ row	column	english
 319	message	Don't you dare spout such convenient crap!\nJust be a good girl and die by Oyashiro-sama's curse!
 320	message	Rika-chan, Satoko-chan, hang in there!\nI'm coming!
 321	message	I will NOT lose!
-322	message	Just believe in the two of us—
+322	message	Just believe in the two of us-
 325	message	Sorry I'm late!
 326	message	Rena? Rika and Satoko are here too!?
 327	message	Details later!\nSave Rika-chan and Satoko-chan!
@@ -314,13 +314,13 @@ row	column	english
 339	message	Hang in there, Rika-chan! Satoko!
 340	message	We refuse to lose!\nNot to the likes of you! Not like this!\nWe will never, ever lose!
 341	message	Mii, doing this is pointless.
-342	message	Oh is that right!\nWhether you lose, whether it's pointless—\nI'll show you myself!!
+342	message	Oh is that right!\nWhether you lose, whether it's pointless-\nI'll show you myself!!
 344	message	!?
 345	message	Mii…!
 346	message	There… got you…!
 347	message	Stop!!
 348	message	Stop it, Mii-chan!
-349	message	Goodbye.\nYou lot—keep THEM busy!!
+349	message	Goodbye.\nYou lot-keep THEM busy!!
 351	message	Rika-chan! Satoko-chan!!
 352	message	After her! No matter what!!
 356	message	Now then, fun fun torture time!\nWhich one of you wants to die first?
@@ -337,13 +337,13 @@ row	column	english
 369	message	Shut UP!! If you'd just died sooner!\nSatoshi-kun wouldn't have had to suffer!!
 371	message	I knew… Because of me,\nNii-nii has always…
 372	message	Oh? So you knew? Surprising.
-374	message	Guh…!! That's why I became strong—\nso I can show Nii-nii when he comes home\nthat I'm fine without his help!
-376	message	He's never coming back!!\nSatoshi-kun—YOU killed him!!\nALL OF YOU killed him!!
+374	message	Guh…!! That's why I became strong-\nso I can show Nii-nii when he comes home\nthat I'm fine without his help!
+376	message	He's never coming back!!\nSatoshi-kun-YOU killed him!!\nALL OF YOU killed him!!
 377	message	I believe he will!! That's why!!
 379	message	I won't cry! I won't call for help!\nLike I'd ever lose to someone like you!!\nNever!! Never!! Never!!
 380	message	HYEAAAH-HA!!!!
 382	message	!!\n…\n…\n…
-384	message	Rika!! Satoko— huh!
+384	message	Rika!! Satoko- huh!
 386	message	Fufu, fu…
 387	message	Ahaha, ahahahaha!!\nAh-hahahahaha!!!!
 388	message	I won, I won…!\nI beat the ones who killed Satoshi-kun!!

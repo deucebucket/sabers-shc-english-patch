@@ -3,7 +3,7 @@ row	column	english
 4	message	If I strung all these short slow stretches together into one day,\nI could really get my doujinshi work done, nyo.
 5	message	Still, I can't slack off on shop duty, nyo.
 6	message	To keep from getting sleepy,\nI'll do a patrol of the store, nyo.\nStarting with the gal-game corner, nyo.
-7	message	[Event art: Dejiko with sparkling eyes — "Buy something, nyo!"]
+7	message	[Event art: Dejiko with sparkling eyes - "Buy something, nyo!"]
 8	message	Hellooo, nyo.\nLooking for something, nyo?
 9	message	You sure got a lot of games here.\nWhich one's fun?
 10	message	Whether it's fun is up to you, nyo.\nDejiko believes anyone who can enjoy any game\nis a true gamer, nyo!
@@ -24,7 +24,7 @@ row	column	english
 27	message	...Well, at least she wasn't shoplifting.\nI'll count that as a win, nyo.
 28	message	Lately, there seem to be more and more\ntroublemakers in Akihabara, nyo!\nThey can't fool Dejiko's eyes, nyo!!
 29	message	I've got evil-heart-detecting sensors\nset up in this store, so\nif they react, it's instant eye-beams, nyo!!
-30	message	Anyway, Akihabara—with yours truly Dejiko at the top—\nmust be a town of youngsters and middle-aged youngsters\nwho buy things, nyo.
+30	message	Anyway, Akihabara-with yours truly Dejiko at the top-\nmust be a town of youngsters and middle-aged youngsters\nwho buy things, nyo.
 31	message	Phew, I'm tired from passionately speechifying\nin an empty store, nyo.\nBack to zoning out, nyo~.
 33	message	Dejiko, it's terrible, nyu.
 34	message	Oh, it's Puchiko, nyo~.\nHere to switch shop duty, nyo~?
@@ -65,7 +65,7 @@ row	column	english
 72	message	Oh my, sorry.\nI wasn't counting.
 73	message	Then don't give me a time limit, nyo!!
 74	message	Useless, nyu.
-75	message	I'm looking for someone.\nHer name's Koto — know her?
+75	message	I'm looking for someone.\nHer name's Koto - know her?
 76	message	Koto, nyo?\nNone of Dejiko's acquaintances, nyo.
 77	message	You just answered without thinking, didn't you?\nAre you making fun of me, by any chance?
 78	message	That's not it at all, nyo.
@@ -161,4 +161,3 @@ row	column	english
 171	message	If we go to Gamers,\nI'm sure you'll find a souvenir!
 172	message	Really!?
 173	message	Yes♪\nThey've got lots of cute and fun stuff♪
-174	message	[END]
