@@ -10,6 +10,26 @@ Extraction / repack scripts. You bring your own dump; no game data lives here.
 | `shc_csv_model.py` | model of the GAME's CSV parser (EBOOT 0x42e168 / 0x42e25c); tells you if a CSV would crash it |
 | `shc_cpk_check.py` | **release gate**: storage-rule, decompress-size and game-CSV-parser checks on a built CPK |
 | `test_shc_repack.py` | unit tests for the storage rule and the parser model |
+| `merge_tsv.py` | apply `translations/en/*.tsv` onto extracted CSVs (inverse of `extract_english.py`) |
+
+## Full build pipeline (from your own dump)
+
+```
+# 1. extract the original CSVs
+python3 tools/shc_cpk.py ...            # see script help; decompress members
+# 2. merge the English text
+python3 tools/merge_tsv.py translations/en <extracted csv dir> <merged csv dir>
+# 3. repack
+python3 tools/shc_repack.py ShcPack.cpk out.cpk replacements.json
+# 4. gate (must print PASS)
+python3 tools/shc_cpk_check.py out.cpk --orig ShcPack.cpk
+```
+
+`merge_tsv.py` is the inverse of `extract_english.py`: it writes each TSV's
+`row/column/english` cells back into the corresponding CSV, preserving BOM,
+line endings and every untouched cell. It understands both the English headers
+the patched CSVs carry (`Message`, `Shortened Message`) and the original
+Japanese ones (`メッセージ`, `短縮時メッセージ`).
 
 ## Build + gate (do not ship a CPK that fails the gate)
 
