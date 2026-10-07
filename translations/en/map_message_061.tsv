@@ -8,7 +8,7 @@ row	column	english
 9	message	I wanna hear Tsubasa's enka, nyo~!
 10	message	Enka!? You mean THAT enka?\nLike "my boooat~," "that woman up nooorth~,"\nvillages with no cars or TV, that kind of stuff?
 11	message	Not quite... but yeah.
-12	message	That ya-ya-ya song she belts out mid-battle\nis amazing and all, but—\nhuh, so she can do enka too?
+12	message	That ya-ya-ya song she belts out mid-battle\nis amazing and all, but-\nhuh, so she can do enka too?
 13	message	That's so cool.
 14	message	Tsubasa-chan, you're wonderful♪
 15	message	The other day she was singing\nall alone in the bath, nyo.\nShe even had the kobushi down, nyo~.
@@ -20,12 +20,12 @@ row	column	english
 23	message	Haruka-san, shouldn't we head back to the classroom soon?
 24	message	Yeah... but just a little longer.
 25	message	Kurumi-san's sure to be all right.
-26	message	It's not just Kurumi-chan—\nI'm worried about Tesla-chan and Nine-chan too...\nIsn't there anything I can do?
+26	message	It's not just Kurumi-chan-\nI'm worried about Tesla-chan and Nine-chan too...\nIsn't there anything I can do?
 27	message	Haruka-san, trusting them and waiting\nis a very important thing too.
 28	message	Yeah... You're right.\nI know that, but...
 29	message	For now, let's believe in everyone.\nAnd when our turn comes,\nlet's give it everything we've got, okay?
 30	message	Aoi-chan...\nYeah. Okay!
-31	message	It's okay—Kurumi-san, Tesla-san,\nand Nine-san are all strong.\nYou know that, right?
+31	message	It's okay-Kurumi-san, Tesla-san,\nand Nine-san are all strong.\nYou know that, right?
 32	message	//Louise arrives.
 33	message	You guys are still hanging around here?\nThings are getting pretty lively back in the classroom, y'know.
 34	message	Huh? What happened?
@@ -53,7 +53,7 @@ row	column	english
 56	message	Kurumi-chan, report the situation.
 57	message	I was tailing Tesla and Nine,\nwatching to make sure they wouldn't betray us.
 58	message	The two of them made contact with people from\nBlack Fund HQ, and they seemed to be tracking down\nthe whereabouts of the Angel's Tears.
-59	message	But apparently Kei's spies had already\ninfiltrated Black Fund HQ,\nand they walked into an ambush—right now they're on the run!
+59	message	But apparently Kei's spies had already\ninfiltrated Black Fund HQ,\nand they walked into an ambush-right now they're on the run!
 60	message	So those guys do more than\njust brute force, huh!
 61	message	I tried to fight too, but there were\ntoo many enemies... and just when things got dicey,\na girl named Reki saved me.
 62	message	Reki?
@@ -65,7 +65,7 @@ row	column	english
 68	message	Of course!\nTwin Angel, move out!
 69	message	Tesla-san, Nine-san,\nplease be safe...!
 70	message	//Battle map: city, daytime\n//Player starting units: Tesla and Nine only
-71	message	To think enemy spies had infiltrated—\nthe Black Fund's security is\nlaxer than I thought...!
+71	message	To think enemy spies had infiltrated-\nthe Black Fund's security is\nlaxer than I thought...!
 72	message	//Grunt enemies appear in droves, chasing Tesla and the others.
 73	message	Sis...
 74	message	Losing them will be tough.\nLet's turn and face them here!
@@ -155,7 +155,7 @@ row	column	english
 168	message	//Black Louise's magic surges.
 169	message	Bad! I feel her power rising!
 170	message	Her emotions are surging and driving her magic higher!
-171	message	She... cares that much about this Gandalfr guy?\nGandalfr, Gandalfr—\nwhat even IS he?!
+171	message	She... cares that much about this Gandalfr guy?\nGandalfr, Gandalfr-\nwhat even IS he?!
 172	message	Shut up! Dieeee!!
 173	message	//Battle resumes.\n//Talk event when Black Louise and Louise engage.
 174	message	Louise! If only you die,\nGandalfr will surely appear!
@@ -187,7 +187,7 @@ row	column	english
 201	message	How do you even arrive\nat that interpretation?!
 202	message	Honestly, this is why Haruka is...\nso exhausting!
 203	message	But thank you.\nWe were saved thanks to you, Hazuki-san.
-204	message	Wh— no, that's not it!\nI was surrounded by enemies too, in real danger...\nwho knows what would've happened without Reki...
+204	message	Wh- no, that's not it!\nI was surrounded by enemies too, in real danger...\nwho knows what would've happened without Reki...
 205	message	...
 206	message	I'd asked Reki-san for backup\njust in case.
 207	message	To think you knew each other. Surprising.
@@ -220,7 +220,7 @@ row	column	english
 234	message	...This one's a good kid.
 235	message	...Yes.
 236	message	//Event CG off.
-237	message	Anyway, about what comes next—\nTesla, any leads on\nthe Angel's Tears' location?
+237	message	Anyway, about what comes next-\nTesla, any leads on\nthe Angel's Tears' location?
 238	message	Yes. The Angel's Tears are almost certainly\nhidden somewhere inside\nBlack Fund HQ.
 239	message	Think we can get our hands on it?
 240	message	It won't be easy.\nBesides, the moment Kei learns its location,\nshe can activate Gustav right away.

@@ -8,19 +8,19 @@ row	column	english
 9	message	Tesla, Nine,\nplease explain the situation again.
 10	message	Yes. Kei is after\nthe activation device for the satellite cannon Gustav,\nlocated in the Black Fund headquarters building.
 11	message	Is this Gustav thing\nready to fire right away?
-12	message	No—the Angel's Tear we sent to the Black Trader\nis hidden somewhere, and without it,\nit can't be activated.
+12	message	No-the Angel's Tear we sent to the Black Trader\nis hidden somewhere, and without it,\nit can't be activated.
 13	message	Good, then we can relax a little.
 14	message	What are you saying!\nIf Kei gets the Angel's Tear,\nit's all over!
 15	message	So, what should we do?
-16	message	About that—we'd like to neutralize Gustav\nby getting the Angel's Tear ourselves,\nif possible.
+16	message	About that-we'd like to neutralize Gustav\nby getting the Angel's Tear ourselves,\nif possible.
 17	message	Why not go smash the activation device, nyo?
 18	message	The Black Fund HQ building has a heavy defense system,\nso attacking it\nwould be high-risk.
 19	message	Is that so? With my and Tsubasa-san's destructive power,\none building's no big deal, though?
-20	message	If we stand out, Mii or Kei might show up.\nThen we'd be surrounded by enemies—\nthat could get bad.
+20	message	If we stand out, Mii or Kei might show up.\nThen we'd be surrounded by enemies-\nthat could get bad.
 21	message	Then, where is the Angel's Tear?
-22	message	We'll have to investigate that.\nFather—the Black Trader—\nmust have hidden it somewhere.
+22	message	We'll have to investigate that.\nFather-the Black Trader-\nmust have hidden it somewhere.
 23	message	That's... for us to search for...
-24	message	Hold on—doesn't that mean\nthere's nothing for us to do?
+24	message	Hold on-doesn't that mean\nthere's nothing for us to do?
 25	message	Exactly.\nI can't agree to this plan!\nIt could still be a trap...
 26	message	No! If we can't get\nthe Angel's Tear,\nthen we'll need your strength!
 27	message	What proof do you have?\nYou think that'll make us believe you?
@@ -44,7 +44,7 @@ row	column	english
 45	message	Something's flying this way?\nEveryone! Stay alert!
 46	message	//SE: explosion sound.
 47	message	What was that, nyo!?
-48	message	Haruka-chan, Aoi-chan, Kurumi-chan—\nhurry and go Twin Angel!
+48	message	Haruka-chan, Aoi-chan, Kurumi-chan-\nhurry and go Twin Angel!
 52	message	Yes!
 53	message	//Haruka, Aoi, and Kurumi run offscreen.
 54	message	Tsubasa-san... please!\nWe'll head out to intercept first!
@@ -56,7 +56,7 @@ row	column	english
 60	message	It's that one!\nIt sniffed us out already!
 61	message	But that may be proof the situation isn't bad.\nIf the Angel's Tear had been stolen,\nthey wouldn't come here...!
 62	message	Still... safe...
-63	message	Guess we're lucky—\nexcept for the part where we have to fight that thing!
+63	message	Guess we're lucky-\nexcept for the part where we have to fight that thing!
 64	message	Fear nothing!\nI, the Sakimori's sword, shall protect this world!
 65	message	//Tsubasa transformation scene.\n//Tsubasa appears on the map.
 66	message	Kei! I'll be your opponent!!
@@ -188,7 +188,7 @@ row	column	english
 197	message	It's not Onee-sama's fault!\nI'm not trying to blame\nanyone...
 198	message	Sorry, Kurumi-chan...
 199	message	The Amanotsukai aren't just allies of justice!\nWe protect power strong enough to destroy the world\nso it can't be misused!
-200	message	We have to fulfill our duty even at the cost of our lives!\nAnd yet we're trusting those thieves and waiting—\nthat's unforgivable!
+200	message	We have to fulfill our duty even at the cost of our lives!\nAnd yet we're trusting those thieves and waiting-\nthat's unforgivable!
 201	message	But I think it's better to leave it\nto Tesla-san and Nine-san\nthan for us to bumble around right now.
 202	message	Yeah... I think so too.
 203	message	...Fine.\nBut I...!

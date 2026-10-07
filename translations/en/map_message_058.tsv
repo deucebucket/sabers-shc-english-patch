@@ -21,7 +21,7 @@ row	column	english
 22	message	Always be aware of each other's positions,\nand don't spread out too far so you can back each other up.\nThat'll make it hard for them to attack too.
 23	message	I'll handle support with Laura-san.
 24	message	I'll force them to dodge with gunfire,\nthen press the attack to create openings.
-25	message	I'll do suppression with my many weapons\nand defense with my shield—\noffense and defense support.
+25	message	I'll do suppression with my many weapons\nand defense with my shield-\noffense and defense support.
 26	message	Plus skirmishing.\nWith your dexterity, you'll be fine, right?
 27	message	Yeah, leave it to me!
 28	message	And those of us without IS units\nwill mop up the non-IS enemies.\nWe won't let them get in your way!
@@ -42,7 +42,7 @@ row	column	english
 43	message	Stop it, don't tease me!
 44	message	Hibiki-chan's influence, maybe?
 45	message	That... I can't deny...
-46	message	Then, morale's high—\nlet's move out!
+46	message	Then, morale's high-\nlet's move out!
 47	message	Yeah!
 48	message	//Battle map: forest.\n//The grouped-up Black IS and grunts.
 49	message	...
@@ -164,11 +164,11 @@ row	column	english
 170	message	Shh, Shirayuki-san, who's been nursing me all this time,\nis finally asleep from exhaustion.\nLet's be quiet so we don't wake her, okay?
 172	message	Thank goodness...\nI was so afraid you'd never wake up again...\nI...!
 173	message	Sorry for worrying you.
-174	message	Actually, my body isn't normal—\nI'm a fusion with relic fragments inside me,\nso I heal really fast.
+174	message	Actually, my body isn't normal-\nI'm a fusion with relic fragments inside me,\nso I heal really fast.
 175	message	I don't think I'm immortal or anything,\nb-but I'll be fine if I try hard.\nEhehe...
-176	message	Nobody told me that!\nNo—even if your body's tough,\nthat recklessness is not okay!!
+176	message	Nobody told me that!\nNo-even if your body's tough,\nthat recklessness is not okay!!
 177	message	Houki-chan...
-178	message	No—I know I'm the one\nwho was reckless and caused trouble!\nIt's all my fault! I'm sorry!!
+178	message	No-I know I'm the one\nwho was reckless and caused trouble!\nIt's all my fault! I'm sorry!!
 179	message	...Then, can I ask\njust one thing?
 180	message	What is it? Ask me anything!\nI'll do whatever it is!
 181	message	Really?\nThen let's eat rice balls together!
@@ -176,7 +176,7 @@ row	column	english
 183	message	Yeah! Here, pickled-plum rice ball.
 184	message	...I always seem to be receiving from you, Hibiki.
 185	message	That's not true!\nI've gotten plenty\nfrom you too!
-186	message	When I went to save you, Houki-chan,\nI was desperate—I was probably giving it my all.
+186	message	When I went to save you, Houki-chan,\nI was desperate-I was probably giving it my all.
 187	message	"Mastering power" is hard,\nbut in that moment, I felt like I did it.\nI think that's why I healed so fast.
 188	message	So that's how you were saved...
 189	message	...Probably!
@@ -209,7 +209,7 @@ row	column	english
 216	message	Yes, that's it!\nNow listen carefully.\nIs my treasure's location... here?
 217	message	Gal-games would be\nat a game shop, I think~?
 218	message	(Since the game was a lie,\nthe game-shop answer is a lie too.\nAnd the treasure isn't here right now.)
-219	message	I see! Quite right!\nAnd that game shop—\nis it in this world?
+219	message	I see! Quite right!\nAnd that game shop-\nis it in this world?
 220	message	Game shops are everywhere~!
 221	message	(A lie. Which means the place\nwhere my treasure is must be in this world...!)
 222	message	Haha, you got me there!\nI concede, I surrender.\nWell then, excuse me.
