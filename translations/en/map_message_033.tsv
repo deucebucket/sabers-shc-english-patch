@@ -2,7 +2,7 @@ row	column	english
 3	message	Almost to St. Mont Blanc Academy!
 4	message	Come to think of it, what's that school like?\nI feel like someone said all the students\ncan fight or something.
 5	message	St. Mont Blanc Academy has lots of departments,\nand most of them are 'Magical~' departments\nwith combat techniques attached.
-6	message	Cooking, sewing, math, music, and so on—\nin ancient times, all of them were techniques\nborn from the struggles of living things, but
+6	message	Cooking, sewing, math, music, and so on-\nin ancient times, all of them were techniques\nborn from the struggles of living things, but
 7	message	as the ages grew peaceful and\nthe need for combat faded,\nthey were absorbed into wholesome culture.
 8	message	Like how the javelin throw went from\na combat technique to a sport?
 9	message	Exactly. For example, in the Magical Patissier department,\nthey focus on making sweets, while also researching\ntechniques that apply those cooking skills to combat.
@@ -11,7 +11,7 @@ row	column	english
 12	message	Almost to St. Mont Blanc Academy!
 13	message	Come to think of it, what's that school like?\nI feel like I heard all the students\ncan fight or something.
 14	message	At St. Mont Blanc Academy, starting with\nthe Magical Magician department I'm in,\ncombat techniques are required.
-15	message	Cooking, sewing, math, music—\nwhen they were invented way back,\nthey were all techniques related to fighting, apparently.
+15	message	Cooking, sewing, math, music-\nwhen they were invented way back,\nthey were all techniques related to fighting, apparently.
 16	message	Then peaceful times came,\nthe combat-related parts got shaved off,\nand they became safe, I think?
 17	message	Like how the javelin throw went from\na combat technique to a sport?
 18	message	My Magical Magician stuff is a fusion of\nsorcery and stage magic, but from a certain period\nit developed as a combat technique, apparently.
@@ -30,14 +30,14 @@ row	column	english
 32	message	'-chan'?
 33	message	[MERU] always said to put '-chan' on slime,\nso it just slipped out.
 34	message	They're not uncuttable?\nThen there's no problem!
-35	message	//Battle start\n//Enemy reinforcements on turn 2 — in nasty spots
-36	message	The hidden ones came out!?\nCheeky things—they've got intelligence?
+35	message	//Battle start\n//Enemy reinforcements on turn 2 - in nasty spots
+36	message	The hidden ones came out!?\nCheeky things-they've got intelligence?
 37	message	This many is nothing to worry about!
-38	message	//Enemy reinforcements on turn 3 — in nasty spots
+38	message	//Enemy reinforcements on turn 3 - in nasty spots
 39	message	More were hiding!?\nWas I wrong to think their intelligence low!
 40	message	Something's off… this placement…\nIt's like a human planned it.
 41	message	Everyone, don't think this is the end!\nThere's probably more coming!
-42	message	//Enemy reinforcements on turn 4 — in nasty spots
+42	message	//Enemy reinforcements on turn 4 - in nasty spots
 43	message	They were THERE too!?
 44	message	They keep popping up exactly\nwhere we don't want them to!?
 45	message	What is this!? It's practically a trap!
@@ -64,7 +64,7 @@ row	column	english
 67	message	At this rate you'd be in remedial combat practice, y'know?\nBut I'll do you a little favor today!
 68	message	Kyapiin☆
 69	message	//Several grunts on the map explode (vanish)
-70	message	Wh—!? What was that…!?\nWhat did she do!? Tsubasa, did you see?
+70	message	Wh-!? What was that…!?\nWhat did she do!? Tsubasa, did you see?
 71	message	No, I couldn't confirm anything like an attack motion.\nIs it something magical…?
 72	message	At the very least, all I can say is it's\nsomething different from the magic I know…
 73	message	One more! Kirakira-riin☆
@@ -74,13 +74,13 @@ row	column	english
 77	message	See? She's suuuper strong, right?
 78	message	Makes me want to rethink the concept of strength…
 79	message	Now let's clean up quick!\nKurin kurin kurin kurin♪
-80	message	(Slightly—no, quite outdated…)
+80	message	(Slightly-no, quite outdated…)
 81	message	//Battle resumes\n//Event at the start of the next turn\n//Eve spots Jeanne and leaves
 82	message	Umm, right there! Dacchuuno☆
 83	message	//The spot where Jeanne is hiding explodes. Jeanne appears
-84	message	Wh—!?
+84	message	Wh-!?
 85	message	That's Jeanne…!?
-86	message	Thought you'd erased your presence completely?\nToo bad—Jeanne-woo, totally exposed!\nJust kidding!
+86	message	Thought you'd erased your presence completely?\nToo bad-Jeanne-woo, totally exposed!\nJust kidding!
 87	message	Impossible…
 88	message	Her speech is past its expiration date,\nbut her ability is inhuman…
 89	message	Well, clean that up for me, okay.\nByebyee☆
@@ -101,8 +101,8 @@ row	column	english
 105	message	//Eve suddenly appears behind Aria
 106	message	That's right! That's right!\nIt's bull-chop sauce!
 108	message	Hah!?
-109	message	When did you—!?
-110	message	//Event art: the master appears — 'wakannai'
+109	message	When did you-!?
+110	message	//Event art: the master appears - 'wakannai'
 111	message	Hmm, Eve-chan just doesn't knooow☆
 112	message	…
 113	message	But I'm cute, so forgive me☆
@@ -125,7 +125,7 @@ row	column	english
 130	message	Are you messing with me!!
 131	message	Calm down!\nWe won't get anywhere at this rate!
 132	message	Eve, tell us what you know so far.\nWe all need it.
-133	message	Trueee, well then,\nseeing is believing—I'll show you.
+133	message	Trueee, well then,\nseeing is believing-I'll show you.
 134	message	//Fade to black\n//Background: the place where we first met in map 1
 135	message	This is where we were flung\nto Tsubasa's world.
 136	message	Isn't this the place where we\nmoved to Tsubasa's world?
@@ -138,7 +138,7 @@ row	column	english
 143	message	Forget the name, explain what it is!
 144	message	From what I've looked into,\nthis little guy seems to be what's causing\nthe light-and-travel phenomenon.
 145	message	This little guy?
-146	message	It's shy, I guess—\nnormally it hides so nobody\nnotices it.
+146	message	It's shy, I guess-\nnormally it hides so nobody\nnotices it.
 147	message	Can't see it, can't touch it,\nno way to notice it.\nIt'd be the best at hide-and-seek☆
 148	message	What's the principle? Magic?\nOr…
 149	message	Dunnooo☆
@@ -148,7 +148,7 @@ row	column	english
 153	message	I don't know the cause, but\nthe Polyals seem to be\ngoing out of control.
 154	message	Out of control?
 155	message	Yeah. Ever been suddenly lit up and flung away?\nThat seems different from its original function.
-156	message	Same deal—I just happened to discover\na Polyal that was visible by chance.\nSo it really was an accident.
+156	message	Same deal-I just happened to discover\na Polyal that was visible by chance.\nSo it really was an accident.
 157	message	You say out of control,\nbut what is its true ability?
 158	message	Polyals have something like a will.\nThey emit faint waves\nthat react to human brainwaves.
 159	message	So they're alive?
@@ -175,7 +175,7 @@ row	column	english
 180	message	(I'll let this one slide, nyo.\nFirst I'll make it look like I held back,\nthen next time! Next time's the real gamble, nyo… gufufu)
 181	message	Then let's go to IS Academy.
 182	message	You're coming too?
-183	message	Things'll go smoother with everyone around.\nSo—Polyal, please!
+183	message	Things'll go smoother with everyone around.\nSo-Polyal, please!
 184	message	//Light emanates from the stone (Polyal)
 185	message	I-it's glowing…! Wah!
 186	message	If it succeeds, it'll be great progress!

@@ -4,7 +4,7 @@ row	column	english
 5	message	I'll keep researching the Polyals,\nso if I learn anything else\nI'll let you know!
 6	message	Uwah! The teacher really is\namazing, as always!
 7	message	If she fully figures it out,\nshe'll earn another doctorate!
-8	message	Suzu, Houki, Charlotte—\nwe shall go make our report.
+8	message	Suzu, Houki, Charlotte-\nwe shall go make our report.
 9	message	Right. Gotta properly report\nthat Cecilia caught a cold too!
 10	message	Suzu!? Who told you that!?
 11	message	Who knows~?
@@ -35,7 +35,7 @@ row	column	english
 39	message	(You don't understand… there are few gentlemanly acts\nmore wonderful than gazing at cute girls eating sweets, you know?)
 40	message	(Is that what a gentleman is…?)
 43	message	For now, assuming the Polyal is old,\nthe question is what it was made for.
-44	message	You'd have to ask whoever made it—\ndunnooo☆
+44	message	You'd have to ask whoever made it-\ndunnooo☆
 45	message	Investigating and figuring that out is archaeology!\nDo something about it!
 46	message	Yeees. Ganbarunba!
 47	message	Ugh, she's throwing me off…
@@ -43,13 +43,13 @@ row	column	english
 49	message	Sounds like a real tough discussion!\nLet me in on it!
 50	message	Too hard for an idiot.
 51	message	I'm not an idiot!\nTo become an IS national representative candidate\nI had to study like crazy!
-52	message	IS Academy classes aren't just general subjects—\nthere are IS piloting classes too,\nand those textbooks are way thicker.
+52	message	IS Academy classes aren't just general subjects-\nthere are IS piloting classes too,\nand those textbooks are way thicker.
 54	message	I'd love to know what kind of studying you do.
 55	message	M-me too…
 56	message	What's with this honor-student aura, nyo…
 58	message	We've been ordered to continue\noperating alongside you.\nI don't quite understand the thinking behind it.
 59	message	Probably the goal is IS deployment in other worlds\nand collecting data on it.
-60	message	Not just the units' combat data—\nwe can gather environmental data from each world too,\nso it's useful in all kinds of ways.
+60	message	Not just the units' combat data-\nwe can gather environmental data from each world too,\nso it's useful in all kinds of ways.
 61	message	Come to think of it, where's Cecilia?\nShe doesn't seem to be here.
 62	message	Cecilia skipped off back to her room.
 63	message	Ah, I see.
@@ -62,7 +62,7 @@ row	column	english
 71	message	…Understood.\nYou want results, right?\nFine, ending transmission!
 72	message	//SE: comms click off
 73	message	'To show off Schwarzer Regen's combat power\nto the world, produce clearer results,' they say?
-74	message	Those idiots in high command—they deploy me\nto another world and complain about results!
+74	message	Those idiots in high command-they deploy me\nto another world and complain about results!
 75	message	Hmph, clear results, is it?\nFine, I'll give them that…!
 76	message	//Fade to black\n//IS Academy classroom\n//Alarm blaring
 77	message	What's happening!?
@@ -74,7 +74,7 @@ row	column	english
 83	message	Wait, someone's already in the arena!
 84	message	What!?
 85	message	//Battle map: IS Academy arena\n//Laura and grunts deployed
-86	message	Clear results—\nthen crushing the IS units is fastest.\nCome out!!
+86	message	Clear results-\nthen crushing the IS units is fastest.\nCome out!!
 87	message	Sorry to keep you waiting.
 88	message	Fighting in a place like this…!!
 89	message	Hm?
@@ -84,13 +84,13 @@ row	column	english
 96	message	Laura, this is IS Academy!\nWhy are you trying to fight IS against IS!
 97	message	Are you saying Symphogears\ndon't fight each other?
 98	message	That's…!
-99	message	I know you fought Ichival—\nYukine Chris.
+99	message	I know you fought Ichival-\nYukine Chris.
 100	message	…!!
 101	message	Any trifling reason to fight will do.\nAs long as I can display my power and test my strength.
 102	message	No!
 103	message	Then show us.\nThis power of yours!
 104	message	No need to tell me.\nI came ready for that today.
-105	message	I'll show you the real Schwarzer Regen—\nnot like the boring data-gathering until now!
+105	message	I'll show you the real Schwarzer Regen-\nnot like the boring data-gathering until now!
 106	message	Tsubasa…!
 107	message	I know.\nShe's not someone we should destroy.
 108	message	Yes!
@@ -101,7 +101,7 @@ row	column	english
 113	message	A guardian's instincts, I suppose.
 114	message	Seeing through an IS's stealth mode on instinct!?\nHow does that even work!?
 115	message	So you've come out, my prey.\nI'll dispose of you along with these samurai.
-116	message	I'm no samurai—I'm a sword!
+116	message	I'm no samurai-I'm a sword!
 117	message	//Event on defeating Laura
 118	message	Ugh…! Losing!?\nAm I losing… here…!?
 119	message	…The match is decided.
@@ -132,9 +132,9 @@ row	column	english
 146	message	Tachibana! Lend me your strength!\nWith your hands and my sword!!
 147	message	With the burning feelings in my heart!!
 148	message	Haaaaaaaaaaaaaaaaah!!
-149	message	//The VT System's black form is cut in two, with flash-like effects and slashing sounds.\n//Then whiteout.\n//Background black — expressing Laura's mental world.
-152	message	…May I ask one thing?\nBehind your power, behind your battles—what is there?
-153	message	Behind? A foolish question.\nPower is me itself, battle is proof of existence—\nI care nothing for what's behind!
+149	message	//The VT System's black form is cut in two, with flash-like effects and slashing sounds.\n//Then whiteout.\n//Background black - expressing Laura's mental world.
+152	message	…May I ask one thing?\nBehind your power, behind your battles-what is there?
+153	message	Behind? A foolish question.\nPower is me itself, battle is proof of existence-\nI care nothing for what's behind!
 154	message	I see… then all the more reason…\nI can't lose to a half-baked warrior.
 155	message	I… half-baked…?
 156	message	I was once the same…\nNo matter how you polish the blade,\na heartless sword can protect nothing…!
@@ -146,7 +146,7 @@ row	column	english
 162	message	Are you okay?\nDoes anything hurt, or feel sick?
 163	message	You… what are you?
 164	message	I'm Tachibana Hibiki, 15 years old,\nbirthday September 13th, blood type O!
-165	message	My height at the last school checkup was\n157 cm—my weight I'll tell you once\nwe're better friends!
+165	message	My height at the last school checkup was\n157 cm-my weight I'll tell you once\nwe're better friends!
 166	message	My hobby is helping people, and I love\nrice & rice! Also, my record of never having a boyfriend\nequals my age! Um, what about you, Laura?
 167	message	…???
 168	message	This is the human called Tachibana.\nWhat kind of human are you?
@@ -181,7 +181,7 @@ row	column	english
 199	message	Hauu!! Can Rena take her home? Huh? Huh?
 200	message	Ehehe… may I also volunteer\nto be a friend?
 201	message	Wh-what ARE you people…???
-202	message	Let me warn you—they're a tough bunch.\nAstonishingly so.
+202	message	Let me warn you-they're a tough bunch.\nAstonishingly so.
 203	message	Don't you mean persistent?
 204	message	No, 'a pain' is the correct word!
 205	message	For all that talk, you two\nlike them well enough, right?
@@ -189,13 +189,13 @@ row	column	english
 210	message	//Fade to black\n//Background: IS Academy classroom
 211	message	Heh, so you transferred to IS Academy?
 212	message	State power doesn't reach this school's students.\nIt's convenient in many ways.
-213	message	That black monstrous form was\nthe 'Valkyrie Trace System'—\nsomething banned by the IS Treaty.
+213	message	That black monstrous form was\nthe 'Valkyrie Trace System'-\nsomething banned by the IS Treaty.
 214	message	It seems the German military\nplanned this incident as a Valkyrie Trace System\nexperiment from the start.
 215	message	IS Academy will also report the German military\nand the related developers for treaty violation,\nand seek the Committee's investigation.
 216	message	I'll also report the military and the companies through IS Academy.\nI'll make the bastards who fooled me pay…!!
 217	message	This treaty violation, in Europe that's already in turmoil,\nwill draw harsh condemnation.
 218	message	Will Charlotte and Laura be able\nto go back to their countries properly?
-219	message	It'll be what it'll be.\nAt least we can stay at IS Academy for two and a half years—\nlet's hope things change.
+219	message	It'll be what it'll be.\nAt least we can stay at IS Academy for two and a half years-\nlet's hope things change.
 220	message	Good, you'll be okay for a while!
 221	message	Right, Hibiki… come here.
 222	message	Yes, what is it?
@@ -207,9 +207,9 @@ row	column	english
 230	message	Didn't you say your record of never having a boyfriend\nequals your age?
 231	message	But Laura, you're a girl…
 232	message	You don't have a girlfriend either, right?
-233	message	I don't have a girlfri—… well, hmm…
+233	message	I don't have a girlfri-… well, hmm…
 234	message	So you DO!
-235	message	No no! More than a girlfriend—\nmy precious childhood friend… yes.
+235	message	No no! More than a girlfriend-\nmy precious childhood friend… yes.
 236	message	Guh…!
 237	message	//Laura runs out
 238	message	Laura! Sh-she left…
@@ -223,7 +223,7 @@ row	column	english
 246	message	Captain Laura Bodewig, has some problem arisen?
 247	message	An unexpected enemy has appeared!\nType: childhood friend! Requesting urgent countermeasures!
 248	message	Childhood friend…? Captain, childhood friends are formidable foes!\nBut childhood friends have one absolute weakness…
-249	message	Really!?\nAs expected of our Japan expert—I'm counting on you!\nHmm… hmm?
+249	message	Really!?\nAs expected of our Japan expert-I'm counting on you!\nHmm… hmm?
 250	message	//Aria and Louise pass by.
 251	message	What is that?
 252	message	Dunno…?

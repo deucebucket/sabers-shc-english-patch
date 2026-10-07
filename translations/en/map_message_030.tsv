@@ -29,7 +29,7 @@ row	column	english
 31	message	Stairs to the 5th floor... I see,\nlet's proceed carefully!
 32	message	I agree with Blue Angel-san-uu!\nWe don't know what's up there-uu.
 33	message	I feel like charging right through\nis better for stuff like this, though.
-34	message	Stairs are tou— uh, I mean, I'd feel bad\ntrashing the store too much!
+34	message	Stairs are tou- uh, I mean, I'd feel bad\ntrashing the store too much!
 35	message	If they tell us to pay for damages,\nthat'd be bad...\nbut it can't be helped.
 36	message	[Battle ends /]
 38	message	Lots on this floor too!
@@ -44,7 +44,7 @@ row	column	english
 47	message	[Battle ends / can save]
 49	message	3rd floor, we're halfway.
 50	message	I'm still full of energy!
-51	message	No letting our guard down — steadily!
+51	message	No letting our guard down - steadily!
 52	message	[Battle starts / event when reaching the escalator (stairs?) on the floor]
 53	message	We go up to the next floor from here.
 54	message	Is someone on the top floor...!\nThen we have to hurry and help!
@@ -69,7 +69,7 @@ row	column	english
 76	message	You, nyo!!\nThe monitors on every floor showed you going wild, nyo!
 77	message	Ara, you were watching...
 78	message	Oh? Aren't you the one who\nran away from the battle outside...?
-79	message	Gamers clerk —\nbut my true identity is the ruler of Akihabara,\nDejiko, nyo!
+79	message	Gamers clerk -\nbut my true identity is the ruler of Akihabara,\nDejiko, nyo!
 80	message	Outlaws who trample into sacred Gamers with shoes on\nand ravage Akihabara!\nWill be punished by Dejiko-sama, nyo!!
 81	message	Um... I thought it was fine to wear shoes\ninside Gamers...?
 82	message	You there! No nitpicking, nyo!
@@ -148,7 +148,7 @@ row	column	english
 156	message	Of course, with Siesta's skill.
 157	message	Beautiful conduct alone\ncan move people.
 158	message	She's like a teacher from Saint Mont Blanc Academy's\nMagical Maid Department-uu
-159	message	Why not take an apprentice and raise one?\nA single successor — a legendary maid!\nHow cool would that be? Ahaha
+159	message	Why not take an apprentice and raise one?\nA single successor - a legendary maid!\nHow cool would that be? Ahaha
 160	message	Feels like the wrong way to use a maid café,\nnyo...\nbut if she's satisfied, fine, nyo.
 161	message	Gonna hit the bathroom, nyu.
 162	message	[Puchiko leaves]
@@ -194,5 +194,4 @@ row	column	english
 202	message	Then there's the device that turns you into a creepy snail,\nthe device that prays you win doujin event lotteries,\nthe alarm that rings when you doze off... don't need it!
 203	message	And a device that tells you when you accidentally buy\na doujinshi you already own,\nand a device that turns you into low-poly CG, apparently.
 204	message	No idea what any of this is good for... hmm?\nWhat's this little one...?
-205	message	A lie detector, it says.\nHuh, smaller than a lighter —\nthis could be useful for something!
-206	message	[END]
+205	message	A lie detector, it says.\nHuh, smaller than a lighter -\nthis could be useful for something!

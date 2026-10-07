@@ -10,7 +10,7 @@ row	column	english
 11	message	What?
 12	message	Get down!!
 13	message	Huh? Wah!
-14	message	[SE: impact sound — Laura's bombardment]
+14	message	[SE: impact sound - Laura's bombardment]
 15	message	That was close... what was that!?
 16	message	...Hoh, you noticed well.\nYou dodged a direct hit, at least.
 17	message	It's you!! Where did you come from-uu!?
@@ -27,7 +27,7 @@ row	column	english
 28	message	You think people from another world will honor a treaty?\nThat's what it means.
 29	message	What Yukine Chris said\nis happening in Europe...
 30	message	This looks worse than I imagined.
-31	message	Understood? Then fight.\nFight in every situation, against every opponent, and gain data.\nThat is what you need to gain power — to gain victory!
+31	message	Understood? Then fight.\nFight in every situation, against every opponent, and gain data.\nThat is what you need to gain power - to gain victory!
 32	message	[Red Angel appears]
 33	message	That's wrong!\nBecause... Chris-chan was crying!
 34	message	In every age, those who cry are the powerless.\nIf you don't want to cry as a loser,\nbecome the winner through power. That is truth.
@@ -41,18 +41,18 @@ row	column	english
 42	message	I'll... do it too-uu!
 43	message	Sounds fun! All right, let's do this!
 44	message	E-everyone... I'd really rather solve this\nby talking... but if it's come to this!
-45	message	Hmph, you've gotten bold — you,\nwho survived thanks to Kazanari Tsubasa's sacrifice.
+45	message	Hmph, you've gotten bold - you,\nwho survived thanks to Kazanari Tsubasa's sacrifice.
 46	message	Fine, show me\nhow much you've grown!
 47	message	[Battle map / deploy allies and enemies]
 48	message	Koto-san, Shirayuki-san, be careful!\nSchwarzer Regen-san is strong-uu!
-49	message	That IS — that person\nmade Tsubasa-san use her trump card!\nEveryone, brace yourselves!
+49	message	That IS - that person\nmade Tsubasa-san use her trump card!\nEveryone, brace yourselves!
 50	message	Don't get wiped out too easily.\nUseless data is unneeded.
-51	message	[Battle starts — event triggers when Houki engages Laura]
+51	message	[Battle starts - event triggers when Houki engages Laura]
 52	message	I know the Uchigane's specs.\nThis must be its limit.
 53	message	This performance gap... a custom unit is too much...
 54	message	You took the field knowing that, no?\nShow me a little struggle.
 55	message	That was always my plan!
-56	message	[Battle resumes — event after reducing Laura's HP by a set amount or after set turns. / Charles appears]
+56	message	[Battle resumes - event after reducing Laura's HP by a set amount or after set turns. / Charles appears]
 57	message	I have the minimum data I need.\nTime I got serious too.
 58	message	She's got room to spare. Strong, no doubt!
 59	message	No openings... she's experienced in battle...!
@@ -76,7 +76,7 @@ row	column	english
 77	message	You think you can stop me\nwith a mere second-gen (Antique)?
 78	message	Yeah. It'll move better than a\nthird-gen (Rookie) with no mass-production\nin sight!
 79	message	Houki-chan, is that one an ally?
-80	message	She was supposed to transfer to IS Academy —\nthe French representative candidate,\nsame as Rin and Cecilia!
+80	message	She was supposed to transfer to IS Academy -\nthe French representative candidate,\nsame as Rin and Cecilia!
 81	message	What great timing!\nLike a wandering hero!
 82	message	A hero, huh.
 83	message	I'll handle the IS!\nEveryone else, support me!
@@ -91,7 +91,7 @@ row	column	english
 92	message	[Event when Laura's HP is reduced past a set amount]
 93	message	Grr, persistent!
 94	message	The more you seek, the farther; the closer to giving up,\nfeet called by that blue forget fatigue,\nand march toward a gentle brown death...
-95	message	Desert Mirage (Mirage de Désert) —\nI thought a confident girl like you would fall for it.
+95	message	Desert Mirage (Mirage de Désert) -\nI thought a confident girl like you would fall for it.
 96	message	Tch, just hit-and-away tactics!
 97	message	But what masterful distance control...!\nBaiting a strike, making evasion hesitate.\nThat's the essence of martial arts...
 98	message	Now, us too!!
@@ -99,13 +99,13 @@ row	column	english
 100	message	This is the crux!
 101	message	W-we might make it...?
 102	message	By things like this...!!
-103	message	[Battle resumes — event after Laura is defeated.]
+103	message	[Battle resumes - event after Laura is defeated.]
 104	message	Tch, this time I got combat data\non a mixed force of IS and others.\nThat'll suffice...
 105	message	You're still of use to me.\nDon't go dying easily...
 106	message	[Laura retreats. / Light envelops Laura; she moves to another world.]
 107	message	She vanished...?\nDoesn't look like\nshe used stealth mode...
 108	message	She probably withdrew to another world-uu.
-109	message	She escaped — or rather,\nI think she went to another world.
+109	message	She escaped - or rather,\nI think she went to another world.
 110	message	Another world???
 111	message	How about we save the details\nfor when things calm down a bit?
 112	message	Good idea.
@@ -116,7 +116,7 @@ row	column	english
 118	message	That black IS belongs to the German military, but\nthere's talk even among Europe's IS companies\nthat it's in league with a shady faction.
 119	message	Running into it here and learning\nit's doing treaty-violating research\nwas lucky.
 120	message	That was so cool!
-121	message	Float like a butterfly, sting like a bee —\nthat's what it was like!
+121	message	Float like a butterfly, sting like a bee -\nthat's what it was like!
 122	message	It's a tactic called Desert Mirage (Mirage de Désert). My IS is built\nto carry more weapons than a normal unit.
 123	message	It beats energy-weapon units and high-mobility types\nin number of attacks and sustained combat ability.
 124	message	You switched weapons fast too.
@@ -126,7 +126,7 @@ row	column	english
 128	message	Nobody said\nHouki-san was clumsy...
 129	message	I wish I'd seen it up close~.
 130	message	Anyway, you saved us. Thank you.
-131	message	You're Shinonono Houki-san.\nI checked IS Academy's data —\nyou're going to be my classmate.
+131	message	You're Shinonono Houki-san.\nI checked IS Academy's data -\nyou're going to be my classmate.
 132	message	IS Academy heard about your disappearance.\n...But wait!! You...!?
 133	message	Hm?
 134	message	The French representative candidate was supposed to be a boy!?\nYou're clearly a girl!!
@@ -149,13 +149,13 @@ row	column	english
 151	message	Since Charles is a boy's name,\ndon't you have a different real name?
 152	message	Yeah... Charlotte. That's my name.\nMy real name, given by my mother.
 153	message	Charlotte! What a cute name~!\nIt suits you better than Charles!
-154	message	Well of course —\nit IS a girl's name!
+154	message	Well of course -\nit IS a girl's name!
 155	message	Oh, right.\nSorry, Charl-chan.
 156	message	Charl-chan?
 157	message	Ehehe, is this nickname no good?
 158	message	I thought it'd keep me from getting confused\nand mixing up Charles and Charlotte.\nWhat do you think?
 159	message	Calling you 'Charl' works for both\nCharles and Charlotte. Haruka-san, nice idea!
-160	message	Charl. —Yeah! I like it!\nI really like it!
+160	message	Charl. -Yeah! I like it!\nI really like it!
 161	message	(Being called that makes me happy.\nI don't know why... ufufu)
 162	message	Then Charl-chan it is!!
 163	message	But why had you stopped cross-dressing?
@@ -185,4 +185,3 @@ row	column	english
 187	message	I wonder if everyone can gather up all right?
 188	message	I hope [MERU]-san and the teacher you're looking for\nhave been found too.
 189	message	Then let's return to where we arrived in this world.\n...If the usual method works.
-190	message	[END]
