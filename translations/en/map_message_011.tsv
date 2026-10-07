@@ -10,7 +10,7 @@ row	column	english
 11	message	Osu! Pleased to spar with you!
 12	message	You really want to spar without transforming?\nYou could power up, you know.
 13	message	It's fine! What I want you to teach me\nis strength itself!
-14	message	"Strength" — pretty abstract, don't you think.
+14	message	"Strength" - pretty abstract, don't you think.
 15	message	The thing is... right now\nI can't use my own power properly.
 16	message	What do you mean?
 17	message	I've always had a tendency to lose control,\nso I trained to get stronger\nin order to control my power.
@@ -21,8 +21,8 @@ row	column	english
 22	message	Let me say this first:\nthere are three phrases I hate.\n"I can't," "I'm tired," "what a pain"...
 23	message	Those three phrases hold back\nhuman potential all by themselves.\nNever say them in front of me. Got it?
 24	message	I promise!
-25	message	Okay — for the next 30 minutes,\nI'll keep attacking you nonstop.\nBlock or dodge.
-26	message	Huh? Not 3 minutes — 30 minutes!?
+25	message	Okay - for the next 30 minutes,\nI'll keep attacking you nonstop.\nBlock or dodge.
+26	message	Huh? Not 3 minutes - 30 minutes!?
 27	message	And... begin.
 28	message	//From flash, to black background.\n//SE: Striking sounds. Rapid smacks and thuds, finishing blows, gunshots too.
 30	message	Wowww...
@@ -44,13 +44,13 @@ row	column	english
 46	message	I have something to tell everyone.\nIs now a good time?
 47	message	Hello, Shirayuki.
 48	message	Did something happen?
-49	message	No — from now on, I'll be in charge of\nlooking after all of you,\nso I came to say so.
+49	message	No - from now on, I'll be in charge of\nlooking after all of you,\nso I came to say so.
 50	message	What about Aria? Is she quitting?
 51	message	Ms. Kanzaki is cooperating with the investigation of a major case,\nso she'll be away from Butei High for a while.
 52	message	Could she be chasing the Butei Killer overseas?
 53	message	No, she's been dispatched to investigate\na string of bizarre serial murders.
 54	message	A string of headless corpses of young girls\nhas been found, and at the police's request\nMs. Kanzaki is being dispatched.
-56	message	Wait — headless corpses!?
+56	message	Wait - headless corpses!?
 57	message	Let me help with that investigation too!\nThis sounds a lot like a case\nfrom my world!
 58	message	Um... I appreciate the thought, but\nthat's impossible.
 59	message	Why?
@@ -59,7 +59,7 @@ row	column	english
 62	message	Even Aria\nmight be in danger!
 63	message	I'm sorry... I can't change\nButei High's decision on my own.\nAll I can ask is your understanding...
 64	message	I see...
-65	message	//Fade to black — time passes
+65	message	//Fade to black - time passes
 66	message	Hmph, they said we'd get cooperation\nfrom Butei High...
 67	message	In the end they won't let us do anything.
 68	message	Then let's force our way through\nand go save Aria!
@@ -73,7 +73,7 @@ row	column	english
 76	message	See, Aria's been\nlooking for a partner all this time.
 77	message	A partner?
 78	message	Yeah. Aria's family has always had\nexcellent partners, generation after generation.
-79	message	But Aria never found one.\nA partner worthy of her strength —\nshe just hasn't discovered one yet.
+79	message	But Aria never found one.\nA partner worthy of her strength -\nshe just hasn't discovered one yet.
 80	message	So Aria decided.\nTo do everything alone.
 81	message	Alone... just like her name.
 82	message	Hm?? What does that mean?
@@ -97,13 +97,13 @@ row	column	english
 100	message	Tonight's prey is decided...
 101	message	I'm the prey?\nThen you're the Butei Killer!
 102	message	The Butei? I don't kill such trifles.\nI kill only beautiful things.
-103	message	So you want this neck of mine.\nToo bad — showing yourself to me\nwas your unlucky break!
+103	message	So you want this neck of mine.\nToo bad - showing yourself to me\nwas your unlucky break!
 104	message	Good... let me see that bold face\ntwist in terror, scream, and flee.\nIn your dreams...!
 106	message	Huh!? Dreams? That makes no sense!\nPrepare yourself, you pervy cape!!
 107	message	//Event CG off
 108	message	Fufufu...
 109	message	//SE: Gas hissing
-110	message	Wh—!? G-gas...!?
+110	message	Wh-!? G-gas...!?
 111	message	Good night, mademoiselle...
 112	message	Damn! My consciousness...
 113	message	//SE: Aria collapsing
@@ -114,11 +114,11 @@ row	column	english
 118	message	This is "Sudden Street-Sleeping Phenomenon"!\nWe've got to wake her up!
 119	message	With this alarm watch...!\nWake up! Aria!
 120	message	//SE: Alarm sound
-121	message	Ungh... wha—!? What? Where... where am I...?
+121	message	Ungh... wha-!? What? Where... where am I...?
 122	message	Aria! Thank goodness!
 123	message	//Dr. Shinigami appears.
 124	message	Fuh fuh fuh... so you've finally come...
-125	message	I knew it — this was your doing.\n...Dr. Shinigami!
+125	message	I knew it - this was your doing.\n...Dr. Shinigami!
 126	message	Long time no see, Dream Hunter Rem.\nI crawled back from the depths of hell\njust to see your face...
 127	message	Revived again!? You really never learn!
 128	message	Rem, what is this!?
@@ -148,7 +148,7 @@ row	column	english
 152	message	Riko...?
 153	message	Aren't you ashamed before\nyour ancestors, with deduction that dumb?\nRight, Holmes?
 154	message	Holmes? Who? Who is that?
-155	message	Hey, please — don't go losing\nto anyone but me, okay?\nThat'd be really inconvenient...
+155	message	Hey, please - don't go losing\nto anyone but me, okay?\nThat'd be really inconvenient...
 156	message	...What do you mean?
 157	message	You're a hopeless idiot.\nI came all the way here for you, so\nI'll introduce myself, since I have to.
 158	message	//[Event CG] Riko declares she is Lupin
@@ -179,9 +179,9 @@ row	column	english
 183	message	A Holmes with no partner\nisn't worth defeating... but then\nyou lot showed up.
 184	message	Not to brag, but\nI've outgrown this world,\ny'know.
 185	message	So Holmes's partner needs to be\nsomeone on my level, right?
-186	message	Your skills are iffy, but all of you together —\nyou qualify as Holmes's partner,\ndon't you?
+186	message	Your skills are iffy, but all of you together -\nyou qualify as Holmes's partner,\ndon't you?
 187	message	Don't go deciding things on your own!\nI don't need a partner!
-188	message	I've already decided!\nI'll go it alo—
+188	message	I've already decided!\nI'll go it alo-
 189	message	//SE: Violent thunder
 190	message	Eep!?
 191	message	Aria?\nCould it be the thunder...?
@@ -211,7 +211,7 @@ row	column	english
 217	message	This light is...!
 218	message	The same light as when we\nmoved to another world...?
 219	message	//■ Battle end\n//Background: City (night)
-220	message	Riko vanishing —\nwas that a coincidence, like with us...?
+220	message	Riko vanishing -\nwas that a coincidence, like with us...?
 221	message	No. She said "come chase me."\nSo we should assume this wasn't\nsome coincidence with an unknown destination.
 222	message	It stays a mystery...
 223	message	Sheesh, thanks to you lot\nthis got complicated.\nThis is why I say I'm better off alone.
@@ -229,7 +229,7 @@ row	column	english
 235	message	Shut up! It's decided!
 236	message	I-I want to be treated like a human again...
 237	message	Come to think of it, what IS "Holmes"?
-238	message	It's my middle name.\nHolmes is the French pronunciation —\nspelled H, O, L, M, E, S.
+238	message	It's my middle name.\nHolmes is the French pronunciation -\nspelled H, O, L, M, E, S.
 239	message	Kanzaki Holmes Aria.\nThat's my full name.
 240	message	Holmes? THE detective Holmes!?
 241	message	I know him too!\nWow, so he was a real person!!
@@ -253,7 +253,7 @@ row	column	english
 259	message	I didn't shoot!
 260	message	But I saw the muzzle flash...
 261	message	No, that's not it!!
-262	message	I wonder what this is — this timing\nis too good to be coincidence...
+262	message	I wonder what this is - this timing\nis too good to be coincidence...
 263	message	Where are we being sent?
 264	message	Huh!?
 265	message	//Enveloped in light, they move.\n//Background: Dokoka Town
@@ -274,7 +274,7 @@ row	column	english
 280	message	Huh? But I don't see Tsubasa?
 281	message	Tsubasa!? Tsubasa's here!?
 282	message	You're Tsubasa's partner?\nTsubasa is, um...
-283	message	//Fade to black — time passes
+283	message	//Fade to black - time passes
 284	message	Wh... Tsubasa used the Superb Song...?
 285	message	It was incredible power. But if Tsubasa\nhadn't done that, I don't know\nwhat would've become of us...
 286	message	Knowing Tsubasa,\nshe felt she had no choice.
@@ -284,13 +284,13 @@ row	column	english
 290	message	No, I'm still nowhere near good enough.\nI'm still learning from Aria.
 291	message	Hibiki, are these people acquaintances of yours?
 292	message	We should exchange a bit more\ninformation with each other.
-293	message	//Fade to black — time passes
+293	message	//Fade to black - time passes
 294	message	Wow! So Hibiki transforms\nlike Tsubasa?
 295	message	Yes! Did you hear Tsubasa's song?
 296	message	Yeah! It was sooo cool!!
 297	message	Ah, but...
-298	message	Um — Tsubasa will be fine, I'm sure!\nTsubasa fights ready to stake her life,\nbut she would never treat life lightly!
-299	message	I know that better than anyone —\nI've fought beside her!
+298	message	Um - Tsubasa will be fine, I'm sure!\nTsubasa fights ready to stake her life,\nbut she would never treat life lightly!
+299	message	I know that better than anyone -\nI've fought beside her!
 300	message	Hibiki...
 301	message	Only by trusting each other\nare you truly partners.
 302	message	Exactly!
@@ -310,7 +310,7 @@ row	column	english
 316	message	Oh, those two? They went off\nthat way, all lively and chatty!
 317	message	//Fade to black\n//Background: Forest
 318	message	Geez! I told you not to do anything reckless!\nWe should've just gone\nto Rem's office!
-319	message	Now you've dragged more people into this — even Tsubasa...
+319	message	Now you've dragged more people into this - even Tsubasa...
 320	message	Th-that's not true! Well, what about YOU then!
 321	message	I can guess well enough!
 322	message	You just charged in\non the spur of the moment\nand this is what happened, [NOEL]!
@@ -322,8 +322,8 @@ row	column	english
 328	message	We've got to get back to our own world\nbefore we can even search for the teacher!
 329	message	Did it ever occur to you\nthat the teacher might have gone to another world too?
 330	message	Oh...
-331	message	I knew it —\n[NOEL]'s an idiot!!
-332	message	Then let me ask —\ndid YOU search properly?\nDid you find any leads?
+331	message	I knew it -\n[NOEL]'s an idiot!!
+332	message	Then let me ask -\ndid YOU search properly?\nDid you find any leads?
 333	message	W-well, no, but, but...
 334	message	Do you even have proof the teacher's in another world?\nShouldn't getting back to our world come first?
 335	message	That doesn't mean it's okay that you\nforgot to search for the teacher!!
@@ -342,7 +342,7 @@ row	column	english
 348	message	It's almost mealtime, so she'll\ncome right back anyway.
 349	message	//Background: Dokoka Town\n//Polial (stone) is present.
 350	message	Hesitation means defeat! Here I gooo!!
-351	message	//Light flares and [NOEL] vanishes.\n//Fade to black\n//Background: Dokoka Town — shop
+351	message	//Light flares and [NOEL] vanishes.\n//Fade to black\n//Background: Dokoka Town - shop
 352	message	No way! [NOEL]!?
 353	message	Yup! She's gone!\nShe's not in this town anymore!
 354	message	Geez! You're not sorry at all!!
@@ -359,13 +359,13 @@ row	column	english
 365	message	Aria's right.\nWe don't need to worry\nabout [NOEL].
 366	message	Aren't you worried, [MERU]?
 367	message	I'd be lying if I said I wasn't worried.\nBut if I keep spoiling her,\nshe'll never grow.
-368	message	So that's your kind of trust —\nthat [MERU] will\nbe fine alone.
+368	message	So that's your kind of trust -\nthat [MERU] will\nbe fine alone.
 369	message	She's a kid at heart,\nbut [NOEL]'s techniques\nare strong.
 370	message	Th-this is a new development!\nWhen those two meet again,\nwhat on earth will happen...!
 371	message	You're weirdly carefree, huh?
 372	message	(Aria, Sonico is a rookie idol\nwho thinks all of this\nis a movie shoot...)
 373	message	(Thinks it's a shoot, huh...\nWell, she'd probably be happier\ngoing back to her world none the wiser...)
-374	message	So for now, we all act as one —\ndoes that sound alright, I wonder?
+374	message	So for now, we all act as one -\ndoes that sound alright, I wonder?
 375	message	Yeees~.
 377	message	(Riko, I'll catch you for sure...!\nWait for me, Mama...)
 378	message	//END

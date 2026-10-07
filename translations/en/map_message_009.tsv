@@ -6,7 +6,7 @@ row	column	english
 7	message	N-no, not the bathroom...\nHauu~...
 8	message	This really is like a prison.\nIsn't this tough on you too, Aria-chan?
 9	message	Not really.
-10	message	No need to be so on edge—\nwe won't escape or rebel.\nYou can relax more, y'know?
+10	message	No need to be so on edge-\nwe won't escape or rebel.\nYou can relax more, y'know?
 11	message	Is that so. Then show me your abilities.
 12	message	Abilities~?
 13	message	You've got combat skills, right?\nI'll watch to kill time.
@@ -17,15 +17,15 @@ row	column	english
 18	message	I've seen how you fight, so I'll say this:\nfor moves an amateur mastered in a short time,\nit's impressive.
 19	message	And in that combat form,\nyour power and speed jump dramatically.\nIt might be good for wielding that.
 20	message	Wow, you can analyze that much\nfrom just one look!
-21	message	But doing it bare, you lack power and snap—\nfull of openings.
+21	message	But doing it bare, you lack power and snap-\nfull of openings.
 22	message	...Yes, there are...\nvarious circumstances.\nI can't go all out right now, so to speak...
 23	message	No need to explain. Next, you over there!
-24	message	Um, second, [MERU]~suu!\nI'll show you my magical yo-yo's\nspecial move—Walk the Dog~!
+24	message	Um, second, [MERU]~suu!\nI'll show you my magical yo-yo's\nspecial move-Walk the Dog~!
 25	message	...Cute moves, but I'm not here for street tricks.
 26	message	It's not street tricks~!\nThe magical yo-yo is a historic\nassassination art passed to a single successor...
 27	message	Yeah yeah. Next.
 28	message	Third, me: Ayanokouji Remu.\nMy weapon is this Colt .44 Magnum Custom!
-29	message	Hm, not an Anaconda—\na Python custom.\nRare choice these days.
+29	message	Hm, not an Anaconda-\na Python custom.\nRare choice these days.
 30	message	Huh? Never heard of an Anaconda.\nIs a Python rare in this world?
 31	message	Outdated. Plenty of fans, but\nas a practical piece, eh.\nOK, that's everyone.
 32	message	Um, what about me...?
@@ -39,13 +39,13 @@ row	column	english
 40	message	That's worse than getting shot myself!?\nI-I'll hurry right baaack!!
 42	message	//Claude exits.
 43	message	...So, this is what you wanted?\nI think things'd be more peaceful if you'd stayed quiet.
-44	message	I see—she's a tough one.
+44	message	I see-she's a tough one.
 45	message	Is she usually like this~?
 46	message	Yep. Got a problem?
 47	message	(This reminds me of the old Tsubasa-san...)
 48	message	//Fade to black: time passes.
 49	message	Funyuuu~! Momoman's sooo good~!
-50	message	This!\nIt rivals Flower's okonomiyaki—\nI can't pick a winner!
+50	message	This!\nIt rivals Flower's okonomiyaki-\nI can't pick a winner!
 51	message	Momoman is the best, I'm tellin' ya!
 52	message	She's already had five...\n(Seems like keeping her fed is the best plan!)
 53	message	I'll have one more~♪\nHam-ham-ham~.
@@ -88,7 +88,7 @@ row	column	english
 90	message	//Claude appears.
 91	message	Aria-san!
 92	message	You!? What're you doing here!?
-93	message	You saved me with the skateboard,\nso I wanted to repay you somehow—\nI followed you in secret.
+93	message	You saved me with the skateboard,\nso I wanted to repay you somehow-\nI followed you in secret.
 94	message	...I don't recall asking for thanks!
 95	message	Sorry... but\nthis is my personal way of repaying you.\nYou don't have to save me if things get dangerous...
 96	message	Idiot!\nIt's that reckless talk\nthat made me call you a hindrance!
@@ -105,7 +105,7 @@ row	column	english
 108	message	You're the first Butei to face me.\nI doubt you're up to facing\nthis Schwarzer Regen, but entertain me a little?
 109	message	Let me rephrase.\nDo you know the Butei Killer?
 110	message	No.
-111	message	Liar! This bus hijacking\nuses vehicles and bombs—the Butei Killer's MO!\nYou're involved, so you must know!
+111	message	Liar! This bus hijacking\nuses vehicles and bombs-the Butei Killer's MO!\nYou're involved, so you must know!
 112	message	Hmph, the so-called S-rank Butei\nis apparently no good at deduction.
 113	message	Well then,\nwhy not capture me and interrogate me?\nIf you can, that is!
 114	message	Bring it on!\nI'll put a hole in\nthat toy-like decoration!
@@ -175,7 +175,7 @@ row	column	english
 180	message	//Riko appears.
 181	message	So Aria was the target all along!
 182	message	Riko-san!? You were here?
-183	message	Actually I've been watching—\nI was gonna make a dashing entrance in your pinch,\nbut I never got my moment.
+183	message	Actually I've been watching-\nI was gonna make a dashing entrance in your pinch,\nbut I never got my moment.
 184	message	You were soo cool.\nThis team's pretty good, huh?
 185	message	...Hmph.\nI would've been fine alone.
 186	message	But who was targeting Aria-san?
@@ -210,7 +210,7 @@ row	column	english
 215	message	//Scene change.\n//Background: room inside Butei High.\n//Claude, Meru, Hibiki, Remu, and Riko in the room.
 216	message	...So that's the story.
 217	message	So that's what it was.\nI understand why Aria-chan's in a hurry.
-218	message	Having to arrest every criminal behind\nan 864-year sentence—\nno one can do that alone!
+218	message	Having to arrest every criminal behind\nan 864-year sentence-\nno one can do that alone!
 219	message	No, it's the opposite. With such a reckless goal,\nshe doesn't want to drag others in.\nThat's why she tries to act alone.
 220	message	But the reason she watched\nour combat skills... could it be~?
 221	message	That's it! Maybe she's really\nlooking for comrades to fight alongside...!?
@@ -219,7 +219,7 @@ row	column	english
 224	message	Hibiki-san!? ...What're you gonna do~?
 225	message	Hehe, leave it to me!!
 226	message	//SE: door sound.\n//Aria comes in.
-227	message	Noisy in here—planning an escape or something?
+227	message	Noisy in here-planning an escape or something?
 228	message	Aria-san! Let's go to karaoke together!
 229	message	Huh...?
 230	message	(No thinking, just a straight pitch~...!!)
@@ -232,7 +232,7 @@ row	column	english
 237	message	//Hibiki clings to Aria.
 238	message	Then let's sing here!\nI'm actually a student at Lydian Private Music Academy,\na music school, so even a cappella...
 239	message	Hey!? Don't cling to me! Let go!
-240	message	Not letting go~! Sing here,\nor go to karaoke—which'll it be?\nEither's fine with me!
+240	message	Not letting go~! Sing here,\nor go to karaoke-which'll it be?\nEither's fine with me!
 241	message	(Th-this is blackmail~...!)
 242	message	Geez, what IS this!?\nWhere'd this brute strength come from...!!\nNgh, I can't break the hold!!
 243	message	Come on, come on, Aria-san!
