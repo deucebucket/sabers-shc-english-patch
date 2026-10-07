@@ -1,0 +1,67 @@
+name: Bug report
+description: The patch did not install, the game crashed, or text is wrong or still Japanese.
+title: "[bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the report. Please do not attach game files (CPK, CSV, dumps). A screenshot of the problem attached to this issue is fine; do not open a pull request that adds screenshots to the repository.
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Console or emulator
+      options:
+        - RPCS3 (PC)
+        - Real PS3 with CFW
+        - Real PS3 with HEN
+        - Other (say which below)
+    validations:
+      required: true
+  - type: input
+    id: firmware
+    attributes:
+      label: Firmware or emulator version
+      description: PS3 firmware (for example 4.91 HEN) or RPCS3 build number.
+      placeholder: "RPCS3 0.0.3x-xxxxx / CFW 4.91"
+    validations:
+      required: true
+  - type: input
+    id: patch_version
+    attributes:
+      label: Patch version
+      description: The version in the zip name, for example v3.1.
+      placeholder: "v3.1"
+    validations:
+      required: true
+  - type: dropdown
+    id: installer
+    attributes:
+      label: How did you install it?
+      options:
+        - INSTALL.bat (Windows)
+        - install.sh (Linux / Steam Deck / Mac)
+        - Copied the patched files to a real PS3
+        - Something else (explain below)
+    validations:
+      required: true
+  - type: textarea
+    id: what_happened
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what you saw instead. Include the exact message from the installer or the game if there was one. For wrong text, name the chapter or screen and quote the line.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Things worth checking first
+      options:
+        - label: I deleted the game's installed data (Game Data Utility / dev_hdd0/game/BLJS10244-INSTALL) after patching or switching builds.
+        - label: Both ShcPack.cpk and hash.csv are the patched versions.
+        - label: The installer said DONE (not "isn't the original" or "patching failed").
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot (optional)
+      description: Drag an image here if it helps. It stays on this issue; it is not added to the repository.
