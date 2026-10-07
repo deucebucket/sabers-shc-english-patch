@@ -2,13 +2,13 @@ row	column	english
 3	message	This is the scene!\nAlpha, Beta! Keep watch on the surroundings!
 4	message	Meow!
 5	message	Woof!
-6	message	A victim!\nHey—wake up, please!\nYou can't sleep in a place like this!
+6	message	A victim!\nHey-wake up, please!\nYou can't sleep in a place like this!
 7	message	Zzz... mmnya-mmnya...
 8	message	Shaking him doesn't wake him at all...?\n...I see.
 9	message	This calls for\nmy "guaranteed-to-wake-you alarm watch."
 10	message	Now, wake up for me!
 11	message	// SFX: alarm ringing. See anime. Sound: "tee-teen-teen-teen-teen."
-12	message	Ngh... huh? Wha—???
+12	message	Ngh... huh? Wha-???
 13	message	So, how's it feel waking up on the street?
 14	message	Huh? I was sleeping HERE!?
 15	message	That's right.\nDid the drowsiness hit you all of a sudden?
@@ -43,7 +43,7 @@ row	column	english
 46	message	Ugh, what!?
 47	message	// Meru, Noel, Claude, and Tsubasa appear
 48	message	Whoa!? It's dark!!
-49	message	Hawawawaaah~!\n[NOEL]'s fault—\nwe got flung to the very first block of hell, desuu~!
+49	message	Hawawawaaah~!\n[NOEL]'s fault-\nwe got flung to the very first block of hell, desuu~!
 50	message	...Um, isn't it just nighttime?
 51	message	Watch out! There's something weird here!
 52	message	// A dream demon appears near Meru and the others
@@ -69,7 +69,7 @@ row	column	english
 72	message	Hey... will you be my sacrifice...?\nMy very first... sacrifice...
 73	message	Don't say terrifying things so casually!
 74	message	Is this one a dream demon too?
-75	message	Doesn't seem like it... but those ears—\ncould she be a dark elf or something?
+75	message	Doesn't seem like it... but those ears-\ncould she be a dark elf or something?
 76	message	Who? Dark-elf? Friend? Foe?
 77	message	No idea.\nBut I'm not about to become someone's sacrifice!
 78	message	// Battle resumes\n// Event triggers when Black Tiffania is defeated
@@ -82,7 +82,7 @@ row	column	english
 86	message	Fuuuh~! I'm beat, desuu~!!
 87	message	Huh? What's that?
 88	message	// Sonico appears
-89	message	Uhyaah!\nMan, one thing after another—we're swamped!
+89	message	Uhyaah!\nMan, one thing after another-we're swamped!
 90	message	U-ummm, pardon meeee!
 91	message	Hawawawa, she's talking to us, desuu!
 92	message	Well, she IS human. Of course she talks.
@@ -101,16 +101,16 @@ row	column	english
 105	message	I don't think I know her...\nBut what's a photo book?
 106	message	Not, huh?\nWell, let's calm down for now.
 107	message	// Battle over
-108	message	Man, [MERU]'s taste is\nas off-kilter as ever—\nthat almost got us killed.
+108	message	Man, [MERU]'s taste is\nas off-kilter as ever-\nthat almost got us killed.
 109	message	It is NOT off, and cute is\ncute, desuu!!
 110	message	That's right!!\nUm, um, thank you\nso much for helping us, desuu!
-111	message	No need—you saved me too.\nI was in a situation where I couldn't afford to waste time.
+111	message	No need-you saved me too.\nI was in a situation where I couldn't afford to waste time.
 112	message	// SFX: police siren
 113	message	Sounds like the commotion\ngot the police moving.\nThat settles things for now.
 114	message	Police?
 115	message	Yes. I'm Remu Ayanokouji.\nA detective specializing in paranormal cases.\nI'm on good terms with the police.
 116	message	You exterminate\nthose spooky things from before, desuu?
-117	message	That's right. Those are dream demons—\ndemons that come from the demon world and attack people.
+117	message	That's right. Those are dream demons-\ndemons that come from the demon world and attack people.
 118	message	They normally appear inside dreams, but\nsometimes they materialize and act like that.
 119	message	You're less a detective, more a monster exterminator.
 120	message	Well, officially I'm a detective.\nSo, what about you all?\nYou appeared out of nowhere like teleportation.
@@ -135,7 +135,7 @@ row	column	english
 139	message	I'll need to look into that.\nI've been focused lately on the "sudden street-sleeping phenomenon"\ncase, so I don't know about anything else.
 140	message	The "sudden street-sleeping phenomenon"?
 141	message	People walking down the street suddenly fall asleep\nand can't be woken.\nCause is still unknown.
-142	message	This is one of the scenes, and\nthat's where the dream demons—and you lot—showed up.
+142	message	This is one of the scenes, and\nthat's where the dream demons-and you lot-showed up.
 143	message	It's all one big mystery, desuu?
 144	message	Something like that.
 145	message	Ah! Oh no!\nI'm the only one who can wake\nthe sleeping people!
@@ -148,10 +148,10 @@ row	column	english
 154	message	Uu...\nS-so, which way is the shoot location...!
 155	message	Hunya? Whose voice was that?
 156	message	It's the headphone girl from before, desuu!
-157	message	She's still looking for something.\nPoor thing—alright!\nLet's help her out!
+157	message	She's still looking for something.\nPoor thing-alright!\nLet's help her out!
 158	message	H-hold on!!\nWE'VE got\nour own problems, desuu...
-159	message	C'mon, even our teacher said to help people in need!\nBefore that, though—what kind of person ARE you!?
-160	message	We don't know left from right here—\nhow do you think WE can help\nsomeone find something, desuu?
+159	message	C'mon, even our teacher said to help people in need!\nBefore that, though-what kind of person ARE you!?
+160	message	We don't know left from right here-\nhow do you think WE can help\nsomeone find something, desuu?
 161	message	You never know till you try!
 162	message	Geez, you're always all momentum...\nDo whatever you want, desuu.
 163	message	OK! Okay!! Leave it to me!\nMy magical magic'll solve it in one shot!
@@ -169,7 +169,7 @@ row	column	english
 175	message	Um, what about me...?
 176	message	Hwauh!? That's right!\nYou were here too!!
 177	message	You've got no presence, desuu.\nIf you don't state your opinion clearly,\npeople forget you, desuu.
-178	message	Don't go by others' will—decide for yourself.\nNo one can take responsibility for you.
+178	message	Don't go by others' will-decide for yourself.\nNo one can take responsibility for you.
 179	message	You're right...\nChase after that girl from before, or\ngo to the Ayanokouji Detective Agency... what should I do?
 180	message	// Choice\n// Search for the girl with Tsubasa and Noel\n// Go to the Ayanokouji Detective Agency with Meru
 182	message	Understood.\nThough I'm worried about\n[MERU] being on her own.
@@ -205,7 +205,7 @@ row	column	english
 215	message	So if you stick together with\nallies who share your Soul,\nbattles might go your way, desuu!
 216	message	// Show still image: active link list displayed
 217	message	You can check which Soul Links are active\non screen while moving and such, desuu!
-218	message	I see—checking who has what Soul\nwhile fighting might be fun!
+218	message	I see-checking who has what Soul\nwhile fighting might be fun!
 219	message	// Display off
 220	message	...Still, what WAS\nthat phenomenon just now, desuu...?
 221	message	//
@@ -231,7 +231,7 @@ row	column	english
 244	message	Also, Skill Coins can\nboost your attribute's power, desuu!
 245	message	// Display off
 246	message	The more Skill Coins of your attribute's color you equip,\nthe bigger the damage when you attack\nan attribute you have the advantage over, desuu!
-247	message	Equipping Skill Coins in your attribute's color\nboosts damage AND lets you use skills—great deal, desuu!
+247	message	Equipping Skill Coins in your attribute's color\nboosts damage AND lets you use skills-great deal, desuu!
 248	message	Got it!
 249	message	// Display off
 250	message	You can only equip 3 Skill Coins at once, so\nbalance them out and find the best combo, desuu!

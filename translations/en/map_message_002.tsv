@@ -5,14 +5,14 @@ row	column	english
 6	message	// Passes by a vending machine
 7	message	H-huh?\nThis vending machine feels kinda... strange...?
 8	message	Mmuuu~?\nStaaare...
-9	message	Ah! I get it—everything's 100 yen!
+9	message	Ah! I get it-everything's 100 yen!
 10	message	And the cans have such a retro design...\nand there don't seem to be any\nplastic-bottle drinks...?
 11	message	// Approaches a phone booth
 12	message	And there are tons of phone booths!\nAnd they're yellow...
-13	message	That's it!\nOnce more, on my phone—\nI'll call my manager!
+13	message	That's it!\nOnce more, on my phone-\nI'll call my manager!
 14	message	// Dial tone, but no connection
 15	message	...No signal after all.\nIs there no reception...?
-16	message	What do I do—at this rate,\nI'll cause the staff\nso much trouble...!
+16	message	What do I do-at this rate,\nI'll cause the staff\nso much trouble...!
 17	message	Ah! Those people over there, could they be...?\nIt's dark so I can't see well...
 18	message	// Sonico spots the group of dream demons and walks toward them, off screen
 20	message	That's st-range~?\nI thought she'd be toward that soft-serve-shaped cloud,\nbut where'd she go?
@@ -43,7 +43,7 @@ row	column	english
 46	message	The suddenness is\nto capture natural expressions, maybe...\nor the theme is surprise...?
 47	message	But this outfit all of a sudden...!\nIt's work, but still, I'm so embarrassed~!
 48	message	Awawah!\nUu, i-is this pose really okay...
-49	message	Gyaah!?\nIf you pull like that, my—my clothes—ahh~!
+49	message	Gyaah!?\nIf you pull like that, my-my clothes-ahh~!
 50	message	// Event art off\n// Claude and the others arrive.
 51	message	Tch, bad!\nShe's been caught!
 52	message	Hmm, looks less like 'caught' and more like\n'being toyed with'?
@@ -119,13 +119,13 @@ row	column	english
 128	message	Um, sorry!\nI still haven't gotten a script,\nso I don't even know my role name...
 129	message	W-wait... do NONE of you\nhave scripts...?
 130	message	I think you're misunderstanding something...?
-131	message	Yes, I'm misunderstanding—I'm so sorry!
+131	message	Yes, I'm misunderstanding-I'm so sorry!
 132	message	So this job isn't\na photo shoot,\nit's an ACTION MOVIE shoot!
 133	message	The reason there's no cameraman is\nthey're hiding somewhere\nto capture natural expressions...?
 134	message	No, that's not it...\nThe fight just now\nwasn't being filmed, you know?
 135	message	Wawa!? So that was rehearsal...?\nAmazing intensity for a rehearsal!\nUu~! I've got to do my best too!
 136	message	N-no, that's not it...
-137	message	Hey Tsubasa,\nthere's a saying—'ignorance is bliss'—\nso maybe it's fine to leave things as they are?
+137	message	Hey Tsubasa,\nthere's a saying-'ignorance is bliss'-\nso maybe it's fine to leave things as they are?
 138	message	(If I tell her the truth and scare her,\nshe might panic)
 139	message	(I see... maybe so.\nNo need to stir up extra worry, then)
 140	message	Huh... is something wrong, everyone?
@@ -140,7 +140,7 @@ row	column	english
 149	message	(She gets THAT part...)
 150	message	// Light appears
 151	message	Like... this...?
-152	message	Yeah, like—wait!? Not again!?
+152	message	Yeah, like-wait!? Not again!?
 153	message	At this timing... this is...!!
 154	message	H-huh? ...GYAAAH~!
 155	message	// END
