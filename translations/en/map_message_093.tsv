@@ -24,7 +24,7 @@ row	column	english
 27	message	(When you first awoke on the surface,\nyou had no desires.)
 28	message	(But as you journeyed with the girls,\nthe wish to do something for them took root.\nThat is 'desire'.)
 29	message	Desire… huh.
-30	message	(Desire is endless —\neven if Mother sucked it all out,\nmore wells up again from within.)
+30	message	(Desire is endless -\neven if Mother sucked it all out,\nmore wells up again from within.)
 31	message	So that's why my consciousness came back even though I should have been emptied?
 32	message	(Call desire the will of life to keep living,\nand I'm sure you can feel it yourself.)
 33	message	J… who are you?
@@ -44,7 +44,7 @@ row	column	english
 48	message	Better than fighting every day, nyu!
 49	message	Then can I do the one-shot gag\nI came up with? I wonder? I wonder?
 50	message	What are you going to do?
-51	message	Dejiko, Puchiko,\nand Kurumi —\nlend me your ears a sec.
+51	message	Dejiko, Puchiko,\nand Kurumi -\nlend me your ears a sec.
 52	message	What is it, nyo?
 53	message	I'll listen, nyu.
 54	message	What do you want with me?
@@ -81,7 +81,7 @@ row	column	english
 89	message	Yeah.
 90	message	No enemy has ever appeared in this town.\nCould it be a special place, I wonder?
 91	message	I don't know any other places, ne!\nI can't say whether it's special, yo!
-92	message	Then let me change the question.\nThis town has Polial, the entry stone —\nyou can only get here through that, right?
+92	message	Then let me change the question.\nThis town has Polial, the entry stone -\nyou can only get here through that, right?
 93	message	And what of it?
 94	message	In other words, I think Dokoka Town was\nbuilt on the assumption that Polial exists.
 95	message	I see… If so,\ncould the one who made Polial and Dokoka Town\nbe the same, I wonder?
@@ -142,15 +142,15 @@ row	column	english
 168	message	Attack.
 169	message	She was an annoying little brat,\nbut without the noise it's kinda lonely!
 171	message	Attack.
-172	message	The kid who loved fun stuff\nturned into such a boring mech —\nthe creator has no taste~.
+172	message	The kid who loved fun stuff\nturned into such a boring mech -\nthe creator has no taste~.
 174	message	Attack.
 175	message	A fist aimed at a heartless foe\ncarries nothing but all the power I've got!!
 177	message	Attack.
-178	message	So the replica of the would-be king — who nearly became\nnothing but brute force —\nis now entirely a machine that wields power…
+178	message	So the replica of the would-be king - who nearly became\nnothing but brute force -\nis now entirely a machine that wields power…
 180	message	Attack.
 181	message	Well, it's a well-made mech,\nbut defying me is a thousand years too early!
 183	message	Attack.
-184	message	If I could build a robot this good,\nI'd make it mind the shop, rake in cash, and draw doujinshi all day —\nlife would be rosy, nyo~!
+184	message	If I could build a robot this good,\nI'd make it mind the shop, rake in cash, and draw doujinshi all day -\nlife would be rosy, nyo~!
 186	message	All cleaned up.\nLet's fall back to Dokoka Town!
 187	message	Save the long stories for later.
 189	message	Phew, once we're in Dokoka Town we're safe.
@@ -185,8 +185,8 @@ row	column	english
 219	message	A problem?
 220	message	Gaps appeared in Mother's memory capacity,\nand her behavior became unstable.
 221	message	To fill in that missing information,\nI was dispatched to the surface to gather information directly\nand deliver it to Mother.
-222	message	'Was supposed to' — so it failed?
-223	message	Embarrassingly, I was defective too —\neven after being sent to the surface I never woke up,\nand on top of that I had amnesia.
+222	message	'Was supposed to' - so it failed?
+223	message	Embarrassingly, I was defective too -\neven after being sent to the surface I never woke up,\nand on top of that I had amnesia.
 224	message	That's when we met you!\nYou'd just woken up?
 225	message	That was [CLAUDE]\nwhen we met, desu~?\nYou'd been asleep the whole time…
 226	message	Mother was already malfunctioning\nwhen she created me, so it can't be helped.
@@ -195,7 +195,7 @@ row	column	english
 229	message	Mother made this place?
 230	message	That's weird, right?\nIf Mother made it, Mie and Key should\nknow Dokoka Town exists.
 231	message	This was made by Mother back when her thinking was still normal,\nto prepare for a future Mother\nthat would be even more broken.
-232	message	I see — Mother predicted\nthat she would break down\nfurther.
+232	message	I see - Mother predicted\nthat she would break down\nfurther.
 233	message	Mother locked Dokoka Town\nand cut it off from her own awareness.
 234	message	And as the Polial terminal I would use\nto travel between worlds, it became\na quarantined area independent of Mother.
 235	message	Was Polial\nmade just for you, [CLAUDE]?
@@ -203,17 +203,17 @@ row	column	english
 237	message	That was the beginning\nof our journey, desu~.
 238	message	So THAT'S what\nthe start of our journey was!
 239	message	Going back a bit: because I stayed asleep\non the surface and never worked, Mother's\nmemory gaps kept getting worse.
-240	message	And what the deranged Mother created\nwas the Goddess of Destruction —\nthe thing that returns the world to nothing.
+240	message	And what the deranged Mother created\nwas the Goddess of Destruction -\nthe thing that returns the world to nothing.
 241	message	!!
 242	message	!!
 243	message	Fearing that advancing memory loss would\nmake operating the spaceship impossible,\nMother built a device to reset the memory banks.
 244	message	Does that mean wiping\nall the information of the worlds she manages?
-245	message	Yes… but Mother is only a supervisor —\nshe was never given the authority to return worlds to nothing.
+245	message	Yes… but Mother is only a supervisor -\nshe was never given the authority to return worlds to nothing.
 246	message	So she implanted the reset device called the Goddess of Destruction\ninto humanity, so that it would awaken\nonce humanity learned the truth of the world.
 247	message	So she left the destruction switch\nfor humans to press.
 248	message	But Mother's desire to reset\nkept growing stronger.\nSo she sent Mie and Key to the surface.
 249	message	To stir up the worlds\nand wake the Goddess of Destruction\nsooner!
-250	message	But it backfired —\nbecause Mie and Key killed Eve,\nthe Goddess of Destruction awoke incompletely.
+250	message	But it backfired -\nbecause Mie and Key killed Eve,\nthe Goddess of Destruction awoke incompletely.
 251	message	Everything Mother does\nfails, nyo…
 252	message	Indeed… And\nI remembered my purpose\nat the same time the Goddess of Destruction awoke.
 253	message	So [CLAUDE]'s been\nat Mother's place all this time?

@@ -26,7 +26,7 @@ row	column	english
 30	message	Move out! Hurry!
 32	message	IS Academy…
 34	message	Key! You came back just to lose again!?
-35	message	Barging into IS Academy —\nwhat do you think you're doing?!
+35	message	Barging into IS Academy -\nwhat do you think you're doing?!
 36	message	I was created based on IS.
 37	message	So what?
 38	message	Your future is me.\nYou, who are the past, are unnecessary.
@@ -51,18 +51,18 @@ row	column	english
 57	message	Are you saying it's humanity's fault\nthey're being destroyed?\nIf so, that's sophistry!
 58	message	What?
 59	message	And what did YOU do?\nDid you ever show anyone the right way to use power?\nNo, you didn't.
-60	message	The 'demon' who started indiscriminate battles across Europe\nand sowed the seeds of conflict —\nwho was that, I wonder!
+60	message	The 'demon' who started indiscriminate battles across Europe\nand sowed the seeds of conflict -\nwho was that, I wonder!
 61	message	I needed data.
 62	message	Someone who kills people so easily for a reason like that\nhas no right to judge humanity!
 63	message	Exactly!\nFine words without actions to back them up\nmake you nothing but a liar!
-64	message	Preach all you want —\nyou have no right to destroy humanity!
+64	message	Preach all you want -\nyou have no right to destroy humanity!
 65	message	Let me throw your favorite line back at you!\n'Incomprehensible!' That's you!
 66	message	Dialogue is meaningless.\nExtermination is decided. Beginning execution.
 67	message	I won't let you! Never!
 69	message	Damage rate confirmed past the limit.\nContinued combat impossible.
 70	message	She went down fast…
 71	message	Not yet, Houki!\nKey hasn't fully shut down!
-72	message	Enough — finish her!!
+72	message	Enough - finish her!!
 74	message	Huh!?
 75	message	What is this light…?
 77	message	Energy readings spiking!\nWhat's happening!?
@@ -74,9 +74,9 @@ row	column	english
 84	message	Doesn't mean we're backing down!
 86	message	Looks like the real fight starts now!
 87	message	Let's do this!!
-88	message	The five of us in sync — and our sync with everyone else —\nwe'll use it to the max!
+88	message	The five of us in sync - and our sync with everyone else -\nwe'll use it to the max!
 89	message	I know!
-90	message	We pour out everything we've gained and win — nothing else!
+90	message	We pour out everything we've gained and win - nothing else!
 93	message	…!
 94	message	Hm! She's… focused entirely on fighting!
 95	message	Kill!
@@ -90,13 +90,13 @@ row	column	english
 105	message	Break!
 106	message	Shenlong! No holding back!\nFull power, full throttle! Charge ahead!\nSoooooooryaaaaa!!
 108	message	…!
-109	message	An attack-specialized build with no thought for defense —\nscary stuff!
+109	message	An attack-specialized build with no thought for defense -\nscary stuff!
 110	message	Fight!
-111	message	But her moves are easy to read —\nhas she noticed?\nAttacks like that don't land easily!
+111	message	But her moves are easy to read -\nhas she noticed?\nAttacks like that don't land easily!
 113	message	…!
 114	message	She fights like I used to.\nSelf-absorbed, and therefore without hesitation.
 115	message	Rage!
-116	message	I can't lose — no, I won't lose!\nNot to you, who misunderstands what strength means!
+116	message	I can't lose - no, I won't lose!\nNot to you, who misunderstands what strength means!
 118	message	We can do this! We're dealing real damage!
 119	message	Keep up the pressure!
 120	message	…F… fufu…! Fufufu!
@@ -106,7 +106,7 @@ row	column	english
 124	message	'Fun'…?
 125	message	Different from Mie's fun… Going all out,\nthat is my… fufufu!\nFun! Comprehensible!
 126	message	She's talking like some battle junkie!
-127	message	She denounced humanity for fighting, yet\nfeels joy in battle —\nhow ironic…!
+127	message	She denounced humanity for fighting, yet\nfeels joy in battle -\nhow ironic…!
 128	message	Fight! More! Fight!\nHahahahahahahahahahahah!\nHahahahahahahahahahahah!
 129	message	So she's awakened to the joy of wielding power…\nBut that is nothing but the outburst\nof an immature spirit!
 131	message	…Extermination mode, forcibly terminated…!
@@ -114,7 +114,7 @@ row	column	english
 134	message	Couldn't finish her off…!
 135	message	Tough one, as expected.
 136	message	But a win is a win.
-137	message	IS Academy's safe too — hooray all around!
+137	message	IS Academy's safe too - hooray all around!
 138	message	That's right! Let's celebrate!
 139	message	Yeah.
 140	message	Take that, nyo! Go eat dirt, nyo!

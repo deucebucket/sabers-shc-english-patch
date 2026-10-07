@@ -2,7 +2,7 @@ row	column	english
 3	message	Your role is over.\nPer the world's choice, the world will be destroyed.
 4	message	What choice?\nI don't understand at all!
 5	message	And who are you?\nLike me, but not me...\n...
-6	message	You sought the power of destruction.\nThat is the answer the world — humans — chose.
+6	message	You sought the power of destruction.\nThat is the answer the world - humans - chose.
 7	message	...True, back then\nI sought power.
 8	message	I sought power to avenge my teacher,\nand didn't hesitate to wield it.\nI admit that...
 9	message	That is the choice.
@@ -13,7 +13,7 @@ row	column	english
 14	message	Your role is over.\nPer the world's choice, the world will be destroyed.
 15	message	What choice?\nI don't get it at all!
 16	message	Who are you?\nLike me, but not me...
-17	message	You sought the power of destruction.\nThat is the answer the world — humans — chose.
+17	message	You sought the power of destruction.\nThat is the answer the world - humans - chose.
 18	message	I won't deny it.\nBack then, I wanted power.
 19	message	I sought power to avenge my teacher,\nand to wield it... that power is you, isn't it?\nI get that.
 20	message	That is the choice.
@@ -21,8 +21,8 @@ row	column	english
 22	message	But...!
 23	message	[NOEL]!!
 24	message	Huh!?
-26	message	That voice — where are you!?
-27	message	That voice — where!?
+26	message	That voice - where are you!?
+27	message	That voice - where!?
 29	message	Found you!
 30	message	Remu! And [NOEL]!
 31	message	Remu! [MERU] too!
@@ -39,7 +39,7 @@ row	column	english
 43	message	So what?\nThis is inside a dream! Everyone in a dream\nis equal!
 44	message	Shall we test that?
 45	message	Shall we test that?
-46	message	Stop dithering —\ntry destroying me!\nYou're the Goddess of Destruction, aren't you?
+46	message	Stop dithering -\ntry destroying me!\nYou're the Goddess of Destruction, aren't you?
 47	message	Remu, so bold...
 48	message	Remu, it's dangerous!
 49	message	It's fine! In a dream, strength of heart is power!\nThere's nothing to fear!\nEveryone!
@@ -64,12 +64,12 @@ row	column	english
 79	message	[NOEL], you're\nnot alone!\nWe're with you!
 81	message	[MERU]!\nNothing's impossible!\nLet's join forces and head for the future!
 82	message	[NOEL]!\nNothing's impossible!\nLet's join forces and head for the future!
-84	message	Sorry for butting in!\nBut I can't just abandon a club member —\nnot as the prez!
+84	message	Sorry for butting in!\nBut I can't just abandon a club member -\nnot as the prez!
 85	message	[MERU],\nbelieve in anything and everything!\nWishes surely... come true!
 86	message	[NOEL],\nbelieve in anything and everything!\nWishes surely... come true!
 88	message	[MERU]!\nThere's still a chance for a comeback!\nOne trap card for a great reversal!
 89	message	[NOEL]!\nThere's still a chance for a comeback!\nOne trap card for a great reversal!
-90	message	We've made\nthe impossible possible before.\nYou're a kid who can do it if you try — nipah☆!
+90	message	We've made\nthe impossible possible before.\nYou're a kid who can do it if you try - nipah☆!
 92	message	Don't falter! We're with you!\nA warrior's resolve pierces even rock!
 94	message	I would never abandon\none I've called comrade!
 96	message	[MERU]!\nYou look livelier than I expected?
@@ -103,7 +103,7 @@ row	column	english
 141	message	Let us begin the end.
 144	message	Don't think you stand a chance.
 145	message	Don't think you stand a chance.
-146	message	That doesn't matter!\nEveryone came for me — giving up now\nis the most impossible thing of all!!
+146	message	That doesn't matter!\nEveryone came for me - giving up now\nis the most impossible thing of all!!
 147	message	You think this is about calculations?\nWinning or losing isn't the point!\nI'll fight to the end with everyone!
 149	message	Dream Hunter Remu.\nDid you think you'd win in a dream?
 150	message	Dream Hunter Remu.\nDid you think you'd win in a dream?
@@ -190,8 +190,8 @@ row	column	english
 253	message	[MERU]!\nYou're back! You're back!!
 254	message	[NOEL]! You're back!\nTh-thank goodness...!
 255	message	We did it!!
-256	message	Thanks to [NOEL] and Remu —\nno, thanks to everyone!
-257	message	Thanks to [MERU] and Remu —\nno! Thanks to everyone!
+256	message	Thanks to [NOEL] and Remu -\nno, thanks to everyone!
+257	message	Thanks to [MERU] and Remu -\nno! Thanks to everyone!
 258	message	Welcome back, [MERU]!
 259	message	Welcome back, [NOEL]!
 260	message	Yes!
