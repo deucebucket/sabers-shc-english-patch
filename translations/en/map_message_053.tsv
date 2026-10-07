@@ -6,7 +6,7 @@ row	column	english
 7	message	And half was the worry\nthat we might wake up in Hinamizawa.
 8	message	True… the thought that this could be Hinamizawa\nagain chills my spine…
 9	message	Relieved as I am to wake in Dokoka Town,\nwith our pile of problems, I can't settle down yet.
-10	message	Indeed. That Mie girl, of unknown origins,\ncalling herself king of the worlds —\nand the unresolved Hinamizawa matter…
+10	message	Indeed. That Mie girl, of unknown origins,\ncalling herself king of the worlds -\nand the unresolved Hinamizawa matter…
 11	message	That Kei, like an IS, seemed\nto be in league with Mie.
 12	message	We'll surely end up fighting them.\nAnd in Hinamizawa we met the black IS units.\nTo think I'd fight my own double…
 13	message	The identity of those black ones is still unknown.\nI wonder how they relate to Mie and Kei.
@@ -26,15 +26,15 @@ row	column	english
 29	message	I may be flat, but I'm [NOEL]!\nThat's [MERU] over there!
 30	message	Oh dear, all mixed up. Oopsie, my bad!\nJust wake her up!
 31	message	Yeah, yeah.
-32	message	Aaah! Over there — Miss Saint Mont Blanc Academy No. 8,\nAryutta=Katus-chan!!
+32	message	Aaah! Over there - Miss Saint Mont Blanc Academy No. 8,\nAryutta=Katus-chan!!
 33	message	Hah!?
 34	message	Where where!? Where, desuu!\nThat Aryutta-senpai, slender with that irresistible\nmelancholy expression!?
 35	message	…Hweh? Where is this???
 36	message	Good morniiing☆
 37	message	Huh? Huh? Panda cocoa?
-38	message	'Where is this?' — right!\nMore importantly, up you get!
+38	message	'Where is this?' - right!\nMore importantly, up you get!
 39	message	[NOEL]!? Why are you and the teacher here, desuu!?
-40	message	Details later. Now — off you go☆
+40	message	Details later. Now - off you go☆
 41	message	Huh, where am I going, desuu?\nAnd why is [NOEL] clinging to me???
 42	message	One of the thousand secret arts of Magical Archaeology!\nMarch of Kamata! Kyupirariin☆☆☆
 43	message	//Gah! Kicks Noel and Meru down the stairs from the top.\n//SE: kick sound
@@ -51,16 +51,16 @@ row	column	english
 58	message	Hogya!
 59	message	Okay! Total success☆
 60	message	Wh-what's a total success, desuu…?
-61	message	Nn, oh!? This body's feel — the weight on my chest!
+61	message	Nn, oh!? This body's feel - the weight on my chest!
 62	message	Hah!? It's gone! I'm light, desuu!!
 63	message	…
 64	message	We're back!!
 65	message	//Fade to black\n//Background: Saint Mont Blanc Academy
-66	message	Honestly, I was worried! Your bodies swapping —\nwhat's going on?
+66	message	Honestly, I was worried! Your bodies swapping -\nwhat's going on?
 67	message	It's [NOEL]'s fault, desuu!
 68	message	Why me!?
-69	message	Now, now, enough. All three of us made it back —\nlet's call it done.
-70	message	Done — what do you mean, desuu?
+69	message	Now, now, enough. All three of us made it back -\nlet's call it done.
+70	message	Done - what do you mean, desuu?
 71	message	Back to normal life at Saint Mont Blanc Academy.
 72	message	That's why we set out on the journey anyway.\nI'm fine with that.
 73	message	Huh… [NOEL], what about our match, desuu?
@@ -82,7 +82,7 @@ row	column	english
 89	message	I'm sorry… desuu.
 90	message	//Meru leaves the academy.\n//Background: plains (the land with Polyal in the original-characters' world)
 91	message	Polyal should be around here…
-92	message	//SE: distant sounds of battle — dogaan, dadadada.\nChris is fighting grunts.
+92	message	//SE: distant sounds of battle - dogaan, dadadada.\nChris is fighting grunts.
 93	message	I hear something, desuu!?\nIs someone fighting…?
 94	message	I'll go check, desuu!
 95	message	//Meru ending
@@ -99,8 +99,8 @@ row	column	english
 106	message	Huh? Huh? Anaconda?
 107	message	'Where is this?' desuu!\nMore importantly, up you get!
 108	message	[MERU]!? Why are you and the teacher here!?
-109	message	Details later. Now — off you go☆
-110	message	Go — where?
+109	message	Details later. Now - off you go☆
+110	message	Go - where?
 111	message	Hm? [MERU], why are you clinging to me?\nDid you have that kind of hobby!?
 112	message	One of the thousand secret arts of Magical Archaeology!\nMarch of Kamata! Kyupirariin☆☆☆
 113	message	//Gah! Kicks Noel and Meru down the stairs from the top.\n//SE: kick sound
@@ -110,16 +110,16 @@ row	column	english
 118	message	Honyau…
 119	message	Okay! Total success☆
 120	message	Wh-what's a total success, desuu…?
-121	message	Nn, oh!? This body's feel — the weight on my chest!
+121	message	Nn, oh!? This body's feel - the weight on my chest!
 122	message	Hah!? It's gone! I'm light, desuu!!
 123	message	…
 124	message	We're back!!
 125	message	//Fade to black\n//Background: Saint Mont Blanc Academy
-126	message	Honestly, I was worried! Your bodies swapping —\nwhat's going on?
+126	message	Honestly, I was worried! Your bodies swapping -\nwhat's going on?
 127	message	I don't know!
 128	message	[MERU] suddenly showed up, and before I knew it\nwe were tumbling down and swapped!
 129	message	It's not my fault, desuu!
-130	message	Now, now, enough. All three of us made it back —\nlet's call it done.
+130	message	Now, now, enough. All three of us made it back -\nlet's call it done.
 131	message	Done? What?
 132	message	Back to normal life at Saint Mont Blanc Academy.
 133	message	We set out traveling to find you, teacher.\nSo I'm fine with it ending.
@@ -127,7 +127,7 @@ row	column	english
 135	message	We can do that here too, desuu.
 136	message	Well, that's that. You're fine with that too, [NOEL]-chan?
 137	message	Hmm??? Good, I guess… or not???
-138	message	Right! Tsubasa and Rika-chan are still traveling —\nwhat about them?
+138	message	Right! Tsubasa and Rika-chan are still traveling -\nwhat about them?
 139	message	You mean the defender girls and the little shrine maidens?\nI am worried, but I'm a teacher.\nI have to think of this academy's students too.
 140	message	True, skipping school forever isn't good, but…
 141	message	We'd end up repeating a year, desuu.
@@ -135,19 +135,19 @@ row	column	english
 143	message	I'll keep researching Polyal, and it's not like\nwe'll never see everyone again☆
 144	message	It's a good time to take a break, desuu.
 145	message	Hmm, hmm…
-146	message	(What's gotten into them all of a sudden?\nThey were both drifting along until now —\nwhy the sudden urge to go back to normal life?)
+146	message	(What's gotten into them all of a sudden?\nThey were both drifting along until now -\nwhy the sudden urge to go back to normal life?)
 147	message	(Weird… definitely weird!)
 148	message	//Fade to black\n//Background: Saint Mont Blanc Academy (night)
 149	message	I'm going! Staying here feels wrong!
 150	message	Sorry, teacher, [MERU].\nI'll decide my own path!
 151	message	//Noel leaves the academy.\n//Background: plains (the land with Polyal in the original-characters' world)
 152	message	Was Polyal around here…?
-153	message	//SE: dogaan, dadadada — distant battle sounds.\nChris is fighting grunts.
+153	message	//SE: dogaan, dadadada - distant battle sounds.\nChris is fighting grunts.
 154	message	Fighting!? Maybe someone's here?
 155	message	I gotta go!!
 156	message	//Noel ending
-159	message	Dammit! I came as instructed, and —\nwhat the hell is this!!
-160	message	These guys coming after me —\nwhat's that about!?
+159	message	Dammit! I came as instructed, and -\nwhat the hell is this!!
+160	message	These guys coming after me -\nwhat's that about!?
 161	message	Mie! Is this your doing!?
 162	message	//Meru or Noel appears there
 163	message	Damn iiiit!!
@@ -186,7 +186,7 @@ row	column	english
 198	message	//Eve approaches Meru or Noel and attacks.
 199	message	Uuh!?
 200	message	Owowow…!!
-201	message	Eve! What are you—!?
+201	message	Eve! What are you-!?
 202	message	…
 203	message	Could she be a fake!?
 204	message	Let me make one thing clear. I'm the real one…\nIf a fake appears, I'll kill it. I'll hunt it down\nand make sure of it.
@@ -198,7 +198,7 @@ row	column	english
 210	message	[NOEL], I won't tell you to come back.\nOffer me your head.
 211	message	It's a joke… right, teacher.
 212	message	Since you defied my will, this is only natural.\nNo need for regrets. Begone.
-213	message	Wha—...? What the hell is that guy!?
+213	message	Wha-...? What the hell is that guy!?
 214	message	//
 215	message	Hibiki-chan!
 216	message	//
@@ -240,7 +240,7 @@ row	column	english
 254	message	Chris-chan!\nLet's take out the ones around us first,\nthen we'll talk!
 255	message	I never asked anyone to help me!
 256	message	Did you forget what my hobby is?
-257	message	Your hobby's helpin' people... I— you idiot!\nLike I care!
+257	message	Your hobby's helpin' people... I- you idiot!\nLike I care!
 258	message	People helping people is only natural!
 259	message	(People helping people is only natural...\nI knew I wasn't wrong!)
 260	message	(That's right... that's it!\nI'm not wrong about any of this!)
@@ -299,12 +299,12 @@ row	column	english
 316	message	//Fade to black.\n//Background: forest (night).
 317	message	...As I just told you,\nI've lost the power I originally had, and it's still gone.
 318	message	Your dream power...?
-319	message	Entering people's dreams to fight those who cause nightmares—\nthat is Reimu's true role.
-320	message	Yes. I believe you've both met him already—\nthe undying Dr. Shinigami\nhas powers much like mine.
+319	message	Entering people's dreams to fight those who cause nightmares-\nthat is Reimu's true role.
+320	message	Yes. I believe you've both met him already-\nthe undying Dr. Shinigami\nhas powers much like mine.
 321	message	So as I am now, without my power,\nI can't defeat Dr. Shinigami.
 322	message	Why have you kept quiet about this until now?
 323	message	I thought everyone would be frightened\nif they heard I couldn't beat Dr. Shinigami.
-324	message	But now I am certain that this group\ncan overcome anything by joining forces—\nso I decided to tell you.
+324	message	But now I am certain that this group\ncan overcome anything by joining forces-\nso I decided to tell you.
 325	message	I always thought of you, Reimu-san,\nas calm and unshakable no matter what...\nI never knew you carried such a worry.
 326	message	Part of it is that I just\nnever had the right moment to bring it up.
 327	message	So, what should we do?
@@ -372,7 +372,7 @@ row	column	english
 390	message	Imagine an energy cannon that can wipe out a city in one shot,\nfired without limit.
 391	message	I heard the Angel's Tear is a holy relic.\nTo use its power for destruction...
 392	message	Just like the Kadingir\nthat could destroy even the moon!
-393	message	Such a thing—\nwe absolutely cannot let them use it.
+393	message	Such a thing-\nwe absolutely cannot let them use it.
 394	message	The responsibility for this\nlies with us, who stole the Angel's Tear.
 395	message	We should really handle this ourselves,\nbut we came here thinking\nthat to stop Gustav for certain...
 396	message	We've got to stop it! I'll help!!
@@ -417,10 +417,10 @@ row	column	english
 435	message	//Fade to black, briefly.
 436	message	Sheesh,\nsounds like there's some drama brewing on the other side.
 437	message	Come to think of it, Houki, how does the Akatsubaki feel?
-438	message	Yeah, its performance is still through the roof—\nI haven't seen its limits at all yet.
+438	message	Yeah, its performance is still through the roof-\nI haven't seen its limits at all yet.
 439	message	Then you're fighting while holding back?
 440	message	The thing is, it burns through energy like crazy.\nIf I try to fight at full power,\nI hit the limit in no time.
 441	message	So that's why you're going back to IS Academy\nfor tuning.
-442	message	You deployed a brand-new 4th-gen unit\nstraight into live combat—\nit's a wonder it's worked this well so far.
+442	message	You deployed a brand-new 4th-gen unit\nstraight into live combat-\nit's a wonder it's worked this well so far.
 443	message	Thinking ahead, I need to learn\nto draw out more of the Akatsubaki's power...
 444	message	//END
