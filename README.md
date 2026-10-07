@@ -1,30 +1,28 @@
-# shc-english-patch
+# Super Heroine Chronicle: English Patch
 
-English caption/subtitle patch for **Super Heroine Chronicle** (PS3, Japan-only, 2014).
+Fan English translation for **Super Heroine Chronicle** (PS3, Japan-only, 2014).
+Free, unofficial, not affiliated with Bandai Namco. **No game files here.** You patch your own dump.
 
-The game never left Japan. This project translates the in-game caption text to English — the dialogue subtitles. A favor project so Saber can play it in English.
+## Download and install
 
-## Status
+1. Download **`SHC-English-Patch-v3.1.zip`** from the [Releases](../../releases) page.
+2. Unzip it.
+3. **Windows:** drag your game's `PS3_GAME\USRDIR` folder onto **`INSTALL.bat`**. That's it.
+   **Linux, Steam Deck or Mac:** `sh install.sh "/path/to/PS3_GAME/USRDIR"` (needs `xdelta3`).
+4. Start the game. When it says it's installing data, let it finish.
 
-Extraction cracked. The game text lives in plain UTF-8 CSVs inside an XOR-obfuscated CPK (`ShcPack.cpk`: 1,834 files). Translation pipeline is next.
+Full step-by-step for RPCS3 and a real PS3 (CFW or HEN) is in **`HOW TO INSTALL.txt`** inside the zip (also in [`installer/`](installer/)).
 
-## The plan
+The installer checks that your files are the original Japanese ones, backs them up (`*.original`), patches, and verifies the result. If anything fails, it puts your originals back.
 
-1. Crack the disc dump and find the text — done. The CPK "encryption" is CRI LCG XOR; TOC parsed; CRILAYLA decompressed.
-2. Extract every Japanese string into editable files — done for `ShcPack.cpk`.
-3. Translate with multi-agent review — no machine slop; every line combed by several agents.
-4. Repack into the game archives.
-5. Ship as an easy one-step patcher (xdelta against your own dump).
+## What's translated (v3.1)
 
-## Rules
+- Story dialogue, battle messages, menus, items, UI and system text.
+- **Fixed in v3.1:** the crash at the first Tsubasa battle in chapter 1, and the first-run "install data failed" error.
+- **Still Japanese in places:** some names, speaker tags, parts of the battle UI, the chapter title cards and some prompts. These get fixed in v4 (see the issues).
 
-- No game data in this repo. Ever. Tools and translations only — you bring your own dump.
-- Caption text only. Menus, skills, items are out of scope unless that changes.
-- No MTL slop: every translated line is reviewed by multiple agents before it ships.
-- Unofficial fan project, free forever. Not affiliated with Bandai Namco.
+## For developers
 
-## Docs
-
-- `docs/RESEARCH.md` — what we know so far
-- `docs/PIPELINE.md` — the build pipeline
-- The wiki is the devlog.
+- `tools/` is the extraction and repack pipeline (CPK XOR, CRILAYLA, the @UTF TOC repacker with its release gate).
+- `docs/RESEARCH.md` covers the formats, and `docs/PIPELINE.md` covers the build.
+- Rules: no game data in the repo, ever. Ship patches only (xdelta against the user's own dump).

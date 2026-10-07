@@ -1,0 +1,92 @@
+SUPER HEROINE CHRONICLE - ENGLISH PATCH v3.1
+=============================================
+Free fan translation. Not affiliated with Bandai Namco.
+You need your OWN copy of the game (Japanese PS3 disc, dumped).
+This patch contains NO game files.
+
+
+WHAT YOU NEED
+-------------
+- Your dump of Super Heroine Chronicle (PS3, Japan).
+  It's a folder called something like SHC or BLJS10xxx, and inside it
+  there's PS3_GAME > USRDIR.
+- A PC to run the patcher on. Windows is easiest.
+
+
+=============================================
+ WINDOWS (the easy way, about 1 minute)
+=============================================
+
+STEP 1. Unzip this whole folder anywhere, for example your Desktop.
+
+STEP 2. Open your game folder and go inside:
+          PS3_GAME > USRDIR
+        You should see files called ShcPack.cpk and hash.csv in there.
+
+STEP 3. Drag the USRDIR folder and DROP it onto INSTALL.bat.
+        (Or just double-click INSTALL.bat and paste the folder path
+         when it asks.)
+
+STEP 4. Wait until it says "DONE! The game is now in English."
+        Press any key to close the window.
+
+That's it.
+
+
+=============================================
+ PLAYING IT
+=============================================
+
+ON RPCS3 (PC emulator):
+  - Patch the game folder RPCS3 uses for the game, then start it.
+    It's usually where you put the game, or
+    RPCS3\dev_hdd0\disc\<game> or RPCS3\games\<game>.
+  - The first time it starts, the game "installs data". Say YES and let it finish.
+
+ON A REAL PS3 (CFW or HEN, with webMAN or multiMAN):
+  1. Patch the game on your PC first (the Windows steps above).
+  2. Copy the 2 patched files, ShcPack.cpk and hash.csv, from your PC's
+     USRDIR folder to the SAME place in the game folder on your PS3
+     (over FTP or USB). Replace the old ones.
+  3. If you already played before patching, delete the game's installed
+     data first: XMB > Game > Game Data Utility > Super Heroine Chronicle.
+  4. Start the game. When it says it's installing data, let it finish.
+
+
+=============================================
+ SOMETHING WENT WRONG?
+=============================================
+
+"ShcPack.cpk isn't the original Japanese file"
+   -> Your file is already modified, or it's from a different dump.
+      Copy the original ShcPack.cpk back from your dump and try again.
+
+"Already patched"
+   -> You're done. Play the game.
+
+Game says it failed to install data (Japanese error, then quits)
+   -> hash.csv didn't get copied. Make sure BOTH files were replaced
+      (ShcPack.cpk AND hash.csv).
+
+Want to undo the patch?
+   -> In USRDIR, delete ShcPack.cpk and hash.csv, then rename
+      ShcPack.cpk.original to ShcPack.cpk and
+      hash.csv.original to hash.csv.
+
+
+=============================================
+ LINUX / STEAM DECK / MAC
+=============================================
+  Install xdelta3, then run:
+     sh install.sh "/path/to/your/game/PS3_GAME/USRDIR"
+
+
+=============================================
+ WHAT'S TRANSLATED / KNOWN ISSUES
+=============================================
+  Translated: story dialogue, battle messages, menus, items, UI and system text.
+  Still Japanese in a few places: some names, speaker tags, parts of the battle UI,
+  the chapter title cards and some prompts. These get fixed in v4.
+  v3.1 fixes the crash at the first Tsubasa battle in chapter 1.
+
+  Bugs: https://github.com/deucebucket/shc-english-patch/issues
