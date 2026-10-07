@@ -62,7 +62,7 @@ row	column	english
 80	message	Fuh...
 81	message	Huh...?
 82	message	It's nothing.\nLadies first, huh.\nGood boy, good boy. Nipah~☆
-83	message	I'll take you up on that and go first.\nFirst up... this and... this—.
+83	message	I'll take you up on that and go first.\nFirst up... this and... this-.
 84	message	Ace of spades and ace of hearts!\nA hit right away.\nYou're amazing, Rika.
 85	message	And I'll keep going.\nThis and... this...!\nYay! Another hit~.
 86	message	I'm the reincarnation of Oyashiro-sama.\nWith divine powers I can see right through everything~.
@@ -72,7 +72,7 @@ row	column	english
 90	message	Hereherehereherehere~!\nYay~! I did it all! All of theem~!
 91	message	Th-that's...\nYou can't call this a match, can you...?
 92	message	Sadly, it is a match.\nI did say I was good\nat Concentration at the start.
-93	message	And you gave me the first move —\ncarelessness is the greatest enemy.
+93	message	And you gave me the first move -\ncarelessness is the greatest enemy.
 94	message	Huh...?\nRika...?
 95	message	Now, the penalty game.
 96	message	Today, nice and simple:\n'drawing pranks on your face\nwith a permanent marker'~. Nipah~☆
@@ -84,7 +84,7 @@ row	column	english
 104	message	Mii! You startled me.
 105	message	You're playing with me again~?
 106	message	You're a troubled pervert\nwho looks forward to\nclub penalty games with glee.
-107	message	Hey—!\nDon't say such awful-sounding things!\nIt hurts, being called a pervert...
+107	message	Hey-!\nDon't say such awful-sounding things!\nIt hurts, being called a pervert...
 108	message	If you're not a pervert, what are you?
 111	message	A gentleman.\nA plain gentleman, no pervert attached.
 112	message	How unique.
@@ -105,7 +105,7 @@ row	column	english
 131	message	Mii~.\nI lost.\nThen I'll roll the dice.
 132	message	Mii~. A 5.\nA great roll right off the bat.
 133	message	1, 2, 3... 5 lands here.\nFollow the instructions.
-134	message	'I badmouthed the curry and got chewed out by the teacher like crazy! Move back 1' —\nwhat IS this?
+134	message	'I badmouthed the curry and got chewed out by the teacher like crazy! Move back 1' -\nwhat IS this?
 135	message	Too bad~.\nNext is my turn.\nHere! ...6!
 136	message	6 lands here...\n'Everyone praised my Watanagashi kagura dance!\nMove forward 10'
 137	message	Eeeeeh!?
@@ -144,7 +144,7 @@ row	column	english
 178	message	Is something the matter~.
 179	message	No... um...\n...Rika,\nweren't you just talking with someone?
 180	message	You were watching?\nWhat a pervert.\nI'll report you to the police~.
-181	message	Hey—!\nDon't make me sound so bad...!
+181	message	Hey-!\nDon't make me sound so bad...!
 182	message	She's my 'little friend'.
 183	message	The one I was talking with earlier.
 184	message	Mii~.\nShe's a little friend only I can see.
@@ -180,7 +180,7 @@ row	column	english
 223	message	I... see...\nRight...
 224	message	Mii~☆\nDon't be so down.\nIt's not that I don't trust you.
 225	message	But I want you to know just this.\nMy 'invisible little friend' is,\nto me, a very precious person.
-226	message	Irreplaceable — half of who I am.
+226	message	Irreplaceable - half of who I am.
 227	message	I understand... that's enough for me.\nSomeday, if there's a chance...
 228	message	But... just one last question, if I may?
 229	message	...
@@ -191,7 +191,7 @@ row	column	english
 234	message	(Her tone just now felt different from usual...)
 235	message	Of course.\nShe's a very good girl.
 236	message	The answer's decided.\nShe's good.\nAbout as good as you.
-237	message	Huh~?\nAbout as good as you — maybe\n'good' is overstating it.
+237	message	Huh~?\nAbout as good as you - maybe\n'good' is overstating it.
 238	message	Th-that's...\nWell, I don't think of myself as good, but...
 239	message	Just kidding!\nIt's fine, so don't worry.\nNipah~☆
 240	message	I see... then that's good.
@@ -256,7 +256,7 @@ row	column	english
 309	message	With the shuttlecock, you have to return\nthe shiritori too.\nAnd it's single-match.
 310	message	No mistakes allowed, then...
 311	message	It's harder than you'd imagine\nwhen you actually try.\nBut the 'restrictions' are loose.
-312	message	Not just single words — long sentences are OK.\nYou can say anything\nuntil you hit the shuttlecock back.
+312	message	Not just single words - long sentences are OK.\nYou can say anything\nuntil you hit the shuttlecock back.
 313	message	Of course, if you end on 'n',\nyou're out.
 314	message	...Understood.\nConsidering the stamina gap, I'll yield the serve.
 315	message	Thank you~. I'll take you up on that.\nHere I go?
@@ -272,7 +272,7 @@ row	column	english
 325	message	...!!
 326	message	Umm... it went in... right?\nI won...?
 327	message	Hah... hah...
-328	message	Ah...!\nRika, you ran all over — you must be tired.\nSorry, are you okay?
+328	message	Ah...!\nRika, you ran all over - you must be tired.\nSorry, are you okay?
 329	message	'Losers have no place in this world'...\nThat's...
 330	message	I wonder what that was...\nit just came to my mind.
 331	message	...
@@ -324,7 +324,7 @@ row	column	english
 394	message	Rika!\nAh, I keep picturing the cosplay...
 395	message	I don't know what you're talking about~.
 396	message	You were probably lying in wait for me,\ndozed off, and had a dream.
-397	message	Not knowing dreams from reality —\nwhat a troubled sleepyhead you are~.
+397	message	Not knowing dreams from reality -\nwhat a troubled sleepyhead you are~.
 398	message	But...\nthat easygoing side of you...\nI don't hate it.
 399	message	Huh...?\nWhat did you just...
 400	message	Mii? I didn't say anything~.
