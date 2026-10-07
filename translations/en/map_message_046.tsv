@@ -248,7 +248,7 @@ row	column	english
 274	message	What makes you think you've won?\nYou think I'd lose to Dejiko?
 275	message	Then it's a one-on-one, nyo!\nDejiko is angry too, nyo!!
 276	message	Bring it on! Let's do this!
-277	message	That settles it—\nleave Usada to me, nyo!
+277	message	That settles it-\nleave Usada to me, nyo!
 278	message	Make sure you take her down responsibly, nyu.
 279	message	// Event triggers when Dejiko and Usada engage in combat
 280	message	Prepare yourself, Dejikooo!!
@@ -300,7 +300,7 @@ row	column	english
 326	message	She said she'd lend me her strength\nto defeat Dejiko.
 327	message	And you just went right along with it, nyo?\nYou're such an idiot, nyo.
 328	message	At first I thought it was a joke.\nI mean, you wouldn't think\na little kid like that could do anything.
-329	message	Then she handed me a little box,\nsaying if I had it I could go\nto all kinds of worlds—\nso help her friends there.
+329	message	Then she handed me a little box,\nsaying if I had it I could go\nto all kinds of worlds-\nso help her friends there.
 330	message	By friends you mean Riko and Jeanne?
 331	message	Yeah. At first it was just little errands.\nLike, walk down this road,\nor go see what's around that corner.
 332	message	Oh, and there was one to keep an eye\non that elf girl over there.
@@ -310,7 +310,7 @@ row	column	english
 336	message	...Yeah, I figured.
 337	message	You said you received a small box?\nYou still have it?
 338	message	It's right here... hmm? Huh?\nI put it in this pocket...?\nDid I drop it somewhere???
-339	message	As I thought—\nit must vanish if you betray them,\nso no evidence remains.
+339	message	As I thought-\nit must vanish if you betray them,\nso no evidence remains.
 340	message	But I wonder whose world's\ntechnology that is.\nSomething scientific?\nOr something magical?
 341	message	Its connection to the Polyal concerns me too.\nI wonder what's producing the power\nto move between worlds...
 342	message	If only Eve were here, maybe...

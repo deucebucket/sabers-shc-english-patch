@@ -14,7 +14,7 @@ row	column	english
 15	message	How honest of you to admit\nyou can't catch her with your own strength.
 16	message	I just hate hassle.\nIf I accidentally killed her,\nthe client would be mad, y'know?
 17	message	Well, whatever.\nI'll just tell the client you refused\nto hand her over?
-18	message	Then what'll happen to—what was it,\nthe Black Fund? Your organization and boss?
+18	message	Then what'll happen to-what was it,\nthe Black Fund? Your organization and boss?
 19	message	…!!
 20	message	You…!
 21	message	Think whatever you want.\nLiving while picking and choosing my methods\njust isn't Riko's way.
@@ -67,7 +67,7 @@ row	column	english
 72	message	Oh, good for you.\nRiko'll give you a round of applause.
 73	message	More importantly, where's Tifa?\nI don't see her.
 74	message	Before that, hear me out a little.
-75	message	Don't you want to explore the true worth\nof your Void magic—its real purpose?
+75	message	Don't you want to explore the true worth\nof your Void magic-its real purpose?
 76	message	…The letter said if I came alone,\nyou'd return Tifa. There was no condition\nabout listening to any talk.
 77	message	So you won't talk this out peacefully?
 78	message	Let me put it plainly.\nGive Tifa back, now!
@@ -84,7 +84,7 @@ row	column	english
 89	message	I don't care about traps!\nTifa risked her life to save me!
 90	message	I thought I might never even get\nto say thank you! So…!
 91	message	That's enough.\nYou know what happens if you resist, right?
-92	message	Just so you know, Riko hates\nthis kind of barbaric approach, but—\ndon't forget whose fault this is, okay?
+92	message	Just so you know, Riko hates\nthis kind of barbaric approach, but-\ndon't forget whose fault this is, okay?
 93	message	Give Tifa back, you rotten woman!\nIf you do anything weird to Tifa,\nI'll never forgive you!
 94	message	…Seriously pissing me off. Have you really\nlived like that all this time?\nThat doesn't fly here!!
 95	message	Shut up! A self-proclaimed phantom thief\nwho only ever fails has no right\nordering ME around!!
@@ -98,7 +98,7 @@ row	column	english
 103	message	Need Is Algeez…\nBerkana Man Lagoo!
 104	message	// The forgetting spell activates\non the grunt units holding Tifa.
 105	message	A spell!?
-106	message	Who do you think we are?\nBearers of Void—mages.
+106	message	Who do you think we are?\nBearers of Void-mages.
 107	message	Damn it, cut Tiffania to pieces!\nI'll show you!!
 108	message	…???
 109	message	Wh-what!? What's wrong!?
@@ -116,7 +116,7 @@ row	column	english
 123	message	// Allied units appear
 124	message	No way… where were they hiding!?
 125	message	I told you. I'm a mage.
-126	message	Illusion—Louise's spell that shows visions.\nThey must've looked like grass and trees to you!
+126	message	Illusion-Louise's spell that shows visions.\nThey must've looked like grass and trees to you!
 127	message	Olmes!!
 128	message	Who's 'flat as boards' together!\nI had to hold myself back from punching\na hole through you!!
 129	message	Didn't you say a noble doesn't break promises!
@@ -172,7 +172,7 @@ row	column	english
 187	message	I know! This is Tiffania Westwood.\nShe's an elf, and…
 188	message	An elf?
 189	message	Ah! I forgot to hide my ears…
-190	message	Hey, forget the ears—\ncan't you do something about those?
+190	message	Hey, forget the ears-\ncan't you do something about those?
 191	message	Huh?
 192	message	We all come from different worlds and cultures.\nBut if we cherish each other's feelings,\ndifferences are trivial.
 193	message	Shirayuki's right.\nAfter seeing magic, not much surprises me anymore.

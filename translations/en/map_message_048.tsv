@@ -95,9 +95,9 @@ row	column	english
 101	message	Notice from the observation room:\nan unidentified high-speed flying object\nis approaching IS Academy.\nRepresentative cadets with personal IS units\nare ordered to sortie.
 102	message	You're telling us to go investigate...?
 104	message	What? You're saying it's that thing!?
-105	message	That thing—what is it?
-106	message	An unidentified IS that fought indiscriminately\nacross European nations, scattering the seeds\nof conflict—confirmed to have\nthe codename 'Demon'.
-107	message	That thing's coming to IS Academy!?\nI see—we'll have to go...
+105	message	That thing-what is it?
+106	message	An unidentified IS that fought indiscriminately\nacross European nations, scattering the seeds\nof conflict-confirmed to have\nthe codename 'Demon'.
+107	message	That thing's coming to IS Academy!?\nI see-we'll have to go...
 108	message	What kind of guy is it?
 109	message	It indiscriminately attacks and destroys\nanything that approaches.\nIgnores warnings, won't negotiate,\nappears and vanishes like a ghost...\napparently.
 110	message	So once you meet it,\neven surviving is hard for ordinary forces?
@@ -136,7 +136,7 @@ row	column	english
 145	message	Rin! Don't get close!
 146	message	If it slips past us\nwe can't match its speed!!
 148	message	Exactly!\nIf we let it reach IS Academy,\nthere's no telling how much damage\nit'll cause!
-150	message	Trying to ignore me—how dare you!
+150	message	Trying to ignore me-how dare you!
 152	message	No!\nIf we move separately...!
 153	message	You're in the way.
 154	message	// Kei attacks Rin, Cecilia, and Laura. No battle animation.
@@ -161,13 +161,13 @@ row	column	english
 174	message	I can't let Cecilia and the others\ndo all the hard work!
 175	message	I won't let Laura and the others\nlook cool alone!\nI'm a fighting magician,\nnot a princess to be protected!
 176	message	You didn't have to come out anyway!
-177	message	Enough arguing—reform the formation!\nThe four of us will stop the 'Demon' again!
+177	message	Enough arguing-reform the formation!\nThe four of us will stop the 'Demon' again!
 181	message	Roger!
 182	message	Wait for me!\nI'm coming too!!
 183	message	// Houki advances, approaching Kei.
 184	message	Commencing interception and capture.
 185	message	// Kei deploys mass-produced Uchigane near Houki.
-186	message	Wh—!? What!?
+186	message	Wh-!? What!?
 187	message	...
 188	message	It's an Uchigane!
 189	message	No, it's a unit not in the database!
@@ -218,13 +218,13 @@ row	column	english
 236	message	// Houki's Uchigane doesn't move; she is attacked by a mass-produced Uchigane.
 237	message	Ugh! Uchigane!\nIs this your limit?\nCan you really not move anymore!?
 238	message	// A new mass-produced Uchigane appears before Houki
-239	message	Wh—!?
+239	message	Wh-!?
 240	message	...!!!!
 241	message	// The Akatsubaki, packed in a pyramidal package (as in the original), drops from directly above, smashing the mass-produced Uchigane in front of Houki. (If the package is too much, the Akatsubaki alone is fine, but the package would be easier visually)\n// With a 'kweeen! dogoon!' the package falls.
 242	message	Huh...?
 243	message	Heya heya, Houki!\nIt's your big sis!\nYour personal unit just finished,\nso I sent it super-express♪
 244	message	J-just now...?\nSo this is it?
-245	message	A fourth-generation IS surpassing\nall current IS specs in every way—\nits name is 'Akatsubaki'!\nCome on, hop in!
+245	message	A fourth-generation IS surpassing\nall current IS specs in every way-\nits name is 'Akatsubaki'!\nCome on, hop in!
 246	message	O-okay...!
 247	message	// Houki and the Akatsubaki are enveloped in light (IS units do quantum stuff, so the transfer motion is skipped)
 249	message	Watch out!!
@@ -241,7 +241,7 @@ row	column	english
 260	message	!!
 261	message	What? Just now...!?
 262	message	//
-263	message	Personalization and fitting—\nhow about we do it while cleaning up\nthe trash around here?\nA sisterly joint effort!
+263	message	Personalization and fitting-\nhow about we do it while cleaning up\nthe trash around here?\nA sisterly joint effort!
 264	message	Please do...
 265	message	Everyone, I'm on my way now!!
 266	message	// Event CG: the Akatsubaki advances
@@ -250,14 +250,14 @@ row	column	english
 269	message	(Light...\nI can't feel the Uchigane's weight at all)
 270	message	How is it?\nIt moves better than you expected, right?
 271	message	Yes...
-272	message	—I can do it!\nWith this Akatsubaki!
+272	message	-I can do it!\nWith this Akatsubaki!
 273	message	// Event CG off
 274	message	Personalization and fitting complete!\nNow do your best, Houki!
 275	message	Yes.
 276	message	...Interesting.
 277	message	This new power...\nlet me test it against you!
 278	message	// Battle resumes\n// Event when Kei and Houki engage
-279	message	Shinonono-style swordsmanship, dual-wield form—\nthe Jūjin stance...\nCome, let us duel!!
+279	message	Shinonono-style swordsmanship, dual-wield form-\nthe Jūjin stance...\nCome, let us duel!!
 280	message	Data measurement commencing...
 281	message	// Event after Kei and Houki engage
 282	message	Amazing...\nthey're evenly matched...!
@@ -300,7 +300,7 @@ row	column	english
 320	message	(As proof that we fought together,\nI'll leave my ribbon with you.\nIt's nothing much, but please take it...)
 321	message	// Fade to black\n// Background: IS Academy classroom
 322	message	An unexpected powerful enemy appeared.
-323	message	That 'Demon' thing that looks like an IS—\nits pilot looked like a machine too,\nbut what is it?
+323	message	That 'Demon' thing that looks like an IS-\nits pilot looked like a machine too,\nbut what is it?
 324	message	It can't be a machine.\nAn IS absolutely won't move\nwithout a person piloting it.\nThat's just how they are.
 325	message	But it didn't look human.
 326	message	What if it's like\na robot life-form or something, nyo?
@@ -344,7 +344,7 @@ row	column	english
 366	message	It jiggles this much\njust from moving a little...!
 367	message	Ah! My clothes won't fit this body!
 368	message	And this girl never had\nthe concept of underwear, even before.
-369	message	Walking outside dressed like this—\nher screws really are loose.
+369	message	Walking outside dressed like this-\nher screws really are loose.
 370	message	//Meru_end
 371	message	Sheesh~,\nhow do I get this body\nback to normal?
 372	message	...Hm?
