@@ -77,7 +77,7 @@ row	column	english
 79	message	This won't even warm me up!
 80	message	//Player deployment.
 81	message	Rem!
-82	message	Nightmare demons — leave them to us!
+82	message	Nightmare demons - leave them to us!
 83	message	Rem-chan, take Doctor Shinigami!
 84	message	Got it! Everyone, I'm counting on you!
 85	message	//Battle start.\n//Event when Rem engages Doctor Shinigami.
@@ -133,7 +133,7 @@ row	column	english
 135	message	//Event triggers when Black Rem's HP is reduced by 30%.
 136	message	Ugh...!?
 137	message	//Black Rem's and Rem's bodies glow.\n//SE: keeen, a resonance sound.
-138	message	This is... I can feel it!\nPower — dream power — flowing into me!
+138	message	This is... I can feel it!\nPower - dream power - flowing into me!
 139	message	What...? What have I been...?
 140	message	Huh? She's acting strange!
 141	message	Who are you...?
@@ -179,7 +179,7 @@ row	column	english
 181	message	Can you beat Doctor Shinigami now?
 182	message	At least I can fight him evenly.\nAs fellow wielders of dream power.
 183	message	That's good news.\nMii and Kei were problems, but\nDoctor Shinigami was the worst.
-184	message	The undying fiend who appears in dreams to kill pretty girls —\nwe can finally exterminate him.
+184	message	The undying fiend who appears in dreams to kill pretty girls -\nwe can finally exterminate him.
 185	message	So where'd that old man go?
 186	message	He has no intention of fighting here and now.
 187	message	No idea what he wants.

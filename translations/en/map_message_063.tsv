@@ -68,7 +68,7 @@ row	column	english
 80	message	Minazuki-san!? And everyone else too...?
 81	message	Weird, huh?\nKurumi-chan scolded us for staying up late\nand I'm pretty sure we went to sleep...???
 82	message	W-wow, you're right... but why is\neveryone awake?
-83	message	No, we're not awake.\nThis is Tesla-chan's dream—\nto be precise, her nightmare.
+83	message	No, we're not awake.\nThis is Tesla-chan's dream-\nto be precise, her nightmare.
 84	message	Inside a dream!?
 85	message	Yes. Someone seized control of Tesla-chan's dream,\nturned it into a nightmare, and dragged us into it.
 86	message	If it weren't Rem saying it,\nthere's no way I'd believe it.\nBeing dragged into someone's dream...
@@ -140,13 +140,13 @@ row	column	english
 156	message	It was super real!
 157	message	Uuuh, sooo mysterious!
 158	message	No, it was a dream, but it really happened.\nWe were inside Tesla-chan's dream.\nEverything we fought is fact too.
-159	message	It felt so real.\nBut I don't understand —\nhow did we get out of the dream?
+159	message	It felt so real.\nBut I don't understand -\nhow did we get out of the dream?
 160	message	It ended pretty abruptly, nyo.\nWas it because we woke up, nyo?
 161	message	Yeah, but... it's strange.
-162	message	Strange — what do you mean?
+162	message	Strange - what do you mean?
 163	message	We shouldn't have had any way\nto escape a dream ruled by dream power.\nAnd yet, the dream just suddenly ended.
 164	message	So it's not that we beat Black Rem?
-165	message	Right — she couldn't be beaten.\nAs long as she's protected by REM-sleep waves,\nI know better than anyone that she's invincible.
+165	message	Right - she couldn't be beaten.\nAs long as she's protected by REM-sleep waves,\nI know better than anyone that she's invincible.
 166	message	My black self should still be fine.\nAnd yet everyone woke from the dream.\nIf something like that could happen...
 167	message	If it could?
 168	message	It can only mean someone interfered\nfrom outside the dream.
@@ -155,7 +155,7 @@ row	column	english
 171	message	That's...
 172	message	//fade to black\n//Background: the dream world\n//It was Yase who broke Black Rem's power.
 173	message	Good grief, what a handful...
-174	message	Honestly, that black one —\ndoing that to Koto!\nUnbelievable!
+174	message	Honestly, that black one -\ndoing that to Koto!\nUnbelievable!
 175	message	//Yase vanishes.\n//Then Doctor Shinigami appears.
 176	message	Fufufu...
 177	message	//fade to black\n//Background: wherever Mii and the others are (whatever works)\n//Kei and the others are talking.
