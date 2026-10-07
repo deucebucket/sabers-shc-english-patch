@@ -36,7 +36,7 @@ row	column	english
 46	message	Walks upright on two legs, nyu.\nCan sidestep like a crab too, nyu.
 47	message	We were always together, nyu.\nI don't know where it went, nyu.
 48	message	Maybe it's... in your original world?
-49	message	Without Puchiko,\nHokkemirin must be anxious too —\nno doubt about it, nyu.
+49	message	Without Puchiko,\nHokkemirin must be anxious too -\nno doubt about it, nyu.
 50	message	...I should've dragged it along, nyu.
 51	message	Thinking about Hokkemirin\nmakes me sad, nyu.
 52	message	It'll be fine.\nHokkemirin is somewhere safe.
@@ -69,18 +69,18 @@ row	column	english
 85	message	(I don't think she'll catch up...)
 86	message	Pui-pui!
 87	message	(She chased Hokkemirin and came back around...\nShe'd meet it right away going the other way...)
-90	message	Nyuu—!!
-91	message	Nyuu, nyuu—!!
+90	message	Nyuu-!!
+91	message	Nyuu, nyuu-!!
 92	message	Whoa.\nWh-what is... this?\nSomething... weird fell out?
 93	message	Nyu?\nBetter not step on it too much, nyu.
 94	message	It's all goopy, nyu.\nSlimy too, nyu.
 95	message	If something happens from touching it,\nPuchiko can't take responsibility, nyu.
 96	message	It's that dangerous...?\nLooks like it's forming a puddle, too...
 97	message	Nyu.\nLike this, nyu.
-98	message	Nyuuu—!!\nNy-nyuuu—!!
+98	message	Nyuuu-!!\nNy-nyuuu-!!
 99	message	...Nyu.\nThe eye beams won't come out, nyu.
 100	message	Puchiko was training\nher eye beams, nyu.
-101	message	Nyuuu—!!
+101	message	Nyuuu-!!
 102	message	Wh-whoa... something came out again!\nIt's moving!?
 103	message	...The eye beams won't come out, nyu.\nWhen I fail, this comes out, nyu.
 104	message	Dejiko can fire eye beams\nanytime, nyu.
@@ -99,7 +99,7 @@ row	column	english
 123	message	'Nyu,' you say...\nWhat would make her mad...?\nY-you... dummy...
 124	message	Are you stupid, nyu?\nThat won't make me angry, nyu.\nYou're useless, nyu.
 125	message	Power of anger, nyu...\npower of anger, nyu...\nNyu!
-126	message	Nyu, nyuu—!!
+126	message	Nyu, nyuu-!!
 127	message	...It looks like a slime...\nIs it making eye contact with me...?
 128	message	Still no good, nyu?\nI remembered being picked up\nby Murataku, nyu.
 129	message	I thought remembering Murataku,\nwho loves picking Puchiko up,\nwould give me enough anger, nyu...
@@ -117,7 +117,7 @@ row	column	english
 149	message	Strange markings, nyu.\nYou'd understand if you saw them, nyu.
 150	message	They look like nothing else,\nso the names fit perfectly, nyu.
 151	message	They have 'sashisuseso' markings on their backs...?\nThat's unusual...
-152	message	Short for sugar jelly, salt jelly, vinegar jelly —\nsoy-sauce jelly and miso jelly, nyu.
+152	message	Short for sugar jelly, salt jelly, vinegar jelly -\nsoy-sauce jelly and miso jelly, nyu.
 153	message	Sashisuseso... there are FIVE of them!?\nI thought it was one...
 154	message	Nyu.\nCute little kittens, nyu.
 155	message	I wonder how they're doing, nyu.\nAt this rate I can't even check on them, nyu.
@@ -288,7 +288,7 @@ row	column	english
 352	message	Huh? What? Where is this...?\nThe school festival...?\nThe café menu... the hug...
 353	message	Don't know, nyu.\nYou just dreamed it on your own, nyu.\nBig nuisance, nyu.
 354	message	Were you hugging Puchiko\neven in your dream, nyu?\nOutrageous, nyu.
-355	message	The hug... you saw in your dream — how much, nyu?
+355	message	The hug... you saw in your dream - how much, nyu?
 356	message	Huh?
 357	message	Café menus have prices, nyu.\nHow much for the hug, nyu?
 358	message	Nyu. No need to answer, nyu.\nI'll set the price for the hug\nyou actually just gave me too, nyu.
