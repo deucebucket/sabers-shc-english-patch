@@ -33,7 +33,7 @@ row	column	english
 37	message	A warrior needs half a mat to sit and one mat to sleep.\nThere should be a shower, and if it's free I can't complain...\nwait, huh?
 38	message	No way you were sleeping in this same room\ntoo, were you!?
 39	message	S-s-sorry,\nI was sleeping here too...
-40	message	Shameless! Sit right there!\n'At seven, boys and girls don't share a bed' — that's common sense!
+40	message	Shameless! Sit right there!\n'At seven, boys and girls don't share a bed' - that's common sense!
 41	message	Uuuuh,\neven if you tell ME that...!
 43	message	Huh? Whatcha doing?\nSparring?
 44	message	No!
@@ -46,16 +46,16 @@ row	column	english
 51	message	If she's targeted\nby this Demon Sword (Durandal),\nwhy was Shirayuki out walking alone?
 52	message	Umm, I don't really get it, but...\nmaybe the Demon Sword (Durandal)\ndoesn't really exist.
 53	message	Doesn't exist?\nLike a school ghost story or urban legend?
-54	message	Nobody's ever seen it, apparently.\nDoes it exist or not — mystery.
+54	message	Nobody's ever seen it, apparently.\nDoes it exist or not - mystery.
 55	message	So the rumor that Shirayuki's targeted\nis spreading with no basis at all.\nIs that what you're saying?
 56	message	Shirayuki-chan\nwas probably brooding over that.
 57	message	Hey, can't we do something\nfor Shirayuki-chan?
 58	message	Even so, we're outsiders.\nIf we act carelessly\nand complicate things, that'd be bad.
 59	message	Anyway, was it okay to just wander the school\nasking around!?
 60	message	Don't be so stiff!
-61	message	Last time too, Aria-san sent me to buy\n'momoman' and stuff —\ncoming and going was pretty free.
+61	message	Last time too, Aria-san sent me to buy\n'momoman' and stuff -\ncoming and going was pretty free.
 62	message	'Free,' or... I had to go\nor it'd be instant 'ventilation'...
-63	message	Right, this is a school where all students are armed.\nNo need for monitoring — as if it didn't exist.
+63	message	Right, this is a school where all students are armed.\nNo need for monitoring - as if it didn't exist.
 64	message	Thinking about it, 'kidnapping Shirayuki'\nsounds like a silly story,\neven so.
 65	message	There's nowhere safer than here.
 66	message	Nowhere scarier,\neither...
@@ -66,7 +66,7 @@ row	column	english
 72	message	Ah, there she is!\nHey, Shirayuki-chaan!
 73	message	Oh, Haruka-san.\nAnd everyone.
 74	message	Huh, you wear shrine maiden clothes?\nSuits you!
-75	message	Going home in that outfit — did something happen?
+75	message	Going home in that outfit - did something happen?
 76	message	No, after afternoon training,\nI was heading back to change.\nAnyway, what's up? Going out?
 77	message	No.\nWe just heard the Demon Sword (Durandal) rumor,\nand it got me worried...
 78	message	Ah... it's reached\nyour ears too.
@@ -111,7 +111,7 @@ row	column	english
 121	message	Sorry to keep you waiting, everyone!
 122	message	Alright, let's do this!!
 124	message	What's the enemy after?
-125	message	Dunno? Shirayuki-san\nor us — which?
+125	message	Dunno? Shirayuki-san\nor us - which?
 126	message	Could be both.
 127	message	Haha, simple enough!
 128	message	We just beat 'em all!
@@ -146,7 +146,7 @@ row	column	english
 162	message	Um... is something...?
 163	message	No,\nI just thought you fought quite normally.
 164	message	Huh...
-165	message	I'd heard Chou-tei use psychic powers,\nbut you fought without them — that caught my eye.
+165	message	I'd heard Chou-tei use psychic powers,\nbut you fought without them - that caught my eye.
 166	message	My power isn't much.\nThere's no way the Demon Sword (Durandal)\nwould target me.
 167	message	Is that so?
 168	message	Yes...
@@ -199,7 +199,7 @@ row	column	english
 218	message	No need to apologize.\n(When she uses that voice... I can't help\nremembering my sister... mm...)
 219	message	Either way, we must find out whether this\nDemon Sword (Durandal) really exists and what it is.\nWe don't know if it's unrelated to us yet.
 220	message	Speaking of, Hoshiga Shrine, was it?\nIf it's that amazing a shrine,\nmaybe we should go pray there!
-221	message	'I wish I become friends\nwith Shirayuki-san!' — like that!
+221	message	'I wish I become friends\nwith Shirayuki-san!' - like that!
 223	message	And also,\nmay I meet delicious food!\nMay I discover legendary delicacies!
 224	message	And defeat! The Demon Sword (Durandal),\ndon't let me get a stomachache from overeating,\nand, and...!
 225	message	Too many wishes!

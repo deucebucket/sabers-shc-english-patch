@@ -8,16 +8,16 @@ row	column	english
 9	message	Planning an escape... useless.
 10	message	IS won't move for those without aptitude.\nAnd it's not so simple that\nan amateur could operate one?
 12	message	Welcome baaack! How'd the report go?
-14	message	Wh—!? What are you!? Hey, too close!\nBack off!
+14	message	Wh-!? What are you!? Hey, too close!\nBack off!
 17	message	Huh? What's wrong?
 19	message	In your world, do people get that close\nwhen they talk!?
 20	message	Are we that close? We're always\nlike this, right???
 21	message	Ufufu, that's right.
 22	message	Ridiculous... a-anyway!\nThis isn't your world!\nYou should follow our ways!
 23	message	O-okay, got it.
-25	message	You just said "your world" —\nso you admit we're not\nfrom this world?
+25	message	You just said "your world" -\nso you admit we're not\nfrom this world?
 26	message	I'll explain that part.
-27	message	//Fade to black — time passes
+27	message	//Fade to black - time passes
 28	message	I see... so strange incidents happen in this world too...
 29	message	The disappearances and mysterious hostile lifeforms\nyou told us about have apparently been confirmed\nin this world too.
 30	message	(Does that mean [NOEL] or the teacher\nmight have come here...?)
@@ -60,7 +60,7 @@ row	column	english
 71	message	Hmph... well?\nI'm excellent, so I'll even\nbe kind to short-tempered people like you.
 72	message	Excellent, my foot! What about it!
 73	message	If you didn't know, let me inform you.
-74	message	//Event CG: Cecilia, smug-faced, sparkling — "I'm an elite!"
+74	message	//Event CG: Cecilia, smug-faced, sparkling - "I'm an elite!"
 76	message	There is no one anywhere\nas excellent and elegant,\nas splendid and perfect as me?
 77	message	(Whoa...)
 78	message	(She's a natural airhead...)
@@ -91,7 +91,7 @@ row	column	english
 103	message	//Fade to black\n//Background: Corridor\n//Claude wandering, searching for a toilet
 104	message	Ugh... where's the boys' restroom...?\nEverywhere I go there's only girls' restrooms...
 105	message	It's an emergency, so you'll just have to\nuse the girls' restroom (lol
-106	message	You're the one who wants to go in...\nNo way, I was told to stay inconspicuous —\nif I'm found in the girls' restroom...!
+106	message	You're the one who wants to go in...\nNo way, I was told to stay inconspicuous -\nif I'm found in the girls' restroom...!
 107	message	I'd like you to get used to my existence.\nI've been supporting you all this time,\neven while you've lost your memories.
 108	message	Has it been supportive, though...
 109	message	I'm the one who taught you how to make curry, y'know?
@@ -103,10 +103,10 @@ row	column	english
 115	message	You're an evil spirit... definitely.
 116	message	How rude! If I were an evil spirit, I'd go by\nE for EVIL, obviously! I'm J!\nJ for JUSTICE!
 117	message	A champion of justice wouldn't tell me to use\nthe girls' restroom, right...?
-118	message	Anyway, this is no time for this —\nthe restroom! Where's the restroom...?
+118	message	Anyway, this is no time for this -\nthe restroom! Where's the restroom...?
 119	message	//Footsteps running down the corridor.
 120	message	Ugh, bad...!\nI-I'm gonna leak...!!
-121	message	It can't be helped — visit a nearby room\nand ask to be shown the restroom.
+121	message	It can't be helped - visit a nearby room\nand ask to be shown the restroom.
 122	message	I can't do that!
 123	message	Think carefully.\nIf you can't find a restroom\nand have an accident, what happens then?
 124	message	That... would be the worst!
@@ -121,7 +121,7 @@ row	column	english
 133	message	Um... the door... wasn't locked...
 134	message	Haaah!!!!
 136	message	//Event CG off\n//WHAM! One hell of a hit sound\n//Black background
-137	message	What do you think you're doing!? Wanna die!? No — DIE!!
+137	message	What do you think you're doing!? Wanna die!? No - DIE!!
 138	message	(Well, she'd already landed a critical hit\nbefore even asking if he wanted to die...)
 139	message	...
 140	message	(Hellooo, are you alive?)
@@ -146,7 +146,7 @@ row	column	english
 160	message	I transferred to IS Academy today.\nNice to meet you!
 161	message	Chinese...? What business does Ms. Huang\nhave with me?
 162	message	Sorry to get right to it, but I wanna decide\nwho's the strongest first-year.
-163	message	Oh, is that all?\nThe strongest is me, Cecilia Alcott —\ndecided!
+163	message	Oh, is that all?\nThe strongest is me, Cecilia Alcott -\ndecided!
 164	message	Knew you'd say that.\nThen how about a duel for the strongest title?
 165	message	What are you saying? We can't duel\nwithout permission. Besides, it'd be\nnothing but a waste.
 166	message	Huh, running away?\nSo "strongest" is all talk.
@@ -168,7 +168,7 @@ row	column	english
 182	message	She's hot-blooded, I guess...
 183	message	IS national representative candidates\ncarry their country's pride,\nso they're apparently super competitive.
 184	message	What do we do? I feel like we could\njust let them do what they want.
-185	message	But one thing bugs me. Ms. Huang's transfer\nwas actually scheduled for tomorrow —\nshe arrived a day early, apparently.
+185	message	But one thing bugs me. Ms. Huang's transfer\nwas actually scheduled for tomorrow -\nshe arrived a day early, apparently.
 186	message	...Huh, with this timing?
 188	message	//Fade to black\n//Background: IS Academy arena (night)
 189	message	Huh, you didn't run?
@@ -183,7 +183,7 @@ row	column	english
 198	message	A girl who falls for provocation that easily\nneeds to study up!\nKufufu!!
 199	message	//Grunts attack Cecilia. Cecilia counterattacks but damage is minimal. The deployed fake Noise are oddly damage-resistant.
 200	message	What!?\nBlue Tears's attacks aren't working!?
-201	message	Muda muda muda — muuuda~! Kufu!
+201	message	Muda muda muda - muuuda~! Kufu!
 202	message	No way!? This is cheating!
 203	message	It IS cheating?
 204	message	Now, let's get Blue Tears!\nFinish her off!
@@ -214,7 +214,7 @@ row	column	english
 230	message	...What did you just say?
 231	message	Flat...
 232	message	Don't say it! You wanna die!?\nFine, I'll kill you!!
-233	message	//Battle start — Houki cannot sortie\n//Defeating Riko triggers event
+233	message	//Battle start - Houki cannot sortie\n//Defeating Riko triggers event
 234	message	This is it! Give up!
 235	message	Unexpected... nobody told me\nthe Noise would be this weak!
 236	message	(True, only Symphogears should be able\nto kill Noise... what's going on?\nAre they fakes?)
@@ -254,16 +254,16 @@ row	column	english
 271	message	Huh!? What!? Hey!?\nI haven't even introduced myself yet!!
 272	message	//Light spreads\n//Background: Dokoka Town
 273	message	Wh-where is this!? What just happened?\nWhat kind of phenomenon was that!?
-274	message	Explaining takes too long — later.
+274	message	Explaining takes too long - later.
 275	message	Before that...
 276	message	Can I do my intro now?
 277	message	Sorry for the terrible timing, but\nplease...
 278	message	Well, moping won't help!\nI'm Huang Lingyin! I don't really get\nwhat's going on, but nice to meet you!
-279	message	To be completely unfazed in this situation —\nas expected of a fellow representative candidate.
+279	message	To be completely unfazed in this situation -\nas expected of a fellow representative candidate.
 280	message	...Who're you?
 281	message	You don't know THE Cecilia Alcott!?\nMe, England's representative candidate\nand top entrance exam scorer!?
 282	message	Nope. I'm not interested in other countries.
-283	message	Wh—!?
+283	message	Wh-!?
 284	message	You saw my Shenlong, right?\nIf we fought, I'd win.\nSorry, but I'm strong.
 285	message	Are you mocking me? This is why\ntasteless people are so troublesome!
 286	message	Still better than someone who's all airs.
