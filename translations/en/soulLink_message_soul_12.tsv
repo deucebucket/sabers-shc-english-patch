@@ -8,7 +8,7 @@ row	column	english
 10	message	One moment, the laundry's almost done.
 11	message	H-hey, the enemies are almost on us...
 13	message	GO FOR BREAK!\nIt's do-or-die!
-15	message	Wawa, charging in alone —\nreckless as ever.
+15	message	Wawa, charging in alone -\nreckless as ever.
 17	message	Multiple noise-type enemies approaching to surround us.\nClarissa, I need orders.
 18	message	Awawawa... gotta hurry...
 19	message	Sleepy-nyu... night-night-nyu...
@@ -22,7 +22,7 @@ row	column	english
 29	message	//fade to black
 30	message	Uuuh, that was awful...
 32	message	...Thanks for the tactical orders. Ending transmission.
-33	message	Ufu, ufufufu, surrounded by tons of enemies,\ndriven into a corner — ehehe.
+33	message	Ufu, ufufufu, surrounded by tons of enemies,\ndriven into a corner - ehehe.
 34	message	//sleeping breaths
 35	message	...zzz...
 36	message	Sorry to keep you waiting! Where to!?

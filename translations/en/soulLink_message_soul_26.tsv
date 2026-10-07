@@ -4,7 +4,7 @@ row	column	english
 5	message	Amaaazing!
 7	message	Hm? What're you guys making a racket about?
 11	message	Oh, Chris-san! Look! It's amazing!
-12	message	The stones Mion-san throws\nhop across the water\nlike bunnies — pyon-pyon!
+12	message	The stones Mion-san throws\nhop across the water\nlike bunnies - pyon-pyon!
 13	message	She's teaching me too,\nbut I can't get it right.
 14	message	Heheh, it's called mizukiri!
 16	message	Whoa, nice...\nUh, like this, like this...
@@ -19,12 +19,12 @@ row	column	english
 33	message	A contest?\nHaha, that wasn't the plan,\nbut I can't back down from a challenge.
 34	message	I'm fine with it~?
 35	message	But...\nthe loser spends the whole day\nin an embarrassing cosplay?
-36	message	Oh, you're on!\nOkay, so...\nthat branch floating over there —
+36	message	Oh, you're on!\nOkay, so...\nthat branch floating over there -
 37	message	whoever hits it with the most stones wins!
-38	message	Oh, nice!\nI won't lose —\nlet's do 10 throws each!
+38	message	Oh, nice!\nI won't lose -\nlet's do 10 throws each!
 39	message	Okay! I've got confidence in that one!
 44	message	Yes! Hit it again! That's three!
-45	message	Oh, not bad —\ncan't let you beat me either.
+45	message	Oh, not bad -\ncan't let you beat me either.
 46	message	Ngh...
 47	message	Hit! That ties me for first!\nChris has zero!\nBetter try hard or it's cosplay for you.
 48	message	Mrgh...
@@ -44,7 +44,7 @@ row	column	english
 69	message	Ahahaha!\nOh man, that's rich!!\nRules? What rules!
 70	message	Heehee. Okay okay, fine!\nWe'll call this one Chris's win.
 71	message	Y-yeah, as long as you get it... so,\nthe cosplay...
-72	message	So\nthat's one win for me and one for Chris —\nwe'll settle it another time!
+72	message	So\nthat's one win for me and one for Chris -\nwe'll settle it another time!
 73	message	I won't lose next time!
 74	message	Oh? Ooh! I ain't losin'!
 75	message	Hey hey! Next let's do a footrace!
@@ -56,8 +56,8 @@ row	column	english
 81	message	Kuuuh! I ain't ever losing!!
 83	message	Huh? Mion-san, you dropped something.
 84	message	Th-that leotard\nwith a swan attached at the crotch...\nwhat IS that...
-85	message	Oops, my bad, my bad —\ndropped it.
+85	message	Oops, my bad, my bad -\ndropped it.
 86	message	W-wait... no way...\nTHAT's the cosplay...?
 87	message	Ahahaha, I'm getting all excited!
-88	message	Fufufu, Chris wearing THIS~ —\ncan't wait.
+88	message	Fufufu, Chris wearing THIS~ -\ncan't wait.
 89	message	Why is everyone assuming I'M gonna lose...\nno wait, that's not even the point...\nhey... HEY, listen to meeee!
