@@ -15,9 +15,9 @@ Extraction / repack scripts. You bring your own dump; no game data lives here.
 ## Full build pipeline (from your own dump)
 
 ```
-# 1. extract the original CSVs
-python3 tools/shc_cpk.py ...            # see script help; decompress members
-# 2. merge the English text
+# 1. extract the original CSVs (bulk: loop get_files() + decompress;
+#    shc_cpk.py extract handles one member: shc_cpk.py extract <cpk> <path> -o out)
+# 2. merge the English text (CSVs may sit in subdirectories; matched by stem)
 python3 tools/merge_tsv.py translations/en <extracted csv dir> <merged csv dir>
 # 3. repack
 python3 tools/shc_repack.py ShcPack.cpk out.cpk replacements.json
@@ -29,7 +29,9 @@ python3 tools/shc_cpk_check.py out.cpk --orig ShcPack.cpk
 `row/column/english` cells back into the corresponding CSV, preserving BOM,
 line endings and every untouched cell. It understands both the English headers
 the patched CSVs carry (`Message`, `Shortened Message`) and the original
-Japanese ones (`メッセージ`, `短縮時メッセージ`).
+Japanese ones (`メッセージ`, `短縮時メッセージ`). It exits non-zero if any
+TSV cannot be merged cleanly, so a build pipeline stops instead of shipping
+a half-merged CPK.
 
 ## Build + gate (do not ship a CPK that fails the gate)
 

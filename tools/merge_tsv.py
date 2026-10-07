@@ -11,11 +11,19 @@ means a real line break inside the cell.)
 
 Message columns are detected exactly like extract_english.py: within the first
 6 rows, a header whose '#' stripped text is in {'Message', 'Shortened Message',
-'\u30e1\u30c3\u30bb\u30fc\u30b8\u672c\u6587'}; 'Shortened Message' maps to the
-'short' column, the others to 'message'.
+'メッセージ本文', 'メッセージ', '短縮時メッセージ'}; 'Shortened Message' and
+'短縮時メッセージ' map to the 'short' column, the others to 'message'. The
+Japanese headers are the ones in untouched dumps; the English ones are what
+the patched CSVs (that the public TSVs were extracted from) carry.
+
+The CSV for a TSV is found by stem: <csv_dir>/<name>.csv, or recursively
+<csv_dir>/**/<name>.csv if not found at the top level (ambiguous matches
+are reported and skipped).
 
 Usage:
     python3 merge_tsv.py <translations/en dir> <extracted csv dir> <out dir>
+
+Exits non-zero if any TSV could not be merged cleanly.
 """
 import csv
 import io
@@ -99,15 +107,31 @@ def merge_one(tsv_path, csv_path, out_path):
     return applied, '; '.join(warnings)
 
 
+def find_csv(csv_dir, stem):
+    """Locate <stem>.csv under csv_dir: top level first, then recursive.
+
+    Returns (path, None) on a unique match, (None, reason) otherwise.
+    """
+    direct = csv_dir / (stem + '.csv')
+    if direct.exists():
+        return direct, None
+    matches = sorted(csv_dir.rglob(stem + '.csv'))
+    if len(matches) == 1:
+        return matches[0], None
+    if not matches:
+        return None, 'no matching csv'
+    return None, 'ambiguous csv match: %s' % ', '.join(str(m) for m in matches)
+
+
 def main(tsv_dir, csv_dir, out_dir):
     tsv_dir, csv_dir, out_dir = Path(tsv_dir), Path(csv_dir), Path(out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
     total_files = total_cells = 0
     problems = []
     for tsv in sorted(tsv_dir.glob('*.tsv')):
-        csv_path = csv_dir / (tsv.stem + '.csv')
-        if not csv_path.exists():
-            problems.append('%s: no matching csv' % tsv.name)
+        csv_path, err = find_csv(csv_dir, tsv.stem)
+        if err:
+            problems.append('%s: %s' % (tsv.name, err))
             continue
         n, warn = merge_one(tsv, csv_path, out_dir / (tsv.stem + '.csv'))
         total_files += 1
@@ -119,6 +143,8 @@ def main(tsv_dir, csv_dir, out_dir):
         print('WARN:', p)
     if len(problems) > 20:
         print('... and %d more warnings' % (len(problems) - 20))
+    if problems:
+        sys.exit(1)
 
 
 if __name__ == '__main__':
