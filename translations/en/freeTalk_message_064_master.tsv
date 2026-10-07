@@ -5,7 +5,7 @@ row	column	english
 7	message	It's greasy and high-calorie,\nand high blood pressure'll go *chiiin* on you.
 8	message	*Chiiin*... you mean kickin' the bucket?\nIsn't that exaggeratin' a bit...?
 9	message	It's not, y'know.\nMy old research in magical health studies\nproved it!
-10	message	Quit eatin' nothin' but junk food —\nyou gotta eat healthier,\nor it's N-O G-O-O-D☆
+10	message	Quit eatin' nothin' but junk food -\nyou gotta eat healthier,\nor it's N-O G-O-O-D☆
 11	message	Is it really that bad for you?
 12	message	Geez! You don't even know that?\nI'm pout-poutin'. It's all calories with\nbasically zero minerals or vitamins.
 13	message	Once in a while is fine, but\novereatin' is a fierce OUT♪
@@ -17,7 +17,7 @@ row	column	english
 19	message	Sorry sorry.\nIf so, I said somethin' bad.
 20	message	N-No, I'm not~.
 21	message	Tch, you're not...\nwell then, straighten up\nand act sharp!
-22	message	A teenage boy in his freshest, juiciest years\nbein' all wishy-washy —\nyou'll really turn into a loser!
+22	message	A teenage boy in his freshest, juiciest years\nbein' all wishy-washy -\nyou'll really turn into a loser!
 23	message	'I will become manly!\nI want girls to like me!\nOkay! Repeat after me☆'
 24	message	Huh? Um... well then...\nI... I wanna be popular...
 25	message	Kyaha☆\nBlushin' and so cuuute!!
@@ -50,7 +50,7 @@ row	column	english
 60	message	I'll even teach you\nmagical talk techniques♪
 61	message	But jumpin' straight to funny stories\nis way above your level.
 62	message	Today I'll impart\nthe basics☆
-63	message	So first — when talkin' to people,\nwhat's the most important thing?\nCan you guess? Guess?
+63	message	So first - when talkin' to people,\nwhat's the most important thing?\nCan you guess? Guess?
 64	message	Huh? I don't know...
 65	message	Geeez! Think properly.\nDunderheads who don't\nare gettin' punished.
 66	message	It's not hard.\nFine, I'll just tell you the answer.
@@ -60,14 +60,14 @@ row	column	english
 70	message	U-Um...\nNice weather today, huh.
 71	message	Uhn!?\nJust bein' looked in the eye like this\nmakes such a difference~☆
 72	message	That's pretty obviously fake...
-73	message	That's how you do it — always try to\nlook people in the eye when you talk.
+73	message	That's how you do it - always try to\nlook people in the eye when you talk.
 74	message	(Hmm hmm... I see... I never\nnoticed before, but, well well...\na serious face is kinda nice♪)
 75	message	Huh? What is it?\nPeerin' into my face all of a sudden...
 76	message	No no, you're pretty hot♪\nYou're about to enter\nmy strike zone☆
 77	message	W-Wait... puttin' the moves on\nsomeone student-aged is no good!\nMy-chin... mgmnguu.
 80	message	You dodged eye contact too, teach?
 81	message	Oh my?\nGeez, you mustn't point out\na girl's little moments.
-84	message	You're such a— ...!?\nBut you're older than me... guh!?
+84	message	You're such a- ...!?\nBut you're older than me... guh!?
 85	message	Oh my?\nWhat's wrong?
 86	message	Naughty mouths get zipped zipped.\nPout-pout☆
 89	message	Well, keep it up like that♪
@@ -106,7 +106,7 @@ row	column	english
 131	message	Come on, Gloomy Man♪\nCome closer to me... closer...
 132	message	Don't... hold back...,\ncome on... closer...
 133	message	W-W-Wait!\nTh-That's impossible for me.\nAh! Behind you!
-134	message	Tryin' to divert my gaze like that\nto escape — you'll never be popular\nwith girls that way~.
+134	message	Tryin' to divert my gaze like that\nto escape - you'll never be popular\nwith girls that way~.
 135	message	N-No!\nSomeone's stealin' 'em.\nThe supplements... was it?
 136	message	Gabeen!!\nM-My supplemeents!!
 137	message	Hold it right there.\nWhoever you are,\nstooop!
@@ -122,8 +122,8 @@ row	column	english
 150	message	Bzzt! The answer is swamp wartfrog~☆
 151	message	Frog!? *cough cough*\nDon't feed me weird stuff!
 152	message	It's not weird.\nIt's a proper ingredient.
-153	message	Since Gloomy Man doesn't know,\nI'll tell you — it's even used\nin full-course meals. Forgot which country, though.
-154	message	Low in energy but\nhigh in protein — real good stuff.
+153	message	Since Gloomy Man doesn't know,\nI'll tell you - it's even used\nin full-course meals. Forgot which country, though.
+154	message	Low in energy but\nhigh in protein - real good stuff.
 155	message	And they say it's even good\nfor preventin' lifestyle diseases!
 156	message	It's the perfect ingredient\nto fix a body ruined by\nnothin' but junk food☆
 157	message	I love delicacies and stuff,\nso after lookin' around all over,\nI ended up at frogs.
@@ -133,7 +133,7 @@ row	column	english
 161	message	You gotta become a cool Gloomy Man♪
 164	message	...Can I really do it?
 165	message	Give up and you're a confirmed loser☆
-166	message	Don't fear failure — believe in yourself more.
+166	message	Don't fear failure - believe in yourself more.
 169	message	A cool... gloomy guy?
 170	message	There's demand for that♪\nDon't think, just go, young one!
 173	message	Now that you get it,\neat up, eat up☆
@@ -146,11 +146,11 @@ row	column	english
 180	message	Hm!? Did I say somethin' weird?\nWhy's your face all twitchy?
 181	message	Is... this really health food?
 182	message	Geeez, are you doubting your teacher?
-183	message	Not eatin' food a girl worked hard\nto make — you can't call yourself\na man!
-184	message	At times like this, just silently put it in your mouth\nand say 'delicious' —\nthat's all you gotta do!
+183	message	Not eatin' food a girl worked hard\nto make - you can't call yourself\na man!
+184	message	At times like this, just silently put it in your mouth\nand say 'delicious' -\nthat's all you gotta do!
 185	message	If you wanna be popular, silently eat it all!
 186	message	Guh... o-okay!\n*mun chomp*...\n...D-Delicious!
-187	message	See, see?\nNot just the looks —\nthe taste is outstanding.
+187	message	See, see?\nNot just the looks -\nthe taste is outstanding.
 188	message	My girl-power's amazin', right?\nGood thing I dabbled a bit\nin magical patisserie♪
 189	message	With this, Gloomy Man's\nhead over heels for me?
 190	message	Head over heels...?
@@ -178,7 +178,7 @@ row	column	english
 214	message	M-May I read your palm...?\nYour right hand, if you please?
 215	message	Ehh, I'm a little\nembarrassed, but...\nokay, I'll let you~♪
 216	message	So? Sooo?\nDoes it look like I'll get a boyfriend?
-217	message	Um, yes — boyfriends will appear in overflowin' numbers, and you'll\nspend your twilight years tearin' through 'em and tossin' 'em aside, over and over.
+217	message	Um, yes - boyfriends will appear in overflowin' numbers, and you'll\nspend your twilight years tearin' through 'em and tossin' 'em aside, over and over.
 218	message	Hmm, somethin' about that bugs me,\nbut I guess it's fine.
 221	message	...That's just how it is, huh?
 222	message	That's right.\nProof you've climbed the stairs to adulthood.
@@ -199,7 +199,7 @@ row	column	english
 244	message	A-are you okay? Have you seen a doctor?
 245	message	Too bad☆ A doctor can't cure this.
 246	message	Huh? What do you mean?
-247	message	Hmm, in my case tokimeki — that fluttery feeling — is\nmy energy source, so when I run low on it,\neverything just stops working right.
+247	message	Hmm, in my case tokimeki - that fluttery feeling - is\nmy energy source, so when I run low on it,\neverything just stops working right.
 248	message	If someone said something to give me\nthat fluttery feeling, I'd perk right up~.
 249	message	That's it! Today I'll teach you\nMagical Dandyism☆
 250	message	This is a secret technique.\nIf you use it at the wrong moment,\nit'll be a total disaster.
@@ -211,7 +211,7 @@ row	column	english
 256	message	Okay then...\nRepeat after me.
 257	message	"No one's ever escaped me...\nExcept the ladies."\nOkay! Your turn!
 258	message	N-no one's ever escaped me...\nexcept the ladies... okay, your turn...
-259	message	Whoa☆\nYou don't need to repeat the 'your turn' part, you know?\nGoing for the corny gag — color me surprised☆
+259	message	Whoa☆\nYou don't need to repeat the 'your turn' part, you know?\nGoing for the corny gag - color me surprised☆
 260	message	Next up.\n"Only I am reflected in your eyes."
 261	message	O-only I am reflected in your eyes...\nUm... what is this even about?
 262	message	It's fine, it's fine.\nThat was great☆
@@ -246,7 +246,7 @@ row	column	english
 300	message	I'm sure you'll love it.\nIt's Sensei's special secret full course.
 301	message	A girl is inviting you, so\nabsolutely no standing me up and embarrassing me☆
 304	message	Yes, understood.\nI'll look forward to the full course.
-305	message	Obedient — very good.
+305	message	Obedient - very good.
 308	message	Since you're offering...\nit'd be a shame to waste the food you prepared, so I'll go.
 309	message	Do you not want to...?\nSensei is... super shocked!!
 310	message	Then I'll give Mr. Gloom\nthe most amazing hospitality\nyou've ever seen!
@@ -276,7 +276,7 @@ row	column	english
 341	message	Y-yeah, I can tell... from your outfit.
 342	message	Ehehe. So? What do you think?
 343	message	C-cute...
-344	message	Honestly, calling me cute~ty —\nyou just had to say the truth♪
+344	message	Honestly, calling me cute~ty -\nyou just had to say the truth♪
 345	message	Now, feast your eyes on the feast I prepared!
 346	message	Nya-nya~n☆ The full course has arrived~☆
 347	message	That looks amazing!\nBut... how healthy is it?\nYou've been watching your health, after all...
