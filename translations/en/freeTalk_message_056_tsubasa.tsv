@@ -8,8 +8,8 @@ row	column	english
 11	message	...Well, something like that.
 12	message	(Huh, which is it?)
 13	message	A little patrol.\nEven in town,\ndanger isn't out of the question.
-14	message	Taking the lead sounds nice,\nbut that's all I can do.\nMy duty as a guardian — no, a warrior.
-15	message	As expected...\nOh, right — thank you for the other day.
+14	message	Taking the lead sounds nice,\nbut that's all I can do.\nMy duty as a guardian - no, a warrior.
+15	message	As expected...\nOh, right - thank you for the other day.
 16	message	Wh-what are you talking about?
 17	message	When I messed up in battle\nand you covered for me.
 18	message	Ah...\nI feel like something like that happened.
@@ -37,7 +37,7 @@ row	column	english
 49	message	It's not that... the problem is me.
 50	message	Th-that is...\nI'm not very good with people.
 51	message	Really...?\nBut you're always briskly leading everyone.
-52	message	That's me on the battlefield —\nKazanari Tsubasa the warrior.
+52	message	That's me on the battlefield -\nKazanari Tsubasa the warrior.
 53	message	In battle I'm fired up too.\nBut normally I'm clumsy...
 54	message	I just can't navigate social stuff well.\nThat's why I'm often alone like this, right?
 57	message	That's... surprising.\nI thought you were the beloved-by-all type...
@@ -52,7 +52,7 @@ row	column	english
 70	message	(Huh... Tsubasa has a cute side too.)
 71	message	So a boy like you\nis harder for me to approach\nthan Noise.
 72	message	(Ehh...?)
-73	message	Anyway, please understand —\nit's not that I dislike you.
+73	message	Anyway, please understand -\nit's not that I dislike you.
 74	message	...You look relieved.\nI'm sorry if I offended you.
 75	message	Well then, I'll be going.\nTonight's moon is perfect\nfor a leisurely stroll, thinking of tomorrow.
 77	message	So right now I'm on the same level as Noise...\nComplicated...
@@ -60,9 +60,9 @@ row	column	english
 81	message	Who's there!!
 82	message	Sorry, sorry, sorry
 83	message	Oh...?
-84	message	I'd sensed someone for a while —\nit was you.\nSorry to startle you.
+84	message	I'd sensed someone for a while -\nit was you.\nSorry to startle you.
 85	message	I'm sorry, I didn't mean to spy...
-86	message	No, it's fine.\nSinging is my livelihood —\nnothing to be embarrassed about being seen.
+86	message	No, it's fine.\nSinging is my livelihood -\nnothing to be embarrassed about being seen.
 87	message	Right, you're a singer, Tsubasa.\nYou're really good.
 88	message	Thanks.\nI can't get proper lessons right now,\nso I want to practice even a little.
 89	message	A student and a singer, and fighting Noise...\nthat's admirable.
@@ -92,11 +92,11 @@ row	column	english
 121	message	I couldn't help trembling...\nhearing it up close, a singer's voice is incredible.
 122	message	Fufu, thanks.\nI'm happy I got to sing full-out after so long.
 123	message	After all, a song only lives\nwhen someone hears it.
-124	message	When all I do is fight,\nI tend to forget —\nbut I am a singer too.
+124	message	When all I do is fight,\nI tend to forget -\nbut I am a singer too.
 125	message	I almost feel bad\nhogging this all to myself.
-126	message	It's fine —\nhaving a listener stimulates me too.
-127	message	In return, if I may —\ncan I ask your impressions?
-128	message	Don't hold back.\nThere must be something — something I could do better.
+126	message	It's fine -\nhaving a listener stimulates me too.
+127	message	In return, if I may -\ncan I ask your impressions?
+128	message	Don't hold back.\nThere must be something - something I could do better.
 129	message	Put like that... hmm...\nSomething does nag at me.
 130	message	Oh? What is it?
 131	message	N-no complaints!\nIt's just...\nsomething that might make it even better.
@@ -117,7 +117,7 @@ row	column	english
 150	message	Eek, sorry!
 153	message	...I'm sorry.\nI got carried away.
 154	message	But whatever your opinion is,\nI'll take it seriously.
-155	message	That dissonance you felt —\nI'd be glad if you told me next time.
+155	message	That dissonance you felt -\nI'd be glad if you told me next time.
 156	message	Yes, I'll think about it too.
 159	message	Tsubasa!
 160	message	That look...\nCould it be about the other day?
@@ -135,12 +135,12 @@ row	column	english
 174	message	No need to hesitate.\nI'll lend an ear to any harsh words.
 175	message	Kazanari Tsubasa's convictions aren't so fragile\nthey'd waver from that.
 176	message	...Understood. Then I'll tell you.
-177	message	Your singing isn't bad — it's perfect.\nThere's nothing wrong with it.
+177	message	Your singing isn't bad - it's perfect.\nThere's nothing wrong with it.
 178	message	What do you mean?\nThen what is it...
 179	message	It's BECAUSE it's perfect!\nThere's something missing!
 180	message	Wh-what is it!?
 181	message	In short, it's this...
-182	message	As a woman, as a singer —\nyou have no openings!
+182	message	As a woman, as a singer -\nyou have no openings!
 183	message	N-no openings...!?\nIsn't that a good thing?
 184	message	I've always disciplined myself and pursued perfection,\nso as to be beyond reproach...
 185	message	As a warrior, sure...\nBut as a woman?
@@ -158,7 +158,7 @@ row	column	english
 199	message	Yes, truly.\nI can't thank you enough\nfor showing me a new possibility.
 202	message	Maybe I overstepped...\nIt's just an amateur's opinion,\nso don't take it too seriously.
 203	message	You listened to my singing seriously.\nThat's exactly why\nI'll listen to your opinion.
-206	message	From now on, I — Kazanari Tsubasa —\nwill retrain myself,\nto be reborn...
+206	message	From now on, I - Kazanari Tsubasa -\nwill retrain myself,\nto be reborn...
 207	message	I'll take my leave for today...
 209	message	(I passed on the advice J gave me,\nbut... was that really okay...)
 212	message	S-sorry I'm late.
@@ -171,7 +171,7 @@ row	column	english
 219	message	(She dodged that...\nTsubasa seems different today, somehow...?)
 222	message	Whew, that was sloppy.
 223	message	*Clap clap clap*! Th-that was amazing!
-224	message	But it felt different from usual —\nisn't this that Japanese thing called 'enka'?
+224	message	But it felt different from usual -\nisn't this that Japanese thing called 'enka'?
 225	message	Oh, you know about it.
 226	message	It's a different style from usual...\nI thought it might be nice\nfor a change...
 227	message	How am I today?
@@ -209,7 +209,7 @@ row	column	english
 272	message	Huh...?
 273	message	You'd encourage even someone like me...?\nYou...
 274	message	But what should I do?\nEven I don't want to end up\nas a half-baked Kazanari Tsubasa.
-275	message	You don't have to force yourself.\nThe way you're a little hard to approach,\nyour earnestness, your nobility — those are real charms of yours.
+275	message	You don't have to force yourself.\nThe way you're a little hard to approach,\nyour earnestness, your nobility - those are real charms of yours.
 276	message	But if you just... reach out to everyone a little,\nmaybe something will change?
 277	message	If I do that, I can get closer\nto the ideal version of myself...?
 278	message	Reaching out from my side, huh...\nMaybe I really was the one building those walls.
