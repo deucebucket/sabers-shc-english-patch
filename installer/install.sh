@@ -18,6 +18,8 @@ if xdelta3 -d -f -s "$T/ShcPack.cpk.original" "$HERE/patch_files/ShcPack.cpk.xde
  && xdelta3 -d -f -s "$T/hash.csv.original" "$HERE/patch_files/hash.csv.xdelta" "$T/hash.csv" \
  && [ "$(md5 "$T/ShcPack.cpk")" = ba93cf943333aec995a00a09b7492b79 ]; then
   echo "DONE! The game is now in English. Start it, and if it asks to install data, say yes."
+  echo "Switching from an older patch build? Delete the installed game data first"
+  echo "(dev_hdd0/game/BLJS10244-INSTALL), or the old build keeps running."
 else
   cp "$T/ShcPack.cpk.original" "$T/ShcPack.cpk"; cp "$T/hash.csv.original" "$T/hash.csv"
   echo "[X] Patching failed; your original files were put back."; exit 1

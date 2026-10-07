@@ -42,6 +42,9 @@ ON RPCS3 (PC emulator):
     It's usually where you put the game, or
     RPCS3\dev_hdd0\disc\<game> or RPCS3\games\<game>.
   - The first time it starts, the game "installs data". Say YES and let it finish.
+  - SWITCHING FROM AN OLDER PATCH BUILD? The game runs the CPK from its
+    installed data, so delete dev_hdd0\game\BLJS10244-INSTALL first,
+    or you will keep playing the old build's text.
 
 ON A REAL PS3 (CFW or HEN, with webMAN or multiMAN):
   1. Patch the game on your PC first (the Windows steps above).
@@ -50,6 +53,9 @@ ON A REAL PS3 (CFW or HEN, with webMAN or multiMAN):
      (over FTP or USB). Replace the old ones.
   3. If you already played before patching, delete the game's installed
      data first: XMB > Game > Game Data Utility > Super Heroine Chronicle.
+     Do this EVERY time you switch patch builds, too: the game runs the CPK
+     from the installed data (/dev_hdd0/game/BLJS10244-INSTALL), so a stale
+     install keeps serving the old build's files.
   4. Start the game. When it says it's installing data, let it finish.
 
 

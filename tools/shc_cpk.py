@@ -212,14 +212,47 @@ def cmd_extract(path, target, out):
     sys.exit('not found: %s' % target)
 
 
+
+
+def cmd_tocinfo(path):
+    """Dump @UTF schemas: CPK header, TOC, and ETOC if present.
+
+    Diagnostic for the issue #5 repacker gap (per-file checksum not updated):
+    run against the real ShcPack.cpk to see every column name and storage
+    type, so a checksum/CRC field can be identified by name. It does not
+    interpret the values, it only lists the schema.
+    """
+    with open(path, 'rb') as fh:
+        data = fh.read()
+    assert data[:4] == b'CPK ', 'not a CPK'
+    hdr = read_chunk(data, 0, b'CPK ')
+    info = hdr.rows[0]
+    print('CPK header columns:')
+    for col in hdr.columns:
+        print('  %-16s storage=%#04x' % (col['name'], col['flags'] & 0xF0))
+    toc = read_chunk(data, info.get('TocOffset'), b'TOC ')
+    print('TOC columns (%d rows):' % toc.num_rows)
+    for col in toc.columns:
+        print('  %-16s storage=%#04x' % (col['name'], col['flags'] & 0xF0))
+    etoc_off = info.get('EtocOffset')
+    if etoc_off and info.get('EtocSize'):
+        etoc = read_chunk(data, etoc_off, b'ETOC')
+        print('ETOC columns (%d rows):' % etoc.num_rows)
+        for col in etoc.columns:
+            print('  %-16s storage=%#04x' % (col['name'], col['flags'] & 0xF0))
+    else:
+        print('no ETOC chunk')
+
 if __name__ == '__main__':
     if len(sys.argv) < 3:
-        sys.exit('usage: shc_cpk.py list|extract <cpk> [path] [-o out]')
+        sys.exit('usage: shc_cpk.py list|extract|tocinfo <cpk> [path] [-o out]')
     cmd = sys.argv[1]
     if cmd == 'list':
         cmd_list(sys.argv[2])
     elif cmd == 'extract':
         out = sys.argv[5] if len(sys.argv) > 5 and sys.argv[4] == '-o' else 'out.bin'
         cmd_extract(sys.argv[2], sys.argv[3], out)
+    elif cmd == 'tocinfo':
+        cmd_tocinfo(sys.argv[2])
     else:
         sys.exit('unknown command: %s' % cmd)

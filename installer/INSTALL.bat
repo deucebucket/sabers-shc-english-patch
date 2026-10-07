@@ -57,6 +57,8 @@ echo   DONE! The game is now in English.
 echo  ==================================================
 echo   Next: start the game. If it asks to install data,
 echo   say yes and let it finish.
+echo   Switching from an older patch build? Delete the game's installed
+echo   data first (Game Data Utility), or the old build keeps running.
 goto :done
 
 :patchfail

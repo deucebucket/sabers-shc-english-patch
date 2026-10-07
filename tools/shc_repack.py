@@ -14,6 +14,7 @@ import json
 import os
 import struct
 import sys
+import zlib
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from shc_cpk import decrypt_utf, UTFReader, read_chunk
@@ -96,6 +97,22 @@ def choose_storage(raw):
     return comp
 
 
+def find_checksum_column(toc):
+    """Name of a per-file checksum column in the TOC, or None.
+
+    Some CRI packers record a per-file CRC in the TOC. The game does not
+    verify it (v3 shipped with stale values and runs fine apart from the
+    unrelated issue #3), but a repacker should keep it accurate. Confirm the
+    field with `shc_cpk.py tocinfo orig.cpk` before trusting this: it assumes
+    CRC32 over the stored (possibly CRILAYLA-compressed) member bytes.
+    """
+    for col in toc.columns:
+        n = col['name'].lower()
+        if 'crc' in n or 'checksum' in n:
+            return col['name']
+    return None
+
+
 def patch_u32(blob, off, val):
     return blob[:off] + struct.pack('>I', val) + blob[off + 4:]
 
@@ -139,7 +156,7 @@ def repack(orig_path, replacements, out_path):
 
     # --- build new content area ---
     new_content = bytearray()
-    new_rows = []  # (FileOffset, FileSize, ExtractSize)
+    new_rows = []  # (FileOffset, FileSize, ExtractSize, stored_bytes_or_None)
     cur = content_off
     for j, r in enumerate(toc.rows):
         ipath = ((r.get('DirName') or '') + '/' + (r.get('FileName') or '')).lstrip('/')
@@ -160,18 +177,35 @@ def repack(orig_path, replacements, out_path):
         new_content += b'\x00' * pad
         cur += pad
         # TOC FileOffset is relative to add_off (reader does FileOffset+add_off)
-        new_rows.append((cur - add_off, len(comp), extract_size))
+        new_rows.append((cur - add_off, len(comp), extract_size,
+                         comp if ipath in replacements else None))
         new_content += comp
         cur += len(comp)
 
     # --- patch TOC @UTF in place ---
     toc_new = toc_dec
-    for j, (foff, fsize, esize) in enumerate(new_rows):
+    crc_name = find_checksum_column(toc)
+    crc_warned = False
+    if crc_name:
+        print('TOC checksum column: %s (patching CRC32 of stored bytes)' % crc_name)
+    for j, (foff, fsize, esize, stored) in enumerate(new_rows):
         for col, val, patch in (('FileOffset', foff, patch_u64),
                                 ('FileSize', fsize, patch_u32),
                                 ('ExtractSize', esize, patch_u32)):
             off, typ = toc_offsets[(j, col)]
             toc_new = patch(toc_new, off, val)
+        if crc_name and stored is not None:
+            off, typ = toc_offsets[(j, crc_name)]
+            t = typ & 0x0F
+            crc = zlib.crc32(stored) & 0xFFFFFFFF
+            if t in (0x04, 0x05):
+                toc_new = patch_u32(toc_new, off, crc)
+            elif t in (0x06, 0x07):
+                toc_new = patch_u64(toc_new, off, crc)
+            elif not crc_warned:
+                print('warning: %s has unexpected type %#x; leaving checksum unpatched'
+                      % (crc_name, typ))
+                crc_warned = True
     assert len(toc_new) == len(toc_dec)
     toc_enc = decrypt_utf(toc_new)  # XOR is symmetric
 
