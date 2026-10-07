@@ -8,7 +8,7 @@ row	column	english
 10	message	Shirayuki, do you remember me?
 11	message	Yeah! I've got the explanation for everyone\nall organized in my head!
 12	message	Let's hurry. The sooner we move,\nthe less time the enemy gets!
-13	message	It's true — there are people who know\nabout Rika-chama.
+13	message	It's true - there are people who know\nabout Rika-chama.
 14	message	I believe in Rika.\nThey must all be good people.
 15	message	Lots of cute girls, just sis's type.
 16	message	Mion, Satoko, and Shion too…
@@ -28,8 +28,8 @@ row	column	english
 31	message	Thank you…
 32	message	Nipaa~☆
 33	message	So, what are our countermeasures\nagainst the enemy we're fighting?\nWhat should we do now, I wonder?
-34	message	About that — it seems the enemy\nisn't a single faction.
-35	message	Taking the Doctor Shinigami —\nRika-chan's killer — as confirmed,\nwho are those black versions of Rika-chan\nand Rena-chan, I wonder?
+34	message	About that - it seems the enemy\nisn't a single faction.
+35	message	Taking the Doctor Shinigami -\nRika-chan's killer - as confirmed,\nwho are those black versions of Rika-chan\nand Rena-chan, I wonder?
 36	message	We've encountered such people several times.\nThe Black Twin Angels appeared too.
 37	message	There was someone who looked like my double, too.\nAre they a different force from Riko's group?
 38	message	The black me said she'd use my power.\nAnd yet the Doctor Shinigami suddenly appeared\nand killed me.
@@ -40,7 +40,7 @@ row	column	english
 43	message	I think I should leave\nHinamizawa for a while.
 44	message	You mean go to another world?
 45	message	Now that we know I'm the enemy's target,\nif I'm not here, no incident should happen\nin Hinamizawa.
-46	message	It's only a temporary evacuation, but I think it's good.\nIn this world, some strange force is at work —\nwe can't avoid Rika dying.
+46	message	It's only a temporary evacuation, but I think it's good.\nIn this world, some strange force is at work -\nwe can't avoid Rika dying.
 47	message	Better to take out enemies like Riko, Jeanne,\nand the Doctor Shinigami in another world first,\nthen come back here. That should give us the advantage.
 48	message	Agreed. No need to fight at a disadvantage.
 49	message	Then we'll head for where Polyal is.
@@ -48,28 +48,28 @@ row	column	english
 51	message	Going straight there, we'd definitely be targeted.\nWe have to avoid fighting on two fronts.
 52	message	So we should confuse the enemy?
 53	message	Then it's easy, nyo.\nWe'll use Usada as a decoy\nto lure the enemy, nyo.
-54	message	Why am I the decoy!?\nYou suggested it, Dejiko — YOU do it!
+54	message	Why am I the decoy!?\nYou suggested it, Dejiko - YOU do it!
 55	message	No way, nyo~.
 57	message	But splitting into two groups is a good idea.\nThat'll force the enemy to split their forces too.
 58	message	Couldn't the enemy just wait\nat Polyal's location?
 59	message	With two factions, the scramble for Rika\nis first-come-first-served, right?\nIf they wait, they'll get beaten to her.
 60	message	I see! It'll be a game of tag!
-61	message	Tag instead of 'Demoning Away' —\nthat's a clever twist.
+61	message	Tag instead of 'Demoning Away' -\nthat's a clever twist.
 62	message	How do we split the teams?
 63	message	How about a team of 5 IS units plus Rika, Satoko,\nLouise, Puchiko, and Kurumi? Carrying the little ones\nby IS gives us amazing mobility!
 64	message	But then it's obvious Rika's with that group!
-65	message	No — send the big team straight to Polyal's location,\nand have the IS team take a detour. That'll confuse them.
+65	message	No - send the big team straight to Polyal's location,\nand have the IS team take a detour. That'll confuse them.
 66	message	They'd have to consider both possibilities.
 67	message	Let's go with that! The faster we move,\nthe more confused the enemy will be.
 68	message	Yes! Swift and magnificent, desuu!
 69	message	Sounds kinda wrong, but that sounds cool!
-70	message	Like they say — 'clear the dishes quick'!
+70	message	Like they say - 'clear the dishes quick'!
 71	message	…'Strike while the iron is hot,' right!\nSomehow I feel like that's not wrong either.
 72	message	//Fade to black; time passes
-73	message	Now then — Rika and our splendid IS team,\nmove out!
+73	message	Now then - Rika and our splendid IS team,\nmove out!
 74	message	Shouldn't that be 'merry'?
 75	message	This is hardly a merry situation.
-76	message	Now, now — let's stay reasonably relaxed.
+76	message	Now, now - let's stay reasonably relaxed.
 77	message	Then, my bride, I'm off.
 78	message	Yes! Take care of Rika-chan and the others!
 79	message	Our decoy team moves out soon too!\nWe have to look like we'll reach Polyal first,\nor they'll figure out which one's the real team!
@@ -95,13 +95,13 @@ row	column	english
 99	message	They even have Akatsubaki…!?
 100	message	I know what you're thinking, Rika.\nYou won't escape…!
 101	message	Yes. Unfortunately for you,\nyou'll never win that way.
-102	message	I already understand.\nWhy you're after me —\nand why you can never win.
+102	message	I already understand.\nWhy you're after me -\nand why you can never win.
 103	message	Is that so, I wonder?
 104	message	From what we know, those black IS units\nshould match our abilities. Everyone, be careful!
 105	message	Fighting oneself is not pleasant.
 106	message	It's strangely unsettling.
 107	message	Protecting Rika and the others comes first, period.\nDon't get hung up on defeating them!
-108	message	Right — keep the offense-defense balance in mind.
+108	message	Right - keep the offense-defense balance in mind.
 109	message	The plan: hold out until the other team\nsecures Polyal, then rush in all at once.\nSurvive until then, no matter what!
 110	message	Got it!
 111	message	Nyu.
@@ -114,14 +114,14 @@ row	column	english
 119	message	//Conversation event when Black Rika and Rin clash
 120	message	We meet again. Last time you outwitted me completely!\nNot this time!
 121	message	Oh? You remember?
-122	message	I'd forget if I could!\nBut carrying your regrets and living on —\nthat's what being human is!
-123	message	Maybe. That's why, if we could redo things,\nwe'd want to — that's what makes us human.
+122	message	I'd forget if I could!\nBut carrying your regrets and living on -\nthat's what being human is!
+123	message	Maybe. That's why, if we could redo things,\nwe'd want to - that's what makes us human.
 124	message	//Conversation event when Black Houki clashes with someone
 125	message	…
 126	message	Silent, huh… Just who are you?
 127	message	//Conversation event when Black Cecilia clashes with someone
 128	message	…
-129	message	No greeting at all — how rude!
+129	message	No greeting at all - how rude!
 130	message	//Conversation event when Black Rin clashes with someone
 131	message	…
 132	message	This one's got a bad attitude!\nWhat is this, harassment?
@@ -133,7 +133,7 @@ row	column	english
 138	message	Hmph, you could've at least come out\nin whiteface paint. How artless!
 139	message	//Conversation event when Black Houki clashes with someone
 140	message	…
-141	message	Akatsubaki was only just completed…!\nWhy — how can it be replicated!
+141	message	Akatsubaki was only just completed…!\nWhy - how can it be replicated!
 142	message	//Clear after a set number of turns
 143	message	It's about time! Let's go!
 144	message	Right!
@@ -164,7 +164,7 @@ row	column	english
 175	message	The European Devil!!
 176	message	Nothing else could close in at this speed!
 177	message	Intercept!
-178	message	No — keep running! Slowing down is dangerous!
+178	message	No - keep running! Slowing down is dangerous!
 179	message	Please… make it in time!
 180	message	…Target acquired within range. Attack on standby.\nContinuing pursuit.
 181	message	//END

@@ -10,7 +10,7 @@ row	column	english
 15	message	...Hey.
 16	message	Whoa!?
 17	message	I figured someone was followin' me, and\nsure enough, it's you...\nYour tailin' skills suck.
-18	message	Ever heard 'curiosity killed the cat'?\nSneakin' around after people —\nwhat's that about?
+18	message	Ever heard 'curiosity killed the cat'?\nSneakin' around after people -\nwhat's that about?
 19	message	N-No, I wasn't tailing you!\nYou came over this way, so I wondered\nif something was up...
 20	message	What, you're just a busybody, huh...\nOne of those is plenty enough as is.
 21	message	Nothin' special...\nI just wanted to be alone, that's all.
@@ -28,7 +28,7 @@ row	column	english
 42	message	It's almost mealtime.\nI wonder what today's is... huh?
 43	message	...\nRan into that pain in the ass again.
 44	message	I-I wasn't peekin' inside or nothin'.\nI was just standin' here!\nI like standin' here, that's all!
-45	message	...??\nIt's mealtime, right?\nDon't be shy — why don't you go inside?
+45	message	...??\nIt's mealtime, right?\nDon't be shy - why don't you go inside?
 46	message	I-I'm fine, dammit!
 48	message	...?
 51	message	...Who's there!?
@@ -50,7 +50,7 @@ row	column	english
 71	message	And when they forget,\nI go get the leftovers!
 72	message	But there's someone who eats a ton, so\nthere's usually nothin' left...
 73	message	A-Ahaha...
-76	message	Anyway, someone like me — a former enemy —\neatin' side by side with them?\nThat's oversteppin'.
+76	message	Anyway, someone like me - a former enemy -\neatin' side by side with them?\nThat's oversteppin'.
 77	message	That's why I'm here alone.\nDon't tell the others\nabout this, got it?
 78	message	I think you're overthinking it... Anyway, here you go.
 79	message	...I'll take it.
@@ -90,7 +90,7 @@ row	column	english
 132	message	Hm, what's that?\nYeah yeah, I got it, I got it.
 133	message	Hey.
 134	message	Yes?
-135	message	This little guy looks hungry —\ngo fetch somethin' for it to eat.
+135	message	This little guy looks hungry -\ngo fetch somethin' for it to eat.
 136	message	(Ugh...?)
 139	message	Holdin' you like this is nice and warm...\nYou think so too, right?
 140	message	But man,\nyour fur's pretty clean.\nMaybe you're a fancy abandoned cat?
@@ -100,14 +100,14 @@ row	column	english
 144	message	I-I wasn't just\nplayin' around with it just now...\nit did that on its own!
 145	message	So you've been keepin' up with carin' for the cat.
 146	message	Yeah, that's right, I kept at it.\nThe little thing got attached to me,\nas you can see.
-147	message	It keeps followin' me around persistently,\nand it's cu— ugh, what a pain in the ass!
+147	message	It keeps followin' me around persistently,\nand it's cu- ugh, what a pain in the ass!
 148	message	(Easy for you to say with that big smile...)
 149	message	Hey, do you know anythin' about takin' care of cats?\nDidn't think so... this is a problem.
 150	message	Somethin's wrong with this one.\nWhatever I give it,\nit won't eat.
 151	message	It ain't sick or somethin', is it...?\nHey, what do you think?
 154	message	Hm?
 157	message	It's meowin' again!\nWh-What do I do!?
-160	message	It's a kitten —\nit probably wants milk.
+160	message	It's a kitten -\nit probably wants milk.
 161	message	If only someone could nurse it...
 162	message	Nurse...?
 163	message	What're you sayin'!?\nLike I'd be producin' any!
@@ -141,7 +141,7 @@ row	column	english
 207	message	Then why...?
 208	message	Maybe it's just my selfishness...
 209	message	But right now, I want to do\neverything I can for this little guy...
-210	message	Abandonin' it before that —\nI just can't bring myself to do it.
+210	message	Abandonin' it before that -\nI just can't bring myself to do it.
 213	message	In that case...
 214	message	Don't say another word!\nI... I wouldn't do that!
 215	message	...If I betray it now...\nwhat would it have left to believe in...?\nAbandon it? Like hell I could!
@@ -173,10 +173,10 @@ row	column	english
 247	message	That's why I hate it.\nDoin' the abandonin' AND bein' abandoned...!
 248	message	(Right, if I remember, Chris...)
 249	message	I see... now I finally get it.
-250	message	Figures — turns out I was the one\nclingin's to it... some punchline, huh.
+250	message	Figures - turns out I was the one\nclingin's to it... some punchline, huh.
 251	message	What a joke I am...
 254	message	I understand how you feel.\nJust a little...
-255	message	Come to think of it, you too —\nyou're sufferin' 'cause you lost your memories, right...
+255	message	Come to think of it, you too -\nyou're sufferin' 'cause you lost your memories, right...
 258	message	(I don't know what to say to her...)
 261	message	Sorry I snapped at you...\nAfter all the help\nyou've given me...
 262	message	I'm just this kinda pain-in-the-ass person.\nYou can be fed up with me, I don't mind.

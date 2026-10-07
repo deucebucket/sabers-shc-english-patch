@@ -14,13 +14,13 @@ row	column	english
 26	message	Ahaha... looks fun. Nice.
 27	message	Everyone's from different worlds, yet\nyou're like close friends...
 28	message	Found a shrine maiden, nanodesu. Nipah☆
-29	message	U-um... I'm Hoshika Shirayuki!\nI'll be joining you all —\nI'm inexperienced, but please treat me well.
+29	message	U-um... I'm Hoshika Shirayuki!\nI'll be joining you all -\nI'm inexperienced, but please treat me well.
 30	message	I'm a shrine maiden too, nanodesu~.
 31	message	Huh?
 32	message	Rika is the official shrine maiden of Furude Shrine.\nJust because she's small,\ndon't you dare look down on her?
 33	message	Shirayuki, nice to meet you, nanodesu~. Nipah☆
 34	message	Y-yes! Likewise! Rika-san!
-35	message	Wow, two shrine maidens —\nthis group's gonna be lucky!
+35	message	Wow, two shrine maidens -\nthis group's gonna be lucky!
 36	message	You're the Chinese representative candidate,\nHou Rin'in-san?
 37	message	Hm? Who're you?
 38	message	I'm Charlotte Dunois,\nFrench representative candidate.
@@ -56,7 +56,7 @@ row	column	english
 68	message	Now now, Aria-san, Louise-chan,\nlet's stop... I had a feeling\nit'd turn out like this, but let's stop!
 71	message	Hibiki, shut up!!
 73	message	Harya... this is trouble.
-74	message	It's fine! Go at it flashy,\nlike 'not bad' 'you too' —\nthat kind of thing's fine too, no?
+74	message	It's fine! Go at it flashy,\nlike 'not bad' 'you too' -\nthat kind of thing's fine too, no?
 75	message	If these two went at it full force,\nit'd be a catastrophe!?
 76	message	Yes, let's keep this as peaceful as possible...
 77	message	Um, uh...\nl-let's all get along!
@@ -69,7 +69,7 @@ row	column	english
 90	message	Hm? What is it?
 91	message	I-I sense something like hostility...
 94	message	!!!!
-97	message	What is this... surrounded on four — no, nine sides!?
+97	message	What is this... surrounded on four - no, nine sides!?
 98	message	Blocked on all sides plus one...
 101	message	(glance)
 103	message	[Louise and Aria approach and shake hands (sort of) / SE: *grab!* handshake sound]
@@ -104,8 +104,8 @@ row	column	english
 138	message	Thinking about something?
 139	message	Yes-uu. About my teacher and my friend-uu.
 140	message	You were traveling to find your teacher, right?\nWhat kind of person was she?
-141	message	My teacher holds many Magical Doctorates —\nshe's a special teacher even at Saint Mont Blanc Academy-uu.
-142	message	Her specialty is Magical Archaeology —
+141	message	My teacher holds many Magical Doctorates -\nshe's a special teacher even at Saint Mont Blanc Academy-uu.
+142	message	Her specialty is Magical Archaeology -
 143	message	the study of the many cultures, civilizations, and technologies\nborn and lost throughout history since ancient times-uu.
 144	message	Sounds impressive.\nSo that archaeology teacher taught\nyo-yo at school?
 145	message	My magical yo-yo is also a technique\nborn long ago, lost when its successors died out,\nthat my teacher recreated-uu.
@@ -117,7 +117,7 @@ row	column	english
 151	message	Happy?
 152	message	Her daughters are searching\nthis hard for her, right?\nI think she'd be happy!
 153	message	Hibiki-san...
-154	message	I'll stop complaining-uu!\nI won't give up — I'll search, I'll find her,\nI'll definitely meet my teacher!!
+154	message	I'll stop complaining-uu!\nI won't give up - I'll search, I'll find her,\nI'll definitely meet my teacher!!
 155	message	Yeah! I'll help too!
 156	message	[MERU]...\nwhere did she go?\nNobody's seen her...
 157	message	No idea where my teacher is or what she's doing either.\nMooou, what to do...
@@ -129,8 +129,8 @@ row	column	english
 163	message	I mean, I mean, without my teacher\nthere are no classes, and I can't graduate!
 164	message	Wah, that's definitely rough...
 165	message	...Um, what kind of\nperson is your teacher?
-166	message	My teacher holds tons of Magical Doctorates —\nshe's famous even at Saint Mont Blanc Academy!
-167	message	She studies Magical Archaeology — phantom techniques\nand cultures, things from long ago —\nand she's super curious.
+166	message	My teacher holds tons of Magical Doctorates -\nshe's famous even at Saint Mont Blanc Academy!
+167	message	She studies Magical Archaeology - phantom techniques\nand cultures, things from long ago -\nand she's super curious.
 168	message	My magical magic is also a technique\nmixing ancient sorcery and stage magic\nthat my teacher revived in modern times.
 169	message	I see! She's an archaeologist~!\nThat's amazing!
 170	message	My teacher has tons of other magical techniques\ntoo, and she's terrifyingly strong!
@@ -185,7 +185,7 @@ row	column	english
 219	message	Because I suspect there's something in the world\nof whoever among us first experienced\nthat light and travel.
 220	message	Also, [CLAUDE]'s suspicious.
 221	message	Ehh, me...?
-222	message	You've got amnesia —\nyou have no memories from before\nyou met [MERU] and [NOEL], right?
+222	message	You've got amnesia -\nyou have no memories from before\nyou met [MERU] and [NOEL], right?
 223	message	So maybe [CLAUDE]-kun experienced\nthe light and the travel\neven earlier? kana? kana?
 224	message	I'd like to know about that too.\nNot sure it'll work, but\nI think it's worth trying.
 225	message	If you don't want to, you can stay in Dokoka Town,\nor go your own way. I won't force anyone.
@@ -238,24 +238,24 @@ row	column	english
 273	message	//The turn after Laura appears
 274	message	Does no one wish to face me in battle?\nI'll take you on.
 275	message	If that's how it is…!
-276	message	Why, you—!
-277	message	You and I—shall we fight?
+276	message	Why, you-!
+277	message	You and I-shall we fight?
 278	message	Ngh!?
 280	message	That voice!!
 283	message	//Tsubasa transformation movie\n//Tsubasa appears behind Laura
-284	message	Wh—!? Behind me!!
+284	message	Wh-!? Behind me!!
 286	message	Tsubasa!
 288	message	Tsubasa!
 290	message	Tsubasa!
 292	message	Ah…!
 294	message	…It's been a while,\nLaura Bodewig.
 295	message	So the one who couldn't even die properly has come to flaunt her disgrace?
-296	message	This sword that I am—I have no memory of being broken.
+296	message	This sword that I am-I have no memory of being broken.
 297	message	Very well.\nThe same trick won't work twice.
 298	message	I'll never fight such a disgraceful battle again!
 299	message	//Battle resumes; Tsubasa usable as an allied unit
 301	message	I see… the rust is coming off!
-302	message	This sword that I am—taste its true sharpness!
+302	message	This sword that I am-taste its true sharpness!
 303	message	//Event on defeating Laura
 304	message	Tch, no more…!!
 305	message	Begone!
@@ -280,7 +280,7 @@ row	column	english
 324	message	She vanished in Kyouto too,\nso she's clearly teamed up with their side!
 325	message	//Battle ends when all enemies are wiped out\n//Background: plains (same as at the start of map 1)
 326	message	Sheesh, why'd we have to get jumped\nby Usada out of nowhere, nyo…
-327	message	Remu, what do you think?\nGetting ambushed the moment we arrive in this world—\ndon't you think that's just too strange?
+327	message	Remu, what do you think?\nGetting ambushed the moment we arrive in this world-\ndon't you think that's just too strange?
 328	message	True… it was as if they'd foreseen our movements\nand were lying in wait.
 329	message	This might be worse than we imagined…
 330	message	We've got to unravel how the light and the travel work…!
@@ -288,7 +288,7 @@ row	column	english
 332	message	I hope there's some kind of clue…
 333	message	//Fade to black
 334	message	Tsubasaaa!!
-335	message	Tachibana, it's been so lo—
+335	message	Tachibana, it's been so lo-
 336	message	//[MERU] or [NOEL] comes running up as Hibiki and Tsubasa are talking.
 337	message	Tsubasaaa!!
 338	message	Tsubasaaa!!
@@ -347,7 +347,7 @@ row	column	english
 400	message	'Cause all I gotta do is head toward\nwhere the yummy smells are coming from!!
 401	message	Huh!? Th-that's gonna be okay!?!?
 406	message	//Fade to black\n//Background: black
-407	message	— A town on the way to the sea —
+407	message	- A town on the way to the sea -
 408	message	//Event art: Shirayuki trying on a swimsuit
 409	message	How's this?\nThe color… I think white's better after all…
 410	message	No no! That color suits you just fine, says this old man!
@@ -366,7 +366,7 @@ row	column	english
 423	message	R-really? It's not weird?
 424	message	Have confidence!\nAny man who saw you in that swimsuit\nwould turn to look.
 425	message	Really? You're not lying, right?
-426	message	I'll stare and stare and spin in circles!!\nCute! Cute!\nT-take you ho—
+426	message	I'll stare and stare and spin in circles!!\nCute! Cute!\nT-take you ho-
 427	message	No, Rena! Bad manners are not allowed.
 428	message	Hauu!! Hau, hau, hauuu!!
 429	message	I'm really glad I revealed that I'm a girl…\nI'm having so much fun right now!

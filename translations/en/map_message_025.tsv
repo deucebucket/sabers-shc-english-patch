@@ -1,5 +1,5 @@
 row	column	english
-3	message	Those are higurashi cicadas…?\nEarly summer in Japan—June, I wonder.
+3	message	Those are higurashi cicadas…?\nEarly summer in Japan-June, I wonder.
 4	message	For now, let's head out to the main road.
 5	message	…
 6	message	Hey, Aria? What's wrong?\nYou look pale.
@@ -17,14 +17,14 @@ row	column	english
 20	message	Sorry, Rem! I feel bad, but\nlet me go solo.
 21	message	Huh? What do you mean?
 22	message	What are you suddenly talking about?\nIsn't splitting up a bad idea?
-23	message	Please. Trust my instincts!\nNo, it's not just instinct.\nIt's closer to certainty—a flash of insight!
+23	message	Please. Trust my instincts!\nNo, it's not just instinct.\nIt's closer to certainty-a flash of insight!
 24	message	…I see. If Aria-chan says so,\nI think we should.
 25	message	Are you sure?
-26	message	Aria Kanzaki Holmes.\nDescendant of the great detective Sherlock Holmes—\nI believe in her intuition.
+26	message	Aria Kanzaki Holmes.\nDescendant of the great detective Sherlock Holmes-\nI believe in her intuition.
 27	message	Thanks, Rem.\nI'll contact you if anything happens. Later!
 30	message	Are we still not trusted\nas partners, indeed?
 31	message	Isn't it the opposite?\nIt's because she trusts us that she can act separately.\nThat's what I think.
-32	message	She's already gone.\nSuch drive—I might lose to it!
+32	message	She's already gone.\nSuch drive-I might lose to it!
 33	message	That's what geniuses are like.\nThey have a sensibility that catches\nwhat ordinary people can't. Probably.
 35	message	Hello.
 37	message	Everyone's dressed strangely…\nYou're not from Hinamizawa, are you?\nTravelers? Maybe? Maybe?
@@ -138,10 +138,10 @@ row	column	english
 172	message	(Can I trust these two…?\nUgh, but right now!!)
 173	message	Who the hell is that!?
 174	message	Did you hear from Rem?\nThis is the criminal we've been chasing!\nHe was impersonating Satoko's uncle!
-175	message	Oh? Lurking in Hinamizawa without greeting\nthe next head of the Sonozaki family—bold!\nI'll teach you how things are done!
+175	message	Oh? Lurking in Hinamizawa without greeting\nthe next head of the Sonozaki family-bold!\nI'll teach you how things are done!
 176	message	You did that to Satoko-chan… I'll never forgive you!!
 177	message	Beautiful sisters, I'll play with you too.\nCome at me.
-178	message	Be careful! That guy, Dr. Shinigami—\nthere's no telling what he'll do!
+178	message	Be careful! That guy, Dr. Shinigami-\nthere's no telling what he'll do!
 179	message	I won't push my luck against an unknown enemy.\nA reckless hothead couldn't run\nthis club!
 181	message	…About time.\nThis killing of time has gone on long enough.
 184	message	You're running!? I won't let you!

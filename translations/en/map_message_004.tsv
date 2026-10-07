@@ -7,7 +7,7 @@ row	column	english
 8	message	Nice! This place looks fun,\nNico-chan! Show us around~!
 9	message	There are tons of shops too!\nHey, hey, do they sell like\nmagic items?
 10	message	Ah, I'm sure they do!\nThey sell lots of\ninteresting things♪
-11	message	// SFX: 'pikiin' — a Newtype-style flash of insight
+11	message	// SFX: 'pikiin' - a Newtype-style flash of insight
 14	message	Wh-what IS that a...dult shop?\nI feel strangely drawn to it\nfor some reason...
 16	message	Sounds fuuun!!\n14's basically an adult, right? Right?\nI wanna go toooo!
 17	message	Before that, we need to find Sonico's shoot location.
@@ -19,7 +19,7 @@ row	column	english
 23	message	Understood!\nThat's our next filming location!\nThen let's go!
 24	message	// Switch to battle map: Akihabara downtown
 25	message	Everyone, this way!
-26	message	Whoa, people wearing forehead protectors to protect their foreheads,\npeople with open gloves on their hands—\neveryone's ready for battle!
+26	message	Whoa, people wearing forehead protectors to protect their foreheads,\npeople with open gloves on their hands-\neveryone's ready for battle!
 27	message	Guess it's a rougher town than I thought?
 28	message	And I sense evil from the paper bag\nthat old guy's holding!\nHe's gotta be a dark sorcerer!
 29	message	At first, my friends took me all over\nand that's how I learned!
@@ -68,7 +68,7 @@ row	column	english
 74	message	Huh, what?
 75	message	Um... is everyone\nhungry?
 76	message	I know a delicious ramen shop...\nif you'd like...
-77	message	Ramen!! Yes, ramen!!\nI'm hungry—is it good there?
+77	message	Ramen!! Yes, ramen!!\nI'm hungry-is it good there?
 78	message	Yes! I recommend it! Let's go~!
 79	message	...True.\nMy partner always said you can't think straight\non an empty stomach.
 80	message	Yes♪ Let's eat something delicious\nand do our best at the next shoot!

@@ -15,15 +15,15 @@ row	column	english
 16	message	Huh, so Tesla-san and Nine-san\nknow Yase?
 17	message	Sort of.
 18	message	Still, why did you\nattack us?\nYou could've just negotiated from the start.
-19	message	About one person — an idiot who charged in\nall fired up for nothing, nyu.
+19	message	About one person - an idiot who charged in\nall fired up for nothing, nyu.
 20	message	Who's that, nyo?
 21	message	You, nyu!!
-22	message	Yase's a really important person in Kagami.\nOf all people, meeting Dejiko first —\nno wonder it got messy.
+22	message	Yase's a really important person in Kagami.\nOf all people, meeting Dejiko first -\nno wonder it got messy.
 23	message	I didn't understand the situation then.\nForgive my rudeness, nyo.
 24	message	I was a bit too misanthropic myself.\nI still don't like humans, but\nI don't dislike a child who can apologize properly.
 25	message	So, Yase, what did you come to talk about?
 26	message	About taking you back to Kagami, of course.
-27	message	I'm not going back.\nWe're fighting some pretty bad guys right now.\nEveryone's still fighting — I don't want to go home alone.
+27	message	I'm not going back.\nWe're fighting some pretty bad guys right now.\nEveryone's still fighting - I don't want to go home alone.
 28	message	You're precious to Kagami.\nIf anything happened to you, it'd be a disaster.
 29	message	That's not just me.\nEveryone's precious.
 30	message	Koto...!
@@ -92,7 +92,7 @@ row	column	english
 93	message	//Event CG off.
 94	message	Hmph!
 95	message	Hey, Yase...
-96	message	Hah, trying to compete with me and Koto —\nwhat fools.
+96	message	Hah, trying to compete with me and Koto -\nwhat fools.
 97	message	Match paused. Decided. Ready...!
 98	message	Don't get in our way!
 100	message	//Victory condition changes from defeating Yase to defeating Black Koto and Black Yase.
@@ -124,7 +124,7 @@ row	column	english
 127	message	//If Yase joins:
 128	message	Since I'm here, maybe I'll help\nso Koto can return to Kagami sooner.
 129	message	Really! That makes me happy, Yase!
-130	message	That being the case,\nyou — arrange my food, clothing, and shelter.
+130	message	That being the case,\nyou - arrange my food, clothing, and shelter.
 131	message	Nyo!? Dejiko has to do it, nyo!?
 132	message	You're wearing a maid outfit, so obviously.
 133	message	Siesta does better work\nthan Dejiko, nyo!

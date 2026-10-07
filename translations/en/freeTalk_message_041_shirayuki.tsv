@@ -145,7 +145,7 @@ row	column	english
 199	message	N-no!\nYou peeked at a maiden's secret,\nso you'll just have to put up with it!
 200	message	Otherwise, I'm turning you over to the police!
 201	message	I really won't tell a soul…\nWhat do I have to do to make you believe me…?
-202	message	…If you could show me some sincerity—\nenough that I could trust you…
+202	message	…If you could show me some sincerity-\nenough that I could trust you…
 203	message	M-money?
 204	message	N-no! I mean, show it through your actions!
 205	message	Like what, for example?
@@ -167,13 +167,13 @@ row	column	english
 229	message	Oh, was I being loud?\nSorry about that.
 230	message	I just started picturing how happy everyone will be\nwhen they see the finished dishes,\nand I got all excited…
 231	message	Everyone calls me their friend…
-232	message	Doing things for your friends being this much fun—\nI only learned that when I came along with everyone.
+232	message	Doing things for your friends being this much fun-\nI only learned that when I came along with everyone.
 233	message	So when I thought about doing this for them,\nI just couldn't help it…
 234	message	By the way, do I count as one of them?
 235	message	Peeping toms are still under review!
 236	message	Figured as much…
 239	message	'How long will this helping go on?'\nis that it?
-240	message	Like I said before—\nuntil I feel I can trust you.
+240	message	Like I said before-\nuntil I feel I can trust you.
 241	message	Well then, shall we start today's\ncooking prep?
 242	message	I'll fillet the fish, so please\npeel the vegetables.
 243	message	Yes.
@@ -197,7 +197,7 @@ row	column	english
 271	message	Phew, looks like that's everything.\nGood work today.
 272	message	Good work.
 273	message	Also, there's one more thing.\nYour helping duties end today.
-274	message	I've realized you're not someone who'd hurt anyone\non purpose—you just lack attentiveness and tact.
+274	message	I've realized you're not someone who'd hurt anyone\non purpose-you just lack attentiveness and tact.
 275	message	R-really?!
 276	message	But if you breathe a word of it…
 277	message	I-I know…
@@ -208,7 +208,7 @@ row	column	english
 284	message	S-sorry, while you're changing!\nI guess helping out just became a habit…
 285	message	Oh, no, that's not it…
 286	message	Then what are you doing?
-287	message	I'd rather you didn't see it, so to speak…\nWh-what—KYAAAH!!
+287	message	I'd rather you didn't see it, so to speak…\nWh-what-KYAAAH!!
 288	message	Don't peek in while I'm in the middle\nof saying that!
 289	message	Honestly! You have NO tact at all!
 290	message	I-I couldn't help it…\nAnyway, there's a lot of cloth here.\nAre you, like, making clothes?
@@ -217,7 +217,7 @@ row	column	english
 295	message	That's kind of you, but the thought is enough…\nBesides, if there were something I could ask you\nto do, I'd have said so already…
 296	message	And stop staring so hard!\nEven I'm going to get mad at this rate!
 299	message	What are you making?
-300	message	That's exactly why I'm telling you not to look—\nI don't want to tell you!
+300	message	That's exactly why I'm telling you not to look-\nI don't want to tell you!
 301	message	Even in a case like this, it's still a violation\nof the Minor Offenses Act, you know!
 304	message	S-sorry…\nBut I won't tell anyone, so don't worry.
 305	message	That's not even the point!
@@ -229,7 +229,7 @@ row	column	english
 312	message	(Could it be a thank-you for the Heal the other day?\nSurely not…)
 315	message	Huh? Where is this?\nLooks like a school, but one I've never seen.\nAnd it's so lively.
 316	message	…Th-this way!
-317	message	That voice—Shirayuki-san. Is this the classroom?\nThere's a sign… 'Café SHC'?
+317	message	That voice-Shirayuki-san. Is this the classroom?\nThere's a sign… 'Café SHC'?
 320	message	Really, you mustn't be late.
 321	message	(White blouse and a tight skirt,\nblack-framed glasses… Th-there's a teacher!)
 322	message	If you're late again, you'll be standing\nin the hallway, understood?
@@ -237,13 +237,13 @@ row	column	english
 324	message	Well? Your reply?
 325	message	Y-yes, Shirayuki-sensei…
 326	message	Yes, what a nice reply!
-327	message	(I see—the clothes she was making the other day\nwere for this…! Plain, but they really\nshow off her chest…)
+327	message	(I see-the clothes she was making the other day\nwere for this…! Plain, but they really\nshow off her chest…)
 328	message	Eep! D-don't stare at me like that…!
 329	message	B-but! If you want to look…\nyou can look… as much as you like…!
 330	message	Wh-what?! N-no, the menu!\nShow me the menu, please!
 331	message	The menu is a special parfait,\ntea… and shortcake.
 332	message	Or maybe… me…?!
-333	message	—! Th-the parfait! Parfait, please!
+333	message	-! Th-the parfait! Parfait, please!
 334	message	Coming right up…!
 337	message	Sorry to keep you waiting. One special parfait!
 338	message	I-it looks delicious. Thank you for the food.

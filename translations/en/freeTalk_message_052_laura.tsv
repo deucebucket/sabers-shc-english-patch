@@ -18,13 +18,13 @@ row	column	english
 22	message	One more step and\nyou'd have been a charred corpse.
 23	message	Charred...\nCome on, you don't need to be that on guard...\nAren't we allies already?
 24	message	...\nI can't say for sure everyone's my ally.
-25	message	Especially with the likes of you —\nvigilance is the only option.
+25	message	Especially with the likes of you -\nvigilance is the only option.
 28	message	Oh, come on~!\nI wouldn't do anything like that.
 29	message	...And I'm supposed to believe that?\nUnlikely.
 32	message	So I'm still not your ally...\nThat's a little sad...
 33	message	No need to look so down.\nIt's just a question of whether\nI can trust you.
 36	message	...That's how it is...\nGive it up...
-37	message	Huh? You raised that IS arm —\nis something wrong...?
+37	message	Huh? You raised that IS arm -\nis something wrong...?
 38	message	I still can't believe you're my ally.\nAnd I can't rule out\nthat you're in disguise.
 39	message	So I'll test you.\nYou've already survived fighting me.\nSurely you can handle this much.
 42	message	Wh-whoa, that was close!!\nWhat if that had hit me!?
@@ -37,7 +37,7 @@ row	column	english
 53	message	Found you...\nPerfect timing.
 54	message	Huh? Wh-what is it?\nI'm... um... busy, so...
 55	message	No running.\nThis time I'll hit you for real.
-56	message	It's nothing much —\nI just want to ask you two or three questions.
+56	message	It's nothing much -\nI just want to ask you two or three questions.
 57	message	Clear my suspicions\nand I'll let you go at once.
 58	message	Then, I ask:\nare you confident in your running?
 59	message	My running...?\nThat much, I have...\n...More or less.
@@ -91,7 +91,7 @@ row	column	english
 127	message	...This one too.\nEven I'm starting to lose confidence...
 128	message	Well, whatever.\nThis was enough of a test.
 129	message	No IS power,\nyet your mobility spikes when you dodge...
-130	message	As a research subject...\nyou might do nicely.\nRight, next I'll—
+130	message	As a research subject...\nyou might do nicely.\nRight, next I'll-
 131	message	S-sorry!\nI'm a little busy, so... bye!
 132	message	W-wait!\nI won't treat you badly!\nYou'll be guaranteed proper treatment.
 133	message	(Being your research subject sounds WAY worse!)
@@ -121,7 +121,7 @@ row	column	english
 165	message	That might be close to the feeling of moe...
 166	message	This is... moe.\nThen I've been feeling it all along.
 167	message	I don't want to break her...\nbut I feel an urge to break her all the same.
-168	message	But then there's the contradiction —\nwanting her all to myself,\nyet wanting to watch Hibiki be free.
+168	message	But then there's the contradiction -\nwanting her all to myself,\nyet wanting to watch Hibiki be free.
 169	message	...I see.\nThis complicated feeling... is moe.
 170	message	Japanese culture...\nis a strange thing...
 172	message	(It's hard to define, so...\nI don't know if that's right...)
@@ -233,7 +233,7 @@ row	column	english
 307	message	N-no. I'll have it.\nThe oden.
 308	message	A wise decision.\nI'll bring it right out.
 311	message	Here.
-312	message	...\nSkewered — an old-fashioned, classic presentation...
+312	message	...\nSkewered - an old-fashioned, classic presentation...
 313	message	I learned it from a book.\nIt shows up a lot in Japanese manga,\nso I found it right away.
 314	message	It's that beloved, then.
 315	message	(...Did she reference a slightly old manga...)

@@ -1,7 +1,7 @@
 row	column	english
 3	message	Haa, haa... I hope\nSiesta's okay now.
 4	message	(She's safer without me.\nThere's no reason for a commoner to be targeted...)
-5	message	(I'm a noble — a noble protects the weak.\nEven alone, I'll manage...)
+5	message	(I'm a noble - a noble protects the weak.\nEven alone, I'll manage...)
 6	message	...Wait, where is this?\nI came from that way, right?\nAh, maybe it was this way...
 7	message	Could it be... I'm lost...?\nNo way...
 8	message	At a time like this, if only\nI had my familiar...
@@ -43,7 +43,7 @@ row	column	english
 45	message	Mmm...??\nHaving a family name makes you\na mage?
 46	message	Hawawa! My family name is made up,\nbut am I a mage? Come to think of it,\nmagical = mage, that's the vibe.
 47	message	Um, being a mage because of a name\nsounds fishy.
-48	message	Muu! [CLAUDE]-san, not just your family name —\neven your given name is fishy!
+48	message	Muu! [CLAUDE]-san, not just your family name -\neven your given name is fishy!
 49	message	Having a family name makes you a mage? What's that~ (laugh)\nMagic is all about guts and fighting spirit!!
 50	message	Then I don't think you can use magic...
 51	message	Booo!! You can use magic too, you know!\nBut we don't know your family name!!
@@ -56,7 +56,7 @@ row	column	english
 58	message	It's in England!
 59	message	Where's England!?\nI've never heard of such a name!\nAren't you a fake noble?
 60	message	What did you say!!
-61	message	Cecilia-san, please calm down.\nHearing "magic," I had a thought —\nisn't this some special world...?
+61	message	Cecilia-san, please calm down.\nHearing "magic," I had a thought -\nisn't this some special world...?
 62	message	Is there a map of this area?
 63	message	A map of this area would really help?
 64	message	A map? I have one. Want to see?
@@ -99,7 +99,7 @@ row	column	english
 104	message	I saw you bring out that armor.\nEarth-system alchemy and fixation, I'd say?\nA song-like spell, interesting.
 105	message	That's why it's not magic...
 106	message	By the way, are you feeling okay?\nDid you heal with healing magic?
-107	message	Not magic — fighting spirit!\nA noble doesn't show an unsightly figure to the enemy!
+107	message	Not magic - fighting spirit!\nA noble doesn't show an unsightly figure to the enemy!
 108	message	Hmm, so you have pride... fine!\nI'll allow you to cooperate with me.
 109	message	Why are you talking down to me like that!?
 110	message	//Battle begins.\n//Event triggers when Louise attacks
@@ -113,7 +113,7 @@ row	column	english
 118	message	//Defeat a certain number of small fry.\n//Black Puchiko appears
 119	message	...? A really tiny one showed up.\nA fairy, I wonder.
 120	message	...You're small too, nyu.
-121	message	Wh— You're smaller than me!
+121	message	Wh- You're smaller than me!
 122	message	...Look at your own chest before saying that, nyu.
 123	message	Wh... wh-wh-wh-what did you say!?
 124	message	That remark! I absolutely won't forgive it!
@@ -254,6 +254,6 @@ row	column	english
 271	message	...Miss Vallière is... the enemy...
 272	message	Hoh, this is... more effective than expected.
 273	message	Andvari's ring, which bends humans to one's will.\nAnd the tainted water it was soaked in.\nA terrifying enchantment ability.
-274	message	Bearer of the Void, Louise the Zero.\nHer mighty magic recovers with emotional ups and downs —\ntruly unbelievable information.
+274	message	Bearer of the Void, Louise the Zero.\nHer mighty magic recovers with emotional ups and downs -\ntruly unbelievable information.
 275	message	I must use this girl to verify its truth.
 276	message	//END

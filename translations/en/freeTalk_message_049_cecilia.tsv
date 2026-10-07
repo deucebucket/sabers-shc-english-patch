@@ -11,7 +11,7 @@ row	column	english
 13	message	Impressions...?\nOf what?
 14	message	This!
 15	message	I made it.\nWell? Doesn't it look delicious?
-16	message	It's my masterpiece.\nOf course—anything I make\nturns out perfect.
+16	message	It's my masterpiece.\nOf course-anything I make\nturns out perfect.
 17	message	...It does look delicious.\nMay I have some?
 18	message	Indeed.\nAnyone would do, but for some reason\nno one else is coming by.
 19	message	And then you happened along.\nHow fortunate.
@@ -44,13 +44,13 @@ row	column	english
 54	message	My! You have a good nose?
 55	message	To sniff it out this fast,\nyou must really adore it...\nI'm honored.
 56	message	...Um... surely not...?\n...Again?
-57	message	Exactly!\nTo come running the moment I finish making it—\nyou must really love it.
+57	message	Exactly!\nTo come running the moment I finish making it-\nyou must really love it.
 58	message	Now, please.
 59	message	...I've made a mistake...
 60	message	Oh my, you're so happy you're\nprostrating yourself on the ground?
-61	message	That's too much.\nPlease stop—even I get flustered\nwhen you go that far.
+61	message	That's too much.\nPlease stop-even I get flustered\nwhen you go that far.
 64	message	...I-I'm happy...\nM-my tears... won't stop...
-65	message	To be this delighted—\nmy cooking skills are almost\ntoo good.
+65	message	To be this delighted-\nmy cooking skills are almost\ntoo good.
 68	message	I'm full, you know...\nWh-what a shame... truly...
 69	message	Oh, is that so?\nThen just one bite is fine.\nIt'll go bad if too much time passes.
 72	message	I make this food\nto make people happy,\nso no need to hold back.
@@ -87,7 +87,7 @@ row	column	english
 105	message	Well, I admit my close-range tactics\nare lacking, certainly.
 106	message	Even so, I can fight well enough!\nI'm a personal-unit holder, after all!
 107	message	S-so... what do you want from me?
-108	message	If you were to fight,\nwho would be harder to deal with—\nsomeone specialized in close combat, or me?
+108	message	If you were to fight,\nwho would be harder to deal with-\nsomeone specialized in close combat, or me?
 111	message	...You, Cecilia-san.\nI couldn't get one step closer to you...
 112	message	Naturally!\nMy Blue Tears\nhas no blind spots.
 115	message	Both of them...\nI'm... not cut out for fighting...
@@ -98,14 +98,14 @@ row	column	english
 122	message	After eating so much\nof my cooking,\ndon't you feel any gratitude?
 123	message	(...I feel none at all.\nI prepared myself for death...)
 124	message	Of course, I'll hold back.\nEven if you get hurt, only a little.
-125	message	Now, let's start right—well, unfortunately\nI'm not free either.
+125	message	Now, let's start right-well, unfortunately\nI'm not free either.
 126	message	I'll ask you another time.
 127	message	...Yes.
 128	message	(...I suppose... I can't refuse)
 131	message	There!!
 134	message	Whoa!?
 135	message	...Just running away isn't\nany fun.
-136	message	Challenging me—\na long-range sniper type—\nto long-range combat gives you no chance of winning.
+136	message	Challenging me-\na long-range sniper type-\nto long-range combat gives you no chance of winning.
 137	message	I'd like to try\nclose-range combat.
 140	message	B-but still...\nWhoa! I can't get close!
 141	message	Naturally.\nI'm good at long-range combat, so\nI fight by keeping my distance.
@@ -150,7 +150,7 @@ row	column	english
 192	message	I'll look elsewhere for that.\nFortunately, there are plenty of women here\nwho can fight.
 193	message	By the way,\nwhat is this?
 194	message	That's... an idol group.\nWhat's with the flyer?
-195	message	An idol group...\nThey're all wearing the same clothes so I can't tell them apart—\nhow many groups is this?
+195	message	An idol group...\nThey're all wearing the same clothes so I can't tell them apart-\nhow many groups is this?
 196	message	Huh? That's ONE\nidol group.\n...Probably.
 197	message	!?\nThis is...?
 198	message	I'd heard Japan has a lot\nof idols, but...\nthis many...
@@ -164,19 +164,19 @@ row	column	english
 212	message	.........
 213	message	Hm? What's wrong?
 214	message	That's it!\nYes, this is good!
-215	message	Now—action, and nothing else!
+215	message	Now-action, and nothing else!
 217	message	...What did she come up with...?
 220	message	Everyone,\nwhy won't you agree with me!?\nIt's a great idea!!
 221	message	...She tried to form an idol group...?
-222	message	Yes!\nThere are plenty of beautiful women here—\nnot that they compare to me, of course!
+222	message	Yes!\nThere are plenty of beautiful women here-\nnot that they compare to me, of course!
 223	message	If we formed an idol group,\nit'd be a huge hit, no doubt...
 224	message	Isn't it because there's fighting and... all sorts of trouble right now?
 225	message	I know that!\nThat's why I'm asking everyone\nbetween battles!
 226	message	If we do it in our spare moments,\nno one can complain!
-227	message	And yet no one understands—\nwhat's wrong with it!?
+227	message	And yet no one understands-\nwhat's wrong with it!?
 228	message	...People have their strengths and weaknesses.
 229	message	Some people were interested,\nthough...
-230	message	Demanding the center spot—\nthere are limits to shamelessness!
+230	message	Demanding the center spot-\nthere are limits to shamelessness!
 231	message	The center is obviously mine!
 232	message	I see... so the ground\nbeing gouged out here and there...\nthat's what that battle was...
 233	message	The others need\nto show me off\nto the fullest.
@@ -214,7 +214,7 @@ row	column	english
 273	message	It's anticlimactic, in the best way.
 274	message	...Anticlimactic... come on.
 277	message	What were you imagining...?
-278	message	Let's see.\n...Something I couldn't even imagine—ferocious,\nnever saying what it's thinking...
+278	message	Let's see.\n...Something I couldn't even imagine-ferocious,\nnever saying what it's thinking...
 279	message	...To put it in words,\nsomething like a gorilla.
 280	message	Th-that's... quite the extreme image...
 283	message	You're... just as you look...
@@ -270,7 +270,7 @@ row	column	english
 344	message	I made it.\nCan't you tell by looking?
 345	message	You told me\nto cut back,\nbut I have to cook sometimes.
 346	message	Now, dig in.
-347	message	The look of it... yeah, and the smell too—perfect.
+347	message	The look of it... yeah, and the smell too-perfect.
 348	message	Naturally.\nI never slip up.
 349	message	But those other IS users\nran away from me.
 350	message	Something about having things to do...\nSo I brought it to you again.

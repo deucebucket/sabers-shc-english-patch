@@ -50,13 +50,13 @@ row	column	english
 59	message	Huh?
 60	message	Looks like we got surrounded without noticing.
 61	message	Eeeh!?
-62	message	They say people long ago feared trees swaying\nin the night wind, thinking they were youkai —\nmaybe some of them really were!
+62	message	They say people long ago feared trees swaying\nin the night wind, thinking they were youkai -\nmaybe some of them really were!
 63	message	My!\nNoel-san, you affirm the existence of youkai!?
 64	message	Affirm or not, they're right in front of us...
 66	message	Fufu-fu~n♪
 67	message	Waaait!!
 68	message	Mm!?
-69	message	That's—!
+69	message	That's-!
 70	message	It's Houki-chan!
 71	message	Houki-cha~n! Over here!
 72	message	You guys!?
@@ -107,12 +107,12 @@ row	column	english
 127	message	We're friends!
 128	message	That's right! Houki-chan's friends!
 129	message	What... no, first off, drop the '-chan'!
-130	message	For me she'd be a classmate —\na school friend, that is.
+130	message	For me she'd be a classmate -\na school friend, that is.
 131	message	Then for me she'd be a schoolmate?
 132	message	Who are you?
-133	message	Wh—!? Hey!\nYou've seen my IS, haven't you!
+133	message	Wh-!? Hey!\nYou've seen my IS, haven't you!
 134	message	What I don't know, I don't know!
-135	message	Now now, Rinin-chan's introduction can wait —\nis that girl from this world?
+135	message	Now now, Rinin-chan's introduction can wait -\nis that girl from this world?
 136	message	I'm Koto!\nI live in this Kyouto, technically!
 137	message	She saved me in a tight spot, and took care of me\nwith food and a bed. She's my benefactor.
 138	message	That's fine, don't worry about it.
@@ -127,7 +127,7 @@ row	column	english
 148	message	I wonder if there's any pattern to this...
 149	message	Hm? What?
 150	message	Th-this is way too sudden!
-151	message	Who's pulling this off —\nwhat kind of master magician!?
+151	message	Who's pulling this off -\nwhat kind of master magician!?
 153	message	Sis...
 154	message	Yes, the plan had some changes,\nbut it seems we've corrected back on schedule.
 156	message	Koto vanished HERE? Impossible...\nIt can't be!
@@ -157,7 +157,7 @@ row	column	english
 185	message	What's with her!?
 186	message	With this much change in environment,\nit's normal to feel unsettled.
 187	message	Are you saying I'm insensitive?
-188	message	No, that's not what I—
+188	message	No, that's not what I-
 189	message	Just kidding!\nI can go anywhere with one bag,\nand I sleep like a log even with a different pillow!
 190	message	Wonderful adaptability.
 191	message	Haah... I miss my bed and pillow~.
@@ -171,7 +171,7 @@ row	column	english
 201	message	Yes. Haruka-san's hamburger steaks\nand fried shrimp are delicious.\nHer rolled omelets are exquisite!
 202	message	Amazing! Fancier than my place's food!
 203	message	Koto-chan, like I said before,\nwe're investigating this unexplained travel\nand looking for a way back to our world.
-204	message	I think it'd be best if you stuck\nwith us for a while —\nis that okay?
+204	message	I think it'd be best if you stuck\nwith us for a while -\nis that okay?
 205	message	Sure, sure!\nLooks like I'll get to eat tons of yummy stuff!
 206	message	I wish you'd share\nsome of that easygoing-ness with Houki.
 207	message	Worrying is a young person's job too, or so they say.\nRight, Sonico?
@@ -195,12 +195,12 @@ row	column	english
 229	message	...
 230	message	To help someone,\ndo you need qualifications?
 231	message	Huh...
-232	message	Not someone helping someone —\nlet's all help each other.\nIsn't now that kind of time?
+232	message	Not someone helping someone -\nlet's all help each other.\nIsn't now that kind of time?
 233	message	You don't need qualifications.\nAs long as you have the heart,\nyou can help each other.
 234	message	...Heart, huh.
 235	message	I want to help you, Houki-san.\nBut all I can do\nis call on Blue Angel.
 236	message	Does someone as powerless as me\nhave no right to help you, Houki-san?
-237	message	That's not true! That's not—!
+237	message	That's not true! That's not-!
 238	message	You can do more than I can, Houki-san,\nso have confidence. When you're anxious,\njust think of me anytime.
 239	message	Urgh...\num... th-thank...
 241	message	Houki-chaaan!!
@@ -232,7 +232,7 @@ row	column	english
 268	message	Could we just stay\nin this town forever?
 269	message	I kinda feel like we shouldn't overstay our welcome...\nor can we?
 270	message	When I went to Kyouto with Mine Riko,\nwe never came to a town like this.\nI wonder if there's a reason for that too?
-271	message	The residents of this town — just two people in a shop — are a mystery too.
+271	message	The residents of this town - just two people in a shop - are a mystery too.
 272	message	But they're both lovely girls, you know~!
 273	message	At least, thanks to Dokoka Town,\nthere are ways we've been helped.\nAntagonizing them would be unwise.
 274	message	Yeah yeah. I wanna stay friends!
@@ -259,7 +259,7 @@ row	column	english
 295	message	It's easier to discuss things together.
 296	message	I'll join Cecilia-chan's group\nand throw myself in front, maybe?
 297	message	We've split neatly into threes.\nI'll... (thinking about combat balance...)\nlet me join you, Cecilia-san.
-298	message	Rinin, me, Rem, and\nHouki, Haruka, Koto,\nCecilia, Hibiki, Sonico, Aoi — 3 groups.
+298	message	Rinin, me, Rem, and\nHouki, Haruka, Koto,\nCecilia, Hibiki, Sonico, Aoi - 3 groups.
 299	message	What about [MERU]?
 300	message	I'll follow\n[CLAUDE]-kun!
 301	message	What about [NOEL]?
@@ -283,7 +283,7 @@ row	column	english
 320	message	Have you forgotten who I am?\nThis Cecilia Alcott is perfect!
 321	message	Except for missing your pillow, right.
 322	message	We're not talking about that!!
-323	message	Koto, Haruka — even if this body rots away,\nI will protect you...!
+323	message	Koto, Haruka - even if this body rots away,\nI will protect you...!
 324	message	Geez, you're way too tense!
 325	message	Yeah yeah. Houki-san, loosen up!\nBeing serious is your good point, though.
 326	message	Even so,\nI can't change that easily.\nI'm... clumsy, y'know...

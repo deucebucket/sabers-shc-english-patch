@@ -2,7 +2,7 @@ row	column	english
 3	message	Was it okay to land in the middle of this forest?
 4	message	It's fine, it's fine.\nThe enemy won't know\nwhat we're up to either, right?
 5	message	From here it's a mind game.
-6	message	If they've got Black Rika-chan,\nshe knows Hinamizawa well —\nbut so do we, so we've got the edge in making the first move.
+6	message	If they've got Black Rika-chan,\nshe knows Hinamizawa well -\nbut so do we, so we've got the edge in making the first move.
 7	message	Still, since we don't know\nthe scale of the enemy's defenses,\nit's hard to judge how to move.
 8	message	It's not hard at all. Right, Satoko?
 9	message	Yes. It's easier to move in the forest.
@@ -11,7 +11,7 @@ row	column	english
 12	message	This forest is perfect\nfor ambushes and setting traps.
 13	message	Which means there's definitely enemies here.
 14	message	Then wouldn't avoiding it be the normal thing to do?
-15	message	Getting surrounded without noticing —\nno thanks!
+15	message	Getting surrounded without noticing -\nno thanks!
 16	message	O-hohoho!\nI won't make such a mistake.
 17	message	The enemy has set traps.\nAnd those will become the enemy's own weak point.
 18	message	You're saying you can see where the enemy is?
@@ -33,7 +33,7 @@ row	column	english
 34	message	Probably the black me… thinking about it\ngets me excited.
 35	message	Satoko-san,\nyou've got quite a strong heart.\nI'm impressed!
 36	message	Getting stronger is my goal.\nI'm still growing, you know?
-37	message	Alright, we're breaking through here.\nSatoko and I take point — IS pilots,\nguard the flanks and rear!
+37	message	Alright, we're breaking through here.\nSatoko and I take point - IS pilots,\nguard the flanks and rear!
 38	message	I'll guard Sonozaki and Houjou.
 39	message	I'll protect Rika-san and the others, desu~!
 40	message	I'll guard Rika-chan from the middle!
@@ -58,11 +58,11 @@ row	column	english
 61	message	Oyashiro-sama's power… I'll take it.
 62	message	If you know what Oyashiro-sama's power is,\nyou must know\nit's futile.
 63	message	It's not for you to decide whether it's futile.
-64	message	The one who set traps in this land —\nthe black me, meaning you?
+64	message	The one who set traps in this land -\nthe black me, meaning you?
 65	message	I'm strong… I've become strong.\nNo one will bully me anymore…
 66	message	If you think so, then don't even think\nabout kidnapping Rika.
 67	message	…
-68	message	Well then.\nYour so-called strength —\nshall I shatter it for you right now?
+68	message	Well then.\nYour so-called strength -\nshall I shatter it for you right now?
 71	message	Ohh, they're coming out!
 72	message	If we're prepared,\nthey're nothing to fear!
 74	message	There they are!
@@ -114,7 +114,7 @@ row	column	english
 131	message	People of Hinamizawa are driven by a strong homing instinct\nand always return to Hinamizawa.\nWe can't live away from it for long.
 132	message	…That means!
 133	message	Yes. It's because of the endemic disease\nstudied as Hinamizawa Syndrome.
-134	message	Then the me from back then —\nthe notes I got my hands on\nweren't wrong after all?
+134	message	Then the me from back then -\nthe notes I got my hands on\nweren't wrong after all?
 135	message	There's still a lot we don't know.\nBut to learn more, we must\nmove toward Hinamizawa's future.
 136	message	No matter what,\nwe won't let Rika-chan die again!\nRight, everyone!
 137	message	Of course!
@@ -123,7 +123,7 @@ row	column	english
 141	message	No matter what traps are set,\nI'll see through every one of them!
 142	message	Until now, I couldn't do anything for Rika,\nand it's been eating at me.\nBut this time, I'll save Rika!
 143	message	For that, I'll throw in all my wisdom, strength, and heart\nand leave no regrets!
-144	message	This battle in Hinamizawa — Satoko Houjou\nwill lead us to victory!
+144	message	This battle in Hinamizawa - Satoko Houjou\nwill lead us to victory!
 146	message	That's the spirit.\nI can't let myself lose either!
 147	message	We'll protect Rika-chan with everything we've got.
 148	message	I dedicate my sword to the shrine maiden of Hinamizawa.

@@ -25,8 +25,8 @@ row	column	english
 28	message	So it's certain that the current [MERU]\nhasn't fully awakened?
 29	message	So it's certain that the current [NOEL]\nhasn't fully awakened?
 30	message	On that, I'd like to hear\nfrom Mion and the others who observed her directly.
-31	message	[MERU] — or rather, I'll\ncall her the Goddess of Destruction —\nseems to act in a fixed cycle.
-32	message	[NOEL] — or rather, I'll\ncall her the Goddess of Destruction —\nseems to act in a fixed cycle.
+31	message	[MERU] - or rather, I'll\ncall her the Goddess of Destruction -\nseems to act in a fixed cycle.
+32	message	[NOEL] - or rather, I'll\ncall her the Goddess of Destruction -\nseems to act in a fixed cycle.
 33	message	A cycle?
 34	message	Just when I thought 'she's moving!',\nshe suddenly ran off. Twice, even.
 35	message	That's what saved our lives, though.
@@ -38,7 +38,7 @@ row	column	english
 41	message	Or maybe Mie's just super strong?
 42	message	Or both.
 43	message	Either way, we should assume\nwe can't do anything about\nthe Goddess of Destruction physically.
-44	message	If even Eve judged her unkillable,\nI doubt we — who couldn't beat Eve —\ncould do anything.
+44	message	If even Eve judged her unkillable,\nI doubt we - who couldn't beat Eve -\ncould do anything.
 45	message	Yeah. Mie's tough enough,\nand she went down in one hit. No way, no way!
 46	message	So, what do we actually do\nto protect the doujin event, nyo?
 47	message	Um... if [MERU] is\njust a sleepyhead,\nand stays asleep,
@@ -72,7 +72,7 @@ row	column	english
 75	message	There was also when I fought my black self.
 76	message	In the dream world, strength of heart becomes power.\nI wonder if we all have the resolve\nto fight in such a world?
 77	message	No need to even ask.\nRight, everyone?
-78	message	Yes! It'll definitely be okay!\nBecause you're the stars of this story —\nsuper heroines!
+78	message	Yes! It'll definitely be okay!\nBecause you're the stars of this story -\nsuper heroines!
 79	message	S-super heroines?\nAren't you the only 'suuper' one...
 80	message	That's not true!\nEvery single one of you\nis a super heroine!
 81	message	If Soniko says so, can't argue, nyo.\nSuper heroines it is, nyo!
@@ -94,11 +94,11 @@ row	column	english
 99	message	I'll approach the dormant Goddess of Destruction\nwith [MERU] and\nattempt the sync.
 100	message	And if it works, into the dream.
 101	message	I have no idea\nwhat the odds of success are.\nBut let's believe we can do it!
-102	message	It's not about whether we can — we'll DO it!
+102	message	It's not about whether we can - we'll DO it!
 103	message	Hibiki's right. We'll see it through!
 104	message	Obviously! It's our only shot!
 105	message	Just do what we've always done! Right?
-106	message	Impossible, limits, whatever —\nI'll punch a hole through any wall like that!
+106	message	Impossible, limits, whatever -\nI'll punch a hole through any wall like that!
 107	message	This feels good! With everyone,\nI feel like we can do anything!
 108	message	Let's all protect the doujin event, nyo!
 109	message	Then let's all do THAT to get fired up!
@@ -114,7 +114,7 @@ row	column	english
 123	message	I'm nervous... thinking\nabout one wrong step.
 124	message	We'll manage anyway! We'll show her!
 125	message	That spirit is what matters.
-127	message	You called, I jumped out — ta-daaa!
+127	message	You called, I jumped out - ta-daaa!
 128	message	Nobody called you!!
 129	message	So she did come...
 130	message	Combat power: unmeasurable.\nBehavioral principle: incomprehensible.

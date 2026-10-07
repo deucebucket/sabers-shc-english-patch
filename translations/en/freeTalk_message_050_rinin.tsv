@@ -24,7 +24,7 @@ row	column	english
 32	message	I said observing!\nGet that much straight!
 33	message	...If I did the same thing,\npeople would probably call it peeping.
 34	message	Obviously?\nThat wouldn't be observing.
-35	message	I-I see...\nNo, it's not like I want to—\nI just couldn't help noticing the unfairness...
+35	message	I-I see...\nNo, it's not like I want to-\nI just couldn't help noticing the unfairness...
 36	message	What are you mumbling about, so gloomy.\nBe more cheerful.
 37	message	Anyway, not a word of this to anyone.\nIf you tell... you'll be sorry.
 38	message	Y-yes...
@@ -120,7 +120,7 @@ row	column	english
 150	message	What? If you say something weird,\nyou won't get off easy.
 151	message	No.\nI think you're fine just as you are, Rin-san.
 152	message	H-huh...?\nWhat do you mean?
-153	message	No... just saying what I think—\nI find you attractive as you are.\n...That's all.
+153	message	No... just saying what I think-\nI find you attractive as you are.\n...That's all.
 154	message	Wh-what... hey!\nI said if you say something weird,\nyou won't get off easy...!
 155	message	...So I'm supposed to accept that?
 156	message	.........\nW-well... it doesn't feel bad hearing it.
@@ -178,7 +178,7 @@ row	column	english
 224	message	Hmm...?\nI might not play much.\nI don't remember...
 225	message	I see.\nYou don't look like you'd be good at them.
 226	message	I've got confidence\nin my reflexes, though...
-227	message	And it's not just that—\nthe kind that demands judgment\nseems to suit me.
+227	message	And it's not just that-\nthe kind that demands judgment\nseems to suit me.
 228	message	And Japanese games\nhave cute characters.
 229	message	My country has cute ones too,\nof course,\nbut Japan has a lot of them.
 230	message	Though I don't play that much\neither.
@@ -226,7 +226,7 @@ row	column	english
 282	message	My dynamic vision, my reflexes...\ncompletely useless...
 283	message	And even so... this margin...\nImpossible.
 284	message	I just got lucky.\nI racked up points smoothly.
-285	message	...H-hey, you're not bad!\nSo your luck stat is high—\nth-that I'll... acknowledge.
+285	message	...H-hey, you're not bad!\nSo your luck stat is high-\nth-that I'll... acknowledge.
 286	message	But... I won't lose next time!\nDon't get cocky just because you\nwon by fluke!
 287	message	I'm... not getting cocky...
 290	message	Winning felt purely good, though.\nI didn't think I could win.
@@ -237,7 +237,7 @@ row	column	english
 297	message	...I'm a little impressed.
 300	message	Well, whatever.\nYou beat me, so\nI'll prepare your reward.
 301	message	No, that's fine...
-302	message	It's fine, I said so.\nAnd I already thought of the reward—
+302	message	It's fine, I said so.\nAnd I already thought of the reward-
 303	message	I'm sure... you'll like it.
 304	message	I really want you to have it.\n...Specially.
 306	message	What's with that last part...
@@ -258,26 +258,26 @@ row	column	english
 325	message	...It says 'sweet and sour pork' in huge letters...
 326	message	You can order whatever you like?
 327	message	...Then, sweet and sour pork, please.
-328	message	Yeah yeah! Wait a sec—!
+328	message	Yeah yeah! Wait a sec-!
 331	message	Here, sorry to keep you waiting.\nIt's my pride and joy.
 332	message	Wow, looks delicious. Thank you for the meal.\n...Mmh. It's really good!
 333	message	Right? I really wanted you to try it.\nI said it was a reward, right?
 334	message	I can't cook for you like this any other time...
 335	message	Th-thank you.\nBut you're amazing, Rin-san...
 336	message	Making sweet and sour pork doesn't make me amazing.
-337	message	Not just that—\nlooking good in anything you wear,\nall of that—I think it's amazing.
-338	message	Wh—!? You're complimenting THAT now!?\nYou said nothing before...
+337	message	Not just that-\nlooking good in anything you wear,\nall of that-I think it's amazing.
+338	message	Wh-!? You're complimenting THAT now!?\nYou said nothing before...
 339	message	That kind of surprise attack...\nisn't that unfair...
 340	message	Huh? What is it?
 341	message	N-nothing!
 342	message	I-if you want... um...\nI could keep... cooking for you.
-343	message	...It's not like— I just sometimes want\nto make sweet and sour pork, and... um...
+343	message	...It's not like- I just sometimes want\nto make sweet and sour pork, and... um...
 344	message	Rin-san... that means... in other words.\nI'm really happy. Rin-san.
 345	message	.........
 348	message	What are you doing sleeping here!
 349	message	...Huh? Rin-san?\nThat outfit... is the cosplay over?
 350	message	Cosplay? What are you talking about?\nWere you dreaming?
-351	message	Dreaming about dressing me up in cosplay—\ncarefree, aren't you.
+351	message	Dreaming about dressing me up in cosplay-\ncarefree, aren't you.
 352	message	Anyway, this.\nTake it.
 353	message	Huh? What is this?
 354	message	Can't you tell by looking?\nIt's a game, a game.\nI said I'd give you a reward, right?

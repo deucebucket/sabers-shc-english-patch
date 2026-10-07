@@ -86,7 +86,7 @@ row	column	english
 92	message	//Black Soniko appears at the entrance.
 93	message	She's here!
 94	message	Um, a-are you Spaa Sonico-san...?
-95	message	Hello, my fake.\nSetting up such a farce—\nsmall-timers are such a bother.
+95	message	Hello, my fake.\nSetting up such a farce-\nsmall-timers are such a bother.
 96	message	You're the fake!
 97	message	U-um, I-I'm not a fake,\nI'm Super Sonico! Um!\nI'd like to ask about the photo book...
 98	message	Fufufu, the photo book~?\nYou have no right to blame me~!\nYou barely even have work.
@@ -99,12 +99,12 @@ row	column	english
 105	message	I-I'm the real me too!
 106	message	Then let's settle it here?\nWe don't need two Sonikos.
 107	message	//Battle map: inside Gamers.\n//After enemy and ally placement.
-108	message	Leave the nuisances to us—\nyou focus on the showdown!
+108	message	Leave the nuisances to us-\nyou focus on the showdown!
 109	message	Yes! I-I'll do my best!
 110	message	Steady now. You'll be fine!
 111	message	You're the real one, got it!
 113	message	Um... by the way, what exactly\nshould I do for the showdown...?
-114	message	Impression battles, chugging green juice, sexy pose battles—\nI've got all sorts planned,\nnyo~!
+114	message	Impression battles, chugging green juice, sexy pose battles-\nI've got all sorts planned,\nnyo~!
 115	message	...No need for that.\nA showdown means a battle\nstaking everything we have, obviously~!
 117	message	A b-battle? Staking... everything?
 118	message	Or will you tuck your tail and run?
@@ -128,7 +128,7 @@ row	column	english
 138	message	Soniko-chan! Hang in there!
 139	message	This is where you hold on!
 140	message	Nico-chan is Nico-chan!
-141	message	Everyone...! That's right—\nthe memories of time spent with everyone...\nour bonds are precious to me... so I want to protect them...!
+141	message	Everyone...! That's right-\nthe memories of time spent with everyone...\nour bonds are precious to me... so I want to protect them...!
 142	message	You're the real one!\nYou absolutely must win!
 143	message	But I don't have that kind of power...!
 144	message	No, you must!\nInside you, Soniko-san,\nthere must be the power of the Super Angel!
@@ -179,14 +179,14 @@ row	column	english
 197	message	Thank you for cheering me on!
 198	message	Um... I can't put my feelings\ninto words right now...\nso may I express them with music!
 199	message	Yeeeah!
-200	message	Then, listen—Powerful Power!
+200	message	Then, listen-Powerful Power!
 201	message	//Event CG: Soniko live.
 202	message	Ready...!!
 203	message	Yeah! Yeah! Yeah! Yeah!
 204	message	Oh, amazing!
 205	message	Soniko-chaaan!!
 206	message	This is the real Soniko-san!
-207	message	Yes—the radiance of a true idol.\nNo, of a superstar.
+207	message	Yes-the radiance of a true idol.\nNo, of a superstar.
 208	message	(How about it, [CLAUDE].\nIdols are wonderful things, aren't they?)
 209	message	(I can at least see that Soniko-san\nis making everyone here happy.)
 210	message	(It's not just that.\nThis huge crowd is also making Soniko-san happy.\nDon't forget that.)
@@ -197,7 +197,7 @@ row	column	english
 215	message	Yay!!
 216	message	//Event CG off.\n//Background: inside Gamers.
 217	message	Mufufu, thanks to the showdown event,\nsales exploded! Hurrah, nyo!
-218	message	Talk about a merchant's spirit—\nor was that the plan from the start?
+218	message	Talk about a merchant's spirit-\nor was that the plan from the start?
 219	message	Events have to make everyone happy,\nnyo!
 220	message	This time it's Dejiko-chan's achievement.
 222	message	I raised Soniko!

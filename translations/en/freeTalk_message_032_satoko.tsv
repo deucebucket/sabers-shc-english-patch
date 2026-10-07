@@ -1,29 +1,29 @@
 row	column	english
 4	message	Hmm... quite a spacious,\nlovely town, isn't it.
-5	message	And yet, this maze-like layout...\nYes, yes — this place looks very "trappable," doesn't it.
-6	message	Oh, Satoko? That's not good —\nkids should be in bed by now.
+5	message	And yet, this maze-like layout...\nYes, yes - this place looks very "trappable," doesn't it.
+6	message	Oh, Satoko? That's not good -\nkids should be in bed by now.
 7	message	Isn't it rude to treat a lady like a child?
 8	message	Just because you're enjoying a harem situation,\nI'd appreciate it if you didn't get carried away.\nI won't fawn over you that easily.
 9	message	Harem...?\nI don't really get it, but my apologies.\nWhat are you doing out at this hour?
 10	message	Good that you understand.\nYou're surprisingly well-mannered.
-11	message	As for what I'm doing — well, that's a maiden's secret,\nor so I'd say.
+11	message	As for what I'm doing - well, that's a maiden's secret,\nor so I'd say.
 12	message	...
 13	message	By the way, you look free.\nPerfect timing.\nWould you lend me a hand?
 14	message	Of course, you have no right to refuse.\nConsider it atonement for that rude remark earlier.
 15	message	Then let's go.\nStarting over there...
 18	message	...Hm, hm.\nIf I use this corner\nto corner them in that dead end from earlier...
-19	message	No, no — I'll make this spot just a decoy,\nand save the real fun for last...
+19	message	No, no - I'll make this spot just a decoy,\nand save the real fun for last...
 20	message	Umm...\nWhat have you been doing this whole time?
 21	message	What do you mean, 'what'...\nIt's obvious, isn't it?
-24	message	Don't tell me — hide and seek?
+24	message	Don't tell me - hide and seek?
 25	message	Why would I be playing hide and seek\nin the middle of the night?\nI'd like you to think a little before you speak.
 26	message	Well, in a sense you're close,\nor so I'll say.\nIt's effective for luring out\nhidden foes.
-29	message	Don't tell me — your first errand?
+29	message	Don't tell me - your first errand?
 30	message	That's right.\nMion asked me to,\nreally, she works people so hard...
 31	message	Like I'd be running an errand\nin the middle of the night!?\nAnd I can handle an errand on my own!
 34	message	I'm scouting locations\nto set my traps.
 35	message	Traps...?\nYou're setting traps around town?
-36	message	Yes — my traps, my pride and joy.
+36	message	Yes - my traps, my pride and joy.
 37	message	You never know when an enemy\nmight attack this town.
 38	message	Especially late at night like this,\nif they attacked while everyone's asleep,\nchaos would be guaranteed...
 39	message	And then, if my traps were in place,\nthey'd surely come in handy\nin a pinch!
@@ -44,7 +44,7 @@ row	column	english
 62	message	W-what was that just now...
 63	message	...Click.
 66	message	BUBERAH!?
-67	message	No way — is this one of Satoko's traps...?
+67	message	No way - is this one of Satoko's traps...?
 68	message	O-hohohoho...!
 69	message	You fell for it!
 70	message	And what a spectacular way to fall for it...\nIt makes all the effort I put into setting it\nworthwhile.
@@ -65,27 +65,27 @@ row	column	english
 91	message	(Satoko... what a fearsome kid!)
 94	message	...Huh?\nWhere did he go, I wonder.
 95	message	I was hoping you'd help me\nset traps again today...
-96	message	(Helping, he says — at that rate\nI don't have enough bodies for this...\nKnock on wood, knock on wood...)
+96	message	(Helping, he says - at that rate\nI don't have enough bodies for this...\nKnock on wood, knock on wood...)
 97	message	...Hm?\nWhat's that...
 98	message	I seee, so you plan to run from me.\nYou've got guts.
 99	message	Good thing I already took measures\nassuming you'd think that...
 102	message	This is weird... where did my thing go...?\nWithout my thing, I...
 103	message	Could you be\nlooking for your thing?
 104	message	Don't worry.\nYour thing is in my protection.
-105	message	Yes... 'If you want it back,\ncome and take it!' —\nthat's how it goes, no?
+105	message	Yes... 'If you want it back,\ncome and take it!' -\nthat's how it goes, no?
 106	message	Tch... why go so far just to drag me in?
 107	message	A reason it has to be you?\nEven asking is boorish.
 108	message	I couldn't possibly use\nthe frail young ladies as test subjects\nfor my traps.
 109	message	Which leaves only you.\nFortunately, you seem to have\na real talent for getting caught in traps.
 110	message	Like the deeds of some evil scientist...
-111	message	Wh-what did you say!?\nOf all things to call me — a deranged\nmad scientist...!
+111	message	Wh-what did you say!?\nOf all things to call me - a deranged\nmad scientist...!
 112	message	I was thinking of going easy on you,\nbut you've snapped my last nerve!
 113	message	Now, if you want this back,\ntry and catch me!
 115	message	I need that thing...\nI guess I have no choice but to chase her.
 118	message	Oh my, at this rate\nshe'll catch up to me.\nWhat to do, what a problem~.
 119	message	I could catch her at a dash, but... that composure...\nI'm betting there's a trap on this straight path too...
 122	message	If I charge straight through, the traps won't be able to react in time!
-123	message	Oh my...\nA head-on breakthrough against me —\ndo you know no fear?
+123	message	Oh my...\nA head-on breakthrough against me -\ndo you know no fear?
 124	message	You spotted the tiny opening\nwhen a trap activates.\nHoweveeer...!
 127	message	Whatever happens, if I just jump right over it!\nHup!
 128	message	You read that there'd be something on the ground, did you?\nBut...!
@@ -117,7 +117,7 @@ row	column	english
 172	message	No way.
 173	message	And whose mouth is saying that?\nPoke poke~.
 174	message	Urgh... F-fine, I get it!
-177	message	But — if I manage to slip through every one of your traps,\ndo you get a penalty game too, Satoko?
+177	message	But - if I manage to slip through every one of your traps,\ndo you get a penalty game too, Satoko?
 178	message	Hm... quite right.\nIt wouldn't be fair otherwise.
 179	message	Think up a penalty game for me,\nwould you? Not that I expect\nto lose, of course.
 180	message	Now I can go all out\nwith even more gusto.\nFufufu...
@@ -131,7 +131,7 @@ row	column	english
 193	message	Hah!?\nTh-that is... no way!?
 194	message	...
 195	message	You're closing your eyes!?
-196	message	Then that seals off my ability to read your mind,\nand without being fooled by what you see,\nyou can press forward — is that it!?
+196	message	Then that seals off my ability to read your mind,\nand without being fooled by what you see,\nyou can press forward - is that it!?
 197	message	O-ohohoho!\nYou think you can slip through MY traps\nwith something like that...!
 200	message	Th-that's impossible!?\nAre you seeing with your mind's eye or something!?
 203	message	Wh-what is this...\nEvery single trap... unscathed...
@@ -168,7 +168,7 @@ row	column	english
 247	message	Um... yes, that's right!\nI hate pumpkin!
 248	message	This, this is like\nslurping a whole pumpkin!\nIsn't it!
 249	message	You're still growing, Satoko,\nso you should eat it.\nDoesn't it look tasty?
-250	message	Pumpkin, you see, is rich in vitamins and minerals,\ngreat for rough skin too —\na truly excellent vegetable!
+250	message	Pumpkin, you see, is rich in vitamins and minerals,\ngreat for rough skin too -\na truly excellent vegetable!
 251	message	Uwaaah... for someone with amnesia,\nwhy do you know all THAT stuff.\nUwaaaan!
 252	message	(Crying this hard!?\nBut disliking food is bad, so here...)
 255	message	I'll make you eat it even by force! Here!
@@ -181,12 +181,12 @@ row	column	english
 266	message	...Sweet.
 267	message	See? Being picky never pays.
 268	message	Th-this just happened to be\nseasoned in an easy-to-eat way,\nis all!
-269	message	Honestly, forcing someone to eat —\nthat's practically a penalty game.
+269	message	Honestly, forcing someone to eat -\nthat's practically a penalty game.
 270	message	...Ah.
 271	message	(Hm? Penalty game? ...Ahh!)
 272	message	Did you just remember?
 273	message	All too clearly...
-274	message	Urgh — if I slip through your traps,\na penalty game...
+274	message	Urgh - if I slip through your traps,\na penalty game...
 275	message	I'd managed to forget, and then\nI go and remind myself with something like this!\nMy mouth slipped...!
 276	message	I understand...\nI have my pride too.\nI'll keep the promise.
 277	message	By next time, think up\nthe penalty... okay?
@@ -196,7 +196,7 @@ row	column	english
 283	message	The thing is, I still...\ndon't know what to make you do.
 284	message	...Huh?\nYou haven't thought of anything?
 285	message	I-is that so.\nPhew... I mean, whatever you do to me,\nI'm fine with it!
-286	message	So, how long are you going to stand there spacing out?\nI'm going to bed, you know —\nisn't it rude in front of a lady?
+286	message	So, how long are you going to stand there spacing out?\nI'm going to bed, you know -\nisn't it rude in front of a lady?
 287	message	I gave you your pillow back,\nand now you're going to say you can't sleep\nwithout me?
 288	message	...That sounds good.
 289	message	...Huh?\nNo way...
@@ -212,12 +212,12 @@ row	column	english
 301	message	So there's not the slightest reason\nfor you to worry about me...
 302	message	...
 305	message	You're such a good girl for being so little, Satoko. Good girl.
-306	message	Wh—\nDon't treat me like a child!\nHow many times do I have to say it!
+306	message	Wh-\nDon't treat me like a child!\nHow many times do I have to say it!
 309	message	!? Wh-what are you crawling in here for!?
 310	message	Well, you're so cute I wanted to hug you... fmgh!
 311	message	You pervert!\nStay away from meee!
 314	message	Honestly, you really are something...
-315	message	But you — there's definitely something about you...\nN-no, never mind!
+315	message	But you - there's definitely something about you...\nN-no, never mind!
 316	message	I-I'm going to sleep now,\nso you go to sleep too, right now!
 317	message	'Just like Nii-nii'...?\nWhat's gotten into me...?
 320	message	What in the world...?\nWhere... am I?
@@ -230,23 +230,23 @@ row	column	english
 332	message	All those traps I set on you...\nthey were, in a way, love turned inside-out...
 333	message	You know, that thing where you tease\nthe one you like...
 334	message	For me to finally realize it...\nabout myself...
-335	message	(Wh-this is a love confession from Satoko\n— is that what's happening here!?)
+335	message	(Wh-this is a love confession from Satoko\n- is that what's happening here!?)
 336	message	Ufufu, of course this\nisn't a trap.
 337	message	Rather, before I knew it, I'd been splendidly\ncaught by your existence...
 338	message	Please accept my feelings.
 339	message	...Of course!
 340	message	I'm happy...
-341	message	Then — my final trap, as a present.\nPlease pull this string.
+341	message	Then - my final trap, as a present.\nPlease pull this string.
 342	message	I just pull this, right?
 343	message	Yes, give it a good pull!
 344	message	Here I go... heave!
-347	message	...H-huh? What's this?\nSatoko, where are you—?
+347	message	...H-huh? What's this?\nSatoko, where are you-?
 348	message	WAAAAAH...!
 349	message	O-hohohoho...\nSloppy to the very last...!
 352	message	I'm glad...!\nYou've finally noticed.
 353	message	What in the world am I...
 354	message	I'm sorry...\nYou fell into my trap\nand were out cold for a little while.
-355	message	(Huh — so the Satoko from before was a dream...!?)
+355	message	(Huh - so the Satoko from before was a dream...!?)
 356	message	I'm really, truly sorry.\nI got carried away\nand couldn't hold back...
 357	message	I never properly\ntold you, did I.
 358	message	I have an older brother named Satoshi\nwho's run away from home...
@@ -254,6 +254,6 @@ row	column	english
 360	message	I was just so happy, I got a little\ncarried away... how embarrassing.
 361	message	Don't be embarrassed...\nI'm happy to be thought of that way.
 362	message	Thank you... very much.
-363	message	Um — from now on, when it's just the two of us...\nmay I call you\nNii-nii...?
+363	message	Um - from now on, when it's just the two of us...\nmay I call you\nNii-nii...?
 364	message	Yes, of course.
 365	message	Thank you...\nYou're kind, Nii-nii.

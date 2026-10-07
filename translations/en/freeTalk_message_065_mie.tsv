@@ -12,13 +12,13 @@ row	column	english
 16	message	Ahaha.\nYou can't catch Mie's ball, can you~?
 17	message	U-um... I feel like getting hit by it\nwould be no joke...
 18	message	Right?\nSo you'd dodge for dear life, yeah?
-19	message	A slightly one-sided ball game —\nsounds super fun, right?
+19	message	A slightly one-sided ball game -\nsounds super fun, right?
 20	message	Okay, let's get started!\nRea~dy...
 21	message	W-wait a second.
 22	message	Mooore! Whaaat?\nI can't wait much longer?
 25	message	Let's play something healthier.\nUm... this is dangerous... for me.
 26	message	Huh? That's what makes it good!\nThrilling and fun, right?
-27	message	I wanna see Big Bro running around in a panic —\nit looks like fun~.
+27	message	I wanna see Big Bro running around in a panic -\nit looks like fun~.
 30	message	So you believe I can dodge it?\nBut you said I'd get hit, though... right?
 31	message	Big Bro's right for this game, yeah?\n'Cause anyone else could probably fight back.
 32	message	With Big Bro, even whether he can run away\nis touch-and-go~.
@@ -64,7 +64,7 @@ row	column	english
 84	message	The purge!?
 85	message	Yay! Ahaha~.
 87	message	(I have to find her... no matter what, I have to find her,\nor I'm in big trouble...!!)
-90	message	What should we play today?\nHow about dropping coins into a cup of water —\nwhoever spills it loses?
+90	message	What should we play today?\nHow about dropping coins into a cup of water -\nwhoever spills it loses?
 91	message	Loser gets a punishment game!\nIf Big Bro loses, he's Mie's servant.\nIf Mie loses, she'll say sorry♪
 92	message	Um...\nthe punishments seem a bit uneven...
 93	message	No they're not~.
@@ -159,7 +159,7 @@ row	column	english
 198	message	A camera...?\nWhat's that?
 199	message	You don't know what a camera is!?\nYou're so behind the times~.
 200	message	Well, we all come from\ndifferent worlds, so it can't be helped.
-201	message	This is a tool for art —\nit preserves a girl's, ahem, unguarded moments\nas a single picture~.
+201	message	This is a tool for art -\nit preserves a girl's, ahem, unguarded moments\nas a single picture~.
 202	message	Score!\nNow Big Bro can see fun stuff\nanytime he wants!
 203	message	...Mie just wants to capture it\nand watch Big Bro getting scolded...
 204	message	Huh? I... didn't catch the second half.\nA woman's unguarded moments... like, THAT kind of pose or THIS kind!?\nYou can see those? That seems... not good...
@@ -274,7 +274,7 @@ row	column	english
 352	message	What... is this...
 353	message	Can't you tell by looking? Want me to swap your brain?
 354	message	It's obviously a café? And Mie's the waitress!
-355	message	Getting Mie's service —\nBig Bro, you're lucky~.
+355	message	Getting Mie's service -\nBig Bro, you're lucky~.
 356	message	...Er, thanks for that.\nBut... shouldn't it be someone else, not me...
 357	message	Stop being so wishy-washy!\nPick from the menu~!
 358	message	It's gonna get fun from here!

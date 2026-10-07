@@ -1,6 +1,6 @@
 row	column	english
 3	message	How'd it go on your end, Aria?
-4	message	Too much happened —\nI don't know where to start.\nYour end?
+4	message	Too much happened -\nI don't know where to start.\nYour end?
 5	message	Same here.\nThe satellite cannon "Gustav"\nis no longer an immediate threat.
 6	message	W-wow, new faces...\nUm, hello!\nI'm Super Sonico!
 7	message	Jeanne d'Arc the 30th.\nCircumstances led me to join you.\nPleased to meet you.
@@ -33,7 +33,7 @@ row	column	english
 36	message	//fade to black: time passes\n//Location unchanged
 37	message	We're starting to see\nMii and Kei's movements a bit.
 38	message	Kei seems interested in mysterious powers.
-39	message	And not just obtaining them —\nshe seemed focused on confirming\nand verifying how the power manifests.
+39	message	And not just obtaining them -\nshe seemed focused on confirming\nand verifying how the power manifests.
 40	message	Kei didn't seem to enjoy\ndestruction, that's true.
 41	message	Mii was the worst!\nShe's truly awful!\nLaughing at people's precious things!
 42	message	It was Mii who tried to fire Gustav too.\nJust for kicks.\nKei didn't seem keen.
@@ -41,7 +41,7 @@ row	column	english
 44	message	Uncalculated cruelty is\ntroublesome.\nHard to predict what she'll do.
 45	message	Even now, we don't know\nwhat Mii will do next.
 46	message	Frustrating, but we wait for their move.\nAlso, the black fakes have\nbeen getting active.
-47	message	The black IS, even a black Symphogear appeared —\none crisis after another.
+47	message	The black IS, even a black Symphogear appeared -\none crisis after another.
 48	message	I think we pulled through well, and\nthis battle helped us grow.
 49	message	On our end, black Louise-san, black Rem-san,\nthe black Twin Angel,\nand even black Soniko-san showed up!
 50	message	So what ARE those things?
@@ -74,7 +74,7 @@ row	column	english
 77	message	Well then, today's work is done, nyo!\nI'll head out first, nyo~.
 78	message	Huh? Dejiko, going somewhere?
 79	message	Dejiko's taking a break for a while, nyo!\nEveryone, do your best, nyo~.
-80	message	A sudden break — what's that about!?
+80	message	A sudden break - what's that about!?
 81	message	I'm not saying no, but\nat least give us a reason.
 82	message	Are you tired, perhaps...?\nIs there anything I can do?
 83	message	Actually, Dejiko has to do\nthe most important job in the world, nyo!
@@ -93,13 +93,13 @@ row	column	english
 99	message	What's that?
 100	message	Nyo? You'll help, nyo?
 101	message	//fade to black\n//Background: outside Gamers
-102	message	Honestly, what's Dejiko thinking!?\nStarting a doujinshi — was it?\nAt a time like this!?
+102	message	Honestly, what's Dejiko thinking!?\nStarting a doujinshi - was it?\nAt a time like this!?
 103	message	I never imagined she'd call something like that\nthe most important thing in the world.
 104	message	B-but... is it really okay\nnot to help...?
-105	message	It's fine, it's fine!\nIt's her hobby — let her do it alone!
+105	message	It's fine, it's fine!\nIt's her hobby - let her do it alone!
 106	message	She even enjoys writhing\nagainst the deadline, nyu.\nLeave her alone for a while, nyu.
 107	message	//Dejiko comes running.
-108	message	Nyonyonyo————!!
+108	message	Nyonyonyo----!!
 109	message	Huh!? Dejiko!?\nYou're back?
 110	message	Where's that black one, nyo!?\nI'll smash her, nyo!!
 111	message	Black one? What do you mean?
@@ -113,7 +113,7 @@ row	column	english
 119	message	What? What's up?
 120	message	Calm down and look at this closely, nyo...
 121	message	What's with this thin book?
-122	message	Wh—!? Hey!? What's this!?\nThe cover art is me!!
+122	message	Wh-!? Hey!? What's this!?\nThe cover art is me!!
 123	message	That's right, nyo!\nI was making a BL book, but\nan Usada book came out instead, nyo!
 124	message	Why!?
 125	message	I can't show you the inside for various reasons, nyo.
@@ -135,7 +135,7 @@ row	column	english
 142	message	Dejiko! Where's the one who drew this!?
 143	message	That's why I came back, nyo!
 144	message	I'll find them, no matter what! No matter what!
-145	message	Bringing conflict to the sacred convention —\neven if God forgives it, Dejiko-sama and\nall convention attendees won't, nyo!
+145	message	Bringing conflict to the sacred convention -\neven if God forgives it, Dejiko-sama and\nall convention attendees won't, nyo!
 146	message	I'll find them before the convention\nand punish them, nyo!
 147	message	Could this be black Dejiko's doing, I wonder?
 148	message	No other doujin artist\nknows about Usada, nyo!\nShe's clearly picking a fight, nyo!
@@ -143,7 +143,7 @@ row	column	english
 150	message	Emergency meeting! Gather everyone!
 151	message	Let's do it, nyo!
 152	message	//fade to black\n//Background: inside Gamers
-153	message	—Several days later
+153	message	-Several days later
 154	message	No good, nyo~. Can't find the culprit, nyo~.
 155	message	Five IS units, plus field investigations\nby Rem, Aria, and Shirayuki, and not a single clue!?\nWhat's going on!?
 156	message	I investigated the printer where the manuscript\nwas likely swapped, but no clues.\nWhat method did they even use?
@@ -284,8 +284,8 @@ row	column	english
 293	message	Isn't it way faster and handier\nthan Halkeginia's bookbinding?
 294	message	Indeed.
 295	message	I still can't forgive that black one, nyo!\nUntil I crush them completely,\nI can't even go to the convention in peace, nyo!
-296	message	It's do or die now —\nI'll see it through, nyo!!
-297	message	Still, those black ones aren't\njust evil —\nthey've got weird fixations.
+296	message	It's do or die now -\nI'll see it through, nyo!!
+297	message	Still, those black ones aren't\njust evil -\nthey've got weird fixations.
 298	message	A human touch, I guess?\nThat's what I feel from them.
 299	message	The Twin Angel fakes didn't\nshow much emotion, though...
 300	message	My fake was taciturn too.\nMaybe it varies by person?

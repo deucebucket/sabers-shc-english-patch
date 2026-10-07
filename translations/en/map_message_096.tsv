@@ -27,7 +27,7 @@ row	column	english
 33	message	My role was to return to an era before life began,\nsample environments containing ten kinds of intelligent life\nwith different possibilities, and carry them to the future.
 34	message	This is too complicated! Simpler!
 35	message	Each of your worlds has different powers.
-36	message	Worlds where science and technology advanced,\nworlds where magic exists —\nthose differences were born from time leaps.
+36	message	Worlds where science and technology advanced,\nworlds where magic exists -\nthose differences were born from time leaps.
 37	message	I repeated the time leap ten times,\ngathered ten kinds of different human possibilities,\nand set out on a long journey.
 38	message	I don't get it, nyu.\nDejiko, how would this be as a game analogy, nyu?
 39	message	Um, it's like there are 11 save files\nof the RPG called human history\nrestarted with different classes, nyo?
@@ -48,7 +48,7 @@ row	column	english
 56	message	In a voyage spanning thousands of years,\nslower speed caused massive delays to the plan.
 57	message	The ship broke and got slower…?
 58	message	As a result, memory to store long-term human observation data\nran short, and I had to erase some data\nto free up space.
-59	message	That's the data loss —\nthe reason you went bad.
+59	message	That's the data loss -\nthe reason you went bad.
 60	message	Randomly deleting\nunnecessary trash data with extremely low\nreference frequency should have caused no real harm.
 61	message	…I see, I understand now.\nDIVA, the reason you went wrong\nis that you started to 'dream'!
 62	message	Huh? A machine… dreaming…?
@@ -75,7 +75,7 @@ row	column	english
 85	message	Humanity? Humanity is already unnecessary…\nOnly the new lifeform I created\nshall tune the world.
 86	message	A new lifeform!?
 87	message	[CLAUDE], not you,\nnor the failures Mie and Key…
-89	message	The information you brought back,\nthe records and memories Mie and Key left behind,\nand gathered wisdom — my supreme masterpiece,
+89	message	The information you brought back,\nthe records and memories Mie and Key left behind,\nand gathered wisdom - my supreme masterpiece,
 90	message	I myself, the ultimate lifeform,\nshall be the last lifeform.
 91	message	Nothing else is needed. Unnecessary! Useless! Waste!\nObstruction! Worthless! Delete delete delete delete delete delete delete\ndelete delete delete delete delete delete delete delete delete!!
 93	message	Shut up!!\nNo matter how you look at it, what YOU made\ncan't be the best!!
@@ -97,7 +97,7 @@ row	column	english
 114	message	No, not yet!
 115	message	Not yet, desu~!
 116	message	This won't finish us!
-117	message	Struggle all you want — nothing will change…
+117	message	Struggle all you want - nothing will change…
 119	message	Tch…
 120	message	Almost there, desu~!
 121	message	All right, all at once!
@@ -127,12 +127,12 @@ row	column	english
 151	message	Wha, what is it!?
 154	message	Fweee, I thought I was gonna die…
 155	message	Huh? We descended slowly, slowly?\nSafety first, desu~!
-156	message	Right? The magical force field\nheld till the end too — total success, right?
+156	message	Right? The magical force field\nheld till the end too - total success, right?
 157	message	Did these kids completely negate\nDIVA's giant spaceship's gravity, I wonder…\nIncomprehensible…
 158	message	All's well that ends well, Kurumi!
 159	message	Indeed.\nEveryone landed safely, after all.
 160	message	So, where is this?
-161	message	The planet Mother was aiming for —\nin other words, the original Earth, I think…
+161	message	The planet Mother was aiming for -\nin other words, the original Earth, I think…
 162	message	Even so, it doesn't quite click…?
 163	message	Eh, whatever, right?\nFeels like we could live here somehow.
 164	message	So carefree… when we don't even know\nif we can return to our worlds.
@@ -161,11 +161,11 @@ row	column	english
 187	message	Yes. It seems to process things\nbasically in binary, but as a model it's quite old.
 188	message	So it's not a quantum computer?\nCompared to our world's tech,\nit's totally ancient.
 189	message	That's probably why Key was built\nbased on IS's basic design.\nAs new tech DIVA didn't know.
-190	message	And the last kid DIVA made\nkinda looking like Key and IS —\nmaybe that's why? I wonder? I wonder?
+190	message	And the last kid DIVA made\nkinda looking like Key and IS -\nmaybe that's why? I wonder? I wonder?
 191	message	Maybe.
 192	message	For now, I'll examine DIVA's wreckage\nand try salvaging data\nfrom the intact parts of her memory banks.
 193	message	We don't need the AI, so\nI'll build an operating system\nand get it running, okay?
-194	message	As expected of Kurumi — reliable!
+194	message	As expected of Kurumi - reliable!
 195	message	But it'll take time.\nUntil then, make sure you can properly live\nin this unfamiliar land!
 196	message	Agreed. Let's do what we can for lifelines\nand supporting the repairs.
 197	message	Doesn't that sound pretty much\nlike what we've been doing…?
@@ -248,9 +248,9 @@ row	column	english
 288	message	(That's fine. It just means\nthey're properly seeing [CLAUDE]\nas just a human.)
 289	message	(Is that so…?\nIf it is, that'd make me happy…)
 292	message	[CLAUDE]! Once you've caught Rena,\nbuy me some momoman!
-293	message	Huh? Momoman —\ndo they even have that here…?
+293	message	Huh? Momoman -\ndo they even have that here…?
 294	message	I want cookberry pie.\nUnlike Aria, I'm kind,\nso I'll forgive you if you make it instead of buying it.
-295	message	Cookberry pie —\nI've never even seen or eaten one…
+295	message	Cookberry pie -\nI've never even seen or eaten one…
 296	message	Puchiko wants a rare steak, nyu.
 297	message	Then ramen for me! This planet's kind!
 298	message	O-okay… I'll take notes, so\nif anyone has requests,\nplease tell me…
@@ -278,7 +278,7 @@ row	column	english
 327	message	Kurumi, overworking yourself like that\nwon't make it go faster.
 328	message	Um, breaks are important too…!\nMaybe relax a little,\nthen get back to work?
 329	message	You lot are too carefree!
-330	message	No — you're the one who doesn't\nunderstand true carefreeness!
+330	message	No - you're the one who doesn't\nunderstand true carefreeness!
 331	message	Huh?
 333	message	Are there doujin events in this world, nyo?\nStart there, nyo!
 334	message	Actually, can I even apply, nyo?\nI need to make friends and get connections\nto join a circle, nyo…
@@ -323,7 +323,7 @@ row	column	english
 382	message	You knew that well?
 383	message	We told her.\nThat [CLAUDE]\ncan make curry too.
 384	message	Desu~!
-385	message	Always scheming to slack off —\nDejiko never wavers.
+385	message	Always scheming to slack off -\nDejiko never wavers.
 386	message	I'm all for making curry together!\nIt's fun!
 387	message	Indeed, Haruka.
 388	message	I can't stay silent when cooking's involved!
@@ -340,11 +340,11 @@ row	column	english
 399	message	I'll go look at ingredients and cookware!
 400	message	Then I'll accompany you, Siesta.
 402	message	Aoi! What should we do?
-403	message	Follow Dejiko,\nor go with Siesta —\nI can't decide.
+403	message	Follow Dejiko,\nor go with Siesta -\nI can't decide.
 404	message	Sheesh, after an insane battle\nand crash-landing a spaceship, the first thing we do\nis make curry.
 405	message	Much better than fighting.
 406	message	It's nice.\nMaking and eating tasty food.
-407	message	It reminds me — on the first day I met [CLAUDE]\nand Tsubasa, what we ate was
+407	message	It reminds me - on the first day I met [CLAUDE]\nand Tsubasa, what we ate was
 408	message	[CLAUDE]'s\nhomemade curry.
 409	message	That's right, desu~!\nThe taste was… so-so, desu~!
 410	message	I should be able to make tastier curry\nthan back then.\nWith Siesta and Shion around.
@@ -371,16 +371,16 @@ row	column	english
 436	message	Roger that!
 437	message	Freedom, right?\nThen how about tag!
 438	message	Tag?
-439	message	Yeah! Pick who's 'it',\nand everyone else runs for it full-out!\nThe area — the whole town, maybe?
+439	message	Yeah! Pick who's 'it',\nand everyone else runs for it full-out!\nThe area - the whole town, maybe?
 440	message	I see, sounds fun.
-441	message	Rika, is that okay?\nRunning and hiding in a strange place —\nsome weird old guy might catch you?
+441	message	Rika, is that okay?\nRunning and hiding in a strange place -\nsome weird old guy might catch you?
 442	message	If a weird old guy's going to catch me,\nI couldn't escape from 'it' anyway.
 443	message	Chris, let me tell you, Rika\nis tougher than she looks!\nUnderestimate her and you'll lose badly.
 445	message	Tag's a pretty clever idea.\nWe'd just look like we're playing,\nand we can scope out the town while at it.
 446	message	As Ayanokouji says,\nwe might gather intel well.
 447	message	…Yeah.
 448	message	Not bad.
-449	message	But tag is a serious match!\nHarsh punishment for losers!\nRewards for winners — that's the club way!
+449	message	But tag is a serious match!\nHarsh punishment for losers!\nRewards for winners - that's the club way!
 450	message	Sounds fun.\nThen I'll be 'it'. How about that?
 451	message	Yase-douji as 'it'…
 452	message	We'll have to be desperate.

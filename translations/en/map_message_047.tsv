@@ -31,7 +31,7 @@ row	column	english
 41	message	You're not thinking this through, Aria.
 42	message	What was that?
 43	message	A club veteran keeps track\nof the disqualified players'\nremaining shots too!
-44	message	Usada and Dejiko's water guns!?\nWhen did you—!?
+44	message	Usada and Dejiko's water guns!?\nWhen did you-!?
 45	message	Now I've got the ammo advantage.\nCome on, let's settle this!
 46	message	...I see.\nNow I understand how you've\nsurvived this far.
 47	message	But with your skill,\ntaking me down is impossible!
@@ -43,13 +43,13 @@ row	column	english
 56	message	But Aria's low on ammo.\nTo land a hit before running dry,\nshe has to get close!
 57	message	That's what makes it fun!\nRena! Show 'em the pride\nof a club veteran!
 58	message	//
-59	message	I've got three shots.\nRena's got an estimated eight.\nBut she's holding three guns—\nthere's always an opening when she switches!
+59	message	I've got three shots.\nRena's got an estimated eight.\nBut she's holding three guns-\nthere's always an opening when she switches!
 60	message	Hiyah!
 62	message	// SE: water gun firing sound, dodged by Aria
-63	message	Now! Her right gun's empty—she's switching!
+63	message	Now! Her right gun's empty-she's switching!
 64	message	That's Aria!\nCircling to the right and closing in!
 65	message	Got her hooked!
-66	message	Wh—!?
+66	message	Wh-!?
 67	message	// SE: water gun firing sounds x2; Aria and Rena are hit simultaneously.
 68	message	Ugh!
 69	message	Hyah!
@@ -75,7 +75,7 @@ row	column	english
 89	message	// Fade to black\n// Background: a cafeteria-like place
 90	message	So what are we doing from here?
 91	message	Hmm...
-92	message	About that—could we head back to IS Academy?\nI'd like to get my IS serviced.
+92	message	About that-could we head back to IS Academy?\nI'd like to get my IS serviced.
 93	message	The plan to regroup at IS Academy\nwas partly for the maintenance schedule.
 94	message	We also need to submit our data to IS Academy,\nand the unstable situation in Europe worries me.
 95	message	Then, unless anyone objects,\nlet's go to IS Academy.\nDeparting tomorrow work for everyone?
@@ -83,7 +83,7 @@ row	column	english
 97	message	Even without us personal-IS pilots,\nIS Academy has its teachers,\nso it can't be attacked that easily!
 98	message	For us, with the enemy getting ahead of us,\nit's a somewhat reassuring destination.
 99	message	// Fade to black\n// Background: in front of IS Academy
-100	message	—IS Academy
+100	message	-IS Academy
 101	message	// Fade to black\n// Background: IS Academy classroom
 102	message	Rin and the others aren't back\nfrom reporting yet.
 103	message	There's the medical checkup too,\nso it won't be quick.
@@ -101,7 +101,7 @@ row	column	english
 115	message	Hweh? A mixed tag match?
 116	message	People with IS units team up\nwith people without them for matches?
 117	message	Something about IS-vs-IS combat training\nnot being enough for the current situation,\nor whatever.
-118	message	True—fighting in coordination\nbetween IS pilots and those who can't fly\ntakes special training.
+118	message	True-fighting in coordination\nbetween IS pilots and those who can't fly\ntakes special training.
 119	message	Sounds fine.\nNothing to lose by trying.
 120	message	So, what are the teams?
 121	message	IS Academy's deciding based on the data,\napparently. I wonder how it'll turn out~?
@@ -127,14 +127,14 @@ row	column	english
 141	message	The rule is: if either teammate\ngoes down, you lose, right?
 142	message	Looks like we'll be protecting\nour partners.
 143	message	Since we can't fight selfishly,\nthis'll be different from\nan IS-vs-IS match!
-144	message	Honestly, this isn't my strong suit.\nSiesta, don't do anything—\njust watch the surroundings\nand give me directions.\nThat'll be easier for me.
+144	message	Honestly, this isn't my strong suit.\nSiesta, don't do anything-\njust watch the surroundings\nand give me directions.\nThat'll be easier for me.
 145	message	Understood!\nI'm counting on you!
 146	message	Houki, what should we do?
-147	message	Don't overthink it—\njust do what we always do.\nWe both know each other's strength,\ndon't we?
+147	message	Don't overthink it-\njust do what we always do.\nWe both know each other's strength,\ndon't we?
 148	message	Yeah! All right, let's go!
 149	message	The tag match is finally starting!\nAria, who do you think'll win?
 150	message	I'd like to say Hibiki and Houki, but...
-151	message	Dejiko's in this, y'know.\nRin's a tricky one too—\nfeels like they'll stir things up.
+151	message	Dejiko's in this, y'know.\nRin's a tricky one too-\nfeels like they'll stir things up.
 152	message	Then Puchiko and Charlotte,\nwho can read Dejiko's personality,\nmight have a shot?
 153	message	In raw IS combat power,\nLaura's a cut above the rest.\nHow the others fight her\nis worth watching too.
 154	message	What if Cecilia carried Sonico\nand fought in the air?
@@ -146,7 +146,7 @@ row	column	english
 160	message	The mixed tag match will now begin!\n3... 2... 1...
 161	message	Hooold on a minute!
 162	message	Who's there!?
-163	message	The voice—it's coming from\ninside the arena!?
+163	message	The voice-it's coming from\ninside the arena!?
 164	message	// Riko and Jeanne appear
 165	message	You're doing something fun!\nRikoring wants to join too!
 166	message	...
@@ -183,12 +183,12 @@ row	column	english
 200	message	// Event triggers when Riko engages Dejiko
 201	message	Say, haven't we met somewhere before, nyo?
 202	message	Huh? Rikoring hasn't gone\nwindow-shopping at Gamers or anything?
-203	message	I knew it—you're that customer\nfrom back then, nyo!!
+203	message	I knew it-you're that customer\nfrom back then, nyo!!
 204	message	Sorryyy, I've been busy lately\nand haven't had time for games.
 205	message	I understand that, nyo...
 206	message	// Event triggers when Jeanne and Siesta engage
 207	message	You were useful to me.\nIf you're willing to serve me,\nI could take you on?
-208	message	I'm honored by the offer, but I must decline.\nI serve the Tristain royal family—\nI cannot betray Her Majesty the Queen.
+208	message	I'm honored by the offer, but I must decline.\nI serve the Tristain royal family-\nI cannot betray Her Majesty the Queen.
 209	message	I see... the Queen, huh...
 210	message	Of course, I like Louise too!
 211	message	(Her...? Strange tastes...)
@@ -222,7 +222,7 @@ row	column	english
 240	message	That battle made me realize it again.\nAs I am, I'll only hold everyone back.
 241	message	...All right, I've decided!
 242	message	// Houki calls her sister on her phone\n// SE: dialing
-243	message	—. ...Sis.
+243	message	-. ...Sis.
 244	message	// Fade to black\n// Background: IS Academy classroom
 245	message	Aw, no going out for a while, huh.\nBoring.
 246	message	It's a shame, but it can't be helped\nright now...
@@ -272,7 +272,7 @@ row	column	english
 290	message	I don't know!!\nI don't know anything at aaaall!!
 291	message	//END_Meru
 292	message	Sigh... where'd Teacher go...
-293	message	[MERU] too—everyone calls me childish,\nbut they're all the same...!
+293	message	[MERU] too-everyone calls me childish,\nbut they're all the same...!
 294	message	What should I do about Teacher and [MERU]...\nI don't get it at all.
 295	message	You think you can just wing it, don't you?
 296	message	Huh?
@@ -282,7 +282,7 @@ row	column	english
 300	message	You're looking down on me as always!
 301	message	So, where did Teacher go?
 302	message	I don't know.\nShe was gone before I noticed...
-303	message	Phew~—[NOEL] really is\nan idiot, idiot!!
+303	message	Phew~-[NOEL] really is\nan idiot, idiot!!
 304	message	Wh-what do you mean!
 305	message	You're an idiot because\nyou don't think about anything!\nYou never once thought about\nwhat Teacher's thinking\nor what she's trying to do!!
 306	message	But Teacher never talks\nabout that stuff...!

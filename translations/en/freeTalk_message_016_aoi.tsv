@@ -5,7 +5,7 @@ row	column	english
 7	message	The national mock exams are coming up,\nand I've been neglecting my studies lately...
 8	message	I thought I'd put even free moments like this\nto good use,\nso I was studying.
 9	message	Studying!?\nYou're studying even now?
-10	message	Yes — if I let my guard down,\nI get rusty right away.
+10	message	Yes - if I let my guard down,\nI get rusty right away.
 11	message	I think building up a little every day\nis what matters.
 12	message	How's your mock-exam prep going?
 13	message	Hmm... even if you say that,\nI don't even know how to study...\nIt's hopeless for me.
@@ -24,11 +24,11 @@ row	column	english
 26	message	Yes. Is it... not enough, perhaps?
 27	message	Then, it's a bit difficult,\nbut how about this workbook?
 30	message	Ahaha... thanks.
-31	message	Not at all —\nI've got plenty of reference books.
+31	message	Not at all -\nI've got plenty of reference books.
 32	message	If there's anything else you'd like to read,\nor any preference, just tell me.
 35	message	Ahaha... I'll pass...
 36	message	S-sorry.\nThis one is a bit too hard after all...
-37	message	I have some easier ones too —\nI'll bring them next time.
+37	message	I have some easier ones too -\nI'll bring them next time.
 40	message	I love teaching, actually.\nI still have plenty to work on myself, but...
 41	message	I always study with Haruka-san,\ntoo.
 42	message	Can I even do it...?\nI'm not really confident.
@@ -49,7 +49,7 @@ row	column	english
 59	message	It's about a famous quote\nfrom a historical figure.
 60	message	When she said 'if there's no bread,'\nwhat did she say\nto eat instead?
 61	message	If there's no bread?\nHmm... rice, obviously?
-62	message	Huh? Hehe, in a way that's correct.\nRight — it means that if there's no bread,\neating something else is fine.
+62	message	Huh? Hehe, in a way that's correct.\nRight - it means that if there's no bread,\neating something else is fine.
 63	message	Then I got it right!?
 64	message	No, unfortunately that's wrong.\nThe correct answer is... cake.
 65	message	But actually, this quote doesn't\nseem to be Antoinette's at all.
@@ -67,7 +67,7 @@ row	column	english
 81	message	Yeah, of course.\nI feel like I could actually get interested in studying.
 82	message	That makes me happy to hear.\nI'll try even harder too.
 85	message	Not just history, either.\nMath and science both have ways to learn\nthat stick better than just grinding out answers.
-86	message	(To have such a kind tutor teaching you\nevery day — Haruka's so lucky...)
+86	message	(To have such a kind tutor teaching you\nevery day - Haruka's so lucky...)
 87	message	Now, once we finish the next page,\nlet's take a break. I've got some\ntasty cake ready...
 88	message	Cake!?\nY-yeah! I'll do my best!
 89	message	Hehe...
@@ -89,9 +89,9 @@ row	column	english
 107	message	I really should work on getting up\na bit earlier myself.
 108	message	Hm? You kind of remind me\nof Blue Angel.
 109	message	Huh? Hehe, you think so?\nLots of people are bad at sports.
-110	message	Oh, and there's a saying —\nsupposedly there are three people\nin the world just like you.
+110	message	Oh, and there's a saying -\nsupposedly there are three people\nin the world just like you.
 111	message	Maybe Blue Angel\nis bad at studying\nand running too.
-114	message	A hero of justice studying — that's weird.
+114	message	A hero of justice studying - that's weird.
 115	message	You think so?\nMaybe heroes of justice are just\nregular people like us, too.
 116	message	Balancing school and work must be tough.\nI hope they do their best.
 119	message	I wonder what kind of studying they do.
@@ -202,7 +202,7 @@ row	column	english
 258	message	Oh, no, it's not that...\nIt's just, do you hate me now...?
 259	message	Huh? Why would I?\nOf course not.
 260	message	Did I maybe say something\nthat upset you?
-261	message	No, it's not that —\nyou hid the book I tried to look at the other day, remember?
+261	message	No, it's not that -\nyou hid the book I tried to look at the other day, remember?
 262	message	That was, well... I didn't hide it\nbecause I dislike you...
 263	message	It's just, at the time I kind of\nwanted to keep it a secret...
 264	message	I-I'm sorry, it's nothing.\nActually, there's something I've been wondering about too...

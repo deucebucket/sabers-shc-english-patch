@@ -10,7 +10,7 @@ row	column	english
 11	message	That sounds good.\nI'll search along the road!
 12	message	No need for that!
 13	message	Oh, someone we know?\nThen we're safe!
-14	message	Wait, Haruka! That person is—!!
+14	message	Wait, Haruka! That person is-!!
 15	message	Hey!
 16	message	It's you!!
 17	message	Wah!! The twintailed phantom thief!?
@@ -28,7 +28,7 @@ row	column	english
 30	message	B-but, Riko came here\nto talk about something, didn't she...?\nThen let's talk it out properly!
 31	message	Weell,\nsomeone here has sense.\nBig-chested girls really do have big hearts!
 33	message	Shut up, ugly! I'll turn you into Swiss cheese!
-34	message	Now now, Aria.\nAnd you — if you're serious about talking,\nstop provoking Aria.
+34	message	Now now, Aria.\nAnd you - if you're serious about talking,\nstop provoking Aria.
 35	message	I only came\nto talk from the start.\nAnd of course, it's super-valuable intel!
 36	message	Like I can trust you! It's obviously a trap!
 37	message	No idiot would take this risk\njust to set a trap.
@@ -38,12 +38,12 @@ row	column	english
 41	message	Wh-what!?
 42	message	Don't screw with me!! Eat this!!
 43	message	Wah! W-wah! N-n-n-nooo!
-44	message	That's right —\nshoot a righteous thief and YOU\nbecome the villain. Kufufu!
+44	message	That's right -\nshoot a righteous thief and YOU\nbecome the villain. Kufufu!
 45	message	I'd appreciate it if you'd talk\na little more straight with us?
-46	message	Yep.\nUp ahead there's a place called IS Academy.\nOh — do you know what IS is?
+46	message	Yep.\nUp ahead there's a place called IS Academy.\nOh - do you know what IS is?
 47	message	Eye-ess?
 48	message	Infinite Stratos.\nTake the initials: IS.\nLike super-strong powered suits.
-49	message	Could that be—!?
+49	message	Could that be-!?
 50	message	The black unit\nTsubasa held off?
 51	message	Schwarzer Regen!\n(I nearly bit my tongue!)
 52	message	The one that eyepatch girl was wearing!\nLaura's, I think...!
@@ -51,7 +51,7 @@ row	column	english
 54	message	IS Academy has\ntons of those things, y'see.
 55	message	Now I understand your plan.\nYou're trying to get your hands on an IS, aren't you?
 56	message	Ding ding ding! Correct!\nAs your reward, I grant you the right\nto pull a heist with me!
-57	message	What right!? I'll throw that right back at you —\nwith bullets attached!
+57	message	What right!? I'll throw that right back at you -\nwith bullets attached!
 58	message	No good, Aria's no good at all!\nYou have no idea\nhow dangerous IS are.
 59	message	The IS that made Tsubasa choose to sing the Superb Song...!
 60	message	And there are tons of those...
@@ -82,7 +82,7 @@ row	column	english
 87	message	Mmph... ugh, whatever! What a pain!\nSo annoying!!
 88	message	//Fade to black\n//Background: IS Academy arena\n//Houki and Cecilia are having a mock battle.
 89	message	*Hah... hah...*
-90	message	Look more delighted. Being granted the honor\nof facing ME, England's representative candidate —\nisn't that glorious?
+90	message	Look more delighted. Being granted the honor\nof facing ME, England's representative candidate -\nisn't that glorious?
 91	message	//Event CG: Houki, one-sidedly beaten in the mock battle with Cecilia. Equipped with Uchigane.
 92	message	To think the gap in our strength is this great...!\nBut...!!
 93	message	Now, dance!\nTo the waltz played by me, Cecilia Alcott,\nand Blue Tears!
@@ -91,10 +91,10 @@ row	column	english
 96	message	Two minutes, seven seconds. You lasted well.\nI'll praise you for it.
 97	message	...
 98	message	Still, against a training unit like the Uchigane,\nit's not even a warm-up.
-99	message	Blue Tears is the cutting-edge third-generation IS,\nand with ME piloting it, there's no one\nwho could possibly match—
+99	message	Blue Tears is the cutting-edge third-generation IS,\nand with ME piloting it, there's no one\nwho could possibly match-
 100	message	//SE: Alarm sound\n//Red emergency lights flashing, if possible.
 101	message	What!?
-102	message	Observation room, is anyone there! Tell me\nthe situation— wha, comms cut!?\nWhat's happening!!
+102	message	Observation room, is anyone there! Tell me\nthe situation- wha, comms cut!?\nWhat's happening!!
 103	message	//Fade to black\n//Background: IS Academy
 104	message	Security override, complete.\nI've done my homework, y'know.\nNow then...!
 105	message	//Background: IS Academy arena\n//SE: Barrier deactivating
@@ -111,7 +111,7 @@ row	column	english
 118	message	Aria!?
 119	message	I'm going too!
 120	message	Aoi!
-121	message	Yes — to the Twin Angel...!
+121	message	Yes - to the Twin Angel...!
 122	message	I kinda thought it'd come to this, but...\nEveryone, let's go!
 123	message	//Battle map: IS Academy arena\n//Cecilia and Houki deployed as third force
 124	message	Observation room! Respond!
@@ -120,30 +120,30 @@ row	column	english
 127	message	What are those!?
 128	message	Targets for marksmanship training?
 129	message	//Enemy grunts move and attack Houki
-130	message	Wh—!? What are you doing!?
+130	message	Wh-!? What are you doing!?
 131	message	Shinonono, stand back! I don't know if it's\na system malfunction or what, but I'll subdue\nthem with Blue Tears!
-132	message	Like hell — I can fight too!
+132	message	Like hell - I can fight too!
 133	message	//Third force: Cecilia attacks and defeats the grunts\n//Riko appears
 134	message	Hmm, impressive.
 135	message	You're unarmed... it's dangerous here!
 136	message	Nice! Blue Tears!\nIt's pretty AND cool!\nI want it even more now!
 137	message	Whoever you are,\nno one but me can handle\nthis Blue Tears!
-138	message	Won't know till I try.\nSo — hand it over!
+138	message	Won't know till I try.\nSo - hand it over!
 139	message	I refuse!
 140	message	You're the one controlling these weird things!?
 141	message	Who knows?
 142	message	It's you!! But I won't be beaten\nby the likes of these!
-143	message	Right? But don't worry —\nsome stooong allies are coming soon!
+143	message	Right? But don't worry -\nsome stooong allies are coming soon!
 144	message	//Deploy allies
 145	message	There! Riko! This is as far as you go!
 146	message	Yoohoo! I've been waiting, everyone~!\nGotta have friends, right!
-147	message	Friends, my foot! You—!!
+147	message	Friends, my foot! You-!!
 148	message	Okay! Everyone!\nCapture that IS!\nWell, that's that! Byebyee!
 149	message	Huh!? What are you talking about!?
 150	message	//Riko vanishes.
 151	message	She vanished!?
 152	message	I see... so you're her allies!\nYou ruffians! I'll punish you!
-153	message	Wait, please! We're not\nsuspicious people—
+153	message	Wait, please! We're not\nsuspicious people-
 154	message	You look suspicious however I look at it!
 155	message	Who're you calling suspicious!?
 156	message	You're wearing the same clothes\nas that girl from before!
@@ -165,7 +165,7 @@ row	column	english
 172	message	Um! Excuse me!
 173	message	What!? We're in battle!
 174	message	W-wait, please!
-175	message	Wh—!? You're... wide open!?
+175	message	Wh-!? You're... wide open!?
 176	message	(Quite literally fearless...)
 177	message	We have no intention of resisting.\nAs you can see, all the enemies are defeated.\nNow we can talk calmly.
 178	message	Enemies?
@@ -174,7 +174,7 @@ row	column	english
 181	message	Fine, we'll comply.\nSo please hear us out.
 182	message	//Battle end\n//Background: IS Academy arena
 183	message	I haven't the faintest idea\nwhat you're talking about!
-184	message	I'm telling you, we came to this world to catch\nthat Riko from before — how many times\ndo I have to say it!!
+184	message	I'm telling you, we came to this world to catch\nthat Riko from before - how many times\ndo I have to say it!!
 185	message	What idiot would believe such nonsense!\nWhere did you come from, how?\nProve it!
 186	message	I wish we could prove it, but\nthat's proving rather difficult...
 187	message	I can't trust a single word!
@@ -191,7 +191,7 @@ row	column	english
 198	message	Um, just one thing...
 199	message	What is it?
 200	message	Who came up with that outfit?
-201	message	Wh—!?
+201	message	Wh-!?
 202	message	D-don't look!! Don't look at me\nwith those pervert eyes!!
 203	message	//SE: Houki strikes Claude
 204	message	Gehah!?

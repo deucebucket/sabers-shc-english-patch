@@ -40,7 +40,7 @@ row	column	english
 50	message	...I see. True.\nIn this case... leave them be.
 51	message	Ignore the event?\nSuch behavior has not\nbeen input.
 52	message	I request an explanation.
-53	message	That's... just roughhousing.\nLike animals playing —\nattacking while being careful of the other.
+53	message	That's... just roughhousing.\nLike animals playing -\nattacking while being careful of the other.
 54	message	Outside my comprehension.\nAttacks require efficiency.
 55	message	That, as play...\nThe same as Mie, then.
 56	message	Mie's is... a bit different, I think...\nbut similar. What's needed is\nconsideration for the other.
@@ -111,13 +111,13 @@ row	column	english
 141	message	Booster use: stopped.\nMake contact with force that does\nnot destroy the other's body.
 142	message	New knowledge input.
 143	message	I see.\nGlad you understand.
-144	message	Again — this time, I request\nthat you touch me.
+144	message	Again - this time, I request\nthat you touch me.
 145	message	Is it possible?\nIs it impossible?
 146	message	Touching...\nit's not really proper, is it...
 147	message	I judge it impossible.
 148	message	It's not impossible.\nO-okay...\njust don't tell the others...
 149	message	Like... this?
-150	message	Not the shoulder parts —\nI request the cheek area of the face.
+150	message	Not the shoulder parts -\nI request the cheek area of the face.
 151	message	Your demands are growing...\nwell, fine... is this okay...?
 152	message	Your impressions.
 153	message	M-my impressions!? Even if you say that...
@@ -185,11 +185,11 @@ row	column	english
 235	message	Sorry... those feel too big.
 236	message	Judgment is difficult.
 239	message	Probably...\npeople like animals that are obedient to humans.
-240	message	Understood again.\nNo — per data, your statement\nis inhumane.
+240	message	Understood again.\nNo - per data, your statement\nis inhumane.
 241	message	No, I mean obedient in the sense of\nhelping each other... like, not betraying...
 242	message	Understood.\nI also do not betray.
 243	message	But I am not obedient.
-244	message	Right...\nKey, you're not an animal — you're a friend.
+244	message	Right...\nKey, you're not an animal - you're a friend.
 245	message	'Friend'...\nIncomprehen...sion impossible.
 248	message	Self-repair cannot keep up.
 249	message	Huh!? Key, something's wrong!?

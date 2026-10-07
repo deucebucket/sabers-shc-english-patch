@@ -1,5 +1,5 @@
 row	column	english
-3	message	Is that the sound of higurashi...?\nEarly summer in Japan—\nthe season must be June, I wonder.
+3	message	Is that the sound of higurashi...?\nEarly summer in Japan-\nthe season must be June, I wonder.
 4	message	For now, let's head out\nto the main road.
 5	message	// Background: Hinamizawa (day)
 6	message	Whoa, talk about the boonies!
@@ -17,7 +17,7 @@ row	column	english
 18	message	It's Usada Hikaru!!\nI mean, call me Rabi~en~Rose!!
 19	message	Still, there's nothing here.
 20	message	The greenery's dazzling.
-21	message	Usada, Laura, Charlotte—\nyou're all here, right?
+21	message	Usada, Laura, Charlotte-\nyou're all here, right?
 22	message	What are you talking about?\nOf course we're here.
 23	message	Yeah... but isn't someone missing?
 24	message	Who do you mean, 'someone'?
@@ -39,7 +39,7 @@ row	column	english
 54	message	Huh... time rewound...!?
 55	message	Aria should remember.\nTomorrow is the day of the Watanagashi festival,\nand Aria has repeated this day several times.
 56	message	Yeah... now that you mention it,\nit's coming back to me bit by bit.
-57	message	I've died in this village of Hinamizawa before.\nAnd Rika and Satoko being killed too—\nugh...
+57	message	I've died in this village of Hinamizawa before.\nAnd Rika and Satoko being killed too-\nugh...
 58	message	Aria did her best.\nI remember all of it.
 59	message	Rika, what are you?\nAnd what's happening in this village?
 60	message	Something very sad...\nhappens, again and again.
@@ -75,7 +75,7 @@ row	column	english
 90	message	Rika did?
 91	message	Yeah.\nShe thought you might be troubled\nabout something.
 92	message	...
-93	message	I'm a Butei—I take requests\nfrom civilians and solve\ncrimes and problems.
+93	message	I'm a Butei-I take requests\nfrom civilians and solve\ncrimes and problems.
 94	message	Believe it or not, I'm a second-year\nin high school! Older than you!
 95	message	Huh, so that's why you've got\nswords and stuff?
 96	message	...You noticed when you stood behind me?
@@ -90,13 +90,13 @@ row	column	english
 105	message	You're hiring me as a Butei.\nFine, let's do that.
 106	message	Butei Charter, Article Two:\nnever break a contract with a client.\nI will never betray you.
 107	message	Then, before the contract,\nI'll tell you the request.
-108	message	Quick to understand—that helps.\nThere are some requests I can't take,\nafter all.
+108	message	Quick to understand-that helps.\nThere are some requests I can't take,\nafter all.
 109	message	The request is...
 110	message	// Fade to black: passage of time\n// Background: Hinamizawa
 111	message	You're... serious about all of that?
-112	message	Yes. The curse of Oyashiro-sama—\n'Demoning Away'—is carried out\nby a fanatical faction to revive\nfaith in Oyashiro-sama.
-113	message	And the ringleader is the Sonozaki family—\nMion's family?
-114	message	Yes. 'Demoning Away' eliminates\ninconvenient people to hide\nOyashiro-sama's secret—its true nature.\nAnd they use it to strengthen the faith too.
+112	message	Yes. The curse of Oyashiro-sama-\n'Demoning Away'-is carried out\nby a fanatical faction to revive\nfaith in Oyashiro-sama.
+113	message	And the ringleader is the Sonozaki family-\nMion's family?
+114	message	Yes. 'Demoning Away' eliminates\ninconvenient people to hide\nOyashiro-sama's secret-its true nature.\nAnd they use it to strengthen the faith too.
 115	message	Hide Oyashiro-sama's true nature?\nYou know what it is, Rena?
 116	message	Oyashiro-sama...\nthe god enshrined in Hinamizawa.\nBut Oyashiro-sama's true nature isn't a god.
 117	message	The true nature of Oyashiro-sama's curse\nwas a parasite... a virus that welled up\nfrom Onigafuchi Swamp.
@@ -116,7 +116,7 @@ row	column	english
 131	message	Then, I'll give you your first job,\nMiss Butei.
 132	message	Sure, what should I do?
 133	message	First...
-134	message	// Fade to black\n// Background: Hinamizawa branch school (evening — match to battle map; night if evening unavailable)
+134	message	// Fade to black\n// Background: Hinamizawa branch school (evening - match to battle map; night if evening unavailable)
 135	message	This is it!\nWhere Aria's barricaded herself!
 136	message	She's taken hostages\nand is holed up in that building, apparently.
 137	message	Honestly, what is Aria doing!!
@@ -125,7 +125,7 @@ row	column	english
 140	message	And Aria's accomplice is apparently\na girl named Rena Ryugu.
 141	message	Rena Ryugu is demanding the police\nforcibly search the Sonozaki family\nwithin 24 hours, threatening to blow up\nthe building if they don't.
 142	message	Same trick as a bank robber, nyu.
-143	message	I trust Aria, but I can't grasp\nthe situation at all—\nI don't know how to move...!
+143	message	I trust Aria, but I can't grasp\nthe situation at all-\nI don't know how to move...!
 144	message	Rika told me.\nThat Rena is a good girl.
 145	message	So surely Aria and Rena\nare doing something meaningful.\nThat's what I believe.
 146	message	Shirayuki, can you tell that kind of thing\nwith like, spiritual senses?
@@ -150,7 +150,7 @@ row	column	english
 165	message	I'm one of those sharp humans.\nSo the parasites will eliminate me.\nBy tonight I'll claw at my throat and die.
 166	message	!!
 167	message	(Just like me...!\nJust like that time, the first time I met Rena!\nDriven mad, clawing at her throat, dying!)
-168	message	Before then, I have to destroy\nOyashiro-sama's fanatics—\nthe Sonozaki family.\nYou understand, right?
+168	message	Before then, I have to destroy\nOyashiro-sama's fanatics-\nthe Sonozaki family.\nYou understand, right?
 169	message	Our contract is for your protection, Rena!\nI can't help with anything beyond that!
 170	message	No, you'll help.\nOr I'll blow this place up with the hostages\nand die right now!
 171	message	(Tch... was it already too late?\nRika...!)
@@ -179,7 +179,7 @@ row	column	english
 195	message	// Player deployment
 196	message	To think they'd show up\nat a time like this!
 197	message	With those things around,\nwe can't save anyone!
-198	message	Leave what's inside to Aria—\nlet's give all the support we can!
+198	message	Leave what's inside to Aria-\nlet's give all the support we can!
 199	message	Something's coming...\nthose are Aria's friends, right?
 200	message	Yeah.\nLooks like they came to deal\nwith the nuisances.
 201	message	Those are protecting me, you know?
@@ -216,7 +216,7 @@ row	column	english
 232	message	She's under contract with me, too.\nShe's no culprit.
 233	message	Of course we'd figure out\nthe best move together.
 234	message	What do you mean, I wonder~?
-235	message	Listen, Rena — and Rika, you too.\nI've been thinking about what I've been doing wrong,\nand watching you like this, Rena… I think I finally get it.
+235	message	Listen, Rena - and Rika, you too.\nI've been thinking about what I've been doing wrong,\nand watching you like this, Rena… I think I finally get it.
 236	message	Huh…?
 237	message	Going it alone doesn't work.\nIt's my own personal issue too, but…\nyou can't shoulder your problems all by yourself.
 238	message	…!
@@ -228,7 +228,7 @@ row	column	english
 244	message	//Trigger the event by defeating more grunts
 245	message	Hey, Rena. Where did you plant the bombs?
 246	message	Bombs?
-247	message	This place is thick with vaporized gasoline.\nYou've probably got a lighter or something —\nsomething to set it off, right?
+247	message	This place is thick with vaporized gasoline.\nYou've probably got a lighter or something -\nsomething to set it off, right?
 248	message	But you'd have a backup plan, too.\nYou've planted a detonator somewhere, haven't you?\nRemote-controlled, or on a timer.
 249	message	As expected of a Butei. Right on the money.
 250	message	I'm no good at deductions,\nso I can't figure out where it is.
@@ -250,7 +250,7 @@ row	column	english
 266	message	Stay back!
 267	message	AH-HAHAHAHA!! Trust a total stranger\nI met just today?\nWhat kind of idiot would do THAT!
 268	message	Calm down! Don't lose to some parasite\nor whatever it is!
-269	message	The police aren't going to move anyway!\nEnough — I'll end this myself!!
+269	message	The police aren't going to move anyway!\nEnough - I'll end this myself!!
 270	message	//SE: lighter lid opening
 271	message	A lighter!?
 272	message	//Rika runs in and tackles her //SE: tackle
@@ -262,7 +262,7 @@ row	column	english
 280	message	Will she be all right,\nnyo?
 281	message	You go too, Aria!\nProtect everyone from the enemies outside!
 282	message	Rika! You…!
-283	message	This isn't the first time.\nLast time, if only I'd tried\na little harder…!\nSo this time—!!
+283	message	This isn't the first time.\nLast time, if only I'd tried\na little harder…!\nSo this time-!!
 284	message	…Got it!
 285	message	//Shion & Mion, Satoko, Dejiko, and Aria relocate (hide once, re-place at destination; adjust if only one of Satoko/Rika's units is visually available)
 286	message	Aria's out! Looks like the hostages are with her!!
@@ -290,20 +290,20 @@ row	column	english
 310	message	If I win, you'd better brace yourself!
 311	message	If you win, what'll you do to me?
 312	message	You'll be my slave, of course!\nI'll put that keen eye and razor-sharp\ndeduction of yours to work 24/7!!
-313	message	Then we'll solve the mysteries of Hinamizawa —\nand every mystery in the world!\nTotal victory!
+313	message	Then we'll solve the mysteries of Hinamizawa -\nand every mystery in the world!\nTotal victory!
 314	message	AH-HAHAHAHA!!\nBig talk, huh!
 315	message	//Conversation event on the 2nd clash
 316	message	You probably don't remember,\nbut you and I once had\na legendary showdown in the club.
-317	message	Back then, I thought —\nI want a rematch like this someday!
+317	message	Back then, I thought -\nI want a rematch like this someday!
 318	message	…That match… the one that ended\nin a draw…?
 319	message	Oh? You remember?\nTo me, that draw was as good as a loss!
 320	message	AH-HAHAHAHA!!\nDon't hold it against me if you lose this time!
 321	message	//Conversation event on the 3rd clash
 322	message	Let me confirm once more!\nIf I win, you're my slave,\nand you're solving every mystery there is!
 323	message	No way, boring stuff's out!\nAnd you'll have to get me cute clothes, too!
-324	message	I'll get you the finest!\n…Now, next — what happens if YOU win!
+324	message	I'll get you the finest!\n…Now, next - what happens if YOU win!
 325	message	Huh?
-326	message	I called the whole alien invasion thing\nfishy before, but I'll believe all of it —\nthat included.
+326	message	I called the whole alien invasion thing\nfishy before, but I'll believe all of it -\nthat included.
 327	message	And even if you claw your own throat out and die,\nI'll watch over you to the very end.\nJust like I promised.
 328	message	…Somehow, even if I win,\nthat sounds no fun.
 329	message	W-what? After all that…!
@@ -320,14 +320,14 @@ row	column	english
 340	message	I did such awful things to everyone…!\nI love everyone, I know I do…!\nI believed in them, I know I did…!
 341	message	Rena…
 342	message	I remember… you, Aria.\nWe met so many times. At first I couldn't trust you,\nbut something changed, and we became friends.
-343	message	We traveled together, played together, fought together —\nand I forgot it all, and I…!
+343	message	We traveled together, played together, fought together -\nand I forgot it all, and I…!
 344	message	It's okay. I was the same.\nIf I hadn't met Rika, I might have ended up\njust like you are now.
 345	message	You can't do it alone.\nYou can't see your own mistakes that way.
 346	message	…It doesn't suit me to say stuff like this, though.
 347	message	Aria…! BWAAAHHH!!
 348	message	(Rena… she remembered too.\nOne more soul heading out of\nthe never-ending June…)
 349	message	//SE: higurashi (cicada) cries\n//Fade to black\n//Background: black
-350	message	—And now, the next story.
+350	message	-And now, the next story.
 351	message	A large-scale disaster has struck\nthe village of Hinamizawa in Shishibone City.
 352	message	Details are still under investigation, but highly toxic\nvolcanic gas erupted from an undisclosed location\nin the Hinamizawa district, forming a gas flow\nthat struck Hinamizawa directly.
 353	message	All households appear to have been wiped out.\nOver a thousand casualties confirmed so far.

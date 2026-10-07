@@ -104,14 +104,14 @@ row	column	english
 118	message	Louise-chan! Tefa-chan!
 119	message	Is it a magic spell!?
 120	message	Gandalfr... Gandalfr, the Left Hand of God!\nI know it... no!\nI knew it, but I'd forgotten...!?
-121	message	Me too! The familiar of the bearer of nothingness—\nfor someone who knows the founder Brimir's legends\nto forget that name, which no one should not know!
+121	message	Me too! The familiar of the bearer of nothingness-\nfor someone who knows the founder Brimir's legends\nto forget that name, which no one should not know!
 122	message	Gandalfr... Gandalfr...
 123	message	What does this mean!?\nShe knows Gandalfr,\nand it had vanished from my memory...?
 124	message	Louise, are you all right?
 125	message	I'm fine, her words just suddenly reminded me\nof something.\nBut who IS she!?
 126	message	//Battle map: plain.\n//Enemy and ally placement. Louise and Tefa forced deployment.
 128	message	Ah! There are even fakes\nof Tefa-chan and Siesta-chan!
-129	message	This scenery—it's the same as that hot spring cave!\nIt's Black Louise's illusion magic!
+129	message	This scenery-it's the same as that hot spring cave!\nIt's Black Louise's illusion magic!
 130	message	So we just beat Black Louise, right?\nEveryone! Let's do this!
 131	message	//Talk event when Black Louise and Louise clash.
 132	message	Who are you!\nHow do you know about Gandalfr!
@@ -139,7 +139,7 @@ row	column	english
 156	message	But the bearer of nothingness's familiar\nis human.
 157	message	A human familiar? That's weird.
 158	message	According to the founder Brimir's legends,\nfour bearers of nothingness like Louise-san will appear,\nand four humans as their familiars.
-159	message	But I've never once\nsucceeded in summoning a familiar.\nThat memory is certain—I'm sure of it.
+159	message	But I've never once\nsucceeded in summoning a familiar.\nThat memory is certain-I'm sure of it.
 160	message	So Gandalfr is\nthe human who's Louise-chan's familiar?
 161	message	I don't know. You can't tell\nwhat'll appear until you try summoning a familiar.
 162	message	Black Louise was saying Gandalfr too, nyo.
@@ -160,7 +160,7 @@ row	column	english
 180	message	Yeah, but so what?
 181	message	I'm sure that's about someone she loves.
 182	message	Someone she loves... Shion...
-183	message	Repeating a name like that over and over—\nwhat else could it be?
+183	message	Repeating a name like that over and over-\nwhat else could it be?
 184	message	(I'm the same... I'd repeat it any number of times.)
 185	message	(Satoshi-kun... Satoshi-kun...)
 186	message	(Where are you now, and what are you doing?)

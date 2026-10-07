@@ -12,15 +12,15 @@ row	column	english
 14	message	How did it go?
 15	message	It looks like Mama's sentence might get reduced!\nStill a long way to go, but it's a step forward!
 16	message	That's wonderful, Aria-san!\nLet's have a feast tonight!
-17	message	That's wonderful!\nAria, who loves her mama so much,\ndeserves a head pat—pat pat.
+17	message	That's wonderful!\nAria, who loves her mama so much,\ndeserves a head pat-pat pat.
 18	message	H-hey! Don't pat my head!
 19	message	What a heartwarming sight.\nIf you ignore the fact\nthat the one being patted is a high schooler.
 20	message	Normally it'd be the other way around.
 21	message	In other words, she's only tall enough\nfor a petite elementary schooler to reach her head...
-22	message	Shut up! I'll punch a hole—
+22	message	Shut up! I'll punch a hole-
 24	message	Hauu! Your embarrassed face is so cute!
 25	message	Ah, hey, stop! Don't cling to me!\nYou there! Stop grinning!
-27	message	Sheesh, there's no arguing with a crying kid—or Rena.\nAnyway, I'm glad for you, Aria.
+27	message	Sheesh, there's no arguing with a crying kid-or Rena.\nAnyway, I'm glad for you, Aria.
 28	message	Th-thanks...!
 29	message	Let me offer my congratulations as well, Kanzaki H. Aria.
 30	message	Thanks... wait!?\nWhy are YOU here!?
@@ -60,10 +60,10 @@ row	column	english
 65	message	Yeah, that was totally uncalled for!
 66	message	Besides, now that I've lost to you,\nthey'll abandon me and try to dispose of me.\nLike Yukine Chris, who's no longer needed.
 67	message	!!
-68	message	So I provided information valuable enough\nto secure immediate release, struck the deal, and came out—\nto act alongside you.
+68	message	So I provided information valuable enough\nto secure immediate release, struck the deal, and came out-\nto act alongside you.
 69	message	You... with us...?
 70	message	What's your game?
-71	message	I decided I have more to learn\nfrom Hoshitogi Shirayuki—and even more from Furude Rika—\nthan from Mii and Kei.
+71	message	I decided I have more to learn\nfrom Hoshitogi Shirayuki-and even more from Furude Rika-\nthan from Mii and Kei.
 72	message	Do you think that can be forgiven!\nAsking us to suddenly trust someone who disguised herself as me\nand plotted to kidnap Rika is too much!
 73	message	I welcome Jeanne.
 74	message	What!?
@@ -87,10 +87,10 @@ row	column	english
 93	message	Anything else you'd like to ask?
 94	message	Who are those two weirdos?
 95	message	Who are the two in that funny drawing from before?
-96	message	Where Mii and Kei came from,\nand what they're trying to do—\neven I don't know.
+96	message	Where Mii and Kei came from,\nand what they're trying to do-\neven I don't know.
 97	message	Didn't they say something about being kings of all worlds?
 98	message	In truth, those two may have\nthe power to become just that.
-99	message	Just granting others the power to move freely between worlds—\nthat alone should tell you\ntheir ability level is different from mine or yours.
+99	message	Just granting others the power to move freely between worlds-\nthat alone should tell you\ntheir ability level is different from mine or yours.
 100	message	Even you, a magic-user, can't understand it?
 101	message	I was dispatched from Yi Wu\nprecisely to learn that.
 102	message	Before they showed their tails,\nyou got cut loose like a lizard's tail instead, huh.
@@ -218,7 +218,7 @@ row	column	english
 230	message	How dare you do that to Hibiki!! You won't get away with this!!
 231	message	Don't let your temper run away with you.
 232	message	Yeah, no can do!
-233	message	Everyone, don't get isolated!\nIS units are fast—you'll be surrounded in no time!
+233	message	Everyone, don't get isolated!\nIS units are fast-you'll be surrounded in no time!
 234	message	The enemy is battle-hardened!\nEven with superior numbers, don't underestimate them!!
 235	message	Hmph, how about this.
 236	message	//More grunt reinforcements. Their numbers grow.
@@ -244,7 +244,7 @@ row	column	english
 258	message	Laura-san, how can you stay so calm?
 259	message	I thought Laura-san would be the most shaken.
 260	message	Panicking\nwon't let me do anything for her.
-261	message	And I believe—\nin Tachibana Hibiki's strength, more than anyone.
+261	message	And I believe-\nin Tachibana Hibiki's strength, more than anyone.
 262	message	That's right. As Hibiki-san's friend,\nI'll believe she'll be fine too!
 263	message	I thought the "wife" thing was half a joke,\nbut you two really do have a bond!
 264	message	Still, when she got hit,\nI thought my heart would stop.\nHonestly, what a reckless wife...

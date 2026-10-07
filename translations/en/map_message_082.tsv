@@ -23,7 +23,7 @@ row	column	english
 29	message	That's wrong!\nKilling without even giving a reason!\nAnd not even going after me directly! It's all wrong!!
 30	message	Why?\nWhat's wrong with just taking my life?\nDragging everyone into it is wrong!
 31	message	So what.
-32	message	Against a teacher like that,\nwe've been fighting to win —\nbut I've decided to stop.
+32	message	Against a teacher like that,\nwe've been fighting to win -\nbut I've decided to stop.
 33	message	So I changed why I fight.
 34	message	What?
 35	message	I want to hear your true intent, teacher!\nI won't go home till I hear it, I won't fall,\nand I definitely won't be killed!!
@@ -33,14 +33,14 @@ row	column	english
 39	message	Even if you fight me\nand admit defeat?
 40	message	You won't tell even if you lose?
 41	message	That can't happen.
-42	message	Then, if you admit defeat,\nyou'll tell your true intent — is that fine?
+42	message	Then, if you admit defeat,\nyou'll tell your true intent - is that fine?
 43	message	If you think it can't happen, that's fine, right?\nDeal: you talk if you lose.
 44	message	Zero percent chance, and no intention of telling.
 45	message	...Are you scared of losing?
 46	message	If it's zero percent, then agree to it!
 47	message	What did you say?
 48	message	I asked if you're scared\nof losing to me.
-49	message	Really, you're thinking 'what if I actually lose' —\nthat's why you won't agree~!\nYou're scared of losing, teacher!
+49	message	Really, you're thinking 'what if I actually lose' -\nthat's why you won't agree~!\nYou're scared of losing, teacher!
 50	message	I have no reason to fear losing to you.
 51	message	Then what are you afraid of?\nIf you're not scared, you should have\nno problem accepting my terms.
 52	message	Then it's decided!\nIf you lose, you tell the truth.\nOtherwise admit you're scared of losing!
@@ -51,7 +51,7 @@ row	column	english
 59	message	Fufu... fufufu!
 60	message	What's so funny!
 61	message	What's so funny?
-62	message	It's just... that side of you — I love it.
+62	message	It's just... that side of you - I love it.
 63	message	Huh?
 64	message	Love what, exactly?
 65	message	You. I love you dearly.
@@ -77,7 +77,7 @@ row	column	english
 88	message	Clones, self-enhancement, regeneration... those are\nall just magical archaeology.
 89	message	Human strength isn't about such things.\nThat's why I taught you\nnothing but the yoyo.
 90	message	Human strength isn't about such things.\nThat's why I taught you\nnothing but magic.
-91	message	Something more precious than spells, knowledge, or techniques —\nthat is strength.
+91	message	Something more precious than spells, knowledge, or techniques -\nthat is strength.
 92	message	Without it, any power at all\nis nothing but a force of destruction.\nThe you of now should understand that.
 93	message	Teacher...
 94	message	Teacher...
@@ -94,7 +94,7 @@ row	column	english
 107	message	Ngh... [MERU]!\nDon't lose!
 108	message	Watch me! I'll win!!
 109	message	Ngh... [NOEL]!\nDon't lose!
-110	message	Defying expectations and delivering on hopes —\nthat's a first-rate magical magician!\nLeave it to me!
+110	message	Defying expectations and delivering on hopes -\nthat's a first-rate magical magician!\nLeave it to me!
 111	message	Now, let's continue!
 114	message	Show me! Your strength!\nMore!
 115	message	...I don't understand.
@@ -148,7 +148,7 @@ row	column	english
 175	message	//
 176	message	Aw geez, how boring!
 177	message	//
-180	message	Eve-chin wanted to kill you, so\nI was gonna swoop in — zwoosh! — and steal her kill\nto mess with her!
+180	message	Eve-chin wanted to kill you, so\nI was gonna swoop in - zwoosh! - and steal her kill\nto mess with her!
 181	message	Dying yourself is just dumb, y'know~?\nSheesh, everything's ruined!
 182	message	...
 183	message	...
@@ -168,7 +168,7 @@ row	column	english
 198	message	...I'd been bracing myself\nfor a long time.\nIn case the worst happened...
 199	message	//
 200	message	The worst...?
-201	message	[MERU] —\nshe turned into something like a demon, right?
+201	message	[MERU] -\nshe turned into something like a demon, right?
 202	message	The teacher knew for a long time\nthat could happen.
 203	message	The teacher knew for a long time\nthat [NOEL] could\nbecome like that.
 204	message	Eve did?
@@ -185,13 +185,13 @@ row	column	english
 215	message	An awakened 'Goddess of Destruction'\nutterly destroys every world.\nIt's an existence meant to annihilate worlds, apparently.
 216	message	Why does such a thing exist?
 217	message	I don't know that. But what's certain is\nit's not something humans made,\nor anything on that level.
-218	message	I don't know. What's certain is\nit's not something humans made —\nit's something far more transcendent.
+218	message	I don't know. What's certain is\nit's not something humans made -\nit's something far more transcendent.
 219	message	You say it utterly destroys worlds, but\nis such a thing even possible?
 220	message	I don't know. But you saw it, right?\nThey say the 'Goddess of Destruction' can\nunleash that destructive power endlessly.
 221	message	I don't know. But what if\nthe 'Goddess of Destruction' could\nunleash that destructive power without limit?
 222	message	What the hell is that! No one\ncould control something like that!\nThis is way beyond Gustave-level trouble!
 223	message	Even Mie and Kei were treating her like a kid...
-224	message	That's the most impossible part... it's off the charts —\nway beyond anything\nhumans could deal with...
+224	message	That's the most impossible part... it's off the charts -\nway beyond anything\nhumans could deal with...
 225	message	What should we do, I wonder?
 226	message	Wanna try running to the ends of the world?
 227	message	Even if we run, we'd just\nget swallowed by the destruction eventually.
@@ -200,8 +200,8 @@ row	column	english
 230	message	I absolutely want\nto save [MERU]!\nShe's my friend! I'll never give up!
 231	message	[MERU]! Isn't there\nsome way to save\n[NOEL]?
 232	message	I don't want to give up! Because...
-233	message	I know...! [MERU] and I\ngrew up together —\nshe's like a little sister to me!
-234	message	I know! [NOEL] is\nlike a little sister to me —\nwe've always been together...!
+233	message	I know...! [MERU] and I\ngrew up together -\nshe's like a little sister to me!
+234	message	I know! [NOEL] is\nlike a little sister to me -\nwe've always been together...!
 235	message	//
 236	message	[NOEL]...
 237	message	[MERU]...
@@ -209,7 +209,7 @@ row	column	english
 239	message	the teacher told me\n[MERU]'s secret.
 240	message	And the reason I appeared before everyone as an enemy after that...
 241	message	was to pull [MERU] away\nfrom the journey with everyone\nand steer her toward living quietly.
-242	message	Give her a decent-sized injury,\nmake her realize she wasn't strong enough —\n'quit already,' y'know.
+242	message	Give her a decent-sized injury,\nmake her realize she wasn't strong enough -\n'quit already,' y'know.
 243	message	After I fought with [NOEL] and\nleft everyone,
 244	message	the teacher told me\n[NOEL]'s secret.
 245	message	The reason I became everyone's enemy...
@@ -238,14 +238,14 @@ row	column	english
 268	message	No. Actually, the 'Goddess of Destruction'\nwas supposed to awaken when [NOEL]\nlearned the truth of the world.
 269	message	The truth of the world...?
 270	message	//
-271	message	Everyone, me, even the teacher —\nwe still don't know the truth of this world,\nwhy the worlds got connected by Polyal.
-272	message	But Mie and Kei know.\nThey're not human —\nthey don't belong to any world. They're special.
-273	message	Everyone, me, even the teacher —\nwe still don't know the truth of this world,
+271	message	Everyone, me, even the teacher -\nwe still don't know the truth of this world,\nwhy the worlds got connected by Polyal.
+272	message	But Mie and Kei know.\nThey're not human -\nthey don't belong to any world. They're special.
+273	message	Everyone, me, even the teacher -\nwe still don't know the truth of this world,
 274	message	why the worlds\ngot connected\nby Polyal.
 275	message	But Mie and Kei know.
-276	message	They're not human —\nthey don't belong to any world...\nthey're special beings.
+276	message	They're not human -\nthey don't belong to any world...\nthey're special beings.
 277	message	Mie and Kei are special...?
-278	message	Where those two came from, what they are —\nthe teacher believed that learning that\nwould mean touching the truth of the world.
+278	message	Where those two came from, what they are -\nthe teacher believed that learning that\nwould mean touching the truth of the world.
 279	message	So she wanted to keep [MERU]\naway from those two, but\nthere was no stopping the slide toward confrontation.
 280	message	Where those two came from,\nwhat they are?
 281	message	The teacher believed\nthat learning that would mean\ntouching the truth of the world.
@@ -284,9 +284,9 @@ row	column	english
 318	message	We start with intel.
 319	message	If possible, we'll also need\nto monitor and observe the Goddess of Destruction.
 320	message	Scary as hell, but someone's gotta do it!\nI'll do it!
-321	message	Me too — as club president,\nI'll volunteer for the dangerous job!
+321	message	Me too - as club president,\nI'll volunteer for the dangerous job!
 322	message	Looks like we'll split into two teams.
-323	message	This has gone long enough —\nwe'll take a short break, then split into teams.
+323	message	This has gone long enough -\nwe'll take a short break, then split into teams.
 324	message	Yes, let's all calm down a bit.
 325	message	...
 328	message	(Hm? What's wrong with Soniko, nyo...?)
@@ -295,7 +295,7 @@ row	column	english
 332	message	All this time, I thought\nit was a movie shoot, but...
 333	message	Surely... this is really happening...\nisn't it...
 334	message	Ugh, uhh...!
-335	message	No... no, I can't — the saddest ones are\n[NOEL] and\n[MERU], so
+335	message	No... no, I can't - the saddest ones are\n[NOEL] and\n[MERU], so
 336	message	if I start crying...!
 337	message	And everyone, scared and hurting,\nhas been trying so hard...
 338	message	Thinking of me,\nthey kept quiet about\nit not being a movie shoot...
@@ -305,7 +305,7 @@ row	column	english
 343	message	Heeey, Sonikoo! Time to gather up, nyo~!
 344	message	Comiiing!
 345	message	Hoho, feeling perky, nyo?
-346	message	Yep! The shoot's finally\nreaching its climax!\nI'll do my best — hiyah!
+346	message	Yep! The shoot's finally\nreaching its climax!\nI'll do my best - hiyah!
 347	message	That's the spirit, nyo!\nFufu, Soniko, you're gonna be\na great artist someday, nyo.
 348	message	Wah! R-really...!?
 349	message	No doubt about it, nyo.\nDejiko stamps it with her seal of approval, nyo!
@@ -319,7 +319,7 @@ row	column	english
 358	message	(Hm... and?)
 359	message	(I have a role... something I must do,\na very important role...)
 360	message	(Yes... and?)
-361	message	(What should I do in this situation,\nhow should I even think about it —\nI don't know. J, what should I do?)
+361	message	(What should I do in this situation,\nhow should I even think about it -\nI don't know. J, what should I do?)
 362	message	(As you see fit. That is all.)
 363	message	(As I see fit?)
 364	message	(You decide.\nFor that is your role.)

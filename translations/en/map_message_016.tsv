@@ -6,7 +6,7 @@ row	column	english
 7	message	Hmm, so this is Rem's world?
 8	message	Rem should just call\nsomeone she knows.
 9	message	Right. Let's find a phone booth.
-10	message	I've been wondering, Rem —\ndon't you have a cell phone?
+10	message	I've been wondering, Rem -\ndon't you have a cell phone?
 11	message	We don't have small phones\nlike in your worlds, Aria-chan, Rinin-chan.\nWe do have big radio-like things, though.
 12	message	A radio... so no cell phones...
 13	message	Cell phone? What's that?
@@ -14,15 +14,15 @@ row	column	english
 15	message	Hmm, I don't really know either...?
 16	message	You guys don't know either?\nComplicated!
 19	message	Strange...
-20	message	Yeah, not a soul around.\nIt's a main street but dead silent — creepy.
+20	message	Yeah, not a soul around.\nIt's a main street but dead silent - creepy.
 21	message	It's like, like a ghost town...
-22	message	Uhyah — this is what they call\na ghost town, right?
+22	message	Uhyah - this is what they call\na ghost town, right?
 23	message	Bad vibes.
-24	message	Speaking of, Aria —\nyou're the dual-blade, dual-gun wielder,\n'Aria the Quadra,' right?
+24	message	Speaking of, Aria -\nyou're the dual-blade, dual-gun wielder,\n'Aria the Quadra,' right?
 25	message	So what? Got a problem with that?
 26	message	Then I'd be 'Rinin of Twin Blades and Twin Cannons'!\nKouryuu has the Soutengagetsu and Ryuuhou on both shoulders,\nso that works, right?
 27	message	Wow! Rinin-san sounds strong too!
-28	message	Rejected. I'll allow twin blades, but\nthe cannons are just stuck on there —\nyou don't wield them by hand.
+28	message	Rejected. I'll allow twin blades, but\nthe cannons are just stuck on there -\nyou don't wield them by hand.
 29	message	Why not!?\nDoes it have to be by hand?
 30	message	If that counts, what about Cecilia?
 31	message	Bits can't be used at the same time as melee weapons!
@@ -46,7 +46,7 @@ row	column	english
 55	message	There shouldn't BE peril...
 56	message	What's youth? Never giving up!\nSo we're going\non the offensive too.
 57	message	You've got a plan?
-58	message	Yes. The victims of the 'Sudden Street Sleep' incident —\nthe one that got you too, Aria-chan —\nkeep increasing.
+58	message	Yes. The victims of the 'Sudden Street Sleep' incident -\nthe one that got you too, Aria-chan -\nkeep increasing.
 59	message	So there's a Doctor Shinigami guy\nwho tried to kill me!
 60	message	Right. But like you saw, Aria-chan,\ndealing with Doctor Shinigami\nis dangerous and difficult.
 61	message	I know.\nEven after I put a hole through him, he didn't die.
@@ -64,7 +64,7 @@ row	column	english
 73	message	Only after the evacuation's done.\nFighting without countering the Sudden Street Sleep\nwould be bad.
 74	message	After Doctor Shinigami appeared,\nI was put to sleep in seconds.\nGo in with no plan and we'll be put to sleep easy.
 75	message	IS units deploy barriers for space activity,\nso I'm fine!
-76	message	We can take measures, but\nthe problem is if anyone besides us has fallen asleep —\nthat'd be bad.
+76	message	We can take measures, but\nthe problem is if anyone besides us has fallen asleep -\nthat'd be bad.
 77	message	Doctor Shinigami can enter people's dreams.\nSo as long as someone's asleep somewhere,\nhe can flee into dreams freely.
 78	message	What!? That's beyond cheating!
 79	message	See how dangerous he is?\nUnless there are no people around,\nwe can't fight him.
@@ -74,24 +74,24 @@ row	column	english
 84	message	First-time clients always stare\nwhen they see me,\nso I'm used to that reaction.
 85	message	So you run a detective agency as your job?\nHow old are you, Rem...?
 86	message	You mustn't ask a lady that.
-87	message	But you look younger than me —\nyou and Aria both.
+87	message	But you look younger than me -\nyou and Aria both.
 88	message	I'm a second-year in high school!
 89	message	Awww, I'm younger.
 90	message	Nice! Age-appropriate!
 91	message	Huh, I'm younger too!
 92	message	That's weird!\nWhy are you so developed!!
 93	message	([CLAUDE],\nwhat's your preferred age?)
-94	message	'How old' — what?
+94	message	'How old' - what?
 95	message	Quit that weird muttering!\nIt's seriously creepy.
 96	message	S-sorry!\nI'll go make some tea...
 98	message	Anyway Rem, tell me what you know\nabout this Doctor Shinigami guy.
-99	message	Okay... first, hear this knowing\nthere's a lot we don't know —\nDoctor Shinigami is a villain of unknown identity.
+99	message	Okay... first, hear this knowing\nthere's a lot we don't know -\nDoctor Shinigami is a villain of unknown identity.
 100	message	He's probably not a normal human.\nI've dealt him the finishing blow three times,\nbut he keeps coming back.
-101	message	You're seriously saying that?\nAnd the dream-entering stuff earlier —\noutrageous.
+101	message	You're seriously saying that?\nAnd the dream-entering stuff earlier -\noutrageous.
 102	message	Both are fact.
-103	message	He got into my dreams.\nAnd I shot him point-blank, but\nhe vanished laughing — seems he's alive.
+103	message	He got into my dreams.\nAnd I shot him point-blank, but\nhe vanished laughing - seems he's alive.
 104	message	That's straight out of a horror movie...
-105	message	Didn't you know yet, Rinin-chan?\nDoctor Shinigami is a repeat offender —\na serial grotesque-murderer who specializes in beautiful girls.
+105	message	Didn't you know yet, Rinin-chan?\nDoctor Shinigami is a repeat offender -\na serial grotesque-murderer who specializes in beautiful girls.
 106	message	Hey, you're not just making up crazy stuff\nto scare me, are you!?
 107	message	Unfortunately, it's fact.
 108	message	I-it's terrifying...
@@ -112,7 +112,7 @@ row	column	english
 124	message	Doctor Shinigami's hideout\nis somewhere in this district.
 125	message	The evacuation is done per police instructions.\nNow we just find Doctor Shinigami.
 126	message	Unyuu, where could he be?
-127	message	Mou, it's pretty big —\nhow do we search it?
+127	message	Mou, it's pretty big -\nhow do we search it?
 128	message	Don't think you can escape\nKouryuu's hyper-sensor!
 129	message	What's that...?
 130	message	The hyper-sensor is\nan IS sight-and-hearing enhancement.

@@ -27,7 +27,7 @@ row	column	english
 37	message	Ah... well, I can't get this open.
 38	message	The jam lid?\nYou can't even open this?
 39	message	Maybe you should build a little strength after all.
-40	message	(Wha—! But she just told me\nto do what I can... I can't say that out loud...)
+40	message	(Wha-! But she just told me\nto do what I can... I can't say that out loud...)
 41	message	Can't be helped.\nI'll open it.
 42	message	Sorry... please.
 43	message	This is nothing... huh?\nNngh!
@@ -36,12 +36,12 @@ row	column	english
 46	message	N-no, I just let my guard down.\nIt's fine, don't worry.
 47	message	Nngh! Nnngh!
 50	message	Please... don't push yourself too hard.
-51	message	I-I'm not pushing myself.\nIt's a lid—of course it'll open.
+51	message	I-I'm not pushing myself.\nIt's a lid-of course it'll open.
 54	message	Too much even for you, Houki-san?
 55	message	What's that supposed to mean?\nAre you calling me a musclehead?
 56	message	No... that's not what I meant.
 59	message	Wait here a moment.
-61	message	Ah, where are you—
+61	message	Ah, where are you-
 62	message	It's open!
 63	message	Ah, thank you!
 64	message	You should build at least\nthis much strength.
@@ -52,7 +52,7 @@ row	column	english
 71	message	That's right.
 72	message	No plans to change your hairstyle?
 73	message	Are you telling me to change it?
-74	message	No, that's not what I mean—\nit's just that I think anything would suit you.\nWhy not twintails?
+74	message	No, that's not what I mean-\nit's just that I think anything would suit you.\nWhy not twintails?
 75	message	Twintails...\nNo, I'm fine as I am.
 76	message	I don't remember it well, but...\nIt's kind of like a wish I made.
 77	message	I have no intention of changing it.
@@ -63,7 +63,7 @@ row	column	english
 86	message	W-well, that's true...\nBut it's important to me.
 89	message	Then maybe I should\nget a ponytail too.
 90	message	Huh?
-91	message	No, I mean—if you have that kind of wish\nattached to yours,\nmaybe something of mine would come true if I got a ponytail and made a wish too.
+91	message	No, I mean-if you have that kind of wish\nattached to yours,\nmaybe something of mine would come true if I got a ponytail and made a wish too.
 92	message	I don't think that's how it works.\nThis is my wish and mine alone.
 93	message	Besides, I don't think\na ponytail would suit you.
 94	message	Worst case, the other comrades\nwould keep their distance.
@@ -96,9 +96,9 @@ row	column	english
 135	message	Good! Let's work at it together!
 138	message	H-hiyaaah...
 139	message	No, more like... shubat!\nthen bwat!
-140	message	Huh? Isn't it easier to go basut!\nand then suu—?
+140	message	Huh? Isn't it easier to go basut!\nand then suu-?
 141	message	No, you go gut! then shutat!\nor you'll never land a hit.
-142	message	You think...?\nI feel like it's more gant! then zunt! then zuoooh—
+142	message	You think...?\nI feel like it's more gant! then zunt! then zuoooh-
 143	message	Can I say something?
 144	message	What is it?
 145	message	Your way of putting it is hard to follow, I think.\nYou should use words\nthat get through to people better.
@@ -120,7 +120,7 @@ row	column	english
 169	message	And it's got\nthat axe-like weapon, right?
 170	message	No... that's wrong.\nWhat are you even talking about?
 171	message	No, I mean it's cool.\nThe powered suit.
-172	message	That's what I'm asking—what are you talking about?\nIt's an IS. An IS.
+172	message	That's what I'm asking-what are you talking about?\nIt's an IS. An IS.
 173	message	...Huh? I think I was picturing something a little different.\nWrong personal unit...
 174	message	How do you mix that up?\nWell, no point blaming you.
 177	message	Lately, I feel like I've been having you\nlisten to me a lot, Houki-san.

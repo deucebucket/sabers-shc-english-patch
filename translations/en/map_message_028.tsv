@@ -1,13 +1,13 @@
 row	column	english
-3	message	Is that the cry of the higurashi...?\nEarly summer in Japan — the season must be June, I wonder.
+3	message	Is that the cry of the higurashi...?\nEarly summer in Japan - the season must be June, I wonder.
 4	message	For now, let's head out to the main road.
 5	message	...
-6	message	Wh—what's wrong, Aria?\nYou're white as a sheet!
+6	message	Wh-what's wrong, Aria?\nYou're white as a sheet!
 7	message	I don't know... I feel sick...
 8	message	I'm worried. Aria-chan, you rest.\nWe'll go gather info around here.
 9	message	...Sorry.\nI'll do that.
 10	message	[Fade to black, time passes]
-11	message	What's wrong with me...?\nIt's not just feeling sick — strange dreams,\nterrifying dreams are burned into my mind...
+11	message	What's wrong with me...?\nIt's not just feeling sick - strange dreams,\nterrifying dreams are burned into my mind...
 12	message	They happened here in Hinamizawa... huh?\nDid I just say 'Hinamizawa'?\nI shouldn't even know where this place is...?
 13	message	What's going on? I don't understand...
 14	message	[Rika appears]
@@ -35,7 +35,7 @@ row	column	english
 36	message	Just as I thought, nanodesu.
 37	message	Why are you smiling?\nNone of that was anything to smile about.
 38	message	Right now in Hinamizawa, a change\nthat never happened before is\noccurring, nanodesu. Even Oyashiro-sama is surprised, nanodesu.
-39	message	Oyashiro-sama — the one behind the curse?
+39	message	Oyashiro-sama - the one behind the curse?
 40	message	Oyashiro-sama isn't scary, nanodesu.\nThe shrine maiden of Furude Shrine says so,\nso it's true, nanodesu.
 41	message	Rika was a shrine maiden.\nI've seen plenty of strange things myself,\nbut Oyashiro-sama...
 42	message	Mii~, you can't believe it, nanodesu.\n...True, maybe something is still missing\nto bring about a decisive change, nanodesu.
@@ -45,7 +45,7 @@ row	column	english
 47	message	But that's not all.\nThere are people who saved me,\nand people I wanted to save.
 48	message	So tell me. What should I do?\nYou know, don't you, Rika?
 49	message	I don't know that yet, nanodesu.\nMaybe I'll never know...
-50	message	The three words I hate are\n'impossible,' 'tired,' and 'too much trouble.'\nDon't deny the possibilities — act!
+50	message	The three words I hate are\n'impossible,' 'tired,' and 'too much trouble.'\nDon't deny the possibilities - act!
 51	message	Not... deny the possibilities...?
 52	message	I don't trust people who can't do that,\nand I won't work with them.
 53	message	...Understood.\nPlease lend me your strength, nanodesu.
@@ -156,7 +156,7 @@ row	column	english
 167	message	Looks like they're definitely\nenemies of our club!
 168	message	We also need to solve the mystery\nof how this happened.
 169	message	Mion-san,\nI propose we bolster the club's membership!
-170	message	Adopted! So,\nI'd like to add everyone here as new members\nof the club — what do you say?
+170	message	Adopted! So,\nI'd like to add everyone here as new members\nof the club - what do you say?
 171	message	...Huh?
 175	message	Aye!
 177	message	Club???
@@ -166,11 +166,10 @@ row	column	english
 181	message	Me too?
 182	message	Club, huh... sounds kind of nostalgic!
 183	message	(Just how old ARE you...)
-184	message	(I feel it... something Hinamizawa never had —\na power that pushes forward...\nSomething that creates change... this is fine for now)
+184	message	(I feel it... something Hinamizawa never had -\na power that pushes forward...\nSomething that creates change... this is fine for now)
 185	message	Hey, Rika... was this okay?
 186	message	Hm?
 187	message	Nipah☆
 188	message	[Fade to black / BG: Hinamizawa (night)]
 189	message	Rem... I thought luring her to Hinamizawa\nwould bring about change. Then what to do...
 190	message	It seems I need to change my methods a bit.
-191	message	[END]

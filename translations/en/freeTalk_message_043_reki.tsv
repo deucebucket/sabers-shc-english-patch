@@ -45,7 +45,7 @@ row	column	english
 55	message	…Are you going to keep it?
 56	message	No. It seems to be a wild creature.
 57	message	(She looks a little disappointed, I think…)
-58	message	But it still looks like a baby.\nIts parent doesn't seem to be around, either—\nwe can't just leave it…
+58	message	But it still looks like a baby.\nIts parent doesn't seem to be around, either-\nwe can't just leave it…
 59	message	While we're moving around,\nwe might find its parent.
 60	message	…It can't be helped. I'll take it in\nuntil we find its parent.
 61	message	Shake.
@@ -96,7 +96,7 @@ row	column	english
 124	message	No. There are tiny parts here,\nso being pounced on would be\na little troublesome.
 125	message	(Is she forcing it, or is that genuine…)
 128	message	The maintenance is coming along.
-129	message	…Yes. It's an overhaul, so I'm taking it\napart down to the small parts—\nthis is actually more convenient.
+129	message	…Yes. It's an overhaul, so I'm taking it\napart down to the small parts-\nthis is actually more convenient.
 132	message	How much longer until it's done?
 133	message	Just the reassembly left, so\nalmost done.\n…Do you need something?
 134	message	Ah, no, nothing in particular.
@@ -129,7 +129,7 @@ row	column	english
 163	message	Yes. I told it to eat slowly, but it seemed\nhungry and choked.
 164	message	Thank you for back then.
 165	message	N-no problem!
-168	message	—!
+168	message	-!
 169	message	Hm? Is someone there?
 170	message	Grrr…!
 171	message	…! Get behind me.
@@ -167,7 +167,7 @@ row	column	english
 213	message	Don't get separated again.
 214	message	(The strange animal parent and child walked off.\nIs it just my imagination that Reki-san\nlooks a little lonely?)
 217	message	……
-218	message	Reki-san? You're looking around—\nis something wrong?
+218	message	Reki-san? You're looking around-\nis something wrong?
 221	message	Were you maybe looking for me?
 222	message	No, I wasn't.
 223	message	Just kidding. The parent and child?
@@ -182,7 +182,7 @@ row	column	english
 236	message	Yes.
 237	message	…If you found that parent and child,\nwhat would you do?
 238	message	I don't plan to do anything in particular.\nIf they're safe, that's enough.
-239	message	But that little one took to you, Reki-san—\nit might follow you, right?
+239	message	But that little one took to you, Reki-san-\nit might follow you, right?
 240	message	I can't say it wouldn't.
 241	message	Then tell me if it happens.\nI'll help again.
 242	message	…Thank you.
@@ -216,7 +216,7 @@ row	column	english
 285	message	I-it really does…!\nWh-what is this place, anyway?!
 286	message	The cosplay café, SHC.\nI prepared this shop for you, too.
 287	message	F-for me?!
-288	message	Yes. This cake, this tea, and myself—all of it.
+288	message	Yes. This cake, this tea, and myself-all of it.
 289	message	Y-your face is close!
 290	message	Mmm…
 293	message	W-what, they licked my face…!
@@ -232,6 +232,6 @@ row	column	english
 303	message	They found you asleep and were happily\nlicking your face.
 304	message	A-all of it was a dream…?
 305	message	Sorry for waking you.\nI told them to stop, but…
-306	message	So that smile the other day—\nwas that because these little ones had come?
+306	message	So that smile the other day-\nwas that because these little ones had come?
 307	message	…Did I not say?
 308	message	You didn't tell me…

@@ -13,7 +13,7 @@ row	column	english
 14	message	//
 15	message	Quite right. [MERU],\ntell me everything you know about Eve.\nWhy does she revive no matter how often she's struck down?
 16	message	Quite right. [NOEL],\ntell me everything you know about Eve.\nWhy does she revive no matter how often she's struck down?
-17	message	I don't really know... But\nthat wasn't an illusion —\nI'm sure the one we fought was the real teacher.
+17	message	I don't really know... But\nthat wasn't an illusion -\nI'm sure the one we fought was the real teacher.
 18	message	That revival trick was a first for me too.\nSo I don't know. What I do know is\nthe one we fought was the teacher herself.
 19	message	So she gets tired, and\nshe takes damage too, is that it?
 20	message	Probably... It's the first time I've even seen\nthe teacher fight for real, so\nI don't really know what moves she uses.
@@ -28,17 +28,17 @@ row	column	english
 29	message	Right! It was the same magical power!
 30	message	So at least, last time you fought her,\nshe was fighting with a power\neven you could sense.
 31	message	That's right.
-32	message	Same magical power being used,\ndifferent spells — that about sum it up?\nMaybe Ms. Louise could tell?
-33	message	I see. It's like the difference between\nExplosion and Illusion within Void magic —\nnowhere near the gap between Void magic and spirit magic.
+32	message	Same magical power being used,\ndifferent spells - that about sum it up?\nMaybe Ms. Louise could tell?
+33	message	I see. It's like the difference between\nExplosion and Illusion within Void magic -\nnowhere near the gap between Void magic and spirit magic.
 34	message	Then there's only one way to play it.
 35	message	Oh? And what's that?
-36	message	A blitz, okay? We don't let her use any spells or moves —\nwe just keep piling on until she breaks...!
+36	message	A blitz, okay? We don't let her use any spells or moves -\nwe just keep piling on until she breaks...!
 37	message	Exactly.\nGive her time to do anything and\nit only puts us at a disadvantage.
 38	message	Not exactly a brilliant plan.
 39	message	But stacked against Eve,\nour advantage is sheer volume of attacks.\nThe blitz is a sound plan.
 40	message	If we treat her as a mage,\ndenying her time to cast is textbook.
 41	message	If we take any more wounded,\nthings get even tougher.\nWe want to avoid a long battle.
-42	message	Decided! Round up everyone who can fight —\nwe're moving out!
+42	message	Decided! Round up everyone who can fight -\nwe're moving out!
 44	message	Heeey, Kei-chan.\nWhy d'you think Eve-chin\nwants to kill her disciples herself~?
 45	message	Unknown.
 46	message	Huh? It's not 'cannot comprehend' today?
@@ -78,7 +78,7 @@ row	column	english
 87	message	Don't confuse me\nwith such childish tricks.
 88	message	Huh...?
 89	message	I said I would multiply.\nBut not to increase targets\nand scatter your attacks.
-90	message	Every one of them is me —\na means to thicken my numbers, my attacks.\nDo try not to misunderstand.
+90	message	Every one of them is me -\na means to thicken my numbers, my attacks.\nDo try not to misunderstand.
 91	message	All of these are Eve...?\nThat can't be!\nThat's just not possible!
 92	message	Judging others by your own common sense is dangerous.\nLouise the Zero.
 93	message	Teacher...!
@@ -91,7 +91,7 @@ row	column	english
 102	message	Don't be so surprised.\nJust strike me down again.
 103	message	Or think of it this way:\nhow many more must fall before it ends?
 104	message	That, I'm afraid I can't tell you.
-105	message	This is bad — at this rate...!
+105	message	This is bad - at this rate...!
 106	message	Just keep taking them down!\nIt's all we can do!
 108	message	That's it. Strike down more. Fufufu...!
 109	message	You're rotten!
@@ -122,13 +122,13 @@ row	column	english
 137	message	Then try.
 139	message	This looks like your limit.
 140	message	Not... not yet...!!
-141	message	What could you do with what magic you have left?\nAnd look — your comrades no longer\nhave the strength to keep fighting.
+141	message	What could you do with what magic you have left?\nAnd look - your comrades no longer\nhave the strength to keep fighting.
 142	message	...
 143	message	...
 144	message	How...! Why do you go after everyone\ninstead of killing me!?
 145	message	If you're going to do it, kill me!\nWhy go after everyone else!
 146	message	You misunderstand\nthe meaning of the word 'kill'.
-147	message	You seem to think stopping\nlife functions counts as killing —\ndo you really think it's that simple?
+147	message	You seem to think stopping\nlife functions counts as killing -\ndo you really think it's that simple?
 148	message	...!!
 149	message	...!!
 150	message	I'll say it once more. I will kill you.\nIn my own way.

@@ -29,7 +29,7 @@ row	column	english
 30	message	Hey hey, Kurumi-chan.\nItaly's the spaghetti country, right?
 31	message	Honestly, is food all you think about?\nThere are other famous things, you know?\nThe Mouth of Truth, the Leaning Tower of Pisa...
 32	message	Whaaat!? There's a pizza tower!?
-33	message	Haruka-san, not pizza — Pisa.\nIt's a tower in a city called Pisa.
+33	message	Haruka-san, not pizza - Pisa.\nIt's a tower in a city called Pisa.
 34	message	Ehehe, right.\nIf a pizza were a tower,\nthe birds would eat it.
 35	message	(...Didn't she mix it up\nwith pizza before, too...?)
 36	message	(Haruka likes pizza...?)
@@ -41,7 +41,7 @@ row	column	english
 42	message	This arrived, nyo!
 43	message	Chal... lenge letter...\nA letter of challenge!?\nSomeone's prank?
 44	message	Mion-san, you could read that?\nThe handwriting's awful!
-45	message	No — thanks to that, I have a pretty good\nidea who wrote it.
+45	message	No - thanks to that, I have a pretty good\nidea who wrote it.
 46	message	Um, do you recognize\nthis handwriting?
 47	message	No... most likely Mii's doing.
 48	message	Let's see, I'll read it.
@@ -111,7 +111,7 @@ row	column	english
 116	message	...
 117	message	Huh? You seem unmotivated?
 118	message	In this battle, the only thing with meaning\nis the passage of time.\nNothing else has any meaning.
-119	message	I see — once the time limit hits it's over,\nso there's no point fighting seriously?
+119	message	I see - once the time limit hits it's over,\nso there's no point fighting seriously?
 120	message	...
 121	message	You won't even answer!!\nTalk about power-saving mode!
 122	message	//Event triggers again after defeating Mii and Kei, or after 4 turns.

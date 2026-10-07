@@ -14,21 +14,21 @@ row	column	english
 19	message	How about it?
 20	message	No comment...
 22	message	Tiffa aside, I wonder what's causing\nmy total slump...
-23	message	Your magic power not recovering at all —\nwhat could that mean?
+23	message	Your magic power not recovering at all -\nwhat could that mean?
 24	message	There's too much we don't know\nabout Void magic.
 25	message	Hence the secret trip to Romalia,\nthe three of us.
-26	message	The princess says the Pope of Romalia,\na fellow Void bearer, might know something —\nbut is that true?
+26	message	The princess says the Pope of Romalia,\na fellow Void bearer, might know something -\nbut is that true?
 27	message	If you stay like this, Louise-san,\nit'll be a problem, right?
-28	message	Yes. The mysterious mage commanding grotesque monsters...\nThey say he wields Void magic too —\nI'm the only one who can oppose him.
-29	message	Appearing out of nowhere, kidnapping people,\nattacking lands with never-before-seen monsters —\na terrifying mage, right?
+28	message	Yes. The mysterious mage commanding grotesque monsters...\nThey say he wields Void magic too -\nI'm the only one who can oppose him.
+29	message	Appearing out of nowhere, kidnapping people,\nattacking lands with never-before-seen monsters -\na terrifying mage, right?
 30	message	But no one's ever seen him...
-31	message	Unfindable even when every mage\nin the country searches —\nit has to be a Void user.
+31	message	Unfindable even when every mage\nin the country searches -\nit has to be a Void user.
 32	message	Yet here I am in a total slump for no reason.\nI have to fix this fast...
 33	message	Right, let's cut the break short\nand head out!
 35	message	Ah, Siesta-san, your luggage's spilling.
 36	message	Ah, oh my?
 37	message	Get it together.\nSiesta seems perfect, but\nshe's ditzy somewhere in there.
-38	message	Sorry, Miss Valliere has\nlots of luggage of questionable necessity —\nthere's just so much of it.
+38	message	Sorry, Miss Valliere has\nlots of luggage of questionable necessity -\nthere's just so much of it.
 39	message	What! Got a problem!\nNobles have lots of things, unlike commoners!
 40	message	Now now, Louise-san, Siesta-san,\ncalm down...
 42	message	Hm? Ah, what's...?
@@ -44,7 +44,7 @@ row	column	english
 55	message	What are those?\nThere's tons of them!
 56	message	I don't know.\nSimple muggers, or...!
 57	message	What should we do?
-58	message	This wasn't supposed to be a fighting trip —\nwe'll have to escape somehow.
+58	message	This wasn't supposed to be a fighting trip -\nwe'll have to escape somehow.
 60	message	If we're running, that way... let's go!
 63	message	Yes!
 65	message	Ow... you...!
@@ -61,7 +61,7 @@ row	column	english
 78	message	Where would that be!?
 79	message	...
 80	message	Louise-san... I have an idea.
-81	message	I'll be the decoy and draw their attention —\nescape in the opening.
+81	message	I'll be the decoy and draw their attention -\nescape in the opening.
 82	message	What are you saying?\nI can't leave you behind!
 83	message	At this rate we'll all be done for!\nAt least you and Siesta-san, run!
 85	message	Tiffa!!
@@ -71,7 +71,7 @@ row	column	english
 89	message	No! I can't sacrifice Tiffa!
 90	message	Right now you lack the power\nto save Tiffa-san!\nThat's why we're going to Romalia, isn't it?
 91	message	You idiot, Siesta!!
-92	message	...Next time it's my turn to protect you —\nI'm resolved...!!
+92	message	...Next time it's my turn to protect you -\nI'm resolved...!!
 93	message	Siesta...!!
 94	message	Siesta-san!\nI'm counting on you with Louise-san!!
 96	message	Tiffaaa!!

@@ -1,5 +1,5 @@
 row	column	english
-3	message	Expression check start — Neutral
+3	message	Expression check start - Neutral
 5	message	Neutral
 7	message	Neutral
 8	message	Neutral
@@ -26,8 +26,8 @@ row	column	english
 45	message	Bashful
 47	message	Bashful
 49	message	Bashful
-50	message	Expression check end — Bashful
-52	message	Expression check start — Neutral
+50	message	Expression check end - Bashful
+52	message	Expression check start - Neutral
 54	message	Neutral
 56	message	Neutral
 58	message	Happy

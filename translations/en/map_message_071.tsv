@@ -18,7 +18,7 @@ row	column	english
 19	message	Unlike before,\nwe won't leave Rika-chan's side, and\nwe won't fall for any traps they set.
 20	message	So the enemy's coming at us fair and square, desu~?
 21	message	So cheap tricks won't work on them.\nWhy don't we flip it and set something up ourselves?
-22	message	Speak of the devil —\nlooks like they're already here!
+22	message	Speak of the devil -\nlooks like they're already here!
 24	message	Huh?
 25	message	High-speed flying object confirmed.\nThat's an IS!
 26	message	A blitz aimed at the moment our memories were scrambled.\nBut they're one step too late!
@@ -52,11 +52,11 @@ row	column	english
 58	message	That's why we won't lose.
 59	message	Problems you can't solve alone\ncan be solved together!
 60	message	We won't lose!
-61	message	You and us —\ndo you understand the difference?
+61	message	You and us -\ndo you understand the difference?
 62	message	That can't be… there's no reason\nfor me to lose…!!
 67	message	She got away.
 68	message	I propose we pursue!
-69	message	Wait — we're fine, but\nthe ones on foot can't move that fast.
+69	message	Wait - we're fine, but\nthe ones on foot can't move that fast.
 70	message	If we're slow to move out from here,\nwe'll be giving the enemy time.
 71	message	What do we do, Mion?
 72	message	True, charging ahead without thinking\nwould be dangerous.
@@ -64,7 +64,7 @@ row	column	english
 74	message	Isn't there some good move we could make, I wonder?
 75	message	Charging straight into where the enemy\nis waiting would be bad.\nWe need some way to catch them off guard.
 76	message	They've probably anticipated how slow we are,\nso they'll have a plan ready.\nTo turn the tables on that…?
-77	message	You can count on me and Schwarzer Regen.\nDecoy duty or breaking through the center —\nI'll pull it off.
+77	message	You can count on me and Schwarzer Regen.\nDecoy duty or breaking through the center -\nI'll pull it off.
 78	message	What're you showing off for?\nHibiki's not even here.\nOr are you cheating on her with Rika?
 79	message	W-who's cheating on anyone!\nI'm used to operating solo, and\nI've had military training as a decoy!
 80	message	Oh my, look who's blushing.
@@ -75,7 +75,7 @@ row	column	english
 85	message	I'm taking you hooome~!!
 86	message	Whaaat!?
 87	message	Oh dear, she's done it now.
-88	message	Don't just watch — somebody help me!
+88	message	Don't just watch - somebody help me!
 92	message	Nope.
 93	message	Impossible.
 94	message	No can do~.
@@ -88,12 +88,12 @@ row	column	english
 106	message	Hauuu~!\nI'm taking you ALL hooome~!!
 110	message	Huh?
 112	message	Called it.
-113	message	…This total lack of tension —\nthe enemy would be shocked to see it.
+113	message	…This total lack of tension -\nthe enemy would be shocked to see it.
 114	message	True…
 115	message	But this is normal for us.
-116	message	This happiness, this warmth —\nI have to protect it.
+116	message	This happiness, this warmth -\nI have to protect it.
 117	message	We came to protect Rika-chan, but\nit feels backwards somehow, desu~.
-118	message	For Rika-chan — the one who needs protecting most —\nto say that herself.\nNice! That's so cool!
+118	message	For Rika-chan - the one who needs protecting most -\nto say that herself.\nNice! That's so cool!
 119	message	I'm included in that too.\nThis time, I don't want to loop anymore.
 120	message	All the more reason our next move matters.\nIt'd be nice if we could outsmart the enemy.
 121	message	As for that, I've got a good idea.\nThanks to Rena.

@@ -62,7 +62,7 @@ row	column	english
 90	message	Good.\nI was really hoping\nto make more friends.
 91	message	Then please take care of me from now on.\nI'm looking forward to it.
 94	message	Sorry to keep you wai~ting.
-95	message	Starting today, we're exploring for the treasure mountain—\nlet's do our best together~.
+95	message	Starting today, we're exploring for the treasure mountain-\nlet's do our best together~.
 96	message	I prepared all sorts of things for this day.\nUm…….
 97	message	First…… of course, this!　The hatchet!\nAnything in the way gets a whack, whack with this.
 98	message	(Honestly, that's scary……)
@@ -74,7 +74,7 @@ row	column	english
 104	message	I thought it might be needed,\nso I gathered some information on my own.
 105	message	Huh, really?\nNice going!
 106	message	……Wow, this is super helpful.\nWith this we'll definitely find it!
-107	message	Alright!　Then let's search for the treasure mountain—\noff we gooo!
+107	message	Alright!　Then let's search for the treasure mountain-\noff we gooo!
 110	message	Hehe, this is like a picnic.\nFun!
 111	message	Ah, of course we have to be careful\nnot to get hurt.
 112	message	But thinking a man is here\nif anything happens\nis a little reassuring, kana……?
@@ -89,7 +89,7 @@ row	column	english
 127	message	Next time let's go around and search the other side.\nHaving a goal is kind of fun!
 130	message	Yay~!　We got past that river from last time!
 131	message	A great adventure is surely waiting up ahead.\nI'm getting excited!
-132	message	……But first, lunch?\n'No fighting on an empty stomach'—\nMii-chan said so too.
+132	message	……But first, lunch?\n'No fighting on an empty stomach'-\nMii-chan said so too.
 135	message	You always eat it so happily,\nit makes Rena happy.
 136	message	Ah, you can't scarf it down like that.\nChew properly.
 137	message	Ahaha, it reminds me of school.\nI used to feed the younger kids like this.
@@ -153,12 +153,12 @@ row	column	english
 223	message	Then let's cross!\nRena'll go first.
 224	message	Heave, heave…….
 225	message	Be careful.
-226	message	Yeah, I'm fine.\nRena's surprisingly good at—ah!?
+226	message	Yeah, I'm fine.\nRena's surprisingly good at-ah!?
 227	message	Ah, watch out!
 230	message	Ugh…… ow ow ow…….
 231	message	But it's fine,\njust scraped…… huh?
 232	message	Guh, whew…….
-233	message	Ah!　Did I— land on you!?\nA-are you okay?
+233	message	Ah!　Did I- land on you!?\nA-are you okay?
 236	message	I'm…… fine…….
 237	message	You don't look fine!\nYour face is pale!
 240	message	I might…… be done for…….
@@ -196,7 +196,7 @@ row	column	english
 285	message	……??\nWhat on earth is wrong with Rena-san?
 288	message	……?
 289	message	Café SHC……?\nM-my feet are moving on their own…….
-292	message	Hauu, take me— I mean,\nwelcome~!
+292	message	Hauu, take me- I mean,\nwelcome~!
 295	message	R-Rena-san!?　Is that you!?
 296	message	Yeah…… how is it?　Does it suit me?
 297	message	Of course, you're super cute!

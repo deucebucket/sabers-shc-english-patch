@@ -16,7 +16,7 @@ row	column	english
 22	message	I've returned.
 24	message	Mama!
 25	message	We've returned.
-26	message	[CLAUDE], well done making it here.\nMie, Kei — return to the surface.
+26	message	[CLAUDE], well done making it here.\nMie, Kei - return to the surface.
 27	message	Ehh? I wanna talk!\nIs he really Mii's big brother?
 28	message	Requesting data.
 29	message	You don't need to know.
@@ -28,7 +28,7 @@ row	column	english
 36	message	As you like.
 37	message	Then I'll call you Mother.\nBefore my report, I'd like to confirm:\nyou created Mie and Kei, didn't you?
 38	message	That's right.
-39	message	Then the Goddess of Destruction —\nno, you made the thing that returns the world to nothing too?
+39	message	Then the Goddess of Destruction -\nno, you made the thing that returns the world to nothing too?
 40	message	That's right.
 41	message	May I ask why?
 42	message	Because you never awakened.
@@ -85,7 +85,7 @@ row	column	english
 102	message	[CLAUDE]'s\nnot here...
 103	message	He's a genius at hide-and-seek!\nGood thing it's not a club sport.
 104	message	He'd surely win solo.
-105	message	This is no time for jokes.\nSearching this much with no sign —\nthe worst case is possible.
+105	message	This is no time for jokes.\nSearching this much with no sign -\nthe worst case is possible.
 106	message	Hee, Cecilia, you're surprisingly\nworried about [CLAUDE]?
 107	message	Don't get the wrong idea!\nI dislike\nfeeble men!
 108	message	Well, [CLAUDE]'s not really someone\nto look at that way.
@@ -99,7 +99,7 @@ row	column	english
 116	message	Kurumi, you're searching hard.\nWorried after all?
 117	message	In a different sense. I feel like\nhe's gone somewhere\nunbelievable.
 118	message	Somewhere unbelievable?
-119	message	A guy who's prime friend material\nescaping this environment —\nnot even if heaven and earth flipped!
+119	message	A guy who's prime friend material\nescaping this environment -\nnot even if heaven and earth flipped!
 120	message	(I can see about ten million people\naround the world nodding hard, nyu.)
 121	message	Everyone's cute, sure, but\nis it THAT amazing...?
 122	message	Hauu~,\nthey're so amazing\nI wanna take them all home!
@@ -125,7 +125,7 @@ row	column	english
 145	message	Oh, you came out!\nFine, I'll tell you right away!
 146	message	Huh?
 147	message	Huh?
-148	message	This place, y'know,\nisn't a planet — it's inside a spaceship!
+148	message	This place, y'know,\nisn't a planet - it's inside a spaceship!
 149	message	Huhhh?
 150	message	Hweh?
 151	message	It's an ark ruled by the great Master,\nand the Master made the Goddess of Destruction!
@@ -159,7 +159,7 @@ row	column	english
 180	message	That means we're stronger, desu~!
 181	message	No waaay!!
 182	message	Lies!!
-183	message	Ah, right — you two weren't inside the dream, were you.\nNo wonder you didn't really get it.
+183	message	Ah, right - you two weren't inside the dream, were you.\nNo wonder you didn't really get it.
 184	message	Bleh! Sheeesh!!\nFine, then we'll just beat you up!
 185	message	Entering combat mode.
 186	message	[MERU]! Get 'em!
@@ -171,12 +171,12 @@ row	column	english
 195	message	You look weaker than before!
 196	message	Thinking like that just proves you don't get it!\nThat's not what strength is!!
 198	message	Data scan… combat power massively down!?\nValues are dropping too fast.\nError, error!
-199	message	Your readings are correct, desu~.\nBut that doesn't mean we're weaker —\ndon't you forget it!
+199	message	Your readings are correct, desu~.\nBut that doesn't mean we're weaker -\ndon't you forget it!
 201	message	Data scan… combat power massively down!?\nValues are dropping too fast.\nError, error!
-202	message	You're not wrong about that.\nBut the strength you can get from calculations\nisn't real strength — let me teach you that!
+202	message	You're not wrong about that.\nBut the strength you can get from calculations\nisn't real strength - let me teach you that!
 204	message	Whaaat!? Whyyy!?
-205	message	Too bad, but it looks like I'm — I mean, we're\nway, way stronger, desu~.
-206	message	Looks like I'm — I mean, we're\noverwhelmingly stronger!
+205	message	Too bad, but it looks like I'm - I mean, we're\nway, way stronger, desu~.
+206	message	Looks like I'm - I mean, we're\noverwhelmingly stronger!
 207	message	How about that!
 208	message	We did it, desu~!!
 211	message	Database anomaly detected!\nCannot correct!\nContinued combat judged impossible!
@@ -208,7 +208,7 @@ row	column	english
 241	message	That is an order. Exterminate them.
 242	message	But Mama!\nYou said Mie could do whatever she wanted with the world!
 243	message	That order is rescinded.\nExterminate them.
-244	message	…That's so—
+244	message	…That's so-
 245	message	…
 246	message	O-okay… I'm going…
 247	message	Mission acknowledged.

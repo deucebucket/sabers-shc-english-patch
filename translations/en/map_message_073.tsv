@@ -4,11 +4,11 @@ row	column	english
 5	message	So for that, um, I'd like everyone\nto chip in a little war funding…\nhow about it, nyo…?
 6	message	Um, we don't have\nthis world's money, you know.
 7	message	Work something out, nyo!\nPawn your treasures or something and raise the cash, nyo!
-9	message	Okay~ — turns out Dejiko's stingy little fundraiser\nisn't needed!
+9	message	Okay~ - turns out Dejiko's stingy little fundraiser\nisn't needed!
 10	message	Usada, you were out on regular patrol!\nWhat's with suddenly coming back, nyo!?
 11	message	Never mind that, come outside a sec!\nEveryone, come on!
 12	message	Enemies?
-13	message	You'll see — hurry!
+13	message	You'll see - hurry!
 14	message	Not ordinary enemies, then?
 16	message	Th-this is… Akihabara, nyo!?
 17	message	See? Told you you'd get it.
@@ -30,11 +30,11 @@ row	column	english
 33	message	Those things'll just keep coming\nno matter how many you beat, nyu.\nGo after whoever's siccing them on us, nyu.
 34	message	Oh, right… I-I mean, what!\nI just thought of it a little late!
 35	message	But I don't see any enemy\nthat looks like a leader?
-36	message	In that case, we just lure them out.\nLouise, Dejiko — I'm counting on you.
+36	message	In that case, we just lure them out.\nLouise, Dejiko - I'm counting on you.
 37	message	Leave that to me, nyo!
 38	message	Oh, fine…
 40	message	Nyo-nyo?\nLook, Louise-san!\nNothing but weak small fry, nyo!
-41	message	You're right~!\nWho could it be, I wonder — the petty leader\nhiding behind all these numbers!!
+41	message	You're right~!\nWho could it be, I wonder - the petty leader\nhiding behind all these numbers!!
 42	message	That's going too far, the poor thing, nyo!\nThey'll be too embarrassed\nto ever come out, nyo!
 43	message	Right now it's still before the fighting~,\nso they can still save face, right?
 44	message	'Now'! It's 'now' or never, nyo!\nOnce the fighting starts it's too late, nyo.
@@ -52,7 +52,7 @@ row	column	english
 58	message	They came out, nyo!
 59	message	It's you guys… figures.
 60	message	It's a rematch, nyo!
-61	message	Shut up, nyo!\nIt's your fault my doujinshi got reduced to copy-book handouts —\ntake responsibility, nyo!!
+61	message	Shut up, nyo!\nIt's your fault my doujinshi got reduced to copy-book handouts -\ntake responsibility, nyo!!
 62	message	Wiping you out makes us even, nyu.
 63	message	What an unsightly argument, nyu.
 64	message	Enough bickering!\nLet's start!
@@ -93,7 +93,7 @@ row	column	english
 106	message	!?
 107	message	Don't understand what I mean, nyo?\nHeh, that just shows your limits, nyo!
 108	message	Dejiko!\nYou're acting cool, but are you okay?
-109	message	Who do you think I am, nyo!\nThe champion of Akihabara — Lady Dejiko, nyo!!
+109	message	Who do you think I am, nyo!\nThe champion of Akihabara - Lady Dejiko, nyo!!
 110	message	Damage like this,\nI'll fully recover from in one go, nyo!!
 112	message	H-hey!? That's cheating, nyo!!
 113	message	Louise's MP recovers when she gets mad, nyo!\nSo I should get some heroine\nplot armor too, nyo!
@@ -101,7 +101,7 @@ row	column	english
 115	message	If you think about it too hard, you lose, nyu.
 116	message	(As long as Mie doesn't target me…)
 117	message	Akihabara and Dejiko will never fall, nyo!\nI'll rise again and again, nyo!!
-118	message	Protecting this irreplaceable otaku utopia\nis MY job, nyo!\nIn everyone's name — punishment time, nyo!!
+118	message	Protecting this irreplaceable otaku utopia\nis MY job, nyo!\nIn everyone's name - punishment time, nyo!!
 119	message	Kyaa! Dejiko-san is wonderful, desu~!\nFull of 2.5-rate idol vibes!\nI'm swooning, desu~!
 120	message	Autographs later, nyo!
 121	message	(That's a slightly dated reference…)
@@ -135,10 +135,10 @@ row	column	english
 160	message	Exactly, exactly! Jeanne's right!
 161	message	We have to take Gamers back.
 162	message	Obviously, nyo!\nIf anything, it saves us\nthe trouble of hunting them down, nyo!
-163	message	But still — what strategic value\ndoes Gamers even have…?
+163	message	But still - what strategic value\ndoes Gamers even have…?
 164	message	Because of the Polyal…?
 165	message	That's the reasonable conclusion.\nConsidering the enemy's defenses,\nour approach…
-167	message	No — a blitz is the right call here!\nWe charge into Gamers!
+167	message	No - a blitz is the right call here!\nWe charge into Gamers!
 168	message	Wasn't Jeanne-san the cautious type?
 169	message	And that's how I kept losing to you.
 170	message	My caution doesn't have to call\nevery shot for this group.\nIt's enough that it patches up our careless spots.
@@ -159,7 +159,7 @@ row	column	english
 186	message	Oh, Puchiko said the right thing.
 187	message	What'd you say, nyo!?
 188	message	Jeanne-san has the most battle experience,\nso I think it's a good choice.
-189	message	I agree.\nShe's calm no matter what —\nisn't she perfect for it?
+189	message	I agree.\nShe's calm no matter what -\nisn't she perfect for it?
 190	message	You'd trust someone who was your enemy until recently?
 191	message	Um, right now… she's a dear friend…!
 192	message	There's been a lot going on, but\nwhat matters is what we do now, right?
@@ -169,7 +169,7 @@ row	column	english
 196	message	D-don't sweat the small stuff!!\nWe're in a hurry, right? Let's go!!
 198	message	Chris-san went on ahead, desu~.\nCaptain, what shall we do, desu~?
 199	message	…Understood.
-200	message	I will answer everyone's trust.\nThen — I'll take command.
-201	message	From here, we retake Gamers!\nFollowing Yukine Chris — all units, advance!
+200	message	I will answer everyone's trust.\nThen - I'll take command.
+201	message	From here, we retake Gamers!\nFollowing Yukine Chris - all units, advance!
 202	message	Yeah!!
 203	message	//END

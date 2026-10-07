@@ -3,7 +3,7 @@ row	column	english
 4	message	She's surely hiding somewhere.\nCheer up, please.
 5	message	I'm not depressed.\nI'm just angry at my own carelessness!
 6	message	Louise-chan…
-7	message	Abandoning a maid employed by a noble—\nthat's unthinkable.\nI'll find her no matter what!
+7	message	Abandoning a maid employed by a noble-\nthat's unthinkable.\nI'll find her no matter what!
 8	message	Yes!\nLet's do our best together!
 9	message	I searched from the air with my IS's hyper-sensor,\nbut with all these trees, it's quite difficult.
 10	message	Thanks.\nWe'll have to search on foot, the slow way.
@@ -26,9 +26,9 @@ row	column	english
 32	message	Siesta! What are THOSE!?
 33	message	Wh-why is the maid lady\ncommanding monsters, indeed?
 34	message	Could the mage controlling these monstrous demons\nhave been Siesta-san all along?
-35	message	That's impossible!\nSiesta is a commoner—she can't use magic!
+35	message	That's impossible!\nSiesta is a commoner-she can't use magic!
 36	message	Siesta-san isn't being attacked, so\nshe's on THEIR side? Is that it?
-37	message	It's strange—Siesta doesn't have that kind of power!\nWhat's going on…?
+37	message	It's strange-Siesta doesn't have that kind of power!\nWhat's going on…?
 38	message	I thought I'd finish you in one strike,\nbut you dodged…
 39	message	…She's not in her right mind.
 40	message	Wh-what, is she a bad person!?
@@ -71,7 +71,7 @@ row	column	english
 85	message	Dispel!!
 87	message	Aaaah!!
 88	message	Louise-chan! What are you doing!?
-89	message	Don't worry, it's not an attack spell.\nThat was Dispel—\nVoid magic that negates all magic.
+89	message	Don't worry, it's not an attack spell.\nThat was Dispel-\nVoid magic that negates all magic.
 91	message	…Oh? Miss Valliere?\nAre you back?
 92	message	Good grief… you're the one who came back.\nWelcome home, Siesta.
 95	message	What!? I was being controlled?
@@ -79,7 +79,7 @@ row	column	english
 97	message	Yes… though I vaguely recall\nseeing Miss Valliere's face.
 98	message	Well, whatever.\nI was wrong to leave you behind on your own,\nso I have things to say, but I'll forgive you.
 99	message	Haa.
-100	message	Oh, and if you have something to say to me,\ndon't bottle it up—let it out sometimes.\n…Because it's scary otherwise.
+100	message	Oh, and if you have something to say to me,\ndon't bottle it up-let it out sometimes.\n…Because it's scary otherwise.
 101	message	I don't quite understand what you mean,\nbut if that's better, I'll do that.
 102	message	One more thing.\nSiesta… do you… hate me?
 103	message	Well… selfish, a crybaby,\nviolent, a show-off, stubborn,\nimpulsive…
@@ -95,7 +95,7 @@ row	column	english
 115	message	E-e-e…EXPLOSION!!!!
 117	message	Why would you say that, indeed~…
 118	message	There are good fools and bad fools,\nand this is the bad kind…
-121	message	…Heightened emotion increasing magical power—\nso this phenomenon really exists.
+121	message	…Heightened emotion increasing magical power-\nso this phenomenon really exists.
 122	message	The bearer of the Void, Louise the Zero.\nA fearsome mage who defies\nthe very concepts of mana consumption and recovery…
 123	message	No wonder the client is interested.\nBut that magical power… can it be used\noutside this world?
 124	message	I need to investigate a bit more.
@@ -147,7 +147,7 @@ row	column	english
 175	message	No, we were just saying\nthat Dokoka Town is hard to explain.
 176	message	Oh, true, this is a strange place.\nIt has everything…\na relaxing place, you might say…
 177	message	Is that so?
-178	message	Yes! Fluffy beds,\nfood… and cooking utensils—\nthey've got 'em all!
+178	message	Yes! Fluffy beds,\nfood… and cooking utensils-\nthey've got 'em all!
 179	message	Cooking utensils too!?\nI'd love to see them!
 180	message	Siesta-san, you're good at cooking♪\nOh! Then how about some ramen!
 181	message	Ramen?\nWhat kind of food is that?\nI'm curious!

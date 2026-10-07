@@ -4,7 +4,7 @@ row	column	english
 5	message	Oooh~. I don't really get it, but\none thing's clear: it's amazing!
 6	message	And then, back in the age of magic civilization,\nthey mixed in magic for even more advanced techniques...
 7	message	She said she was shy with strangers, but\nlooks like they've become\nfast friends...
-8	message	Hey, [MERU].\nMeeting in a totally unknown world—\nI think that's fate.
+8	message	Hey, [MERU].\nMeeting in a totally unknown world-\nI think that's fate.
 9	message	It'd be amazing if we became friends!
 10	message	Um, if someone like me\nis okay, desuu...
 11	message	Likewise, if I'm okay with you!
@@ -26,7 +26,7 @@ row	column	english
 27	message	The killer's extremely dangerous.\nProbably thinks nothing of murder...
 28	message	(Even as far as I know, there are only\na handful that dangerous...)
 29	message	Remu, um... how did\nthe 'searching for someone' request go, desuu?
-30	message	Ah, about whether [MERU]'s teacher\ncame to this world—\nno matching person confirmed yet.
+30	message	Ah, about whether [MERU]'s teacher\ncame to this world-\nno matching person confirmed yet.
 31	message	Uuuuh, too bad, desuu...
 32	message	But I gave a sketch to Inspector Sakaki,\nand arranged for them to contact me\nas soon as they spot someone matching.
 33	message	Thank you, desuu!
@@ -34,7 +34,7 @@ row	column	english
 35	message	Anyway, tons to investigate.\nWe've got to get out there and dig.
 36	message	Hibiki,\ndo you know where\nyou appeared in this world?
 37	message	Yes! So I wouldn't get lost,\nI memorized the place!\n...I don't think there's anything there, though.
-38	message	Doesn't hurt to check—let's go look!
+38	message	Doesn't hurt to check-let's go look!
 39	message	// Scene change\n// Background: town at night
 40	message	Doesn't look like anything's here, desuu.
 41	message	...Hmm.\nI'd hoped there'd be some\ntraces that could be clues, but...
@@ -92,7 +92,7 @@ row	column	english
 96	message	But her aura's different from that girl...\nSo the doppelganger's graced us?
 97	message	Is that even human...?
 98	message	Let's do our best at the shoot today, okay?\nFufufu...
-99	message	No! No hesitation—do it well! Me!
+99	message	No! No hesitation-do it well! Me!
 100	message	// Battle continues\n// Deal set damage to Black Sonico
 101	message	See you later, okay?
 102	message	// Black Sonico exits
@@ -102,7 +102,7 @@ row	column	english
 107	message	Fuu. For now, I feel relieved?
 108	message	Defeated safely! Sei!
 109	message	Hawawawa, what's that pose, desuu?
-110	message	In martial arts it's called zanshin—\nyou do it to stay alert, but\nI also do it 'cause it looks cool... ehehe.
+110	message	In martial arts it's called zanshin-\nyou do it to stay alert, but\nI also do it 'cause it looks cool... ehehe.
 111	message	It feels great,\n[MERU], you try it too!
 112	message	Huh? Me, desuu?
 113	message	I wanna see it. Please!
@@ -125,6 +125,6 @@ row	column	english
 130	message	Wait, huh!?
 131	message	D-did I say something weird...?
 132	message	Remu, run, desuu!\nWe'll end up in a weird world!!
-133	message	(Should I stay behind? No—to solve the mystery...!)
+133	message	(Should I stay behind? No-to solve the mystery...!)
 134	message	...Well, let's go!\nI don't hate thrills and adventure♪
 135	message	// Enveloped in light, they move

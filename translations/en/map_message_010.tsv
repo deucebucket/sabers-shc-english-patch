@@ -1,7 +1,7 @@
 row	column	english
 3	message	Hey hey, [CLAUDE]-kun,\nhow'd it go?
 4	message	Uuuugh, sorry,\nwith only 'blonde twintails' to go on\nI couldn't find any leads...
-5	message	Yeah yeah,\nbut this kind of steady legwork matters!\nIntel is earned on foot—that's investigation basics!
+5	message	Yeah yeah,\nbut this kind of steady legwork matters!\nIntel is earned on foot-that's investigation basics!
 6	message	I'm...\nnot a cop or a detective, though...
 7	message	...
 8	message	Ah...\nTsubasa-chan, is something wrong?
@@ -9,7 +9,7 @@ row	column	english
 10	message	You want to find your vanished partner, right.\nSo what's your partner like,\nanyway?
 11	message	Let's see... the person in the whole world\nleast suited to fighting, I wonder.
 12	message	Huh? But she's a Symphogear wielder\nlike you, right?
-13	message	Yes. Which is why she's strong—and dangerous.\nShe strikes others with her heart, not her fists.\nShe fights on a different level, I suppose...
+13	message	Yes. Which is why she's strong-and dangerous.\nShe strikes others with her heart, not her fists.\nShe fights on a different level, I suppose...
 14	message	Hmm... I don't really get it.
 15	message	I don't think I fully understand either.\nI made myself a blade to fight,\nwhile Tachibana Hibiki was my complete opposite.
 16	message	Hibiki-chan, huh!\nI'd love to meet her someday...
@@ -26,7 +26,7 @@ row	column	english
 28	message	Phantom Thief Twintail still hasn't shown up.
 29	message	That means she doesn't know\nthe Tears of the Angel's new hiding place.\nIf only things would stay quiet...
 30	message	Just waiting around is so frustrating~.\nAt this point, why not round up\nevery blonde twintail girl~... no good?
-31	message	That's a bit... apparently the security cameras\ndidn't catch anyone like that—\nthe culprit may be good at disguises.
+31	message	That's a bit... apparently the security cameras\ndidn't catch anyone like that-\nthe culprit may be good at disguises.
 32	message	Hauu~ we can't find the culprit like this~.
 33	message	//Tsubasa and the others appear.
 34	message	True, tracking her down ourselves will be hard.
@@ -113,13 +113,13 @@ row	column	english
 121	message	...Thank you.
 122	message	Planning to die in vain to buy time?\nPointless... I'll dispose of you,\nthen the rest of them.
 123	message	Come out!
-124	message	//Many small fry appear near the withdrawn allies. Positionally: the fry behind Tsubasa (who faces Laura), our forces behind them—splitting Tsubasa from our forces.
+124	message	//Many small fry appear near the withdrawn allies. Positionally: the fry behind Tsubasa (who faces Laura), our forces behind them-splitting Tsubasa from our forces.
 125	message	Wah! Ah...! S-so many...!\nAre they... extras...?
 126	message	Ehhh, there's still this many!?
 127	message	These should at least slow you down.\nDon't let the Twin Angels escape.
 128	message	...
-129	message	...May I ask one thing?\nBehind your power, behind your fighting—what is there?
-130	message	Behind fighting? A pointless question.\nPower is me itself, fighting is proof of existence—\nI care nothing for what's behind!
+129	message	...May I ask one thing?\nBehind your power, behind your fighting-what is there?
+130	message	Behind fighting? A pointless question.\nPower is me itself, fighting is proof of existence-\nI care nothing for what's behind!
 131	message	I see... then all the more reason...\na half-baked warrior cannot afford to lose.
 132	message	Half-baked?\nSays the rusted sword!
 133	message	I was once the same...\nNo matter how you hone the blade,\na heartless sword can protect nothing...!
@@ -132,7 +132,7 @@ row	column	english
 140	message	What did you do!?
 141	message	I've bound your shadow.
 142	message	Impossible...!!
-143	message	Listen! And sear it into your heart!\nKazeshiro Tsubasa's—defender's resolve!
+143	message	Listen! And sear it into your heart!\nKazeshiro Tsubasa's-defender's resolve!
 144	message	//Event art: Tsubasa singing the Superb Song.
 146	message	Wh-what is this...!?
 148	message	//Event art off. Whiteout and explosion sound.
@@ -149,7 +149,7 @@ row	column	english
 161	message	Tsubasaaaaaaaaaan!!
 162	message	//Everyone except Tsubasa vanishes from the map.
 165	message	This is... Dokoka Town!?
-166	message	Forget that—where's Tsubasa-san!?
+166	message	Forget that-where's Tsubasa-san!?
 167	message	N-nowhere...!
 168	message	So she got left behind!?\nTh-that's terrible!!
 169	message	Um...
@@ -163,7 +163,7 @@ row	column	english
 177	message	Huh? Twin Angel always comes\nto the rescue in a pinch, but... m-more importantly,\nTsubasa-chan!?
 178	message	I don't know.\nShe doesn't seem to be here...
 179	message	No!? What do we do!?\nThis is bad, Aoi-chan! What do we do!?
-180	message	Calm down, Haruka-san.\nPanicking won't help at a time like this.\nDeep breaths—come on, suu, haa.
+180	message	Calm down, Haruka-san.\nPanicking won't help at a time like this.\nDeep breaths-come on, suu, haa.
 181	message	Suu, haa, suu, haa... phew,\nI'm calming down...
 182	message	Sonico-san and the others seem to know\nthis place, so first, let's have them\ntell us what happened.
 183	message	O-okay, got it!\nMmm, Aoi-chan's\nsooo reliable~!
@@ -172,7 +172,7 @@ row	column	english
 186	message	Hyaa!?
 187	message	//Aoi hides behind Haruka, startled, if possible.
 188	message	Ahaha, sorry sorry, did I startle you?
-189	message	No, more importantly—what's the 'something'?
+189	message	No, more importantly-what's the 'something'?
 190	message	All right, let's go check it out!
 191	message	//Fade to black.\n//Background: Dokoka Town.
 192	message	Aah! [MERU]!
@@ -184,12 +184,12 @@ row	column	english
 198	message	...Ah! G-good work!\nUm, are you a fellow cast member!?
 199	message	Looks like [NOEL]-chan's group\ngrew too.
 200	message	Remu-san! You're here too!?
-201	message	Yes—the strange transfers seem connected\nto the case in my world too.\nSo I took the plunge and came!
-202	message	Got it—when lost, push forward! Right!
+201	message	Yes-the strange transfers seem connected\nto the case in my world too.\nSo I took the plunge and came!
+202	message	Got it-when lost, push forward! Right!
 203	message	[NOEL],\nwhere's Tsubasa-san~?
 204	message	Tsubasa-san!? Tsubasa-san's here!?
 205	message	You know Tsubasa-san?
-206	message	Yes! I'm with the same Special Disaster Response Task Force\nas Tsubasa-san—Tachibana Hibiki!\nI serve as Tsubasa-san's partner!
+206	message	Yes! I'm with the same Special Disaster Response Task Force\nas Tsubasa-san-Tachibana Hibiki!\nI serve as Tsubasa-san's partner!
 207	message	Uuuuu, so you're the one...
 208	message	So, where's Tsubasa-san?
 209	message	//Fade to black: time passes.
@@ -212,7 +212,7 @@ row	column	english
 226	message	Yeah! It was sooo cool!!
 227	message	Ah, but...
 228	message	Um, Tsubasa-san'll definitely be fine!\nTsubasa-san has the resolve to fight with her life on the line,\nbut she'd never treat life lightly!
-229	message	I know that best of all—\nI've fought alongside her!
+229	message	I know that best of all-\nI've fought alongside her!
 230	message	Hibiki-chan...
 231	message	Trusting each other is what makes\npartners, right?
 232	message	Yes!
@@ -232,19 +232,19 @@ row	column	english
 246	message	(Whoa... she seems kinda hard to approach...)
 247	message	What do you want? You've been avoiding\neye contact with me this whole time.\nWhat's your deal?
 248	message	Huh? No, sorry,\nI didn't mean anything by it...
-249	message	Suspicious... Okay, decided!\nYou — you're gonna be my\nslave-in-training!
+249	message	Suspicious... Okay, decided!\nYou - you're gonna be my\nslave-in-training!
 250	message	Huh? A slave... trainee?\nWhat's that supposed to be?
 251	message	Exactly what it sounds like. A slave-in-training.\nThink of it as a probationary period.
 252	message	You need training to become a slave?
 253	message	Got a problem with that?
 254	message	N-no...\nSorry, sorry.
-255	message	Good. Lucky for you —\nyou were about a second away from getting holes\nblown through your forehead and your gut.
+255	message	Good. Lucky for you -\nyou were about a second away from getting holes\nblown through your forehead and your gut.
 256	message	Eep...
 257	message	...Well, among everyone who's joined up,\nthere's nobody who could cut it\nas my partner.
 258	message	Speaking of partners,\nwhere are [MERU] and\n[NOEL]?
 259	message	Oh, those two? They went off\nthat way, all lively and chatty!
 260	message	//Fade to black\n//Background: Forest
-261	message	Geez! I told you not to do anything reckless!\nWe should've just gone to Remu's office!\nNow you've dragged more people into this — even Tsubasa...
+261	message	Geez! I told you not to do anything reckless!\nWe should've just gone to Remu's office!\nNow you've dragged more people into this - even Tsubasa...
 262	message	Hey!! You have no idea what happened over here!!
 263	message	I can guess well enough!
 264	message	You just charged in on the spur of the moment\nand this is what happened, [NOEL]!
@@ -259,7 +259,7 @@ row	column	english
 273	message	Did it ever occur to you\nthat the teacher might have gone to another world too?
 274	message	Oh...
 275	message	[NOEL] really is an idiot!!
-276	message	What do you think we set out on this journey for!?\nYou've forgotten even that — what ARE you doing!!\nI don't care anymore!!
+276	message	What do you think we set out on this journey for!?\nYou've forgotten even that - what ARE you doing!!\nI don't care anymore!!
 277	message	//Meru runs off.
 278	message	[MERU]!? Where are you going!?
 279	message	I'll search for the teacher all by myself!!
@@ -269,7 +269,7 @@ row	column	english
 283	message	She doesn't have the guts\nto go off somewhere alone. Don't worry about it!
 284	message	//Background: Dokoka Town\n//Polial (stone) is present.
 285	message	Uuuuugh,\nif I don't go now...!\nI just can't take it anymore!!
-286	message	//Light flares and Meru vanishes.\n//Fade to black\n//Background: Dokoka Town — shop
+286	message	//Light flares and Meru vanishes.\n//Fade to black\n//Background: Dokoka Town - shop
 287	message	Huh!?\n[MERU] really left!?
 288	message	Yup! She's gone!\nShe's not in this town anymore!
 289	message	No way... she can't...\nThere's no way she could do something like that...!!
@@ -288,12 +288,12 @@ row	column	english
 302	message	It's partly my fault [MERU] left,\nso I can't go making trouble\nfor everyone else because of it.
 303	message	[MERU]'s a magical yo-yo user too,\nso she should be able\nto handle most problems on her own.
 304	message	You think she'll be okay alone?
-305	message	Unlike me, [MERU]'s smart\nand quick on her feet — and above all,\ncareful and skilled. I think she'll be fine!
+305	message	Unlike me, [MERU]'s smart\nand quick on her feet - and above all,\ncareful and skilled. I think she'll be fine!
 306	message	Th-this is a new development!\nWhen those two meet again,\nwhat on earth will happen...!
 307	message	You're weirdly carefree, huh?
 308	message	(Aria, Sonico is a rookie gravure model\nwho thinks all of this\nis a movie shoot...)
 309	message	(Thinks it's a shoot, huh...\nWell, she'd probably be happier\ngoing back to her world none the wiser...)
-310	message	So for now, we all act as one —\ndoes that sound alright, I wonder?
+310	message	So for now, we all act as one -\ndoes that sound alright, I wonder?
 313	message	Yeees.
 314	message	(Riko, I'll catch you for sure...!\nWait for me, Mama...)
 315	message	//END

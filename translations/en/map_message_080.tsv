@@ -1,7 +1,7 @@
 row	column	english
 3	message	We're first, nyo~!
 4	message	After three furious battles in a row.
-5	message	Feels like we fought more —\nthat's Gamers' fault.
+5	message	Feels like we fought more -\nthat's Gamers' fault.
 6	message	I wonder if the others are safe?
 8	message	Oh, that was fast!
 9	message	Huh? The Hinamizawa team is already here!?
@@ -80,7 +80,7 @@ row	column	english
 87	message	The power to eat carrots-nee!
 88	message	I-I see… that's it…?
 89	message	Greed is the enemy.
-90	message	No no no, that's not it —\nwhat did you just do to me?\nWho even are you!?
+90	message	No no no, that's not it -\nwhat did you just do to me?\nWho even are you!?
 91	message	…
 92	message	…
 93	message	U-um?
@@ -125,7 +125,7 @@ row	column	english
 133	message	Right…
 135	message	All right!\nThe special chashu-men is ready!
 136	message	A masterpiece!
-137	message	Ehehe~! Melt-in-your-mouth chashu and\njuicy flame-grilled chashu —\nthe double chashu is the key♪
+137	message	Ehehe~! Melt-in-your-mouth chashu and\njuicy flame-grilled chashu -\nthe double chashu is the key♪
 138	message	Wow! That's luxurious!\nYou wouldn't get that even at a shop!
 139	message	Save the complicated talk for later!
 140	message	You can't do anything on an empty stomach, as they say.
@@ -213,7 +213,7 @@ row	column	english
 233	message	Can you hear a conversation 800m away?
 234	message	Butei are trained in lip reading.
 235	message	Reading lips 800m away is harder\nthan an eye exam…
-236	message	Eyes of a cormorant, eyes of a hawk — Reki's eyes.\nNow, let's move out.
+236	message	Eyes of a cormorant, eyes of a hawk - Reki's eyes.\nNow, let's move out.
 237	message	Huh?
 238	message	Huh.
 239	message	Look, coming all the way to declare war\nmeans she wants us to join in!
@@ -230,15 +230,15 @@ row	column	english
 251	message	If Houki-san says that much,\nwe have no choice but to give up.
 252	message	What do you mean by that!?
 253	message	You finally understand, Houki-chan!
-254	message	I didn't say I want to cling!\nStop! Don't come! Don't cling to me—!
+254	message	I didn't say I want to cling!\nStop! Don't come! Don't cling to me-!
 255	message	This is so us.
-256	message	Combining wisdom and strength to break through trouble —\nthat's fine, isn't it.
+256	message	Combining wisdom and strength to break through trouble -\nthat's fine, isn't it.
 257	message	That's right, [MERU]-chan!\nLet's do our best together!
 258	message	[NOEL]-chan!\nIf we all go,\nour courage is 100 times, you know~!
-259	message	Uu, thank you everyone—!\nI'll do my very best, desu~!!
+259	message	Uu, thank you everyone-!\nI'll do my very best, desu~!!
 260	message	Then I'll borrow everyone's strength?\nThat's okay, right!
 261	message	All right, it's like usual now!\nThen…
-262	message	Dejiko and her merry friends, sortie, nyo—!!
+262	message	Dejiko and her merry friends, sortie, nyo-!!
 266	message	You ruined it!!
 268	message	This should be the right time and place, desu~…
 269	message	Teacher hasn't come yet?
@@ -249,7 +249,7 @@ row	column	english
 276	message	Shikigami, puppets, alchemy… soulless soldiers.\nIt'll be a somewhat fun party, won't it?
 277	message	Mere fakes!\nYou think those things will be useful!?
 278	message	Try playing with them. You won't be bored.
-279	message	I deliberately dragged you in\nto break you so thoroughly, along with my disciple,\nthat you'll spend a quiet retirement at home — that's what it means.
+279	message	I deliberately dragged you in\nto break you so thoroughly, along with my disciple,\nthat you'll spend a quiet retirement at home - that's what it means.
 280	message	You're demanding we disband!?
 281	message	Or die.
 282	message	You're saying let Mie and Kei rule us!?
@@ -270,7 +270,7 @@ row	column	english
 299	message	Now, huh…
 301	message	So this is your present…
 302	message	I don't\nintend to lose, desu~!\nSo I'll win together with everyone, desu~!!
-303	message	With everyone, fighting together —\nthat's everything I've got!!
+303	message	With everyone, fighting together -\nthat's everything I've got!!
 304	message	…
 306	message	Your true strength is bottomless… but!\nI'll show you who Kazenari Tsubasa is with this sword!
 307	message	Don't be tense. Tension gets read by the opponent.
@@ -288,7 +288,7 @@ row	column	english
 322	message	I thought it'd last a bit longer,\nbut it seems it exceeded my calculations.
 324	message	Well then. Let's go with about this much next.
 325	message	Eve!? Was the one we just beat a fake!
-326	message	Not a fake — it was me you fought.\nYou just couldn't beat me, that's all.
+326	message	Not a fake - it was me you fought.\nYou just couldn't beat me, that's all.
 327	message	What does that mean?\nIt's like dream power…!
 328	message	Sorry, but I can't reveal the trick.\nIt's too complex for anyone but me to understand.\nIf I had to say…
 329	message	Magical archaeology.
@@ -299,7 +299,7 @@ row	column	english
 335	message	I expected you'd get this far.\nNow, what to do.
 337	message	Again!
 338	message	Holding back, huh?
-339	message	Which is happier, more interesting —\npressing a button that destroys the world in an instant,\nor humans killing each other with weapons? What do you think?
+339	message	Which is happier, more interesting -\npressing a button that destroys the world in an instant,\nor humans killing each other with weapons? What do you think?
 340	message	You're researching even that!?
 341	message	Archaeology and history are inseparable.
 342	message	More importantly, round three begins.
@@ -320,7 +320,7 @@ row	column	english
 359	message	Mie!!
 360	message	//
 361	message	Did you enjoy it?
-362	message	It was great! Going pale with shock,\nhearts starting to break —\nso exciting!
+362	message	It was great! Going pale with shock,\nhearts starting to break -\nso exciting!
 363	message	You really get it!
 364	message	I see. Look forward to the next one too.
 366	message	Teacher!!
@@ -332,7 +332,7 @@ row	column	english
 374	message	Uah!?
 375	message	How's that?\nFewer and fewer fighters remain!\nIsn't it fuuun?
 377	message	Tch…!
-378	message	Especially Re-mu — Re-mu's power\nseems kinda cheat-y.\nAnd Kei-chan's annoying.
+378	message	Especially Re-mu - Re-mu's power\nseems kinda cheat-y.\nAnd Kei-chan's annoying.
 379	message	I won't lose to this much!
 380	message	Silence.
 382	message	Kyaaaaaaaaaaah!!

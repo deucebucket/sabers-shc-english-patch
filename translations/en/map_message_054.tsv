@@ -40,13 +40,13 @@ row	column	english
 43	message	Whether I can call this a place I should return to,\nI can't say.\nBut... it's true that I feel that way.
 44	message	I got sent flying on my first day after transferring,\nso nothing feels familiar yet.\nBut I kinda get what Houki means.
 45	message	I see...
-46	message	What are you talking about?\nSleeping in your own bed—\nthere's nothing more wonderful!
+46	message	What are you talking about?\nSleeping in your own bed-\nthere's nothing more wonderful!
 47	message	Well, you do\ncarry your favorite pillow around with you.
 48	message	Perhaps happiness is when such little things\naren't special,\nbut simply everyday.
 49	message	The pilot is part of the IS too.\nWe need to rest up properly, not just maintain our IS units,\nto prepare for what's next.
 50	message	Medical check before you relax.\nHand your IS over to maintenance, then head to the infirmary.
 51	message	Oh right.\nThe medical check is like,\na full physical, right?
-52	message	Wha— no way!?\nI can't sleep in my own bed tonight!?
+52	message	Wha- no way!?\nI can't sleep in my own bed tonight!?
 53	message	According to the schedule, that's right.
 54	message	Nooo! How dreadful!
 55	message	You all go on ahead.\nI'll hand the Akatsubaki over to my sister.
@@ -58,7 +58,7 @@ row	column	english
 61	message	Resting sounds nice,\nbut it also feels a little wasteful.
 62	message	Wanna train? Hiyah!
 63	message	At your pace\neveryone'll be worn out!
-64	message	Wanna go out somewhere?\nThings have been tense lately—\nI could use a change of pace!
+64	message	Wanna go out somewhere?\nThings have been tense lately-\nI could use a change of pace!
 65	message	Really, I'm mentally exhausted.
 66	message	(I feel like Usada-chan hasn't changed a bit,\nanytime or anywhere...)
 67	message	I'd like to go shopping.\nIt's a good chance to restock\nfood and daily necessities.
@@ -76,7 +76,7 @@ row	column	english
 79	message	No need to hold back.\nIsn't there something you'd like to try?
 80	message	W-well, there is... is it okay to say it...?
 81	message	What is it? Tell us!
-82	message	Wanting to meditate under a waterfall,\nor go exorcise a haunted spot—\nnone of that, okay!
+82	message	Wanting to meditate under a waterfall,\nor go exorcise a haunted spot-\nnone of that, okay!
 83	message	No!\nI, um, want to try a crepe... I said it!?
 84	message	You wanna try a crepe?\nYou've suddenly let loose!?
 85	message	Hauuuuu!! Crepes are great!\nThey're tasty! Right, right!
@@ -91,20 +91,20 @@ row	column	english
 94	message	Ahaha!\nAoi-chan loves spicy stuff, after all!
 95	message	...Wait, Houki-chan? What's wrong!?
 96	message	What about your medical check?
-97	message	The thing is, my sister said she didn't want to leave it to the academy—\nshe'd do it herself...\nI begged off and ran away.
+97	message	The thing is, my sister said she didn't want to leave it to the academy-\nshe'd do it herself...\nI begged off and ran away.
 98	message	Is that all right?
 99	message	My sister's a mad scientist.\nUnder the guise of a medical check,\nthere's no telling what she'd do to me!
 100	message	Surely she wouldn't go that far?\nTo her own little sister...
 101	message	If she were the kind of sister\nI could believe that about, I wouldn't be this afraid.
 102	message	...
 103	message	Well, you're obviously healthy,\nso who needs a check anyway!
-104	message	True, Houki trains every morning at the crack of dawn—\nshe doesn't even have time to get unhealthy.
+104	message	True, Houki trains every morning at the crack of dawn-\nshe doesn't even have time to get unhealthy.
 105	message	More importantly, you're going out to have fun, right?\nBetter to have someone\nwho can guide you around.
 106	message	That would help.\nI still don't really know\nwhich shops sell what.
 107	message	Of course, of course.\nThen let's head\nsomewhere we can shop, shall we.
 108	message	Hmm, I wonder\nwhen you became such a thoughtful person.
 109	message	Don't be rude!\nI know at least that much!
-110	message	Enough fooling around—\nlet's head out.
+110	message	Enough fooling around-\nlet's head out.
 111	message	Satoko's right. Let's move out!
 112	message	I'm looking forward to it, mii! Nipah~!
 113	message	//Screen fades to black.
@@ -147,7 +147,7 @@ row	column	english
 151	message	//Event CG: Shirayuki readying her kusarigama (reuse if possible).
 152	message	Shirayuki?
 153	message	Let go of Rika-chan's hand!\nIf you're really Houki-san, you can do that, right?
-154	message	Stop joking around!\nThe Akatsubaki is in maintenance—I can't use it!
+154	message	Stop joking around!\nThe Akatsubaki is in maintenance-I can't use it!
 155	message	I see... that's why you chose now\nto impersonate Houki-san.\nBecause nobody would suspect you even if you can't deploy an IS!
 156	message	Mii!
 157	message	//Event CG off.
@@ -244,7 +244,7 @@ row	column	english
 249	message	I... no, we Hoshitogi shrine maidens have inherited\nthe founder's power and name\nacross nearly 2000 long years.
 250	message	"Shirayuki" is a cover name to hide my true name.\nMy imina... my real name is...
 251	message	Himiko.
-252	message	//An effect of Shirayuki turning red, or something—if that's too hard, don't worry about it.
+252	message	//An effect of Shirayuki turning red, or something-if that's too hard, don't worry about it.
 253	message	Flames!? Flames on the blade!?
 254	message	Jeanne, that sword of yours... I'll cut it down!
 255	message	//Would it look unnatural in the art\nto use the battle skill Hihi no Hotogigami here? If so, let's not use it.
@@ -258,7 +258,7 @@ row	column	english
 267	message	I won't resist.
 268	message	Perhaps I underestimated\nHoshitogi Shirayuki until the very end.
 269	message	Butei Law Article 9: a Butei cannot kill.\nThat's why Shirayuki couldn't\ndeal me a fatal blow.
-270	message	I fought with the resolve to never admit defeat, even if killed—\nI couldn't possibly lose to someone with no killing intent.\nAnd yet it ended like this.
+270	message	I fought with the resolve to never admit defeat, even if killed-\nI couldn't possibly lose to someone with no killing intent.\nAnd yet it ended like this.
 271	message	Haa, haa, haa...
 272	message	//Shirayuki collapses (sound effect).
 273	message	Shirayuki-san! Are you all right!
@@ -272,7 +272,7 @@ row	column	english
 281	message	Shirayuki's fast asleep,\nso I'll explain in her place.
 282	message	//Event CG: Dark Rika speaks.
 284	message	Listen, 30th-generation Jeanne d'Arc.
-285	message	You have passed through 30 generations\nover 600 years... and for one-sixth of that—100 years—\nI have repeated death, remaining myself. Do you believe me?
+285	message	You have passed through 30 generations\nover 600 years... and for one-sixth of that-100 years-\nI have repeated death, remaining myself. Do you believe me?
 287	message	What do you mean...?
 288	message	You must know a little\nabout Hinamizawa.\nThe loop is triggered by my death.
 289	message	What did you say...!?
@@ -302,7 +302,7 @@ row	column	english
 313	message	The Akatsubaki's issues still aren't resolved?
 314	message	Yeah, there's apparently no fixing\nthe poor energy efficiency for now.
 315	message	The price of high performance, I guess.
-316	message	For now we'll have to manage as-is.\nWhat of it—I just need to handle it well myself!
+316	message	For now we'll have to manage as-is.\nWhat of it-I just need to handle it well myself!
 317	message	That's the most suspicious part...
 318	message	Don't say it! ...Come to think of it, where's Cecilia?
 319	message	Look, over there.

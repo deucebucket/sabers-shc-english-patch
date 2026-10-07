@@ -12,7 +12,7 @@ row	column	english
 13	message	Hm? What's wrong?
 14	message	Um, how about I find a passerby\nand go ask them a few things?
 15	message	Huh, really?
-16	message	It might be my fault we're here—\nI said something weird, after all.\nAnd being totally useless on top of that... y'know.
+16	message	It might be my fault we're here-\nI said something weird, after all.\nAnd being totally useless on top of that... y'know.
 17	message	Besides, talking to people\nisn't exactly my weak point.
 21	message	Huh?
 23	message	Ah... yeah, I figured no one\nsees me that way at all...
@@ -47,21 +47,21 @@ row	column	english
 55	message	U-um... apparently this skateboard\nhas a bomb planted in it.\nIf I get off or slow down, it explodes...
 56	message	Copy... I'm getting you outta this!
 57	message	Huh!? She's charging straight at me???
-58	message	Butei Charter, Article 1!\n'Trust your comrades, aid your comrades'—\nHere I come!
+58	message	Butei Charter, Article 1!\n'Trust your comrades, aid your comrades'-\nHere I come!
 59	message	Grab on!!
 60	message	//SE: rapid gunfire, then an explosion. Screen flashes white,\nthen fades to black.\n//Event art off.
 63	message	Ugh, what happened...?\nI remember a girl diving down from the sky...
 64	message	We took the blast wave mid-air\nand got blown all the way here, that's what.
 65	message	That's insane...
 66	message	You're alive, right?\nI bet you're hurting all over, but tough it out.
-67	message	Ngh? Owowow... my arms, my legs, my face—everything hurts!
+67	message	Ngh? Owowow... my arms, my legs, my face-everything hurts!
 68	message	Quiet! Think about the situation a little!
 69	message	S-sorry,\nKanzaki H. Aria-san...
 70	message	...Hmph, so you've got enough composure\nto read my name tag, huh.
 71	message	Um, why are you wearing a name tag?
 72	message	It's the opening ceremony today, duh.\nIf you're a new Butei High student,\nyou should know that much!
 73	message	Huh? I... um...
-74	message	Forget that—look,\nwe're surrounded by enemies...!
+74	message	Forget that-look,\nwe're surrounded by enemies...!
 75	message	Huh...?
 76	message	//A swarm of Noise surrounds the building\nwhere Aria and Claude are.
 77	message	...!
@@ -70,22 +70,22 @@ row	column	english
 80	message	You know what those things are?
 81	message	Y-yes. You see, those are...
 82	message	//Fade to black: time passes.\n//Battle map: around the school.
-83	message	...Singing, transforming—\nit all sounds like a joke.\nBut you've got no reason to lie, huh.
+83	message	...Singing, transforming-\nit all sounds like a joke.\nBut you've got no reason to lie, huh.
 84	message	You believe me?
 85	message	So, where's this Hibiki girl\nwho can beat the Noise?
 86	message	Well, I got lost,\nand thanks to that skateboard\nI have no idea where I am...
 87	message	Got it. I'm going.
 88	message	Huh?
-89	message	I'll break through the encirclement.\nAfter that, yell or do whatever it takes—\nI'll find that Hibiki girl no matter what.
+89	message	I'll break through the encirclement.\nAfter that, yell or do whatever it takes-\nI'll find that Hibiki girl no matter what.
 90	message	Until then, you hide.
 91	message	...
-92	message	No—I'll be the decoy and jump out.\nWhile they're distracted, Aria-san,\nyou break through the encirclement.
+92	message	No-I'll be the decoy and jump out.\nWhile they're distracted, Aria-san,\nyou break through the encirclement.
 93	message	Huh? Do you even hear yourself?\nYou're unarmed!
 94	message	That's exactly why I'll be the decoy.\nIf you went out, Aria-san,\nI couldn't cover you at all...
 95	message	Well... that's true.
 96	message	I have fought the Noise before,\nso maybe I can\nkeep running for a little while...
 97	message	...
-98	message	I-I don't wanna die either, y'know!\nHiding here, getting found,\nand tortured to death—no thanks...
+98	message	I-I don't wanna die either, y'know!\nHiding here, getting found,\nand tortured to death-no thanks...
 99	message	Fine. We'll go with your plan.\nNow, go!!
 100	message	Huh, right now!? Waaah!?
 101	message	//Claude moves forward.
@@ -107,7 +107,7 @@ row	column	english
 122	message	//The transformed Hibiki appears on the map.
 123	message	[CLAUDE]-san!\nYou were taking so long I came to get you!
 124	message	Hibiki-san!
-125	message	Girl over there! Can you hear my song?\nIf you can hear it—fight!
+125	message	Girl over there! Can you hear my song?\nIf you can hear it-fight!
 126	message	This is the song that protects us, right?\nEither way, in this situation, I'll believe!
 127	message	Thank you!
 128	message	Counterattack, start! I'll blow a huge hole in 'em!
@@ -170,7 +170,7 @@ row	column	english
 186	message	I haven't completely believed\nyour story either, but...
 187	message	It's hard to be believed without proof, isn't it.\nBy the way, may I ask\nsome questions of my own?
 188	message	Of course.
-189	message	I heard that here you can hire help\nfor investigations and solving cases—\nis that true?
+189	message	I heard that here you can hire help\nfor investigations and solving cases-\nis that true?
 190	message	Yes. A Butei is an armed detective\nlicensed to use force against violent crime,\nwho takes contracts from civilians to investigate cases.
 191	message	Hm, same as a normal detective in that respect.
 192	message	If every Butei High student is a Butei,\ndoes everyone carry weapons?
@@ -188,11 +188,11 @@ row	column	english
 204	message	You'd die doing that on a battlefield.
 205	message	//Event art off.
 206	message	Huh!? No good!?\nBut it's the coolest martial art in the world,\ntaught to me by my master...
-207	message	I see—so your skills are the real deal.
+207	message	I see-so your skills are the real deal.
 208	message	By the way, contracting a Butei\nrequires payment.\nThis ain't charity~.
 209	message	Well, if they're armed and\ntake on life-or-death jobs, that's only natural.
 210	message	So, what is it you'd like our help with?
-211	message	Let's see... first I need to confirm\nwhether people suddenly vanishing from this world—\nlike mysterious disappearances—has been happening.
+211	message	Let's see... first I need to confirm\nwhether people suddenly vanishing from this world-\nlike mysterious disappearances-has been happening.
 212	message	Mysterious disappearances?
 213	message	This actually happened in our world.\nLike I said earlier, we came here\nfrom a different world.
 214	message	I got thrown into Remu-san's world,\nand then thrown here from there!
@@ -206,7 +206,7 @@ row	column	english
 222	message	Butei Charter, Article 9! Take flight across the world.\nRegardless of race or nationality, fight as one!
 223	message	In other words, anyone from anywhere\ncan contract a Butei!\nVui!
 224	message	I wonder if the contract fee could be paid later?\nI don't exactly have\nthis world's currency on hand.
-225	message	Regarding that—\non the condition that you stay at Butei High,\nwe'll guarantee your living expenses for the time being.
+225	message	Regarding that-\non the condition that you stay at Butei High,\nwe'll guarantee your living expenses for the time being.
 226	message	Really!?
 227	message	Butei Charter, Article 3! A Butei must be strong.\nBut before that, be righteous.\nA Butei is an ally of justice, see!
 228	message	In exchange, we will be\nkeeping an eye on your movements.
@@ -231,7 +231,7 @@ row	column	english
 247	message	Then Aria's gotta do it, right?\nDecided!!
 248	message	Including me, the other students\nall have classes...
 249	message	...Fine.\nI'll do it, all right, I'll do it!
-250	message	But if I see even a hint of anything suspicious,\nI'll ventilate you—be ready for that!
+250	message	But if I see even a hint of anything suspicious,\nI'll ventilate you-be ready for that!
 251	message	Y-you wouldn't shoot at school... right?
 252	message	Shooting outside the range is\n'not to be done more than necessary,' that's the rule.
 253	message	'Not more than necessary'... so\nit's fine to shoot if it's necessary!?
@@ -242,7 +242,7 @@ row	column	english
 258	message	No, it's a normal classroom?
 259	message	You startled me~...
 260	message	But you'd best not get any funny ideas,\nfor your own sake, 'kay?
-261	message	They call her Quadra—Aria of the twin blades and twin guns!\nThe strongest S-rank Butei\nin the all-combat Assault division, y'know?
+261	message	They call her Quadra-Aria of the twin blades and twin guns!\nThe strongest S-rank Butei\nin the all-combat Assault division, y'know?
 262	message	Is S-rank amazing~?
 263	message	Aria's caught criminals\n99 times in a row.\nYou'll never get away☆
 264	message	...Be ready, got it?

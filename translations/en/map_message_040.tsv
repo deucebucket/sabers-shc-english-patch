@@ -28,13 +28,13 @@ row	column	english
 29	message	They can't tell, nyo?\nQuack doctors, nyo!
 30	message	Non non!\nOf course that doctor couldn't tell.\nHere's the thing.
 31	message	What do you mean?
-32	message	Judging from Boin-chan's condition,\nthat's an endemic disease from my world—\ncalled Tennetsu disease.
+32	message	Judging from Boin-chan's condition,\nthat's an endemic disease from my world-\ncalled Tennetsu disease.
 33	message	Tennetsu disease?
-34	message	Yes—the fever climbs without limit\nuntil you start hallucinating angels.\nA terrifying disease.
+34	message	Yes-the fever climbs without limit\nuntil you start hallucinating angels.\nA terrifying disease.
 35	message	That can be cured, right?
 36	message	Left as-is, no~.\nIt's an incurable disease, after all.
 37	message	Whaaat!? No way!!
-38	message	Just kidding—total lie.\nBut until a miracle cure was found,\nit really was incurable.
+38	message	Just kidding-total lie.\nBut until a miracle cure was found,\nit really was incurable.
 39	message	Eve! Please stop joking\nat a time like this!
 40	message	Sowwy sowwy!\nWe know a medicinal herb called\n'Dark Stardust' works now,\nso it's not that dangerous.
 41	message	That herb can cure her!\nWhere is it!
@@ -144,7 +144,7 @@ row	column	english
 146	message	This cramped space makes it hard to fight!
 147	message	And the exit's blocked…
 148	message	Even if I take point,\nI can't block them all…!
-149	message	Good good, nice faces, everyone!\nThat's the look of a group caught in a trap.\nNow then—surround and annihilate, all at once!
+149	message	Good good, nice faces, everyone!\nThat's the look of a group caught in a trap.\nNow then-surround and annihilate, all at once!
 150	message	Mii, this is bad…
 151	message	Goo! Monster armiiiies!
 152	message	// SE: huge explosion\n// Screen shakes as Kurumi blows up the entrance.
@@ -174,7 +174,7 @@ row	column	english
 176	message	Heh-heh, the tables have turned!\nTime for our big counterattack!
 177	message	// Battle resumes\n// Event triggers when Riko and Kurumi engage
 178	message	Just go down already!
-179	message	A bomb-using thief—\nthat's overlapping with me, y'know.\nSorry, but could you change your character?
+179	message	A bomb-using thief-\nthat's overlapping with me, y'know.\nSorry, but could you change your character?
 180	message	There! A phantom thief and a common thief\nare totally different! I'm way cuter, too♪
 181	message	I've got the sex appeal advantage!
 182	message	Shut up! Give me a year\nand I'll surpass you!
@@ -199,8 +199,8 @@ row	column	english
 201	message	Honestly! Aoi's in danger\nand Haruka's totally useless!
 202	message	Sorry, Kurumi…
 203	message	Haruka, this girl's the White Angel's…?
-204	message	I'll introduce myself.\nI'm Kurumi Hazuki—the Heaven's Messenger\nwho summons White Angel!
-205	message	As a Heaven's Messenger I'm not just green but half-boiled—\nno, I came all this way to babysit\ndumb raw-egg Haruka.
+204	message	I'll introduce myself.\nI'm Kurumi Hazuki-the Heaven's Messenger\nwho summons White Angel!
+205	message	As a Heaven's Messenger I'm not just green but half-boiled-\nno, I came all this way to babysit\ndumb raw-egg Haruka.
 206	message	By the way, Kurumi, how did you get\nto this world?
 207	message	It's a real mystery.
 208	message	Honestly, can't anyone figure out\nsomething that obvious?
@@ -259,7 +259,7 @@ row	column	english
 261	message	…Aoi… I'm sorry…\nI couldn't do anything…!
 262	message	(Haruka…)
 263	message	// Fade to black\n// Background: black
-264	message	—Aoi's hospital room
+264	message	-Aoi's hospital room
 265	message	Aoi… I'm sorry, I…!
 266	message	Hey, what is this!?\nGrass… on top of Aoi?
 267	message	Huh? This grass, I've seen it somewhere…?
@@ -270,11 +270,11 @@ row	column	english
 275	message	// Fade to black\n// Background: inside Gamers
 276	message	I'm fully recovered.\nSorry for all the trouble, everyone.
 277	message	Thank goodness…\nFor a while I didn't know\nwhat would happen…
-278	message	Really! Not only couldn't you pick the herb,\nyou nearly got buried under the cave—\nI thought I was done for!
+278	message	Really! Not only couldn't you pick the herb,\nyou nearly got buried under the cave-\nI thought I was done for!
 279	message	Kurumi, you don't have to go that far…
 280	message	This is me going easy!\nHaruka has zeero of the judgment and skill\na Heaven's Messenger needs!
 281	message	Ugh… this reminds me of myself\nwhen I first became a Symphogear wielder…
-282	message	I said some pretty harsh things to Tachibana too.\nBut I don't think that attitude was right—\nI regret it now, honestly.
+282	message	I said some pretty harsh things to Tachibana too.\nBut I don't think that attitude was right-\nI regret it now, honestly.
 283	message	I don't know about you two, but\nit's a fact that Haruka lacks awareness\nand is way too clumsy!
 284	message	Yes…
 285	message	Kurumi, you don't have to be so hard on her.\nHaruka is doing her duty properly.
@@ -290,7 +290,7 @@ row	column	english
 295	message	You can't have anything without life.
 296	message	Rika's right. You can't get a life back,\nbut with effort you can get things back.
 297	message	Right! Aoi getting better\nis way more important!
-298	message	Exactly! We just take back\nwhat was stolen. That's my— a phantom thief's job!
+298	message	Exactly! We just take back\nwhat was stolen. That's my- a phantom thief's job!
 299	message	(Hazuki understands the weight of life\nfar better than I once did… admirable,\nfor one so young… no, perhaps because\nshe is so young.)
 300	message	(Still, who on earth did this?)
 301	message	// Fade to black\n// Background: Akihabara

@@ -3,18 +3,18 @@ row	column	english
 4	message	Where is he? Is he hiding?
 5	message	I don't sense anything like that, but who knows?
 6	message	(He should've had plenty of chances to attack us.\nBut he never made a move...?)
-7	message	Where is this place?\nDoctor Death said something about "that hideout" —\ncould this be it?
+7	message	Where is this place?\nDoctor Death said something about "that hideout" -\ncould this be it?
 8	message	Doesn't feel like it, though.
 9	message	Looks like there's nothin' here at all, though?
 10	message	//SE: higurashi cicadas crying
-11	message	Is that the cry of the higurashi...?\nEarly summer in Japan — June, I wonder.
+11	message	Is that the cry of the higurashi...?\nEarly summer in Japan - June, I wonder.
 12	message	For now, let's head out to the main road.
 13	message	//BG: Hinamizawa (day)
 14	message	Whoa, talk about the boonies!
 15	message	Mmm, delicious.\nYou can really tell the air itself has flavor.
 16	message	Doctor Death's hideout is in a place like this?\nKinda hard to believe.
-17	message	A mysterious figure in a secluded Western-style mansion —\nthat's a classic setup.
-18	message	Doesn't even look like there's a mansion here!\nLike, "Doctor Death is hiding in that watermill" —\nthat's a joke, right?!
+17	message	A mysterious figure in a secluded Western-style mansion -\nthat's a classic setup.
+18	message	Doesn't even look like there's a mansion here!\nLike, "Doctor Death is hiding in that watermill" -\nthat's a joke, right?!
 19	message	But Doctor Death definitely came here.\nHe's gotta be somewhere.
 20	message	True. First we need to gather\ninformation about this land.
 21	message	There's a place name on the sign.\nLet's see... Hi-na-mi-za-wa?
@@ -22,7 +22,7 @@ row	column	english
 24	message	//Event CG: first meeting with Rena. A calm, gentle smile
 25	message	Everyone's wearing weird clothes...\nYou're not from Hinamizawa, right?\nTraveling, kana? Kana?
 26	message	Yes, we just arrived.\nAre you from this village?
-27	message	Yes. I'm Rena — Ryugu Rena.
+27	message	Yes. I'm Rena - Ryugu Rena.
 28	message	Hey, got a sec?
 29	message	Yes?
 30	message	Has anything weird happened in this village lately?\nLike seeing a strange person.
@@ -46,7 +46,7 @@ row	column	english
 50	message	They said they're here traveling.\nPretty unusual, right?
 51	message	Haha, yeah.\nI mean, there's nothing here at all.
 52	message	You seem easier to talk to than her.\nI want to ask about this land?
-53	message	Then, in Rena's place,\nI'll talk — Sonozaki Mion.\nYou wanna hear about tourist spots and stuff?
+53	message	Then, in Rena's place,\nI'll talk - Sonozaki Mion.\nYou wanna hear about tourist spots and stuff?
 54	message	Um, well, kinda...
 55	message	Huh? You came to see\ntomorrow's Watanagashi, right?
 56	message	Watanagashi?
@@ -121,7 +121,7 @@ row	column	english
 128	message	There's a library in a place called Okinomiya,\nand I was able to research there.
 129	message	What I learned is,\nin Hinamizawa village there was a past\nwhere residents rose up against the dam construction.
 130	message	I saw that in the old magazine\nI read at the garbage dump.\nIs it true there was a murder at the construction site?
-131	message	Yes, one of the culprits is still at large.\nAnd not only that — incidents related to the dam construction\nseem to still be going on.
+131	message	Yes, one of the culprits is still at large.\nAnd not only that - incidents related to the dam construction\nseem to still be going on.
 132	message	Aria-chan, was "Onikakushi"\nmentioned in that magazine article?
 133	message	"Onikakushi"? No, I didn't see it.
 134	message	"Onikakushi" is an incident where, every year at a certain time,\none person dies in Hinamizawa village,\nand another person disappears.
@@ -186,7 +186,7 @@ row	column	english
 194	message	When everyone floats it down the river together, it's so pretty.
 195	message	I'm looking forward to that.
 196	message	(Weird... Is this really the atmosphere of a festival\nwhere murders have happened three years running?\nI don't sense that at all...)
-197	message	(Not just Rena and Mion —\nwhy can't I feel any fear or tension\nfrom the people around, either...?)
+197	message	(Not just Rena and Mion -\nwhy can't I feel any fear or tension\nfrom the people around, either...?)
 198	message	(The library records even document\nthe "Onikakushi" incidents... yet this air of\nnot caring at all is scary in reverse...)
 199	message	(It's like everyone here\nis trying to trick and trap me.\nBut is that even possible?)
 200	message	(Doctor Death... if it were him...?\nCould he pull off mass hypnosis?\nFor that, a backwater village like this...!?)
@@ -243,7 +243,7 @@ row	column	english
 258	message	Rena! Don't come any closer to me!
 259	message	Why not, kana? Kana?\nWe were watching the festival together just now.
 260	message	Did I do something wrong, Rena?\nYou lied, Aria-chan, but\nI'll forgive you, okay?
-261	message	But just one thing —\nI want you to answer my next question properly.
+261	message	But just one thing -\nI want you to answer my next question properly.
 262	message	H-huh...?
 263	message	What is... that, kana? Kana?
 264	message	//Small fry appears behind Aria

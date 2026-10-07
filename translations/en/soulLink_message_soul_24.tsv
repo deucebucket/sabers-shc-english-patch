@@ -1,7 +1,7 @@
 row	column	english
 3	message	Huh, who's that over there...
 6	message	Listen.\nWe can't afford\nto fail this mission.
-7	message	Yeah. This mission —\nthe secret gets protected at all costs...
+7	message	Yeah. This mission -\nthe secret gets protected at all costs...
 8	message	And if we fail...
 9	message	We'll just have to silence them... ufufu.
 12	message	(Ghk... silencing, desuu!?\nThis is serious, desuu~!)
@@ -9,7 +9,7 @@ row	column	english
 14	message	Sh-Shion-san!?
 15	message	? Why are you so flustered?
 16	message	Shion-san, n-no, desuu!!\nIt's dangerous here, desuu!\nRun away, desuu!!
-17	message	Oh?\nToo bad — looks like we've been found out.
+17	message	Oh?\nToo bad - looks like we've been found out.
 18	message	Well well,\nshall we do a little riko-riko~...?
 19	message	Now that you know the secret...
 20	message	Can't let you go home alive...
@@ -17,7 +17,7 @@ row	column	english
 23	message	W-wait! Shion!!
 24	message	Sorry,\nbut nobody waits just because they're told to, sis.
 25	message	R-run, desuu... Shion-san!?
-28	message	Shut up! You — sleep.
+28	message	Shut up! You - sleep.
 29	message	Kyuuuuh!
 32	message	Ufufu,\nlooks like nobody saw us after all.
 33	message	Whether we were seen doesn't matter.

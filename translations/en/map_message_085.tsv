@@ -52,7 +52,7 @@ row	column	english
 62	message	By any means necessary,\nthe awakening must be stopped.
 63	message	At first, I thought I didn't have to believe it.\nBut just as Polyal foretold, the worlds connected,\nmingled, lost order, and descended into chaos.
 64	message	Polyal will not say what it is.\nPolyal is tied to the truth of the world,\nand learning it awakens the Goddess of Destruction.
-65	message	What is the truth of the world?\nHow can the end of the world — the tragedy of that child\nbecoming the 'Goddess of Destruction' — be stopped?
+65	message	What is the truth of the world?\nHow can the end of the world - the tragedy of that child\nbecoming the 'Goddess of Destruction' - be stopped?
 66	message	To seek that out and unravel it\nis the mission imposed on me as a researcher.
 68	message	So that's why\nthe teacher suddenly went on that journey.
 69	message	So that's why the teacher\nsuddenly disappeared.
@@ -60,8 +60,8 @@ row	column	english
 71	message	That's the question.
 72	message	Um, the next part says 'Failure'...
 74	message	I thought it through with all the wisdom of magical archaeology\nI know, but I found no way to remove\nthe Goddess of Destruction from that child.
-75	message	Mind-transfer art. An applied art of Magical Magic's\nteleportation — using it, one can\nswap heart and body.
-76	message	What if I swapped [MERU] and [NOEL],\nseparating heart from body — could that erase the Goddess of Destruction?\nI tried it, disguised as coincidence.
+75	message	Mind-transfer art. An applied art of Magical Magic's\nteleportation - using it, one can\nswap heart and body.
+76	message	What if I swapped [MERU] and [NOEL],\nseparating heart from body - could that erase the Goddess of Destruction?\nI tried it, disguised as coincidence.
 77	message	But though the swap succeeded,\nit did not achieve its purpose.
 78	message	According to [NOEL], who entered [MERU],\nshe felt a tremendous crushing darkness\nand couldn't bear it much longer.
 79	message	According to [MERU], who entered [NOEL],\nshe felt a tremendous crushing darkness\nand couldn't bear it much longer.
@@ -91,7 +91,7 @@ row	column	english
 106	message	That was...
 107	message	That was...
 109	message	Multiple signals, looks like IS,\nclosing in!
-110	message	That speed — it's Kei!\nShe's back already!?
+110	message	That speed - it's Kei!\nShe's back already!?
 111	message	Let's move to the forest.\nEasier to fight than open ground!
 112	message	Good idea.
 113	message	We'll send them packing again!
@@ -101,7 +101,7 @@ row	column	english
 119	message	The dangerous one right now is [NOEL]!\nYour priorities are off!
 120	message	Fighting these numbers head-on\nwill only waste time.\nWe'll outrun them!
 121	message	Good.
-122	message	Anyone not confident in their legs —\nprioritize running!
+122	message	Anyone not confident in their legs -\nprioritize running!
 124	message	Movement target area confirmed.\nMobile IS units and Tsubasa, cover them!
 125	message	Leave it to me! No one gets left behind!
 126	message	If it's Kei, we've gotta handle it!
@@ -110,7 +110,7 @@ row	column	english
 129	message	Understood!
 132	message	Symphogear! Eliminate with full force!
 133	message	What's wrong? Where's your usual composure?
-134	message	Recalculating! Once is not enough!\nIf judged dangerous—!
+134	message	Recalculating! Once is not enough!\nIf judged dangerous-!
 135	message	Sorry, but\nwe won't go all-out against you.\nWe've got bigger problems than you.
 136	message	You mean to disrupt my calculations!?
 138	message	Back again? You never learn!
@@ -133,13 +133,13 @@ row	column	english
 161	message	Not here yet.\nLet's tell them to fall back.\nI'll go!
 162	message	I'll get the meal ready.
 163	message	I'll help too!
-164	message	One thing's been bothering me —\ndo Mie and Kei not appear\nin this Dokoka Town?
+164	message	One thing's been bothering me -\ndo Mie and Kei not appear\nin this Dokoka Town?
 165	message	Not once so far.
 166	message	You can't get in without\nsomething called a Dokoka Card, nyo.
 167	message	Even Mie and Kei, who appear anywhere?
 168	message	When it comes to those two's movement ability,\nwouldn't Jeanne know more?
 169	message	The tool called the 'Box'\nthat we used to travel\ncouldn't go anywhere freely.
-170	message	An unlimited version of that\nis Mie and Kei's movement ability —\nI believe it comes from themselves.
+170	message	An unlimited version of that\nis Mie and Kei's movement ability -\nI believe it comes from themselves.
 171	message	They track our location precisely, so\nthey seem connected to Polyal somehow.
 172	message	We'll only get answers\nby asking them directly.
 173	message	...They absolutely can't come here.\nThis town is...
@@ -170,7 +170,7 @@ row	column	english
 201	message	Never despair, no matter what.\nThat's what I've taught those children.
 202	message	I don't intend to give up either.\nI'll search, fight, and survive.
 204	message	That's the end of Eve's notebook.
-205	message	That's really all?\nSo in the end, even Eve had no moves —\nis that all there is to it!?
+205	message	That's really all?\nSo in the end, even Eve had no moves -\nis that all there is to it!?
 206	message	Calm yourself. Our leads aren't zero.\nThere are elements worth thinking over.
 207	message	...Even teaming up with Mie,\nEve wanted to do something\nabout [MERU].
 208	message	...Even teaming up with Mie,\nEve wanted to save\n[NOEL].
@@ -179,8 +179,8 @@ row	column	english
 211	message	Hypothetically, if Kei's attack\nhad hit [NOEL] back then,\nwhat would've happened?
 212	message	If Eve's research was right,\nthe Goddess of Destruction would awaken and...
 213	message	That's weird, right? Right?
-214	message	[MERU]'s fine, yet\nshe awakened — that contradicts Eve's notes.
-215	message	[NOEL]'s fine, yet\nshe awakened — that contradicts Eve's notes.
+214	message	[MERU]'s fine, yet\nshe awakened - that contradicts Eve's notes.
+215	message	[NOEL]'s fine, yet\nshe awakened - that contradicts Eve's notes.
 216	message	I can't think of what caused\nthat discrepancy yet.
 217	message	I can't think of what caused\nthat discrepancy yet.
 218	message	I hope the surveillance team\nactually observing her has found some lead.

@@ -17,7 +17,7 @@ row	column	english
 21	message	After a fight, she stormed out of Dokoka Town,\nand there's been no word since.
 22	message	She's cautious, so unless something really bad happened\nI don't think she'd do anything reckless, but…\nthe way she left was…
 23	message	And there's no way to check if she's safe.\nNo sign she ever stopped by Dokoka Town?
-24	message	That's the mystery. [MERU] never showing up\nin Dokoka Town even once—\ngiven how she's acted before, that's impossible.
+24	message	That's the mystery. [MERU] never showing up\nin Dokoka Town even once-\ngiven how she's acted before, that's impossible.
 25	message	Maybe, in some world…!
 26	message	No use imagining the worst.\nThey say no news is good news, right?
 27	message	Yeah… thanks, Suzu.
@@ -53,13 +53,13 @@ row	column	english
 58	message	I want to hear YOUR story, Houki!\nWhat does 'mastering power' mean?
 59	message	It's a long story, though…
 60	message	//Fade to black\n//Background: plains (day)
-61	message	I steered Hibiki toward Houki—\nwas that okay?
+61	message	I steered Hibiki toward Houki-\nwas that okay?
 62	message	Yes, I think it went well.
 63	message	You really love fussing over Hibiki, huh.
 64	message	That's part of it, but not all.\nTachibana has power… dangerously great power.\nWhat worries me is that she's losing control of it.
 65	message	I heard from Hibiki. She's afraid of her power running wild.\nShe's training to overcome that, right?
-66	message	A Symphogear's power isn't just physical—\nit's also a manifestation of the heart.
-67	message	That's surely not something that can be taught—\nit's something she has to realize herself.
+66	message	A Symphogear's power isn't just physical-\nit's also a manifestation of the heart.
+67	message	That's surely not something that can be taught-\nit's something she has to realize herself.
 68	message	So you figured she could learn something from Houki?
 69	message	To me, those two seem to share\nsimilar problems.\nBy facing each other, they should see something.
 70	message	Like facing mirrors?
@@ -102,7 +102,7 @@ row	column	english
 111	message	That's right! The teacher might be back\nat St. Mont Blanc Academy!!\nWe can finally meet…
 113	message	That's got nothing to do with me.
 114	message	Huh…?
-115	message	Forget that, there's something more important.\nYou and me—let's settle which of us is better.
+115	message	Forget that, there's something more important.\nYou and me-let's settle which of us is better.
 116	message	Wh-what are you saying?\nThe teacher's been found and you call it 'that'!?\nWhat's gotten into you!?
 117	message	So? Something wrong with that?
 118	message	It's all wrong!!\nWhy bring up 'who's better' now,\nwhen we can finally see the teacher!?
@@ -112,7 +112,7 @@ row	column	english
 122	message	Time to end the arguing.\nTaste my Magical Magic!
 123	message	//Battle start\n//Ally reinforcements deploy on turn 2, then enemy reinforcements
 124	message	Huh? Isn't that [NOEL]?
-126	message	Wah~! Long time no see!\nYou look well—that's wonderful!
+126	message	Wah~! Long time no see!\nYou look well-that's wonderful!
 128	message	[NOEL]! We finally met!
 130	message	Are you unhurt, [NOEL]?
 132	message	I heard you'd gone missing,\nbut you're back.
@@ -120,7 +120,7 @@ row	column	english
 136	message	I've got business with [MERU].\n…Move… you're in the way.
 137	message	//Grunt enemies appear
 138	message	This can't… be…?\nNo way, this…!
-139	message	Imagine whatever you like.\nAs long as I settle who's better—\nme or [MERU]—that's enough for me.
+139	message	Imagine whatever you like.\nAs long as I settle who's better-\nme or [MERU]-that's enough for me.
 140	message	[NOEL]!!\nYou're making me mad!!!
 141	message	//Event on defeating [NOEL]
 142	message	How… losing to [MERU] of all people!
@@ -159,8 +159,8 @@ row	column	english
 177	message	Oh, did you know?\nThe teacher might be at St. Mont Blanc Academy!\nWe can finally meet…
 179	message	…I don't care.
 180	message	Hunya…?
-181	message	I came to settle this.\nYou and me—we're deciding who's better.
-182	message	Wh—… why now!?\nForget that, let's go see the teacher together!
+181	message	I came to settle this.\nYou and me-we're deciding who's better.
+182	message	Wh-… why now!?\nForget that, let's go see the teacher together!
 183	message	No!!!
 184	message	What is WITH you!?
 185	message	Do you even hear yourself?\nDo you have a fever or something!?
@@ -217,7 +217,7 @@ row	column	english
 241	message	That just shows how close\nthey've become, don't you think?
 242	message	Power…!
 243	message	Master it!!
-244	message	//SE: sharp sounds of combat\n//Fade to black — time passes
+244	message	//SE: sharp sounds of combat\n//Fade to black - time passes
 245	message	Whew, that nice tired-and-sore feeling!
 246	message	Even with protective gear, to take my strikes\nand still be standing…
 247	message	Aria's brutal training\nwas way more intense!
@@ -239,7 +239,7 @@ row	column	english
 263	message	(Hibiki, what is this?)
 264	message	(I figured something safe for Soniko)
 265	message	I-it's embarrassing…! But if this means\nI can be of use to everyone…!
-266	message	This stance is for intercepting—\na technique to counterattack swiftly when attacked!
+266	message	This stance is for intercepting-\na technique to counterattack swiftly when attacked!
 267	message	Nyaa~n! Shpa, shpapa!
 268	message	And it's cute too!\nPerfect for an idol like Soniko!
 269	message	Toryaa! Nyaa~n!
