@@ -1,0 +1,146 @@
+row	column	english
+3	message	...Mm-mm-mm.
+4	message	This is... not Akihabara...?\nLost after all...? Auu...
+5	message	I have to get back to the shoot\nsoon...\nWhere even IS this...?
+6	message	// Passes by a vending machine
+7	message	H-huh?\nThis vending machine feels kinda... strange...?
+8	message	Mmuuu~?\nStaaare...
+9	message	Ah! I get it—everything's 100 yen!
+10	message	And the cans have such a retro design...\nand there don't seem to be any\nplastic-bottle drinks...?
+11	message	// Approaches a phone booth
+12	message	And there are tons of phone booths!\nAnd they're yellow...
+13	message	That's it!\nOnce more, on my phone—\nI'll call my manager!
+14	message	// Dial tone, but no connection
+15	message	...No signal after all.\nIs there no reception...?
+16	message	What do I do—at this rate,\nI'll cause the staff\nso much trouble...!
+17	message	Ah! Those people over there, could they be...?\nIt's dark so I can't see well...
+18	message	// Sonico spots the group of dream demons and walks toward them, off screen
+20	message	That's st-range~?\nI thought she'd be toward that soft-serve-shaped cloud,\nbut where'd she go?
+21	message	Judging direction by cloud shapes... and besides,\nit's night... you can really see them, huh...
+22	message	She might've been taken in by the police, but...
+23	message	B-but what if she ran into\none of those dream demon things...?
+24	message	Geez! Stop saying ominous stuff~!\nIt'll tank our luck! Hesitation is defeat!\nLet's head toward that star!
+25	message	Stars... well, better than clouds...\nBut splitting up is dangerous too... fine!
+26	message	// Fade to black\n// Background: town at night
+27	message	Ah! Everyone,\ns-sorry I'm late!\nSuper Sonico has returned!
+28	message	...
+29	message	...H-huh?
+30	message	Is this shoot's concept...\nlike this? But I don't see\na cameraman anywhere...
+31	message	...
+32	message	Wawah!\nEveryone, your makeup is SO authentic!
+33	message	...
+34	message	...
+35	message	// Dream demons unresponsive; awkward pause hangs in the air
+36	message	...Ah
+37	message	A-auu...!\nF-for being late, I-I'm\ntruly sorry!
+38	message	I'll go change right away!\nWhere are the costumes...?
+39	message	!!
+41	message	Awawah!?
+42	message	// Event still: lifted into the air by tentacle-like things, clothes nearly coming off
+43	message	Eh!? W-w-w-what...!?\nWh-what's happening...?
+44	message	Ah... c-could this be...!
+45	message	The shoot's already started!
+46	message	The suddenness is\nto capture natural expressions, maybe...\nor the theme is surprise...?
+47	message	But this outfit all of a sudden...!\nIt's work, but still, I'm so embarrassed~!
+48	message	Awawah!\nUu, i-is this pose really okay...
+49	message	Gyaah!?\nIf you pull like that, my—my clothes—ahh~!
+50	message	// Event art off\n// Claude and the others arrive.
+51	message	Tch, bad!\nShe's been caught!
+52	message	Hmm, looks less like 'caught' and more like\n'being toyed with'?
+53	message	Th-th-this is no time to be relaxed~!
+54	message	Really? Turning it around\nfrom a position like that is the fun part!
+55	message	...?\nYou seem to have picked up\nquite the eccentric battle theory.
+56	message	If you don't get it, FEEL it!\nAnyway, that girl's got SOMETHING that charms the audience!
+57	message	An interesting topic, but\nlet's save it for later.
+58	message	If that girl isn't safe, it's all for nothing!
+59	message	Ahaha, true enough!
+60	message	You there! I'll save you now!
+61	message	// Please play Symphogear's battle theme
+63	message	// To battle map
+65	message	Don't move! I'll take it down in one hit!
+66	message	Ah! You're the one from before...
+67	message	B-but, this is a shoot...!
+68	message	We fought those dream demons just now too.\nThey've got nothing to do with your job!
+69	message	Eh! But...
+70	message	Geez, we're saving you for now!\nMy magic'll surprise you!!
+71	message	// Event triggers when the dream demon adjacent to Sonico is defeated
+72	message	Auu... th-that was a rough shoot...
+73	message	U-um... are you SURE\nthe staff didn't\nset this up?
+74	message	If you were shooting,\nthe director would come flying over.
+75	message	Ah! Y-you're right...
+76	message	// Dream demons appear as reinforcements
+77	message	Gyaah! More of their friends!?
+78	message	They've surrounded us!?\nFor a photo shoot, hmm,\nyou wouldn't need this many, right?
+79	message	Y-you're right... then\nwho ARE those people over there...?
+80	message	Talk later.\nSecuring your safety comes first!
+81	message	Yeah! I'll do my best!
+82	message	Then I'll cheer from the back...
+83	message	// After defeating a set number of dream demons, Black Rena appears
+84	message	Hm?\nSomeone's coming?
+85	message	A sailor uniform...?\nIs that girl a civilian too?
+86	message	It's dangerous here!\nEvacuate immediately!
+87	message	...
+88	message	Looks like that was pointless.\nLook at how she's acting!
+89	message	That aura she wears, darker than the night's darkness...\nIs she with that black mobile unit from before?
+90	message	...Crush it...\nmince it fine... I've gotta erase it...
+91	message	What are you saying!?\nWho even are you...?
+92	message	Wooow, she's carrying something dangerous!\nDoesn't look like she'll talk either, so\nfortune comes to... whatchamacallit~.
+93	message	// Battle continues
+96	message	That's awful... and I believed...
+97	message	//
+98	message	Oh dear, she's gone...
+99	message	Her safety comes first right now!\nNo chasing after!
+100	message	Ugh! Unsatisfying, but oh well!
+101	message	// Black Rena vanishes; battle continues\n// Wipe out all enemies to clear
+104	message	Glad we made it in time.\nYou're not hurt?
+105	message	Y-yes!\nThank you\nfor worrying about me...!
+106	message	You, um...
+107	message	Um, I'm\nSuper Sonico!
+108	message	I do part-time work\nas a gravure model,\nand right now I was in the middle of a shoot...
+109	message	Ah! That's right, the shoot location!\nUm, pardon me, but where\nexactly are we...?
+110	message	At the very least, this isn't a shoot location.\nBut there's something I want to ask:\nisn't this town unfamiliar to you?
+111	message	Yes... uu, actually...\nI had a shoot in Akihabara today, but\nI must have taken a wrong turn somewhere...
+112	message	Akihabara? Never heard of that place.\nYou got lost on your way to\nthe shoot location?
+113	message	Huh? Um, well...
+114	message	// Fade to black: time passes
+115	message	...and that's how it went.
+116	message	A bright light during the shoot, huh.\nAnd then your vision went white for a moment...
+117	message	Yes. When I could see again,\nthe staff were\nall gone...
+118	message	So while I was searching all over,\nI ran into all of you!
+119	message	Tsubasa, this girl too, as expected...
+120	message	Yes. Same as us.
+121	message	The same...?\nMe and all of you...?
+122	message	That's right.\nBut you don't need to be scared.
+123	message	Geez! What on earth is even happening!!\nI don't get any of this~!!
+124	message	Isn't some nasty screenwriter just\nwriting whatever they want?
+125	message	A script... Ah!\nSo THAT'S what you meant by 'the same'!\nI understand!
+126	message	Huh...?
+127	message	Huh...?
+128	message	Um, sorry!\nI still haven't gotten a script,\nso I don't even know my role name...
+129	message	W-wait... do NONE of you\nhave scripts...?
+130	message	I think you're misunderstanding something...?
+131	message	Yes, I'm misunderstanding—I'm so sorry!
+132	message	So this job isn't\na photo shoot,\nit's an ACTION MOVIE shoot!
+133	message	The reason there's no cameraman is\nthey're hiding somewhere\nto capture natural expressions...?
+134	message	No, that's not it...\nThe fight just now\nwasn't being filmed, you know?
+135	message	Wawa!? So that was rehearsal...?\nAmazing intensity for a rehearsal!\nUu~! I've got to do my best too!
+136	message	N-no, that's not it...
+137	message	Hey Tsubasa,\nthere's a saying—'ignorance is bliss'—\nso maybe it's fine to leave things as they are?
+138	message	(If I tell her the truth and scare her,\nshe might panic)
+139	message	(I see... maybe so.\nNo need to stir up extra worry, then)
+140	message	Huh... is something wrong, everyone?
+141	message	Ah, yeah. It's fine.\nYou just stay natural like that.
+142	message	Y-yes! Understood!\nAh, but what about my role name...?
+143	message	Super Sonico's fine!\nIt's got impact!
+144	message	My real name, even! This film is\nreally committed to naturalness...
+145	message	Um, in that case,\nI also have the nickname\nNico-chan...
+146	message	That's a bit embarrassing, so\nI'll call you Sonico.
+147	message	Y-yes, understood!\nI'm inexperienced, but\nplease treat me well from now on!
+148	message	...Um, speaking of which, 'the same'\nmeans you all saw that paah,\npikaa flash of light too?
+149	message	(She gets THAT part...)
+150	message	// Light appears
+151	message	Like... this...?
+152	message	Yeah, like—wait!? Not again!?
+153	message	At this timing... this is...!!
+154	message	H-huh? ...GYAAAH~!
+155	message	// END

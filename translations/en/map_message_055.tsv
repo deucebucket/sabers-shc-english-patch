@@ -1,0 +1,241 @@
+row	column	english
+3	message	Uuuhn, it's been so long since I've been back!!
+4	message	Feels a bit like coming home, doesn't it.
+5	message	It really has been a while!\nThat welcome party back then\nwas so much fun...
+6	message	We don't have the luxury\nof enjoying ourselves like last time, though.
+7	message	Yes... you're right.
+8	message	//
+9	message	Tesla, Nine,\nplease explain the situation again.
+10	message	Yes. Kei is after\nthe activation device for the satellite cannon Gustav,\nlocated in the Black Fund headquarters building.
+11	message	Is this Gustav thing\nready to fire right away?
+12	message	No—the Angel's Tear we sent to the Black Trader\nis hidden somewhere, and without it,\nit can't be activated.
+13	message	Good, then we can relax a little.
+14	message	What are you saying!\nIf Kei gets the Angel's Tear,\nit's all over!
+15	message	So, what should we do?
+16	message	About that—we'd like to neutralize Gustav\nby getting the Angel's Tear ourselves,\nif possible.
+17	message	Why not go smash the activation device, nyo?
+18	message	The Black Fund HQ building has a heavy defense system,\nso attacking it\nwould be high-risk.
+19	message	Is that so? With my and Tsubasa-san's destructive power,\none building's no big deal, though?
+20	message	If we stand out, Mii or Kei might show up.\nThen we'd be surrounded by enemies—\nthat could get bad.
+21	message	Then, where is the Angel's Tear?
+22	message	We'll have to investigate that.\nFather—the Black Trader—\nmust have hidden it somewhere.
+23	message	That's... for us to search for...
+24	message	Hold on—doesn't that mean\nthere's nothing for us to do?
+25	message	Exactly.\nI can't agree to this plan!\nIt could still be a trap...
+26	message	No! If we can't get\nthe Angel's Tear,\nthen we'll need your strength!
+27	message	What proof do you have?\nYou think that'll make us believe you?
+28	message	I haven't fully trusted them either.\nBut to avoid the worst-case scenario,\nwe have to do everything we can.
+29	message	Reimu's right.\nKurumi-chan, they've got their shady parts,\nbut don't we have to cooperate for now?
+30	message	...Kurumi-san.\nRight now, doubting them won't solve anything.\nCan't you believe in them?
+31	message	Aoi Onee-sama... all right.\nBut if anything happens,\nI won't hold back...
+32	message	I don't think Tesla-san and Nine-san\nare people who break promises.\nI believe in them.
+33	message	Yeah, me too!\nThey delivered my Poketen, after all!
+34	message	Tefa-san, Minazuki-san...
+35	message	Just so you know, if you betray these kids' trust,\nyou won't get off easy.
+36	message	I'll make you\nwish you were dead.\nBe prepared, okay?
+37	message	Yes, I'll keep that in mind.
+38	message	Preparation... complete.
+39	message	(A tragic maiden is beautiful too, isn't she.\nMakes you want to protect her, doesn't it?)
+40	message	(Can we really trust them...?)
+41	message	(What worth is a man\nwho won't protect beautiful things?\nA man may be that simple.)
+42	message	(Is that really true...)
+43	message	//
+44	message	Nyu? Don't you hear something, nyu?
+45	message	Something's flying this way?\nEveryone! Stay alert!
+46	message	//SE: explosion sound.
+47	message	What was that, nyo!?
+48	message	Haruka-chan, Aoi-chan, Kurumi-chan—\nhurry and go Twin Angel!
+52	message	Yes!
+53	message	//Haruka, Aoi, and Kurumi run offscreen.
+54	message	Tsubasa-san... please!\nWe'll head out to intercept first!
+55	message	Tsubasa-san! Please!!\nWe'll buy time!
+56	message	Yes, I'm counting on you!
+57	message	//Battle map: town (night).\n//Kei and grunts appear.\n//Forced deployment: Meru or Noel, Tsubasa, Tesla, Nine.
+58	message	Arrived at target area.\nScan... no problems.
+59	message	Waaah, it's back again!
+60	message	It's that one!\nIt sniffed us out already!
+61	message	But that may be proof the situation isn't bad.\nIf the Angel's Tear had been stolen,\nthey wouldn't come here...!
+62	message	Still... safe...
+63	message	Guess we're lucky—\nexcept for the part where we have to fight that thing!
+64	message	Fear nothing!\nI, the Sakimori's sword, shall protect this world!
+65	message	//Tsubasa transformation scene.\n//Tsubasa appears on the map.
+66	message	Kei! I'll be your opponent!!
+67	message	//Tesla and Nine also appear.
+68	message	You won't be using Gustav!
+69	message	...Absolutely... stop it.
+70	message	Twin Phantom's hostile intent confirmed.\nBeginning elimination. Simultaneously\nprocessing acquisition of the bearer of nothingness as a task.
+71	message	//Battle begins.\n//Talk event when Tsubasa and Kei clash.
+72	message	A worthy opponent! Come!
+73	message	Relic No. 1, Ame-no-Habakiri.\nActivated by song: phononic gain.\nPossesses unknown energy.
+74	message	However, not a complete relic.\nInvestigation priority: low.
+75	message	The Angel's Tear was a relic too.\nBut trying to compare things of different origins\nis a machine's bad habit!
+76	message	Measuring energy values is valid data.\nComparison is possible.
+77	message	Then take this!\nAll the resolve I've poured into this blade...!
+78	message	//Talk event when Tesla and Kei clash.
+79	message	Did you come to eliminate me and Nacchan?
+80	message	Having contacted the enemy,\npunishment is only natural.\nDo you wish for clemency?
+81	message	That's a bad joke!\nWe could never join hands\nwith those who would destroy our world!
+82	message	Then we shall simply dispose of you.
+83	message	//Talk event when Nine and Kei clash.
+84	message	...Destruction... stop.
+85	message	You have no decision-making authority.
+86	message	...Same to you.
+87	message	...
+88	message	//Event after defeating a set number of grunts.
+90	message	Teacher!
+91	message	Teacher!
+92	message	You no longer have any right to call me teacher.
+93	message	No way!
+94	message	Why not! You're still our teacher!
+95	message	Eve, are you on Kei's side?
+96	message	Hmph. You don't need to know.
+97	message	Warning. Eve, unauthorized combat intervention\nwill be regarded as a hostile act.
+98	message	[MERU] is a traitor.\nI have the right and responsibility to dispose of her.\nI believe we've already discussed this.
+99	message	Ehhh!?\nA traitor... me...?
+100	message	[NOEL] is a traitor.\nI have the right and responsibility to dispose of him.\nI believe we've already discussed this.
+101	message	Whoa, traitor is a bit much!?
+102	message	Mission partially revised.\nOnly the disposal of the target is authorized.
+103	message	(Good...)
+104	message	That works.\nThe rest of you are beneath my notice.
+105	message	That deceitful woman!\nWhat is she thinking!
+106	message	U-um...!\nIsn't something a little strange...!
+107	message	Soniko-san, what's strange?
+108	message	Before, when I was with Eve-san,\n[NOEL]-chan\nattacked us.
+109	message	But why\nwasn't she angry back then...!
+110	message	Before, when I was with Eve-san,\n[MERU]-chan\nattacked us.
+111	message	But why\nwasn't she angry back then...!
+112	message	If you're gonna call someone a traitor,\nthey were way more of a traitor back then!
+113	message	Is she senile or is this a double standard,\nnyu?
+114	message	...You don't need to understand.
+115	message	I can't accept that!
+116	message	That's weird, Teacher!\nYou love solving mysteries!\nSaying we don't need to understand!
+117	message	//Battle resumes.\n//Talk event when Eve clashes with a heroine.
+118	message	If you don't resist, you can die painlessly.
+119	message	Eve's combat actions confirmed.\nClassified as an execution; will tacitly approve.
+120	message	(...Good.)
+121	message	T-teacher...\nwhy are you doing this?
+122	message	Teacher, do you hate me that much?
+123	message	Shut up and die.
+124	message	Uuuu, nooo!
+125	message	Ughu, n-no... I don't wanna!!
+126	message	Since you ignored my orders,\nit's only natural your wishes be ignored.
+127	message	That's\nmore unreasonable than my grandma!
+128	message	Stubborn doesn't even begin to describe it.
+129	message	//Talk event when Eve and Tsubasa clash.
+130	message	Eve, can't you speak the truth?
+131	message	I am speaking the truth.
+132	message	If that is so,\nthen as a Sakimori, I must stop you!
+133	message	I thought as much.
+134	message	//Event when Eve is defeated.
+135	message	Persistent, aren't you.\nIn light of that tenacity, I'll withdraw for now.
+136	message	Please wait!\nWhy do we have to fight!\nAt least tell me the reason!
+137	message	Hold on!\nWhat does Teacher even want!\nThis makes no sense!!
+138	message	...We'll meet again.
+140	message	//Eve vanishes.
+141	message	Unyuu... is she hiding something...?
+142	message	What the heck!? This doesn't sit right with me!!
+143	message	(Strange... she said she'd kill,\nyet withdrew so easily...?)
+144	message	(Perhaps Eve's goal in appearing\nwasn't [MERU]...?)
+145	message	(Perhaps Eve's goal in appearing\nwasn't [NOEL]...?)
+146	message	//Kei is very strong and can't be defeated. Event triggers after dealing set damage or after several turns.
+147	message	She still has room to spare even after all that...!
+148	message	We can't just overpower her.\nWe need another plan...
+149	message	Situation check.\nNo special energy reaction detected.\nMission complete.
+150	message	Huh?
+151	message	Withdrawing from the combat area.
+153	message	//Kei vanishes.
+154	message	She ran? What does that mean?
+155	message	It doesn't seem like she fled.\nShe should still have had plenty of fight left in her.
+156	message	From what I could catch,\nit sounded like she left\nbecause what she wanted wasn't there?
+157	message	Perhaps they came to check\nwhether we have the Angel's Tear?
+158	message	Just to check?
+159	message	...Probably. Kei is also... searching.
+160	message	Huh, so it's hidden well enough\nthat even Kei can't find it right away.\nThis Black Trader's got skills.
+161	message	//End of battle.\n//Background: town at night.
+162	message	With Kei already on the move,\ngetting the Angel's Tear will be tough.
+163	message	Mii might show up too,\nso I think the danger level is high.
+164	message	Nacchan and I will search for the Angel's Tear.\nWe're the closest to the Black Trader,\nafter all...
+165	message	Us running around\nwouldn't accomplish much anyway.
+166	message	Fine, but don't try anything funny.
+167	message	Understood.
+168	message	So, what's the plan\nfor taking back the Angel's Tear?
+169	message	You do have a plan,\ndon't you!?
+170	message	...Right now, all I can say is\nplease give us time.
+171	message	Hah!? Give me a break!\nYou're telling me you stole the Angel's Tear\nwithout ever thinking this could happen!?
+172	message	Kurumi-san, calm down...
+173	message	That's right, Kurumi-chan.\nLet's think about how\nto get the Angel's Tear back.
+174	message	Hmph!
+175	message	Kurumi, don't you have some tool\nfor finding the Angel's Tear, nyo?
+176	message	Something that convenient\ndoesn't just pop out on demand!
+177	message	//
+178	message	Sis...
+179	message	Yes. Anyway,\nwe will find the Angel's Tear.\nPlease give us time! I'm begging you!
+180	message	Hmm, I don't have any better ideas right now.
+181	message	So all we can do is trust\nTesla-chan and Nine-chan and wait.
+182	message	...Hmph!
+183	message	...Then we'll take our leave.\nWe'll definitely find the Angel's Tear and come back.
+184	message	Leave it to us.
+185	message	//Tesla and Nine leave.
+188	message	//Fade to black.\n//Background: town (night), a slightly different spot.
+189	message	Kurumi-chan, why are you so...\nabout Tesla-chan and Nine-chan...
+190	message	...The Amanotsukai's duty is to protect\nthe grail shards. I think my judgment is only natural.
+191	message	That's why I'm saying let's work with Tesla-chan\nand the others to find the Angel's Tear...!
+192	message	They stole it, and now they're all\n"we don't know where it is but we'll look,\nand help us if we fail"!
+193	message	In a crisis where the world might be destroyed,\nI can't just trust the very people who caused this\nand wait for their report!
+194	message	That's... um...
+195	message	Isn't it Twin Angel's duty\nto protect the grail shards\nso things like this don't happen!?
+196	message	I'm sorry, Kurumi-san.\nThis all started because I\nlet the Angel's Tear be stolen from me.
+197	message	It's not Onee-sama's fault!\nI'm not trying to blame\nanyone...
+198	message	Sorry, Kurumi-chan...
+199	message	The Amanotsukai aren't just allies of justice!\nWe protect power strong enough to destroy the world\nso it can't be misused!
+200	message	We have to fulfill our duty even at the cost of our lives!\nAnd yet we're trusting those thieves and waiting—\nthat's unforgivable!
+201	message	But I think it's better to leave it\nto Tesla-san and Nine-san\nthan for us to bumble around right now.
+202	message	Yeah... I think so too.
+203	message	...Fine.\nBut I...!
+204	message	//Kurumi leaves.
+206	message	Kurumi-chan!? Where are you going!!
+207	message	Leave me alone!!
+208	message	Kurumi-chan!!
+209	message	Let's leave her be for now, Haruka-san.
+210	message	But...!
+211	message	Kurumi-san feels the weight\nof the Amanotsukai's duty very strongly.\nShe thinks she has to handle it herself.
+212	message	Is believing in Tesla-chan and Nine-chan...\nsuch a strange thing...?
+213	message	If those two hadn't returned\nthe Poketen you lost, Haruka-san,\nI might not have been able to believe in them either.
+214	message	I see...
+215	message	But that's exactly why\nwe have to believe in them, right?
+216	message	You're right!\nBut what do we do about Kurumi-chan...?
+217	message	I'm sure it'll be fine.\nThis is something Kurumi-san herself\nhas to find the answer to...
+218	message	...Okay. I have to believe in Kurumi-chan\nand wait too.
+219	message	Haruka, did you fight with Kurumi, nyu?
+220	message	Ah, Puchiko-chan!
+221	message	//Event CG: Puchiko spinning round and round.
+222	message	Cheer up, nyu.\nSomething good's bound to happen, nyu.
+223	message	Ehehe, are you cheering me up?
+224	message	Do your best, nyu.
+225	message	Thanks, Puchiko-chan!
+226	message	Puchiko-san is so kind.
+227	message	//Event CG off.
+229	message	Something happen?\nLooks like Kurumi-chan\nwent off somewhere.
+230	message	Yeah...
+231	message	She fought with Haruka, nyu.
+232	message	I see...\nI hope she comes back soon...
+233	message	Yeah, thanks.
+234	message	//Fade to black.\n//Background: night (town).
+235	message	Teacher... what on earth...\nhappened to you...?
+236	message	Teacher... why... why...!
+237	message	Cheer up.\nI don't think Eve\nwas seriously trying to kill you.
+238	message	Huh!? Really?
+239	message	Then... then what is it?
+240	message	At the very least, she's someone who prefers\nsolving mysteries and research over fighting and killing, no?
+241	message	Maybe that wasn't true after all.
+242	message	Maybe she actually likes fighting better.
+243	message	If that were true, I wonder\nif she'd have bothered picking you up and raising you?
+244	message	Even so...
+245	message	I want to believe that, but...
+246	message	If she really meant to kill,\nshe'd have come at you much more seriously.
+247	message	I have no idea\nwhat Teacher's after... but,\nI want to believe there's a reason.
+248	message	Yeah, if she was serious,\nsomeone like me wouldn't even be a match.\nSo... she wasn't trying to kill us?
+249	message	Let's believe that.
+250	message	Yes!
+251	message	Yeah, you're right!
+252	message	//END

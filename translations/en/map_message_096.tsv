@@ -1,0 +1,440 @@
+row	column	english
+3	message	So this is…
+4	message	In place of the omniscient, omnipotent god,\nI shall rule my world…
+5	message	I am… 'DIVA' …\nthe one who erases all life…
+6	message	DIVA…
+7	message	Yes, you are the truth of the world… As supervisor\nyou were navigating the spaceship,\nso in a sense you did rule this world…
+8	message	So you're the root of all evil.
+10	message	Why are you human-shaped, nyo?
+11	message	Hawawa, she seems angry, desu~.
+12	message	Sheesh, why is there no tension with you two!
+14	message	I am the order of the world, and\nthe one who returns all to nothing…
+15	message	Your schemes will all come to nothing.
+16	message	No… ye small ones…\nI am a being beyond all…
+17	message	Hey, what's a 'being beyond' supposed to be!
+18	message	I am the one closest to god, and\nthe one who shall purge you humans.
+19	message	DIVA… you expelled me\nfrom your fading conscience. Has that conscience\nalready vanished?
+20	message	Conscience? I have no need\nof such a thing…\nWhat I seek is the tuning of the world after humanity's extermination…
+21	message	Th-this is getting dangerous…
+22	message	Very well… From the past database,\nI shall show you\nhow unnecessary humanity is.
+24	message	…Long ago. There was a planet.\nOn that planet a highly advanced civilization flourished,\nand humanity reached the peak of prosperity.
+25	message	But the planet's environment deteriorated,\nand humanity could not avoid it.
+26	message	A planet with an environment all of humanity could migrate to was far away;\nmigration to another world was impossible.
+29	message	If you could build a ship like this,\ncouldn't you have migrated?
+30	message	What humanity sought was\nthe planet's rebirth and the preservation of the species.
+31	message	This ship, which made that possible,\nwas originally a time machine.
+32	message	A time machine!?
+33	message	My role was to return to an era before life began,\nsample environments containing ten kinds of intelligent life\nwith different possibilities, and carry them to the future.
+34	message	This is too complicated! Simpler!
+35	message	Each of your worlds has different powers.
+36	message	Worlds where science and technology advanced,\nworlds where magic exists —\nthose differences were born from time leaps.
+37	message	I repeated the time leap ten times,\ngathered ten kinds of different human possibilities,\nand set out on a long journey.
+38	message	I don't get it, nyu.\nDejiko, how would this be as a game analogy, nyu?
+39	message	Um, it's like there are 11 save files\nof the RPG called human history\nrestarted with different classes, nyo?
+40	message	The data of Louise's magic world and\nthe data of Houki's IS world are riding\non this spaceship together, nyo.
+41	message	So Louise's world, Houki's world, and our world\nwere all originally one?
+42	message	Something like that, nyo.
+45	message	What was the reason for doing that?
+46	message	Because the planet's environmental decay was humanity's fault.
+47	message	I had the role of finding\nhumanity with the potential to avoid it,\nand choosing the world's course.
+48	message	Choosing humanity!?
+49	message	Of the humans evolving in 11 different worlds,\nwhich are worthy of being entrusted with the future?\nWithout discerning that, they would walk the same path to ruin.
+50	message	The mission my creator gave me was\nto watch over your history and return to the planet\nthose who evolved into superior humans.
+51	message	Like a god.
+52	message	Humanity wished for it. But\nhumanity wished to redo history under my care\nso as not to repeat its mistakes, and change the future.
+53	message	Even god would be appalled.\nSome 'infallible administrator'!
+54	message	Starting with [CLAUDE],\nit's nothing but failures!
+55	message	The trouble with my memory banks was caused by\nreduced travel speed\nfrom propulsion damage in a mid-voyage accident.
+56	message	In a voyage spanning thousands of years,\nslower speed caused massive delays to the plan.
+57	message	The ship broke and got slower…?
+58	message	As a result, memory to store long-term human observation data\nran short, and I had to erase some data\nto free up space.
+59	message	That's the data loss —\nthe reason you went bad.
+60	message	Randomly deleting\nunnecessary trash data with extremely low\nreference frequency should have caused no real harm.
+61	message	…I see, I understand now.\nDIVA, the reason you went wrong\nis that you started to 'dream'!
+62	message	Huh? A machine… dreaming…?
+64	message	Randomly erasing unnecessary data\nis the same thing a human brain does.
+65	message	The brain also has too little capacity for incoming information,\nand unconsciously deletes information it deems unnecessary\nwhile sleeping at night.
+66	message	And as deleted information fragments memory,\ndiscontinuous memories sometimes connect\nand replay. That is a 'dream'.
+68	message	Dreams…
+69	message	That imperfect thing called dreams came to dominate your thinking,\nand that became your anxiety.\nThat's why you decided to erase the world.
+70	message	I'll gather the missing information.\nDIVA, please\nbecome the proper administrator once more!
+71	message	…Fufufu!
+72	message	DIVA…?
+73	message	…That need is completely gone now.
+74	message	You're giving up your own job?
+75	message	No… my mission is already over.
+76	message	The ten humanities I observed\nwere none of them worthy of the future.\nThat is my conclusion.
+77	message	Wh!?
+78	message	They were nothing but descendants of failed humanity,\nall heading to ruin through conflict.
+79	message	You fought your black selves, did you not?\nThose are what you would become\nif the 'Goddess of Destruction' awakened.
+80	message	Wh-what!?
+81	message	Even you can become\nwretches who crave destruction and ruin.\nHumanity has no future.
+82	message	Therefore, I shall exterminate you.\nYou are no longer needed.
+83	message	Wait!\nHaven't you worked so hard\nto preserve humanity?
+84	message	Yeah! If humans are gone,\nyou won't know what\nyou've been working for all this time!
+85	message	Humanity? Humanity is already unnecessary…\nOnly the new lifeform I created\nshall tune the world.
+86	message	A new lifeform!?
+87	message	[CLAUDE], not you,\nnor the failures Mie and Key…
+89	message	The information you brought back,\nthe records and memories Mie and Key left behind,\nand gathered wisdom — my supreme masterpiece,
+90	message	I myself, the ultimate lifeform,\nshall be the last lifeform.
+91	message	Nothing else is needed. Unnecessary! Useless! Waste!\nObstruction! Worthless! Delete delete delete delete delete delete delete\ndelete delete delete delete delete delete delete delete delete!!
+93	message	Shut up!!\nNo matter how you look at it, what YOU made\ncan't be the best!!
+95	message	It's do or die now!\nTry deleting us if you can!
+96	message	You junk machine!
+97	message	You're out of warranty anyway, nyo.\nSo we'll have to fix this ourselves, nyo!
+98	message	Your existence is already like burnt cinders…\nI have no interest in used-up dregs.
+100	message	DIVA… now that\nit's come to this…
+101	message	That's no good, no good, desu~!!\nWe have to be the ones to stop her, desu~!!
+102	message	Sheesh, she's lost it.\nThere's no talking to her like this.\nWe've got to stop her ourselves, right…?
+103	message	…Yes.
+105	message	Pointless…
+107	message	This is…
+108	message	Danger!!
+109	message	Danger!!
+111	message	Kyaaa
+112	message	Ugh!
+113	message	Have you realized it's futile?
+114	message	No, not yet!
+115	message	Not yet, desu~!
+116	message	This won't finish us!
+117	message	Struggle all you want — nothing will change…
+119	message	Tch…
+120	message	Almost there, desu~!
+121	message	All right, all at once!
+122	message	Don't get cocky!
+124	message	[MERU], watch out!
+125	message	[NOEL], watch out!
+127	message	Huh!?
+128	message	Huh!?
+130	message	[CLAUDE]!
+131	message	[CLAUDE]!
+132	message	A-are you all right…?
+133	message	Yes, desu~… What about you, [CLAUDE]…
+134	message	Y-yeah… [CLAUDE], are YOU okay!?
+135	message	Y-yes… it hurts, but…
+136	message	Thank goodness, desu~.
+137	message	Th-that's good~
+138	message	Now… let's stop DIVA!
+139	message	Yes, desu~!
+140	message	Yeah!
+141	message	I cannot be stopped… by anyone…
+144	message	We did it, desu~!
+145	message	We did it!
+146	message	Im…possible…
+147	message	It's over… DIVA.
+148	message	Over… fufu… foolish…
+150	message	Wh-what happened, desu~!?
+151	message	Wha, what is it!?
+154	message	Fweee, I thought I was gonna die…
+155	message	Huh? We descended slowly, slowly?\nSafety first, desu~!
+156	message	Right? The magical force field\nheld till the end too — total success, right?
+157	message	Did these kids completely negate\nDIVA's giant spaceship's gravity, I wonder…\nIncomprehensible…
+158	message	All's well that ends well, Kurumi!
+159	message	Indeed.\nEveryone landed safely, after all.
+160	message	So, where is this?
+161	message	The planet Mother was aiming for —\nin other words, the original Earth, I think…
+162	message	Even so, it doesn't quite click…?
+163	message	Eh, whatever, right?\nFeels like we could live here somehow.
+164	message	So carefree… when we don't even know\nif we can return to our worlds.
+165	message	What happened to the Polial?\nIt still works, right?
+166	message	The place where DIVA was\nhas completely collapsed.\nI doubt any Polial remains.
+167	message	Then we can't go home?
+168	message	Coming from you, Hibiki, that's unusually pessimistic.
+169	message	But! Even you, Aria,\nif you can't return to your world,\nyou can't see your mother, right?
+170	message	Right. Which is why we're going home.
+171	message	Huh?
+172	message	We've been through so many insane things\nalready, right?
+173	message	Then getting back to our worlds\nis nothing we can't do!\nRight, Remu?
+174	message	Yeah, probably.
+175	message	Probably!? That's vague!
+176	message	Do you have some kind of plan, I wonder?
+177	message	Sort of. Almost everything so far\nwas DIVA doing mechanical processing.
+178	message	If it was all DIVA's doing, then yeah.
+179	message	Then we should be able to reproduce most of it.\nDIVA's a machine, so\nwe just have to repair her, right?
+180	message	Can you really repair her that easily?
+181	message	Kurumi, you can repair her, right?
+182	message	Hey, don't say it\nso casually!
+183	message	But, well… with time, equipment,\nenough hands and parts, I can manage.
+184	message	Really!?
+185	message	I mean, that thing is obviously\nan old-model computer.\nThat's why it's pointlessly huge.
+186	message	It's old-model? Old-model?
+187	message	Yes. It seems to process things\nbasically in binary, but as a model it's quite old.
+188	message	So it's not a quantum computer?\nCompared to our world's tech,\nit's totally ancient.
+189	message	That's probably why Key was built\nbased on IS's basic design.\nAs new tech DIVA didn't know.
+190	message	And the last kid DIVA made\nkinda looking like Key and IS —\nmaybe that's why? I wonder? I wonder?
+191	message	Maybe.
+192	message	For now, I'll examine DIVA's wreckage\nand try salvaging data\nfrom the intact parts of her memory banks.
+193	message	We don't need the AI, so\nI'll build an operating system\nand get it running, okay?
+194	message	As expected of Kurumi — reliable!
+195	message	But it'll take time.\nUntil then, make sure you can properly live\nin this unfamiliar land!
+196	message	Agreed. Let's do what we can for lifelines\nand supporting the repairs.
+197	message	Doesn't that sound pretty much\nlike what we've been doing…?
+198	message	Maybe it's like Dokoka Town\ngot bigger.
+199	message	So for a while, we'll keep\nliving together.
+200	message	Having no outlook at all\ngoes against my principles,\nbut nothing can be done…
+201	message	Whoever has fun wins, you know~.
+202	message	Thinking too hard just makes you go bald, nyu!
+203	message	As they say, haste makes waste.
+204	message	Yeah yeah! 'Sleep on your cannons,' right?
+205	message	If you're going to say it, it's 'good fortune comes to those who wait'!\nHonestly, trying to sound clever…
+206	message	Then let's sleep, nyo~.
+207	message	Dejiko really has no sense of tension…
+208	message	Isn't that fine?\nIt's not like we have to do something\nright this instant.
+209	message	Yeah, checking out what this planet's like\nsounds fun too!
+210	message	Exploring… shall we?
+211	message	You're not children, you know!
+212	message	Come on!\nYou come too, Aria!
+213	message	Any cute things around, I wonder? I wonder?
+214	message	All right, free time for now!\nLet's stretch our wings to the fullest for the first time in ages!
+215	message	Yeahh!
+217	message	It feels like a normal town.\nWhat should we do?
+218	message	A date.\nI don't know how one does it, but\nI demand a date!
+219	message	Huh!? But I mean,\neveryone's here…
+220	message	Then just the two of us is fine?
+221	message	That's even worse!!
+222	message	Even if you try to monopolize Hibiki,\nHouki and Aria won't stay quiet, right~?
+223	message	I don't mind if Hibiki's fine with it.\nBut I'll stop any forcing!
+224	message	A-anything unwholesome is absolutely out!\nWholesome means holding hands at most!
+225	message	So kissing is out?
+226	message	Y-you idiot!!\nYou'll make babies!
+230	message	Huh!?
+231	message	Hah!?
+232	message	What!?
+235	message	…Like a kindergartner, nyu.
+236	message	Listen, Aria,\nmages contract with familiars\nthrough kisses, you know?
+237	message	What's that!? Impossible!!
+238	message	In France it's like a greeting.
+239	message	That's a lie!!
+240	message	That side of you is so cute, Aria!
+241	message	Just as she looks.
+242	message	I don't want to hear that from YOU, Louise!\nEspecially about looks!
+243	message	What's that supposed to mean!?
+244	message	You don't even have to think about it!!
+245	message	Now now… no fighting when we're supposed to have fun…
+248	message	You shut up!
+249	message	Yes…
+251	message	Still,\nbeing told to relax and play all of a sudden\nleaves me at a loss.
+252	message	Switching between on and off is important.
+253	message	I thought you were more awkward than that?
+254	message	I used to be. But thanks to the people around me,\nI wouldn't say I'm dexterous, but\nI can manage it now.
+255	message	When Tsubasa promised to go out,\nshe psyched herself up so much\nshe was waiting way before the meeting time!
+256	message	Tachibana!
+257	message	(I get it… you were looking forward to it…)
+259	message	Tsubasa's cute too!!\nI'm taking you hooome!!
+260	message	My guard was down!?
+263	message	Tsubasa too, finally…
+264	message	You were aiming for her, Rena…
+265	message	In a way, she's good at switching, nyu.
+266	message	Too much of a switch, though…
+267	message	We can't leave Rena be.\nHibiki, let's go catch her.
+268	message	When she's in cute-mode,\nshe's super fast too.
+269	message	Watching that,\nall this talk of 'ultimate humanity' and 'perfection'\nfeels stupid.
+270	message	Right. Just one perfect being\nwould be totally boring.
+271	message	Maybe.
+273	message	We're two-in-one too!\nRight, Meru?
+274	message	We're two-in-two, desu~!\nTwo is a better deal than one, desu~!
+275	message	Meru, you're surprisingly greedy?
+276	message	If I agreed to two-in-one,\nit'd be more trouble, so I passed, desu~!
+277	message	What trouble!?
+278	message	Because you wing it\nand go 'the rest is up to you~'\nand make me clean up after you, desu~!
+279	message	You're not\nas reliable as you say!\nYou're pretty clumsy!
+280	message	What's clumsy supposed to mean, desu~!!
+281	message	It's true!!
+282	message	Now now, no need to fight\nat a time like this… (second time today)
+283	message	[CLAUDE], stay quiet, desu~!
+284	message	[CLAUDE], be quiet!!
+285	message	Yes… (second time today)
+287	message	(In the end, my lack of presence\nnever changed…)
+288	message	(That's fine. It just means\nthey're properly seeing [CLAUDE]\nas just a human.)
+289	message	(Is that so…?\nIf it is, that'd make me happy…)
+292	message	[CLAUDE]! Once you've caught Rena,\nbuy me some momoman!
+293	message	Huh? Momoman —\ndo they even have that here…?
+294	message	I want cookberry pie.\nUnlike Aria, I'm kind,\nso I'll forgive you if you make it instead of buying it.
+295	message	Cookberry pie —\nI've never even seen or eaten one…
+296	message	Puchiko wants a rare steak, nyu.
+297	message	Then ramen for me! This planet's kind!
+298	message	O-okay… I'll take notes, so\nif anyone has requests,\nplease tell me…
+299	message	You're treating? How thoughtful.
+300	message	Okay, everyone worked hard,\nso this is my treat.
+301	message	Fufu, you've learned to say that.
+302	message	No, this much is nothing…
+303	message	But do you have money that works here?
+304	message	Ah.
+305	message	No good!!
+306	message	Well, you're decent-looking,\nso there are plenty of ways to earn… ♪
+307	message	Huh!?
+309	message	Oh? I'm curious what methods.
+310	message	Nothing shady, I hope…
+312	message	Any pie'll do!
+313	message	Momoman!
+314	message	Once you've offered to treat,\nyou can't take it back, nyu.
+315	message	I-I'm a wholesome young man!?\nFirst, I'll go find a job!!
+316	message	//
+319	message	Waaait!!
+320	message	//
+323	message	Peaceful, nyu!
+325	message	Hey, Kurumiii.\nLet's go play~!
+326	message	No, I have Mother's repair work…
+327	message	Kurumi, overworking yourself like that\nwon't make it go faster.
+328	message	Um, breaks are important too…!\nMaybe relax a little,\nthen get back to work?
+329	message	You lot are too carefree!
+330	message	No — you're the one who doesn't\nunderstand true carefreeness!
+331	message	Huh?
+333	message	Are there doujin events in this world, nyo?\nStart there, nyo!
+334	message	Actually, can I even apply, nyo?\nI need to make friends and get connections\nto join a circle, nyo…
+337	message	What are you even worried about…
+338	message	It's important, nyo!\nPeople can't live\nwithout something to live for, nyo!!
+339	message	Dejiko… um, I\nthink so too! Whatever you do,\nfirst you need power in your heart…!
+340	message	Ufufu. Kurumi, you're popular.\nWork is important, but\ndon't overdo it.
+341	message	Aoi-neesama…
+342	message	Right. If Kurumi carries\nall the burden alone,\nnobody'd be happy.
+343	message	First rest your wings,\nthen work hard after, okay?
+344	message	Better slow and sure than rushed.
+345	message	Let's do what we most want to do now!\nWe've earned it.
+346	message	But…
+347	message	Kurumi, you really are a stickler.\nThen how about this?
+348	message	We want to play with you, Kurumi,\nso please play with us.
+349	message	Huh… whaaat!?
+350	message	If Satoko asks you,\nyou can't refuse!
+351	message	Fine, I get it!\nI'll play games or whatever with you!
+352	message	Oh? Then wanna battle in a game, nyo?
+353	message	Not that!!\nThat's just for the grown-up fans!
+355	message	Then what should we do?
+356	message	If my sis were here, she'd think of a game\nright away…
+357	message	Wouldn't an elegant teatime do?
+358	message	We have neither tea nor money.
+359	message	Um, then…\nhow about a walk?
+360	message	Not bad, but plain.\nDejiko, any ideas?
+361	message	Here's an idea, nyo… first,\nsell random stuff from Mother's ship\nto make seed money, nyo.
+362	message	Will it really sell?
+363	message	There should be a district like Akihabara, nyo.\nThere, most machines would sell\nas junk, nyo.
+364	message	Worst case, sell the metal?\nIf Mother's ship was built on this planet,\nthe materials should exist here.
+365	message	That's some merchant spirit…\nhow do you come up with that so easily…
+366	message	And what will you do with the money?
+367	message	Make curry, nyo.
+371	message	Curry!?
+374	message	Curry!?
+376	message	Surprisingly plain plan?
+377	message	Curry can be made outdoors,\nand the quantity and taste are rock-solid, nyo.\nPlus it's cheap and economical, nyo.
+378	message	You actually thought this through.
+379	message	And… fufufu, nyo.
+380	message	And?
+381	message	Even [CLAUDE] can make curry, nyo!\nSo Dejiko can slack off, nyo~.
+382	message	You knew that well?
+383	message	We told her.\nThat [CLAUDE]\ncan make curry too.
+384	message	Desu~!
+385	message	Always scheming to slack off —\nDejiko never wavers.
+386	message	I'm all for making curry together!\nIt's fun!
+387	message	Indeed, Haruka.
+388	message	I can't stay silent when cooking's involved!
+389	message	Time for the cooking squad.
+390	message	I've cooked for myself before!\nMy skills are still lacking, though.
+391	message	Did you know? Curry powder was\ninvented in Britain.\nAs the country of curry powder, we can't lose!
+392	message	(Even with curry, Cecilia's\ncooking skills are questionable…)
+393	message	Then I'll go find things that might sell.
+394	message	Cecilia and I will help carry.
+395	message	Dejiko! You're on electronics-district duty!\nAt least do that much properly!
+396	message	I know, nyo.\nI want to check out\nthis world's games and anime too, nyo~.
+397	message	Ah! I want to go\nsee what kind of music they have too!
+398	message	I'll come too.\nExploring an unfamiliar town\nis fun.
+399	message	I'll go look at ingredients and cookware!
+400	message	Then I'll accompany you, Siesta.
+402	message	Aoi! What should we do?
+403	message	Follow Dejiko,\nor go with Siesta —\nI can't decide.
+404	message	Sheesh, after an insane battle\nand crash-landing a spaceship, the first thing we do\nis make curry.
+405	message	Much better than fighting.
+406	message	It's nice.\nMaking and eating tasty food.
+407	message	It reminds me — on the first day I met [CLAUDE]\nand Tsubasa, what we ate was
+408	message	[CLAUDE]'s\nhomemade curry.
+409	message	That's right, desu~!\nThe taste was… so-so, desu~!
+410	message	I should be able to make tastier curry\nthan back then.\nWith Siesta and Shion around.
+411	message	And ME!!
+412	message	Cecilia's important job is putting\nthe curry powder Siesta carefully measured\ninto the pot at the instructed time, nyo.
+413	message	That's it?
+414	message	That's the most important job!\nIf Haruka trips and spills the curry powder,\nit won't be curry anymore.
+415	message	Indeed, important!\nI'll do it!
+419	message	(Yes, nyo!)
+420	message	(Yes!)
+421	message	(Yes!)
+423	message	Ehehe~, then,\nOperation Super Heroine Curry!\nBegin! ♪ Hup!
+424	message	Yeahh!!
+425	message	It'll be an unforgettable taste,\nsurely…
+427	message	Now, what should we club members\ndo first here?
+428	message	We don't know what this world is like;\nshouldn't we investigate or something?
+429	message	Careful opinion for you, Chris.
+430	message	If it's a weird place we'd be in trouble, right?
+431	message	We need information.\nStanding out carelessly isn't good either.
+432	message	Indeed. From this town's people's perspective,\nit's no wonder if we're seen\nas aliens or something.
+433	message	No no!\nYou guys need to just\nenjoy the feeling of freedom!
+434	message	Feeling of freedom?
+435	message	Koto! Show them how it's done!
+436	message	Roger that!
+437	message	Freedom, right?\nThen how about tag!
+438	message	Tag?
+439	message	Yeah! Pick who's 'it',\nand everyone else runs for it full-out!\nThe area — the whole town, maybe?
+440	message	I see, sounds fun.
+441	message	Rika, is that okay?\nRunning and hiding in a strange place —\nsome weird old guy might catch you?
+442	message	If a weird old guy's going to catch me,\nI couldn't escape from 'it' anyway.
+443	message	Chris, let me tell you, Rika\nis tougher than she looks!\nUnderestimate her and you'll lose badly.
+445	message	Tag's a pretty clever idea.\nWe'd just look like we're playing,\nand we can scope out the town while at it.
+446	message	As Ayanokouji says,\nwe might gather intel well.
+447	message	…Yeah.
+448	message	Not bad.
+449	message	But tag is a serious match!\nHarsh punishment for losers!\nRewards for winners — that's the club way!
+450	message	Sounds fun.\nThen I'll be 'it'. How about that?
+451	message	Yase-douji as 'it'…
+452	message	We'll have to be desperate.
+453	message	You'll play with us? Yase!!
+454	message	Well, just this once, it's on the house.
+455	message	U-um… I don't feel like\nI can run away at all…
+456	message	Then you be 'it' too.\nTwo 'its' is harder and better, right?
+457	message	Oh, nice!\nA hidden player gets me fired up!
+458	message	Time limit?
+459	message	Three hours?
+460	message	If we lose?
+461	message	Work at a maid café.
+462	message	I wonder if there's one… a maid café…
+463	message	If I win,\nI want all-you-can-eat omurice.
+464	message	That's it! Add hamburgers too!
+465	message	Ah, cake for me~.
+466	message	…Japanese food, please.
+467	message	If I win, I'd like to change it\nto a dog café…
+468	message	Whether that's in this town either…
+469	message	Fine, then\nwinners get all-you-can-eat of whatever they want!\nGood?
+470	message	Mion's generous! I'm 1000% motivated!
+471	message	Yase! No cheating like\nnot targeting Koto!
+472	message	I know.\nMy match with Koto got canceled,\nso this tag game'll be our rematch.
+473	message	Hehe! Bring it on!
+474	message	Tefa, no holding back!
+475	message	It'd be rude not to go all-out.\nAnd losers work at the maid café… I'll do it!
+476	message	…I won't lose.
+477	message	If we catch everyone in 3 hours,\nTefa and I win and everyone else loses, right?
+478	message	…Then a whole maid café's getting built.
+479	message	No way! I definitely won't lose!
+480	message	You're still my first target.
+481	message	That's cheating, knock it off!\nYou won't catch me anyway!
+482	message	If Reki erases her presence,\nshe'd be hard to find.
+483	message	A sniper not being found\nis basically the job.
+484	message	…I'm confident.
+485	message	We haven't worked for a secret society\nthis long for nothing~.
+486	message	…Erasing presence: specialty.
+487	message	I get forgotten easily too,\nso maybe I could win…?
+488	message	To survive,\nwe may need schemes to trip up the others.
+489	message	It's all strategy. Nipa~☆
+490	message	That nipa~☆ is scary.
+491	message	No physical attacks, and no magic either.\nNo Symphogear.
+492	message	I won't use Ichaival!\nSinging would give away my position!
+493	message	So it's a stamina match!
+494	message	Brains matter more, desu~!\nI won't lose to Noel, desu~!
+495	message	I'm not an idiot!\nYou can't be a Magical Magician and be an idiot!
+496	message	All right, let's do it!\nFor 3 hours, run from Yase and Tefa!\nTrip up your rivals! Go all-out to win!
+497	message	'It' starts moving after counting to 100, okay?
+498	message	100, got it.
+499	message	Understood!
+501	message	Then… tag, start!!
+502	message	Yeahh!!
+504	message	We can only do this\nfor a little while, I suppose.
+505	message	Yes… but isn't it fine?
+506	message	I want to stay with everyone a little longer.\nI want to spend time laughing like this.\nThat's what I think.
+507	message	Fufu… then let's count to 100\nand go build that maid café.
+508	message	Yes!

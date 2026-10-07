@@ -1,0 +1,344 @@
+row	column	english
+3	message	Excuse me,\nhas anyone seen\n[MERU]?
+4	message	Excuse me,\nhas anyone seen\n[NOEL]?
+5	message	Haven't seen 'em.
+6	message	She was here at mealtime, wasn't she?
+7	message	Shirayuki and Reki wanted to talk\nabout what to do next, but...\nthis is a problem.
+8	message	This place is tiny, she'll turn up quick.
+9	message	You'd think so, but... what if,\nwell, you know...?
+10	message	Um, by 'what if' you mean...?
+11	message	That she left town alone, or something.
+12	message	No way, really?
+14	message	That was careless of me.\nIt seems [MERU] left\non her own.
+15	message	That was careless of me.\nIt seems [NOEL] left\non his own.
+18	message	Whaaat!?
+20	message	Everyone, gather up, now!\nWe can't just leave her be!
+22	message	You came. Alone, though.
+23	message	I decided to change my thinking.
+24	message	I figured I'd try thinking different.
+25	message	Hm.
+26	message	Teacher, please tell me your true intent.\nI should have the right to hear it.
+27	message	Teacher, tell me.\nWhy do you want to kill me?\nI've got the right to hear it, don't I?
+28	message	You have no such right.
+29	message	That's wrong!\nKilling without even giving a reason!\nAnd not even going after me directly! It's all wrong!!
+30	message	Why?\nWhat's wrong with just taking my life?\nDragging everyone into it is wrong!
+31	message	So what.
+32	message	Against a teacher like that,\nwe've been fighting to win —\nbut I've decided to stop.
+33	message	So I changed why I fight.
+34	message	What?
+35	message	I want to hear your true intent, teacher!\nI won't go home till I hear it, I won't fall,\nand I definitely won't be killed!!
+36	message	Not to live, not to avoid being killed!\nI'll beat the teacher and hear the truth!\nThat's what I'm fighting for!
+37	message	Hm... well said.\nYou've finally got a fighter's face on you.
+38	message	But don't think I'll tell you my true intent.
+39	message	Even if you fight me\nand admit defeat?
+40	message	You won't tell even if you lose?
+41	message	That can't happen.
+42	message	Then, if you admit defeat,\nyou'll tell your true intent — is that fine?
+43	message	If you think it can't happen, that's fine, right?\nDeal: you talk if you lose.
+44	message	Zero percent chance, and no intention of telling.
+45	message	...Are you scared of losing?
+46	message	If it's zero percent, then agree to it!
+47	message	What did you say?
+48	message	I asked if you're scared\nof losing to me.
+49	message	Really, you're thinking 'what if I actually lose' —\nthat's why you won't agree~!\nYou're scared of losing, teacher!
+50	message	I have no reason to fear losing to you.
+51	message	Then what are you afraid of?\nIf you're not scared, you should have\nno problem accepting my terms.
+52	message	Then it's decided!\nIf you lose, you tell the truth.\nOtherwise admit you're scared of losing!
+53	message	...Honestly,\nwasting effort with no chance of winning.
+54	message	It's not a waste.\nMy motivation just went up a hundredfold!
+56	message	It is not a waste!\nI'm going all out, full throttle!!
+58	message	//
+59	message	Fufu... fufufu!
+60	message	What's so funny!
+61	message	What's so funny?
+62	message	It's just... that side of you — I love it.
+63	message	Huh?
+64	message	Love what, exactly?
+65	message	You. I love you dearly.
+66	message	H-huh...?
+67	message	I love you too.\nExcept what you're doing right now!
+68	message	One question before we fight.\nWhat do you think 'strength' is?
+69	message	'Strength'?
+70	message	I'll teach you that with this yoyo!
+71	message	'Strength'?
+72	message	That's a tough one, but\nI'll answer with this fight, right now!\nWith my magic!
+73	message	Good! Let's begin!
+76	message	Here I gooo!!
+77	message	Let's go! Showtime!\nI'm going all out!!
+78	message	Good spirit. Feels good.
+80	message	What's wrong?\nNo clones today?
+81	message	Huh? What about the clones?
+82	message	Clones? I don't need such things.
+83	message	You mean I'm not worth\nbringing them out for?
+84	message	If you won't use 'em, I'll force you to!
+85	message	No. Because those things aren't strength.
+86	message	Huh?
+87	message	Huh?
+88	message	Clones, self-enhancement, regeneration... those are\nall just magical archaeology.
+89	message	Human strength isn't about such things.\nThat's why I taught you\nnothing but the yoyo.
+90	message	Human strength isn't about such things.\nThat's why I taught you\nnothing but magic.
+91	message	Something more precious than spells, knowledge, or techniques —\nthat is strength.
+92	message	Without it, any power at all\nis nothing but a force of destruction.\nThe you of now should understand that.
+93	message	Teacher...
+94	message	Teacher...
+96	message	There she is!!
+97	message	Looks like she's engaging Eve.
+98	message	I'm coming to help right now!
+99	message	Don't come!
+100	message	Don't you dare come!
+101	message	Huh?
+102	message	This match is between me and the teacher!\nI don't need any help!
+103	message	Leave this one fight to me!\nStay out of it!
+104	message	Fufu, I was thinking the same!\nCome out!
+106	message	Go play with them.\nIt'll be decent exercise.
+107	message	Ngh... [MERU]!\nDon't lose!
+108	message	Watch me! I'll win!!
+109	message	Ngh... [NOEL]!\nDon't lose!
+110	message	Defying expectations and delivering on hopes —\nthat's a first-rate magical magician!\nLeave it to me!
+111	message	Now, let's continue!
+114	message	Show me! Your strength!\nMore!
+115	message	...I don't understand.
+116	message	...I don't get it.
+117	message	What?
+118	message	You're still the teacher!\nSo why team up with Mie and Kei,\nand hurt our friends!?
+119	message	Fighting one-on-one, I get it now.\nYou're the teacher I know. So why\ndo we have to fight like this?
+120	message	Who was it that said 'talk if I win'?\nDo you think you're fighting someone\nwho'll let you daydream mid-battle?
+121	message	That's right! I just have to win!\nJust win!
+122	message	Focus, right. Tough one...\nHaah! Reset!\nI'm the challenger! Alright!
+124	message	Haah, haah!\nYou're as tough as ever...!
+125	message	This is... a legendary bout...!\nYou're tough...
+126	message	That's my line.\nTo hang on this long...!
+127	message	I'll beat you right now!!
+128	message	Let's settle this!!
+129	message	Can you?\nCan your 'strength' surpass mine?
+130	message	I'll show you!\nThe greatest 'strength' I can muster right now!!
+131	message	I'll surpass you! I have to!\nWith the greatest 'strength' I can show right now!
+132	message	Then I too will settle it with my next strike...!
+133	message	Don't you feel it, Shirayuki...
+134	message	I get it... those two look like they're having fun...\nI don't know why, but...
+136	message	This distance!
+137	message	I'm in range!
+138	message	Strike!!
+139	message	Haaaaaaah!!
+140	message	Haaaaaaah!!
+141	message	Haaaaaaah!!
+149	message	Huh...?
+150	message	Huh...?
+153	message	Kei-chan, how'd it go? Didja get her?
+154	message	Negative... That strike should have been\nimpossible for a human to react to...
+155	message	Ehh!? Why'd it hit Eve!?
+156	message	//
+157	message	Ugh...!
+158	message	Teacher? Teacher!? Why!?
+159	message	Teacher!! Stay with me!! Teacher!!
+160	message	It's fine... More importantly, your answer...\nWhat is 'strength'...?
+161	message	Not now!
+162	message	Why are you asking that now!
+163	message	Answer me...!
+164	message	!!
+165	message	!!
+166	message	Strength is... 'never losing to yourself'...!
+167	message	Strength is... 'never losing to yourself'...!
+168	message	That's right... No matter when,\nno matter what, don't forget... That\nwill surely save you...!
+169	message	Teacher!!
+170	message	Teacher!!
+171	message	Fufu... I wonder if this was for the best...
+173	message	Teach... teacher... why...!!
+174	message	No way... the teacher dying...\nNo way... no way... it can't be... right?
+175	message	//
+176	message	Aw geez, how boring!
+177	message	//
+180	message	Eve-chin wanted to kill you, so\nI was gonna swoop in — zwoosh! — and steal her kill\nto mess with her!
+181	message	Dying yourself is just dumb, y'know~?\nSheesh, everything's ruined!
+182	message	...
+183	message	...
+184	message	The crime of ruining a king's fun is grave, y'know?\nYou understand, riiight...?
+186	message	Phew... I made it in time...
+187	message	You're going to explain\nwhat all that was about, right?\nDepending on what I hear...!
+188	message	Hold on, Aria. I understand\nhow you feel, but first\nwe owe her our thanks.
+189	message	Cecilia's right.\nBesides, that wasn't the act\nof an enemy, was it?
+190	message	Phew, I made it in time...
+191	message	[MERU]!\nWhat is going on?\nI don't get it at all!
+192	message	Thanks comes first, right?\nShe did save us.
+193	message	Yeah. Talk comes after.
+194	message	Forget the thanks.\nThere's a whooole lot\nI need to tell you.
+195	message	No need for thanks.\nThere's a lot\nI need to tell you.
+196	message	Your teacher just died, y'know?\nHow can you be so calm!?
+197	message	...I've been bracing myself for a long time.\nIn case the worst happened, y'know.
+198	message	...I'd been bracing myself\nfor a long time.\nIn case the worst happened...
+199	message	//
+200	message	The worst...?
+201	message	[MERU] —\nshe turned into something like a demon, right?
+202	message	The teacher knew for a long time\nthat could happen.
+203	message	The teacher knew for a long time\nthat [NOEL] could\nbecome like that.
+204	message	Eve did?
+205	message	The teacher called that\nthe 'Goddess of Destruction'.
+206	message	You're saying [MERU] was\nthe 'Goddess of Destruction'...?
+207	message	Strictly speaking, she had the 'factor'\nto become the 'Goddess of Destruction'.\nThat's what the teacher said.
+208	message	'Goddess of Destruction'.\nThat's the name of what\n[NOEL] transformed into.
+209	message	So [NOEL] was\nthe 'Goddess of Destruction'?
+210	message	Strictly speaking, she had the 'factor'\nto become the 'Goddess of Destruction', or so.\nThat's what the teacher said.
+211	message	So, what IS that thing?
+212	message	According to the teacher's research, the 'Goddess of Destruction'\nis the thing that once utterly destroyed\nthe Void world.
+213	message	An awakened 'Goddess of Destruction'\nutterly destroys every world.\nIt's an existence meant to annihilate worlds, apparently.
+214	message	According to the teacher's research, the 'Goddess of Destruction'\nis the one that once utterly destroyed\nthe Void world.
+215	message	An awakened 'Goddess of Destruction'\nutterly destroys every world.\nIt's an existence meant to annihilate worlds, apparently.
+216	message	Why does such a thing exist?
+217	message	I don't know that. But what's certain is\nit's not something humans made,\nor anything on that level.
+218	message	I don't know. What's certain is\nit's not something humans made —\nit's something far more transcendent.
+219	message	You say it utterly destroys worlds, but\nis such a thing even possible?
+220	message	I don't know. But you saw it, right?\nThey say the 'Goddess of Destruction' can\nunleash that destructive power endlessly.
+221	message	I don't know. But what if\nthe 'Goddess of Destruction' could\nunleash that destructive power without limit?
+222	message	What the hell is that! No one\ncould control something like that!\nThis is way beyond Gustave-level trouble!
+223	message	Even Mie and Kei were treating her like a kid...
+224	message	That's the most impossible part... it's off the charts —\nway beyond anything\nhumans could deal with...
+225	message	What should we do, I wonder?
+226	message	Wanna try running to the ends of the world?
+227	message	Even if we run, we'd just\nget swallowed by the destruction eventually.
+228	message	Not that I think\nfighting it would change anything.
+229	message	[NOEL]!\nIsn't there some countermeasure?
+230	message	I absolutely want\nto save [MERU]!\nShe's my friend! I'll never give up!
+231	message	[MERU]! Isn't there\nsome way to save\n[NOEL]?
+232	message	I don't want to give up! Because...
+233	message	I know...! [MERU] and I\ngrew up together —\nshe's like a little sister to me!
+234	message	I know! [NOEL] is\nlike a little sister to me —\nwe've always been together...!
+235	message	//
+236	message	[NOEL]...
+237	message	[MERU]...
+238	message	After I fought with [MERU] and\nleft everyone,
+239	message	the teacher told me\n[MERU]'s secret.
+240	message	And the reason I appeared before everyone as an enemy after that...
+241	message	was to pull [MERU] away\nfrom the journey with everyone\nand steer her toward living quietly.
+242	message	Give her a decent-sized injury,\nmake her realize she wasn't strong enough —\n'quit already,' y'know.
+243	message	After I fought with [NOEL] and\nleft everyone,
+244	message	the teacher told me\n[NOEL]'s secret.
+245	message	The reason I became everyone's enemy...
+246	message	was to pull [NOEL] away\nfrom the journey with everyone\nand steer her toward living quietly.
+247	message	If I beat her and made her see she wasn't strong enough,\nI thought she'd accept\nthat the journey was over.
+248	message	If she'd lived quietly, she wouldn't have awakened?
+249	message	Not exactly. But\nthe teacher feared Mie and Kei\nfinding out [MERU]'s secret.
+250	message	I can't say for sure. But\nthe teacher feared Mie and Kei\nfinding out [NOEL]'s secret.
+251	message	So that's why she never\ntold us the truth...
+252	message	Of course, [MERU] herself\nfinding out also\nhad to be avoided.
+253	message	So the teacher, keeping it secret from everyone but me,
+254	message	without raising suspicion,\nshe tried to retire\n[MERU].
+255	message	What about the whole\n'I'll kill [MERU]' thing?
+256	message	Half of it was serious. The teacher was resolved:\nif the 'Goddess of Destruction' was going to awaken,\nshe'd do it with her own hands.
+257	message	But she was hoping for a chance to\nfake her death with suspended animation\nwithout Mie and Kei getting suspicious.
+258	message	[NOEL] herself finding out\nwas also something to avoid.
+259	message	So the teacher, keeping it secret from everyone but me,\ntried to retire [NOEL]\nquietly and naturally.
+260	message	What about\nthe 'I'll kill [NOEL]' thing?
+261	message	Half of it was serious. The teacher was resolved:\nif the 'Goddess of Destruction' was going to awaken,\nshe'd do it with her own hands.
+262	message	But she was hoping for a chance to\nfake her death with suspended animation\nwithout Mie and Kei getting suspicious.
+263	message	So that's why she fought those roundabout battles\nover and over, waiting for an opening.
+264	message	But that was really hard.\n[MERU] meeting Mie and Kei\nwas an extremely dangerous situation.
+265	message	That was a hard thing to do.\n[NOEL] meeting Mie and Kei\nwas a really dangerous situation.
+266	message	Because they might find out?
+267	message	No. Actually, the 'Goddess of Destruction'\nwas supposed to awaken when [MERU]\nlearned the truth of the world.
+268	message	No. Actually, the 'Goddess of Destruction'\nwas supposed to awaken when [NOEL]\nlearned the truth of the world.
+269	message	The truth of the world...?
+270	message	//
+271	message	Everyone, me, even the teacher —\nwe still don't know the truth of this world,\nwhy the worlds got connected by Polyal.
+272	message	But Mie and Kei know.\nThey're not human —\nthey don't belong to any world. They're special.
+273	message	Everyone, me, even the teacher —\nwe still don't know the truth of this world,
+274	message	why the worlds\ngot connected\nby Polyal.
+275	message	But Mie and Kei know.
+276	message	They're not human —\nthey don't belong to any world...\nthey're special beings.
+277	message	Mie and Kei are special...?
+278	message	Where those two came from, what they are —\nthe teacher believed that learning that\nwould mean touching the truth of the world.
+279	message	So she wanted to keep [MERU]\naway from those two, but\nthere was no stopping the slide toward confrontation.
+280	message	Where those two came from,\nwhat they are?
+281	message	The teacher believed\nthat learning that would mean\ntouching the truth of the world.
+282	message	So she wanted to keep [NOEL]\naway from those two, but\nthere was no stopping the slide toward confrontation.
+283	message	So that's why she cut in,\nsaying she'd do the killing herself...
+284	message	But wait a sec.\nFrom what you just said, it's weird\nthat the Goddess of Destruction awakened, right?
+285	message	//
+286	message	Rena's right.\n[MERU] awakened even though\nshe never learned the truth of the world, right?
+287	message	Rena's right.\n[NOEL] awakened even though\nshe never learned the truth of the world, right?
+288	message	Oh, you're right!\nEve's research is wrong!
+289	message	Um, what do you mean?
+290	message	It looked like\n[MERU] awakened\nbecause Eve died.
+291	message	Learning the truth of the world... hardly.
+292	message	It looked like\n[NOEL] awakened\nbecause Eve died.
+293	message	Learning the truth of the world... hardly.
+294	message	Ohhh! I get it!
+295	message	So, what do we do to save the world, nyo?
+296	message	//
+297	message	Hey! Dejiko, what's with you!? You got a fever or something?
+298	message	What do you mean, nyo? My temperature's normal, nyo.
+299	message	Were you to suddenly declare you'd save the world,\nnaturally anyone would be taken aback!
+300	message	What are you talking about, nyo?
+301	message	If we don't save the world,\nwhat happens to the doujin event, nyo!!
+305	message	Ahh.
+307	message	The end of the world means the end of the doujin event, nyo!!\nGod and the Demon King might forgive that,\nbut Lady Dejiko will NOT, nyo!!
+308	message	I don't really get it, but I won't forgive it either!
+309	message	Me neither!!
+310	message	Neither shall I!
+311	message	That goes without saying.
+312	message	Obviously!
+313	message	Think! A way to stop the Goddess of Destruction!
+314	message	Didn't Eve leave any research notes?
+315	message	They should be in the teacher's lab.\nI've even been let into\nthe lab's hidden room.
+316	message	They should be in the teacher's lab.\nI've even been let into\nthe lab's hidden room.
+317	message	That's our first stop, then.
+318	message	We start with intel.
+319	message	If possible, we'll also need\nto monitor and observe the Goddess of Destruction.
+320	message	Scary as hell, but someone's gotta do it!\nI'll do it!
+321	message	Me too — as club president,\nI'll volunteer for the dangerous job!
+322	message	Looks like we'll split into two teams.
+323	message	This has gone long enough —\nwe'll take a short break, then split into teams.
+324	message	Yes, let's all calm down a bit.
+325	message	...
+328	message	(Hm? What's wrong with Soniko, nyo...?)
+330	message	...
+331	message	Eve... That wasn't\nsome play or anything...
+332	message	All this time, I thought\nit was a movie shoot, but...
+333	message	Surely... this is really happening...\nisn't it...
+334	message	Ugh, uhh...!
+335	message	No... no, I can't — the saddest ones are\n[NOEL] and\n[MERU], so
+336	message	if I start crying...!
+337	message	And everyone, scared and hurting,\nhas been trying so hard...
+338	message	Thinking of me,\nthey kept quiet about\nit not being a movie shoot...
+339	message	So now it's my turn.\nMy dream is to become a rock musician\nwho can cheer up everyone listening.
+340	message	So... even now,\nI have to smile, so I can\nshare even a little energy!
+341	message	Okay...!
+343	message	Heeey, Sonikoo! Time to gather up, nyo~!
+344	message	Comiiing!
+345	message	Hoho, feeling perky, nyo?
+346	message	Yep! The shoot's finally\nreaching its climax!\nI'll do my best — hiyah!
+347	message	That's the spirit, nyo!\nFufu, Soniko, you're gonna be\na great artist someday, nyo.
+348	message	Wah! R-really...!?
+349	message	No doubt about it, nyo.\nDejiko stamps it with her seal of approval, nyo!
+350	message	Yes, thank you so much!
+351	message	(Good for her, nyo. Kinda cool, nyo.)
+353	message	(...J, can you hear me, J!)
+354	message	(How unusual, you calling for me.)
+355	message	(Please hear me out calmly.\nI've... remembered...)
+356	message	(What did you say?)
+357	message	(The moment I saw the 'Goddess of Destruction',\nit felt like a switch flipped in my head with a snap,\nand I just... understood...!)
+358	message	(Hm... and?)
+359	message	(I have a role... something I must do,\na very important role...)
+360	message	(Yes... and?)
+361	message	(What should I do in this situation,\nhow should I even think about it —\nI don't know. J, what should I do?)
+362	message	(As you see fit. That is all.)
+363	message	(As I see fit?)
+364	message	(You decide.\nFor that is your role.)
+365	message	(Decide... me...?\nYou can't just spring that on me.)
+366	message	(You can. The you of now has\nthe power to judge what matters.\nBelieve in yourself.)
+367	message	(Believe in myself... what matters...)
+368	message	That's obvious...!
+369	message	(That's right, [CLAUDE].)
+371	message	...That about covers it, I guess?\nOkay, announcing the teams.
+372	message	Hibiki, Chris, Houki, Cecilia, Laura, Haruka, Aoi,\nTiffania, Shirayuki, Reki, Koto, Usada, and Soniko\nare on the surveillance team with me and Shion.
+373	message	Everyone else is going\nto Eve's lab with [NOEL].
+374	message	Everyone else is going\nto Eve's lab with [MERU].
+375	message	Surveillance on the Goddess of Destruction: safety first.\nNo overdoing it, absolutely.\nIt'll be plenty dangerous as is.
+376	message	The lab team prioritizes speed.\nWe need countermeasures ASAP.
+377	message	It's becoming tradition, but\nwhich way are you going, [CLAUDE]?
+378	message	I... wait,\n[MERU] isn't here\nthis time, is she...
+379	message	I... wait,\n[NOEL] isn't here\nthis time, is she...
+380	message	(You decide.)
+381	message	I...!
+383	message	It's decided, then.
+384	message	Let's hurry!\nMie and Kei might be\nafter Eve's research too!
+385	message	Yeah!!

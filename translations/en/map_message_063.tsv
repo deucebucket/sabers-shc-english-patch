@@ -1,0 +1,170 @@
+row	column	english
+3	message	...
+4	message	Louise, what's with that outfit, nyo?\nThe vibe's totally different, nyo.
+5	message	You look less like a mage and more...\nlike a shrine maiden!
+6	message	Yeah, sort of.
+7	message	Not pajamas, then.
+8	message	No.\nI thought wearing this might help me remember something.
+10	message	Is it some kind of special outfit?
+11	message	Maybe... I don't really know either.\nI just thought it might help me\nremember Gandalfr.
+12	message	The Void familiar, right?\nYou don't remember what he was like?
+13	message	Yeah. I can't picture his face or voice at all.\nBut something special, some special feeling\nwells up from the word "Gandalfr."
+14	message	I think you should\ntreasure that feeling.
+15	message	I think so too.
+16	message	Tiffania... does anything come to mind\nfor you about Gandalfr?
+17	message	No, nothing.
+18	message	But it doesn't feel bad at all.\nI'm sure he must be a good person...
+19	message	If this Gandalfr guy's a man,\nhe'd definitely be into Tiffania.
+20	message	Huh?
+21	message	What's that supposed to mean?
+22	message	Any guy'd prefer melons\nover lemons.
+23	message	Mion! Is that really what you're talking about!?
+24	message	//
+25	message	(Am I on the lemon side, desu~...?)
+26	message	(Am I a melon?\nNo, maybe more like a grapefruit?)
+27	message	([CLAUDE], do you prefer\nmelons or lemons?)
+28	message	(No comment, please...)
+29	message	(And you? What about you?)
+30	message	(Me? Well,\nI exist on a plane transcendent\nof such dimensions.)
+31	message	(I can love melons and lemons\nequally.)
+32	message	...
+33	message	(Too early for [CLAUDE]? All that matters\nis that she's cute.)
+35	message	(For example, an outfit like this\nwould suit Louise-san, don't you think?)
+36	message	(This... certainly...)
+37	message	[CLAUDE]-san, what's wrong, desu~?
+38	message	[CLAUDE]-kun, what's wrong?
+40	message	Huh!? N-no, it's nothing.
+41	message	//
+45	message	I mean, if that familiar's human,\nyou'd wonder if it's a guy or a girl!\nAnd whether he's a hunk or a perv!
+46	message	Listen! Gandalfr, the Left Hand of God,\nis God's shield that protects his master!\nWhat's this about pervs!?
+47	message	Past Void familiars have included\nboth women and men.
+48	message	And the black me is burning\nwith obsession to meet Gandalfr.
+49	message	See, it's a guy!
+50	message	Uuuh, I-I wonder about that...?
+51	message	//Kurumi arrives and scolds them.
+52	message	Honestly, still awake?\nGet to bed and rest up for tomorrow.\nTesla and Nine are already asleep!
+53	message	Right. Let's get to bed.
+54	message	Let's rest well and prepare for what's next.
+56	message	Mmm, no matter when I sleep I can't wake up anyway,\nso I'd rather chat a little more...
+57	message	Oh, me too!\nA warm futon is a monster, isn't it~!
+58	message	Being unable to wake up is no excuse\nto stay up late!\nOff to bed, now!
+61	message	Y-yes! Good night!
+62	message	//fade to black\n//Background: night sky
+64	message	Nn... no... Father...
+65	message	...Sis?
+66	message	No... stop...\nDestroying the world... no...!
+67	message	Please, please...\nFather!!
+68	message	//Event CG off.\n//SE: Gustav firing\n//whiteout
+70	message	Huh...!? Where is this?\nThe world destroyed by Gustav's firing...?
+71	message	//Grunts appear.
+72	message	!!
+73	message	How awful... Even now, the world's\nfighting hasn't ended...?
+74	message	//Nine appears.
+75	message	Sis...!
+76	message	Natchan!!\nWhere are we...?
+77	message	Unknown. ...But
+78	message	//Player deployment: Rem force-deployed.
+79	message	Tesla-chan!!
+80	message	Minazuki-san!? And everyone else too...?
+81	message	Weird, huh?\nKurumi-chan scolded us for staying up late\nand I'm pretty sure we went to sleep...???
+82	message	W-wow, you're right... but why is\neveryone awake?
+83	message	No, we're not awake.\nThis is Tesla-chan's dream—\nto be precise, her nightmare.
+84	message	Inside a dream!?
+85	message	Yes. Someone seized control of Tesla-chan's dream,\nturned it into a nightmare, and dragged us into it.
+86	message	If it weren't Rem saying it,\nthere's no way I'd believe it.\nBeing dragged into someone's dream...
+87	message	If it's a dream, waking up ends it, nyo!\nPuchiko! Wake Dejiko up, nyo!
+88	message	Eye beams, nyu!
+89	message	//SE: eye beams
+90	message	Ouchie, nyo!!\nNo good, nyo, I can't wake up, nyo!!
+91	message	No good. There are only limited ways\nto wake from a dominated nightmare!
+92	message	But hey, if it's a dream, isn't it safe\neven if we get taken out?
+93	message	Sadly, if you're killed, you die.
+94	message	That makes no sense, nyo!!
+95	message	So, how do we get out?
+96	message	...I can't say for sure.
+97	message	But only one with a mighty dream\ncan do something like this.\nAnd that is...
+98	message	//
+99	message	Fufu...
+100	message	That voice!? Doctor Shinigami!?
+101	message	//Black Rem appears.
+102	message	...
+103	message	You...!
+104	message	...
+105	message	A fake Rem-san?
+106	message	You're the one who created this situation?
+107	message	...
+108	message	No answer, huh.\nSo no objection, then.
+109	message	Listen, everyone!\nIn the dream world, strength of heart\nbecomes strength itself!
+110	message	Don't get fainthearted, don't be afraid,\ndon't be startled.\nKeep your feelings strong!
+111	message	Huh!? We can't even be startled?
+112	message	Don't get startled\nright as she's saying it!
+114	message	S-sorry... ahaha...
+115	message	So go in strong!\nThat's business as usual! Nothing to fear!
+116	message	...
+117	message	//Battle start.
+119	message	I just beat one and it feels like they multiplied, nyo?
+120	message	A-awawa... I feel like something like this\nhappened in the hot-spring cave too...?
+121	message	In a dream, numbers have no limit.\nFighting nightmare demons is endless!
+122	message	So we beat that Black Rem, got it!
+123	message	...
+124	message	//Event upon defeating Black Rem. REM-sleep waves envelop Black Rem and revive her.
+125	message	...
+126	message	Ah, something came out?
+127	message	What is that shady thing?
+128	message	Those are REM-sleep waves!?\nWhile she's wrapped in them,\nwe can't beat her.
+129	message	We can't beat her!? What do we do!?
+130	message	No faintheartedness, Mion-chan.\nWe just keep attacking, strong.
+131	message	Just brute force, nyo!?
+132	message	//Clear after several turns pass or Black Rem is defeated a set number of times.
+134	message	Huh!? Where...?
+135	message	Huh... the enemies? Where's Black Rem?
+136	message	Hazuki-san, could it be...\nwere you fighting in my dream world?
+137	message	You dreamed it too, Tesla?
+138	message	...Me too. Same.
+139	message	Can that really happen...?
+140	message	Ah!
+141	message	What's wrong?
+142	message	I saw it... your dream.\nYou were desperately trying to stop Gustav.
+143	message	Huh... you saw that?
+144	message	...Yeah. So...
+145	message	//Event CG: Kurumi, tsundere
+146	message	...Sorry for doubting you.
+147	message	Hazuki-san...
+148	message	If that was acting,\nyou'd go down in history as an actress.
+149	message	So, I'm counting on you\nfrom here on!
+150	message	Drag us down and I won't forgive you!
+151	message	...Roger.
+152	message	Likewise, I'm counting on you!
+154	message	//fade to black\n//St. Cherine Academy classroom
+155	message	Whaaat! Everyone had the same dream!?
+156	message	It was super real!
+157	message	Uuuh, sooo mysterious!
+158	message	No, it was a dream, but it really happened.\nWe were inside Tesla-chan's dream.\nEverything we fought is fact too.
+159	message	It felt so real.\nBut I don't understand —\nhow did we get out of the dream?
+160	message	It ended pretty abruptly, nyo.\nWas it because we woke up, nyo?
+161	message	Yeah, but... it's strange.
+162	message	Strange — what do you mean?
+163	message	We shouldn't have had any way\nto escape a dream ruled by dream power.\nAnd yet, the dream just suddenly ended.
+164	message	So it's not that we beat Black Rem?
+165	message	Right — she couldn't be beaten.\nAs long as she's protected by REM-sleep waves,\nI know better than anyone that she's invincible.
+166	message	My black self should still be fine.\nAnd yet everyone woke from the dream.\nIf something like that could happen...
+167	message	If it could?
+168	message	It can only mean someone interfered\nfrom outside the dream.
+169	message	But only one with dream power, or\npower to rival it,\ncould do that.
+170	message	So who is it, nyu?
+171	message	That's...
+172	message	//fade to black\n//Background: the dream world\n//It was Yase who broke Black Rem's power.
+173	message	Good grief, what a handful...
+174	message	Honestly, that black one —\ndoing that to Koto!\nUnbelievable!
+175	message	//Yase vanishes.\n//Then Doctor Shinigami appears.
+176	message	Fufufu...
+177	message	//fade to black\n//Background: wherever Mii and the others are (whatever works)\n//Kei and the others are talking.
+178	message	Dark Rem test complete.\nJudged sufficiently usable.
+179	message	Do we really need that thing?\nDark Rem-chan never talks, so\nshe's no fun. She's like a doll~!
+180	message	Lately, Doctor Shinigami has been\nacting suspiciously.\nHis "dream power" is dangerous.
+181	message	Is it? Aren't you a little too scared\nof things you don't understand, Kei-chan?
+182	message	The power of Ama-no-Tsukai. Dream power. Void magic. IS.\nHinamizawa... all incomprehensible.
+183	message	Not getting it is what makes it fun~!\nYou've still got a lot to learn, Kei-chan.
+184	message	Yes. Still lacking data.
+185	message	Nooo! It's not about data!\nBzzzt, wrong!!
+186	message	//END

@@ -1,0 +1,289 @@
+row	column	english
+4	message	What's going on over there, I wonder...
+5	message	Rin-san?\nWhat are you doing there?
+6	message	Huh!? I-I'm... nothing!\n...Oh, it's you.
+7	message	What are YOU doing here?
+8	message	I saw you, Rin-san...\nI just called out to you.
+9	message	I'm not doing anything,\nso don't worry about it.
+10	message	Come on, come on, over there, over there!!
+11	message	What were you looking at...?
+12	message	Y-you idiot!\nYou don't need to look!
+13	message	The others...?\nInstead of watching from afar, why don't you talk to them...?\nInstead of hanging around the edges like me...
+14	message	It's different now.\nI can talk normally.
+15	message	I was just observing.\nWhat's wrong with that?
+18	message	Observing... over there...!?
+19	message	...What? 'Over there' what.
+20	message	I was thinking maybe you... like girls, Rin-san.\nNo, I'm not judging!
+21	message	W-wrong!!\nAre you stupid!!
+24	message	Observing... is there an enemy?\nAmong our comrades, maybe?
+25	message	Huh? You're serious, huh.\nSure, I did get impersonated once,\nso it's not impossible, but.
+26	message	That's not what I'm looking for.\nI couldn't tell just by looking anyway.
+29	message	Enough already.\nLet's go over there.
+30	message	But then...\nthe reason you were peeping...
+31	message	Don't call it peeping!\nThat sounds terrible!
+32	message	I said observing!\nGet that much straight!
+33	message	...If I did the same thing,\npeople would probably call it peeping.
+34	message	Obviously?\nThat wouldn't be observing.
+35	message	I-I see...\nNo, it's not like I want to—\nI just couldn't help noticing the unfairness...
+36	message	What are you mumbling about, so gloomy.\nBe more cheerful.
+37	message	Anyway, not a word of this to anyone.\nIf you tell... you'll be sorry.
+38	message	Y-yes...
+41	message	You again?
+42	message	I was thinking the same thing...\nWhat's been up with you lately?
+43	message	None of your business.\nJust leave me alone.
+44	message	No matter how curious you look,\nI won't explain.\nYou wouldn't get it anyway.
+45	message	This is my problem.
+46	message	...Could it be...?\nYour... chest...
+47	message	...My... what?\nWanna die? You wanna die...\nOkay, I'll kill you...
+48	message	Don't worry, it'll be instant.\nBy the time you think 'that hurt,'\nyou'll already be there...
+49	message	Where...?\n...S-sorry!\nI'm scared...
+50	message	(She was looking at the busty ones... I knew it...)
+51	message	...Say that again and I'll crush you\nwith my Kouryuu, no hesitation.
+52	message	Anyway... so?\nNow that you know, what do you plan to do?
+53	message	Do... what?
+54	message	You're the one who wanted to know!?\nPlanning to blackmail me with my weakness?
+55	message	Too bad for you.\n...I'll crush you with everything I've got.\nThreats won't work on me.
+56	message	Blackmail...!\nI had no such intention!\nI thought you were troubled, Rin-san.
+57	message	Me?\nYou were worried about me?
+58	message	I-if... if it was a misunderstanding, fine!\nYou should've said so\nfrom the start!
+59	message	It's not the kind of worry I'd confide in you.\nSo don't concern yourself.
+62	message	I might be able to help...
+63	message	H-help... as if!\nThere's nothing I could ask you for!
+66	message	They say talking about it helps...
+67	message	I can't talk about it.\nIt's personal.
+68	message	You might be worried about me,\nbut there are things only girls\nunderstand.
+71	message	Got it?\nI want to be left alone right now.
+72	message	...Understood.\nWell then, see you.
+73	message	'See you'... you still plan to worry about it?\nYou're persistent.
+74	message	Fine, I get it.\nIf it seems like something I can consult you about, I'll talk.\nThat good enough?
+75	message	But if you laugh then... I'll erase you.
+76	message	Y-yes... understood...
+77	message	(Did I stick my nose where it doesn't belong...?)
+80	message	So, the consultation.\nCan you swear you won't laugh?
+81	message	Yes. It's fine.
+82	message	S-so... how do you\nmake them grow?
+83	message	Asking a guy like you about this\nis definitely weird, but...
+84	message	Since you're so persistent,\nI swallowed my pride and came to ask.
+85	message	You've got some good solution, right?
+86	message	Um... to be clear what we're growing...\ncorrect me if I'm wrong.\n...It's your chest, right?
+89	message	...I didn't hit you, so it's fine, right?\nI'll hold back properly...
+90	message	For now, about the growing thing...\nlet's just say that's what it is...
+91	message	Even if I denied it, you wouldn't believe me.
+92	message	Understood... thank you.
+93	message	(What is this... this tightrope of a conversation.\nI feel like I have a knife to my throat...\nWell, she's holding worse than a knife)
+94	message	So, is there any way\nto make them grow?
+95	message	Spit out whatever info you have.\nRight now!
+96	message	Well...\nThere's the theory about early to bed, early to rise\nand drinking milk, but...
+97	message	I already do that.\nBesides, bad habits are bad for your skin.
+98	message	I don't think there's a girl who\ndoesn't care about it.
+99	message	(I don't think it's ALL women who care...)
+100	message	Hey, is that all\nthe info you've got?
+101	message	How about exercise, then?\nThey say there's good exercise for bust growth.
+102	message	...I know that.\nI'm not doing it, but I know it.
+103	message	...Why are you looking down there!\nI'll kill you!
+104	message	And besides, we have\ncombat training.\nYou're saying I need MORE than that?
+105	message	Y-yeah, you're right...
+106	message	Nothing but useless\nopinions.\nGot anything else?
+107	message	According to my notes...\nhaving the opposite sex massage them makes them bigger.\nThis... doesn't seem credible.
+108	message	There's no reason it has to be the opposite sex.
+109	message	Obviously!\nI'm asking if you have\nRELIABLE info!
+112	message	Surgery, maybe...?
+113	message	...That's an extreme option.\nI'm not doing that!\nA guy suggesting that... the worst!
+116	message	Building chest muscle...
+117	message	That's just pure muscle!\nWell, it IS the bust, so...\nit'd probably get bigger too...
+118	message	But getting all buff...\nthat's not quite it.
+121	message	Geez! This is all useless!\nI thought there'd be an effective method!
+122	message	Then want to try it?
+123	message	Huh? Try what?
+124	message	The method about being massaged by the opposite sex.\nI'll help.
+127	message	Are you stupid!\nI'll really kill you!
+128	message	I was an idiot for asking you!
+129	message	...I didn't mean... anything by it...
+132	message	Don't come any closer.\nYou're dangerous.
+133	message	I'm sorry.\nLike I said, I wasn't thinking anything ulterior...
+134	message	Hmm...\nSo you tried to touch a girl's chest\nWITHOUT thinking about it!?
+135	message	...In a way, that's really hurtful...
+136	message	I didn't want to hear that!
+137	message	(...Either way I get yelled at...\nof course...)
+138	message	...Stop digging at the wound...\nI appreciate you hearing me out, but...
+139	message	Boys just don't get it, I guess.\nIt's not like you've thought of\nother methods, right?
+140	message	No, I haven't...\nI've been thinking, though...
+141	message	...But do reflect on that 'wasn't thinking'\ncomment.
+142	message	Yes...\nI'll be careful.
+143	message	...Fine, whatever.\nNo point staying mad...
+144	message	I know it's a hard worry\nto understand...
+145	message	I'll give up on that part.
+146	message	...I'm sorry...
+147	message	Forget about this worry.\nI want to forget it.
+148	message	Okay? Don't bring it up.
+149	message	Understood... but...\njust one thing?
+150	message	What? If you say something weird,\nyou won't get off easy.
+151	message	No.\nI think you're fine just as you are, Rin-san.
+152	message	H-huh...?\nWhat do you mean?
+153	message	No... just saying what I think—\nI find you attractive as you are.\n...That's all.
+154	message	Wh-what... hey!\nI said if you say something weird,\nyou won't get off easy...!
+155	message	...So I'm supposed to accept that?
+156	message	.........\nW-well... it doesn't feel bad hearing it.
+159	message	That's good...\nI was worried I'd get a dirty look...
+160	message	I-it's not like I'm super happy\nor anything!\nJust a little... okay?
+161	message	And it's not because it's you!\nAnyone saying it would feel the same!\nIt just doesn't feel bad hearing it!
+164	message	That's all I get for saying all that...?
+165	message	...I can hear you.\nGeez... you never finish the job...
+168	message	...Anyway!\nWe're never touching this topic again!
+169	message	...Got it?
+170	message	Yes... understood.
+171	message	(...If this gets Rin-san back to normal...)
+174	message	IS units are amazing...\nMakes me envious.
+175	message	What brought this on?\nCreepy.
+176	message	Envy all you want, you can't pilot an IS.\nThere's no precedent for men.
+177	message	I don't know about other worlds, though.
+178	message	True...\nMaybe there's another world with\nIS units made for men.
+179	message	I don't even want to think about it...
+180	message	Why not?
+181	message	If such a world existed and\nwe could travel between them...\nwar would break out.
+182	message	IS units have settled into something like\na sport now, but shift a little\nand they're weapons.
+183	message	If other worlds had them too and they became a threat...\nwe'd have no choice but to fight.
+184	message	I see...\nYou think about that stuff, Rin-san?
+185	message	Not really?\nYou raised a weird hypothetical,\nso I gave my opinion.
+186	message	I don't usually think about\nunrealistic stuff.
+187	message	Even though I'm living in unreality right now.
+188	message	You're a hard worker, Rin-san...\nso you'd think of that right away...
+189	message	Stop it, 'hard worker'...\nI'm just desperate.
+190	message	But I heard.\nBecoming a personal-unit holder is hard.\nAnd you earned it on your own...
+191	message	That's the past!\nNow is now!
+192	message	I have to keep working hard!\nBecause they recognized me and\nentrusted me with a personal unit.
+193	message	Right?\nI can't let them down.
+194	message	You're... amazing.\nThat you never get complacent...
+195	message	Somehow... being around you\nthrows off my rhythm...
+196	message	S-sorry...
+197	message	Don't apologize.\nI don't... mind it.
+200	message	Am I weird...?
+201	message	Yeah.\nSuper weird!
+202	message	You know that?\nIt's like a sickness, probably.
+205	message	I'm not very positive...
+206	message	I know.\nIf you suddenly turned positive\nit'd be creepy.
+209	message	Well, it's fine, I guess.\nDon't worry about it.
+210	message	Huh?
+211	message	There's demand... right?\nThere's gotta be demand for\nguys like you too.
+212	message	So it's fine, right?
+213	message	(That was encouragement... right.\n...I'd get yelled at for thanking her,\nso I won't...)
+216	message	...Fwaaah...
+217	message	What's wrong?\nYou look sleepy.
+218	message	Y-yeah.\nI stayed up a little late.
+219	message	Training?\nDon't overdo it...
+220	message	Not that.\nI got hooked on a Japanese game\nand got a little absorbed.
+221	message	I found an old Japanese game.\nI wasn't expecting much, but.
+222	message	I tried it\nto clear my head,\nand it's actually pretty good.
+223	message	Do you play games?
+224	message	Hmm...?\nI might not play much.\nI don't remember...
+225	message	I see.\nYou don't look like you'd be good at them.
+226	message	I've got confidence\nin my reflexes, though...
+227	message	And it's not just that—\nthe kind that demands judgment\nseems to suit me.
+228	message	And Japanese games\nhave cute characters.
+229	message	My country has cute ones too,\nof course,\nbut Japan has a lot of them.
+230	message	Though I don't play that much\neither.
+231	message	What kind of games do you play?
+232	message	Action games.\nObviously.
+233	message	They're exhilarating, right?\nFighting games are fine too.
+236	message	That's so you, Rin-san...
+237	message	...What's that supposed to mean.\nLike you've got me all figured out.\nMakes me sound simple.
+238	message	I don't care about genre, okay?\nThere's no genre I'm bad at!
+241	message	How about RPGs?
+242	message	Japanese RPGs aren't bad either.\nAny genre's fine with me.\nAs long as it clears my head.
+245	message	Wanna face me, then?\nI'll show you what I've got.
+246	message	Y-you're that... confident?\nAre you a huge gamer or...?
+247	message	Of course not.\nI said I just tried it\nto clear my head.
+248	message	But I am confident.\nI'm good at everything I do.\nHmph.
+249	message	(She's so confident...\nBut it's not a bluff...)
+250	message	If you win,\nI'll give you a reward.
+251	message	Not that you could possibly win.
+252	message	W-well, of course...\nI'm not much of a gamer...
+253	message	Then I'll let you pick the game.\nBring one you think\nyou'd be good at.
+254	message	And I'll crush you utterly.
+255	message	...Come on.\nWell, if I get to pick...\nmaybe...
+256	message	Hmm... planning to win, are you...\nFunny.\nHave it ready by next time.
+257	message	...A game I could win at...
+260	message	...What's this?
+261	message	Um... I picked a game.
+262	message	...This is a game,\nsure, but...
+263	message	It's a board game!?
+264	message	I thought you'd pick a video game...\nwere you even listening to me?
+265	message	It IS... a game?
+266	message	W-well, yeah.\n...And what is this anyway?\nI've never seen it.
+267	message	We can't compete with this.\nI can't show my skills either.
+268	message	Oh, are you bad at board games?\nI thought you weren't bad at anything...\n...Then let's not.
+269	message	Hah!?\nLike I'd be bad at them!
+270	message	Fine!\nBoard game or not,\nI'll crush you utterly!
+271	message	R-really...?\nThis is fine?
+272	message	It's fine.\nI'll show you my adaptability!
+273	message	Now, let's start.\nInside it's...\n...like sugoroku...
+274	message	It's heavily luck-based...
+275	message	...Something wrong?
+276	message	N-nothing!\nLuck's part of skill, right? Yeah.\nGo on, you start.
+277	message	Y-yes...\nIf you insist.
+280	message	A-and... I'm done...
+281	message	Impossible...\nMe, losing...
+282	message	My dynamic vision, my reflexes...\ncompletely useless...
+283	message	And even so... this margin...\nImpossible.
+284	message	I just got lucky.\nI racked up points smoothly.
+285	message	...H-hey, you're not bad!\nSo your luck stat is high—\nth-that I'll... acknowledge.
+286	message	But... I won't lose next time!\nDon't get cocky just because you\nwon by fluke!
+287	message	I'm... not getting cocky...
+290	message	Winning felt purely good, though.\nI didn't think I could win.
+291	message	...What. Getting cocky?\nI'll get revenge!\nRight now!?
+292	message	I-I'm not getting cocky at all...!?\n...Urgh.
+295	message	Playing games with you was fun, Rin-san.
+296	message	...You can say that\nwith a straight face...?
+297	message	...I'm a little impressed.
+300	message	Well, whatever.\nYou beat me, so\nI'll prepare your reward.
+301	message	No, that's fine...
+302	message	It's fine, I said so.\nAnd I already thought of the reward—
+303	message	I'm sure... you'll like it.
+304	message	I really want you to have it.\n...Specially.
+306	message	What's with that last part...
+307	message	It sounds like... a confession's coming...\nNo... surely not.\nBut... if it were...
+310	message	...Where is this?
+311	message	Geez, hurry up and come here!
+312	message	I hear Rin-san's voice...?\nIs it this classroom...?
+315	message	You finally came!\nYou're slow.
+316	message	...Rin-san? What's with that outfit?\nAnd where even is this...?
+317	message	Didn't you see the sign outside?\nIt's a café, a café. It said Café 'SHC,' right?
+318	message	You overlook things because you're always spacing out.
+319	message	This outfit's cosplay.\nAt SHC we dress like this.
+320	message	I see...\nSeeing you dressed like that is fresh.
+321	message	That's it...?\nDon't you have more to say?
+322	message	...More to say?\n...Um, is there no menu or anything?
+323	message	...Sigh.\nI was an idiot to expect anything from you.\nHere. The menu.
+324	message	Order whatever you like.
+325	message	...It says 'sweet and sour pork' in huge letters...
+326	message	You can order whatever you like?
+327	message	...Then, sweet and sour pork, please.
+328	message	Yeah yeah! Wait a sec—!
+331	message	Here, sorry to keep you waiting.\nIt's my pride and joy.
+332	message	Wow, looks delicious. Thank you for the meal.\n...Mmh. It's really good!
+333	message	Right? I really wanted you to try it.\nI said it was a reward, right?
+334	message	I can't cook for you like this any other time...
+335	message	Th-thank you.\nBut you're amazing, Rin-san...
+336	message	Making sweet and sour pork doesn't make me amazing.
+337	message	Not just that—\nlooking good in anything you wear,\nall of that—I think it's amazing.
+338	message	Wh—!? You're complimenting THAT now!?\nYou said nothing before...
+339	message	That kind of surprise attack...\nisn't that unfair...
+340	message	Huh? What is it?
+341	message	N-nothing!
+342	message	I-if you want... um...\nI could keep... cooking for you.
+343	message	...It's not like— I just sometimes want\nto make sweet and sour pork, and... um...
+344	message	Rin-san... that means... in other words.\nI'm really happy. Rin-san.
+345	message	.........
+348	message	What are you doing sleeping here!
+349	message	...Huh? Rin-san?\nThat outfit... is the cosplay over?
+350	message	Cosplay? What are you talking about?\nWere you dreaming?
+351	message	Dreaming about dressing me up in cosplay—\ncarefree, aren't you.
+352	message	Anyway, this.\nTake it.
+353	message	Huh? What is this?
+354	message	Can't you tell by looking?\nIt's a game, a game.\nI said I'd give you a reward, right?
+355	message	Next time you'll fight me\non my turf.
+356	message	I can't let losing stand.\nNext time I'll crush you utterly.
+357	message	...Um, time to practice...?
+358	message	Learn by doing!\nNow, let's go!
+359	message	...I don't feel like I can win.\nAt games... or at conversation...
+360	message	First, I'll treat you to\na perfect game!!

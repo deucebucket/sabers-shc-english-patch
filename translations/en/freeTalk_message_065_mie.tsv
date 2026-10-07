@@ -1,0 +1,311 @@
+row	column	english
+4	message	Ah~! Found you~!
+5	message	...Huh?\nOh, me?
+6	message	Yeah! I was looking for you, Big Bro~\nHey hey, play with Mie!
+7	message	B-Big Bro? ...Um, I think you'd have\nmore fun playing with someone else?\nI can't even say anything witty...
+8	message	Ahaha. That's fine~\nI just wanna play.
+9	message	See~. Even Mie thinks about\nall kinds of stuff, you know. For this game,\nit has to be with Big Bro~.
+10	message	We'll use this ball as our prop~!
+11	message	A ball game...? Like catch...?\n...I'm not very good at it.
+12	message	Yeah yeah. If you can throw it back, that's fine?\nBut you probably can't~.
+13	message	Because...
+16	message	Ahaha.\nYou can't catch Mie's ball, can you~?
+17	message	U-um... I feel like getting hit by it\nwould be no joke...
+18	message	Right?\nSo you'd dodge for dear life, yeah?
+19	message	A slightly one-sided ball game —\nsounds super fun, right?
+20	message	Okay, let's get started!\nRea~dy...
+21	message	W-wait a second.
+22	message	Mooore! Whaaat?\nI can't wait much longer?
+25	message	Let's play something healthier.\nUm... this is dangerous... for me.
+26	message	Huh? That's what makes it good!\nThrilling and fun, right?
+27	message	I wanna see Big Bro running around in a panic —\nit looks like fun~.
+30	message	So you believe I can dodge it?\nBut you said I'd get hit, though... right?
+31	message	Big Bro's right for this game, yeah?\n'Cause anyone else could probably fight back.
+32	message	With Big Bro, even whether he can run away\nis touch-and-go~.
+35	message	Then, let's beg~in!
+38	message	Eek!? P-please... go easy...
+39	message	Wow wow!\nYou're actually dodging it!
+40	message	Ahaha~. Next one~.
+41	message	G-gotta run... or I'll get got...!?
+42	message	Ah! Wait~!! Ahaha~!!
+45	message	Huh? I thought I sensed someone\naround here~.
+46	message	(...Stay quiet... she'll notice me.\nIf I'm found... who knows what she'll do next...)
+47	message	Hmm... and here I was\ngenerously gonna play with you~!
+48	message	Where'd he go~?\nI don't think he got far~.
+49	message	Ah! Maybe he's hiding~?\nHe could be around here!
+50	message	(...Gulp!? H-how does she know!?)
+51	message	I see! The game's already started!\nHide and seek, hide and seek♪
+52	message	Mie's 'it'!\nOkay, I'm gonna find you!!
+53	message	'Cause Mie's 'it',\nthat means I can do whatever I want\nonce I find you~.
+54	message	Ahaha!\nI can't wait! What should I do~?
+55	message	(Wh-what are you planning to do!?\nI'm not even playing hide and seek...)
+56	message	Where~? Where~?\nIf I find you too easily,\nmaybe I'll do something awful~?
+57	message	You better entertain me!\nYou're hiding, right?
+58	message	(...At this rate she'll find me easily.\nWhat do I do...)
+61	message	(Maybe I should just show myself to Mie.\nThat way, it might not be so bad... I think)
+62	message	Ah! Coming out on your own is a no-no?\n'Cause that wouldn't be fun for me.
+63	message	If you do that,\nI'll do something that'll make you wish\nyou never did.
+64	message	(I can't just go out there now... what do I do...)
+67	message	(Maybe I should hide somewhere else...\nAt this rate she'll find me easily...)
+68	message	Hmm.\nYou're not hiding somewhere\nobvious, are you~?
+69	message	I'll save the easy spots for later~♪
+70	message	(I can't just go out there now...\nwhat do I do...)
+73	message	Gonna find you~♪\nGonna find you~♪
+74	message	Find you, and grind your body to paste♪
+75	message	(Th-that's terrifying!? My body... ground to paste?)
+76	message	Hm? I heard a noise~!
+77	message	Could you be hiding in that fridge\nwith its insides pulled out~?
+78	message	Probably not, but\nif you are, that's just dumb!
+79	message	D-dumb is fine...
+80	message	Ah! Found you~!
+81	message	U-um... please don't grind me to paste...
+82	message	I wouldn't do that~\nOkay, now it's Mie's turn to hide.
+83	message	If you find me properly,\nI'll forgive you the purge.
+84	message	The purge!?
+85	message	Yay! Ahaha~.
+87	message	(I have to find her... no matter what, I have to find her,\nor I'm in big trouble...!!)
+90	message	What should we play today?\nHow about dropping coins into a cup of water —\nwhoever spills it loses?
+91	message	Loser gets a punishment game!\nIf Big Bro loses, he's Mie's servant.\nIf Mie loses, she'll say sorry♪
+92	message	Um...\nthe punishments seem a bit uneven...
+93	message	No they're not~.
+94	message	If possible, I'd like to decline...
+95	message	No way~.\nIt's no fun with just Mie!
+96	message	But, but... it's no fun\nif Big Bro doesn't play with me.
+97	message	Then, how about betting on which of\nthese two treats that cat-shaped robot\nover there will eat?
+98	message	Betting... isn't really my thing...
+99	message	Yeah, I figured!
+100	message	I don't really know how to play with people,\nso you'd have more fun with someone else...?
+101	message	If you don't play with people, what do you usually do?
+102	message	Sleeping? That's sooo lonely!
+103	message	Well... for example, this?
+104	message	Hm? What's that?\nString? Is making a loop with it fun?\nMie doesn't think so?
+105	message	You can use this to play alone...\nLike this, and like this... doesn't it look like a bridge?
+106	message	Whaa~?\nWhat is this! How does it do that!?\nFun~!!
+107	message	Do it again! Again!
+108	message	Y-yes... like... this.
+109	message	Amazing amazing!!\nHow? How are you doing it?
+110	message	Teach Mie~!\nThat looks fun~!
+113	message	O-okay... want to try?
+114	message	Yeah! Lend me that string.
+115	message	(This should keep me away from\ngames with punishments... good...)
+118	message	It might be hard for you, Mie...\nare you sure...?
+119	message	Hah? Obviously?\nIf Big Bro can do it,\nthere's nothing Mie can't do!
+122	message	So... the way to do it is...
+123	message	It's fine! I watched properly!\nFirst, I'll try it.
+124	message	Like this, and like this... like this!
+125	message	Huh? It's totally different...?\nWhat's going on~?
+126	message	B-B-Big Bro!!\nYou didn't teach Mie the wrong thing, did you?\nIf you did, I'll roll you up and toss you in the trash!
+127	message	There's a proper way to do it...\nPlease don't make that scary face...
+128	message	I'm not making a scary face!\nMie always makes a cute face!
+129	message	Forget it!\nI'm not playing this game!
+130	message	We're switching to tag, so\nBig Bro, run away right now!!
+131	message	Mie's 'it'.\nIf I catch you, it's punishment game time!
+132	message	Ehhh... why are you in a bad mood...?\nGive me a break...
+133	message	Okay, starting!\nGo!!
+134	message	Uwaaaaah!!\nToo fast, you're too fast!!
+135	message	...You mocked Mie...\nYou... mocked Mie!!
+136	message	No way... what did I even do...
+139	message	Um... did you do something while I was sleeping...?
+140	message	Hm? Why do you think that~?\nMie didn't do anything~.
+141	message	But... there's 'flesh' written on my forehead,\nand 'Mie was here' on my cheek...
+142	message	Busted?\nBig Bro, you're quite the detective.
+143	message	Well, if your name's written there, you'd suspect you first...
+144	message	But it came right off, right?\nMie's so kind, right?
+145	message	Seeing your defenseless sleeping face\nmade me wanna scribble all over it, but\nthat wouldn't be fun.
+146	message	So I made it a prank you'd react to\nlater. Fun, right!
+147	message	Is that... right?\nI'm not amused, though...
+148	message	I'm amused.
+149	message	But... you wrote the 'flesh' one in permanent marker, right?
+150	message	Ahaha!\nThat's why the 'flesh' is\nstill on your forehead!
+151	message	Like it's not your problem!?\nUgh... this is embarrassing...
+152	message	It's fine, it's fine.\nIt's no different from usual~.
+153	message	Well... I'm not exactly noticeable,\nso nobody's noticed so far.
+154	message	Ahaha!\nBig Bro, you're so fun~!\nThat gloomy face, love it!
+155	message	Maybe I'll scribble on everyone else too~?\nThen it'll be normal,\nand Big Bro won't be embarrassed, right?
+156	message	Besides, a group of people with\nscribbles on their faces sounds like fun~.
+157	message	Um... please don't...\nBesides, then we'd have to scribble\non your face too, Mie...?
+158	message	No no no!!\nScribbling on me\nwouldn't be fun for me!
+159	message	Absolutely no scribbling\non Mie's face!
+160	message	Anyway, the other girls already\nscribble on their own faces, so it's fine~!
+161	message	Scribbles...?\nI don't think anyone does...
+162	message	They will eventually, right?\nThey smear all kinds of stuff on their faces!\nMie knows~!
+163	message	Isn't that... makeup...?
+166	message	You've never worn makeup?
+167	message	I-I have too!\nI have worn it!!
+168	message	It's just not very fun!!
+171	message	You don't need it, Mie...\nI don't think the others wear any either...
+172	message	Big Bro just doesn't know~\nHow much girls transform themselves.
+173	message	Harsh, right?\nAhaha. I wanna see Big Bro's face\nwhen he sees a girl's bare face!
+176	message	A-anyway...\nyou shouldn't scribble on\nother people's faces...
+177	message	Booo!\nBoring...
+178	message	Take responsibility and\nentertain me~!
+179	message	Th-that's... unreasonable...
+182	message	Hey hey, Big Bro, listen for a sec~?\nYou'll be fine, right? Right?
+183	message	Um...\nwouldn't someone else be better than me...?
+184	message	Huh, why?
+185	message	Because I don't think I can help...
+186	message	You can decide after hearing me out!\nOr what?\nYou don't wanna hear Mie's story~?
+187	message	Then for the next battle,\nmaybe I'll dose you with lots of laxatives\nbefore making you fight.
+188	message	Oh, yeah! That sounds fun!\nLet's totally do it!
+189	message	N-no, please...\nokay, fine...\njust don't get mad if I can't help, okay?
+190	message	Yes yes~.\nBut let's still do the laxative thing!\nIt'll be hilarious, trust me!
+191	message	Of course I hate that idea...\nI have some pride, at least...
+192	message	Tch...\nno fun...
+193	message	Well, I'll do that one in secret.
+194	message	(I need to... be careful with food...)
+195	message	Look, look, I found something good!
+196	message	Ta-daa~. A camera~♪
+197	message	Too bad it can't take videos~.
+198	message	A camera...?\nWhat's that?
+199	message	You don't know what a camera is!?\nYou're so behind the times~.
+200	message	Well, we all come from\ndifferent worlds, so it can't be helped.
+201	message	This is a tool for art —\nit preserves a girl's, ahem, unguarded moments\nas a single picture~.
+202	message	Score!\nNow Big Bro can see fun stuff\nanytime he wants!
+203	message	...Mie just wants to capture it\nand watch Big Bro getting scolded...
+204	message	Huh? I... didn't catch the second half.\nA woman's unguarded moments... like, THAT kind of pose or THIS kind!?\nYou can see those? That seems... not good...
+205	message	You're so stiff...\nAs long as you don't get caught, it's fine~.\nSounds fun, right? Right?
+208	message	I'm clumsy, so...\nI feel like I'd get caught right away...
+209	message	I know, I know.\nIf that happens, just say\n'sorry' and apologize.
+210	message	...I wanna see you getting scolded\nfor being clumsy...
+213	message	That's a weird tool...
+214	message	You just don't get it.\nThis is a tool humans developed, you know?\nNot weird at all.
+217	message	Here, I'll lend it to you!\nTry it out right away.
+218	message	There might be a paradise in it\nfor Big Bro!
+219	message	I'm not really in the mood...\nbut if you say so, I'll take a picture...
+222	message	Huh?
+223	message	Um... what happens with this?\nWhere does the picture come from...?\nAh, this thing that came out of the front, right...
+224	message	Did you just... take a picture of me?
+225	message	Huh? Well... you told me to try it...\nWith this camera thing that captures unguarded moments.
+226	message	Hyuh!!
+227	message	What's wrong!?\nYou're covering yourself... are you cold?
+228	message	Y-you can't just take pictures without asking!\nYou have to get proper permission for that!
+229	message	Mooore! The camera's confiscated!\nPranks like that are bad!
+230	message	Y-yes...\nI don't mind, but...\nyou're the one who told me to...
+231	message	Going after my body... you're such a pervert!
+232	message	P-pervert... no way!\nI just did what I was told...
+233	message	I don't know, I don't know! I don't know!!\nJust forget this ever happened!
+235	message	...What is she mad about...\nOh, the picture's developing...
+236	message	Hm? It's just a normal picture of Mie...\nWell... fine...
+239	message	Auh!
+240	message	...Hm? Is something wrong...?
+241	message	Ah...!
+242	message	Um... what are you doing? Rolling on the floor...\nOh, if you don't wanna say, that's fine... excuse me.
+243	message	I never said I didn't wanna say.\nHey, Big Bro!\nDon't run away~.
+244	message	I wanted someone to talk to,\nso this is perfect.\nAnyone would've done, though.
+245	message	Anyone...? Even me...?
+246	message	Like I said, anyone~.\nAs long as you're human, you're fine.
+247	message	O-okay. I'll just... be here.\nSo, what were you doing?
+248	message	Putting on my socks.
+249	message	I can't put them on well,\nso it takes a while.
+250	message	Like this, stand up...\nand lift your leg~.
+253	message	When I lift my leg, I fall over~.\nIt's hard, right?
+254	message	Heave-ho! Like this~.
+257	message	Auuh...
+258	message	Um... why not sit down to put them on?\nThen you wouldn't fall...
+259	message	No! This is my thing!
+260	message	I always put them on standing up!
+261	message	Honestly! You just don't get it!\nIf I don't train my sense of balance like this,\nI'll get old and decrepit.
+262	message	I do think about it, you know.
+263	message	So I put on my socks standing up!!\nI won't give up until\nBig Bro cries!
+264	message	I won't cry, though...\nokay... I won't stop you.
+265	message	It's fine... I can put them on right away~.
+268	message	Auh... One more time!
+271	message	...Mooore!! Not yet!
+274	message	Kinda... cute... isn't she.
+275	message	Wh-what!? You just noticed now?\nMie's always been cute.
+276	message	But~ perverts are turned away.\nAhaha!
+279	message	Sense of balance... huh.
+280	message	Are you looking at me with pity?\nI hate that!\nMooore, you're mocking me, aren't you!
+281	message	Next time you look at me like that,\nI'll tie you to a rock around here\nwith a sign saying 'in training'!
+284	message	Honestly! Don't you think about\nhelping instead of just watching?
+285	message	Huh? Can I hold you? What about the aging...
+286	message	Mie's young, so it's fine!\nWhat do you think Big Bro\nexists for?
+287	message	...I don't think it's to hold you up...\nbut okay, I'll hold you...
+288	message	Okay~. Heave-ho...\nThey're on~!!
+289	message	Okay, Big Bro's\nserved his purpose!\nBye-bye!
+291	message	(Competitive... or what...\nshe's a hard kid to figure out...)
+294	message	Staaare...
+295	message	.........
+296	message	Staaare... staaare...
+297	message	.........\nWh-what is it...?
+298	message	Lately, I feel like I've been playing\nwith Big Bro a lot.
+299	message	You're gloomy, and dull,\nand not cool, and I don't really get\nwhat's fun about you.
+300	message	Maybe it's the reactions...?\nFeels kinda weird.
+301	message	Sigh...
+302	message	No, the reactions\naren't that funny either, it seems.
+303	message	Oh right, that string game\nyou taught me? Turns out\nit's called cat's cradle.
+304	message	I studied it a little~\nAren't I great~!
+305	message	I see...\nIt's called cat's cradle? I didn't know.
+306	message	...Well, whatever.\nNow Mie's better at it, so\nI'll teach YOU, Big Bro.
+307	message	Look look!\nSee, I can go from the bridge\nall the way to the tower now!
+308	message	Th-that's... congratulations.\nBut I mostly play alone, so...
+309	message	And like I showed you before,\nmy way is doing it one-handed...
+310	message	...True, with bandages on one hand\nyou can't use both. Staaare...
+311	message	This won't come off?\nI forgot how I wrapped it...
+312	message	...What's that?\nAre you gonna summon hellfire or something?
+313	message	That's a bit much! Ahaha!
+314	message	But even one-handed...\nI can make this...\nThis is the realm of solo play...
+315	message	Wh-what is this... how are you doing it!?\nTeach meeee!!
+316	message	How can you do that!?\nBig Bro's so gloomy, yet\nso fun!
+317	message	Nothing but games Mie doesn't know!
+318	message	It's not really a game\nI'd recommend, though...
+319	message	Like chasing people around,\nor summoning something dangerous!\nThose are fun too.
+320	message	Big Bro's kind of games\nmight not be bad either♪
+321	message	Zero thrills, though. Ahaha
+324	message	If you're having fun, Mie...\nthat's enough. That's all I need.
+325	message	...Wh-what, that's so unlike you~!\nAhaha. Weirdo!!
+326	message	I-is it...?\nDid I say something weird...
+329	message	I don't need thrills...\nthey're scary...
+330	message	That's what makes it good!\nNext time I'll teach you\na life-or-death game too!
+331	message	It'll be so fun,\nnormal games won't satisfy you anymore~.
+334	message	Well, anyway. Yeah!\nIt IS fun!\nPlaying with Big Bro.
+335	message	Today I wanted to\ntell you thanks for that!
+336	message	Huh? Thanks... for what...
+337	message	Thanks, because it's fun!\nI hate not-fun stuff.
+338	message	That's all! Bye-bye~!
+340	message	Getting thanked by Mie...\nthat was unexpected...\nSo she can say things like that...
+343	message	Fou~nd you.
+344	message	Huh... where is this?
+345	message	You're half asleep... ahaha! It's the school, obviously!
+346	message	Mie...? What's with... that outfit?
+347	message	Did you hit your head? You completely forgot.
+348	message	Enough, enough! Into the classroom, go go!
+351	message	Here's the menu. Pick something quick.
+352	message	What... is this...
+353	message	Can't you tell by looking? Want me to swap your brain?
+354	message	It's obviously a café? And Mie's the waitress!
+355	message	Getting Mie's service —\nBig Bro, you're lucky~.
+356	message	...Er, thanks for that.\nBut... shouldn't it be someone else, not me...
+357	message	Stop being so wishy-washy!\nPick from the menu~!
+358	message	It's gonna get fun from here!
+359	message	Fun...?\nThen, tea and cake... please...
+360	message	Yes, ro~ger~ that!
+361	message	And, the finished product is right heeere.
+362	message	Why is it under the desk?
+363	message	If brewing took time,\nit wouldn't fit in the 3-minute window, right?\nSo obviously, this was the solution.
+364	message	What are you even talking about...\nAnd... this...
+365	message	Whaaat?
+366	message	Why are there wires coming out of the tea?\nAnd they seem to connect\nto this whole cake...?
+367	message	Oh, you noticed?\nSee, there's an input board inside the tea.
+368	message	If you don't enter the code within 3 minutes...\nBOOM! The cake goes.
+369	message	Fun, right?\nA plain café wouldn't be fun.
+370	message	The timer's already started.\nGood luck!
+371	message	Uwaaaaah!\nThat's impossible... and what code\nam I even supposed to enter!!
+374	message	Whoa!!
+375	message	Hyuh!?\nDon't wake up so suddenly~.\nYou'll startle me.
+376	message	Th-the bomb... the bomb cake!!
+377	message	Bomb cake...?\nBig Bro, what are you talking about?\nThere's no such thing...
+378	message	Huh...?\nWhere is this... and Mie's outfit is... normal...
+379	message	What, were you dreaming...?\nDon't startle me like that~.
+380	message	...Um, what were you doing here,\nMie?
+381	message	Huh? N-nothing?\nI just happened to be passing by...
+382	message	Well, Mie's busy, so!
+384	message	...Hm? Mie, you dropped something.\nThis is...
+385	message	G-give it back!
+386	message	Oh... is that...\na picture of me...?
+387	message	R-revenge!\nYou took a picture of me before,\nso this is revenge! Serves you right!
+388	message	W-well... fine, I guess...
+389	message	...Well, bye.\nPlay with me again sometime...
+390	message	As long as my life isn't on the line...
+391	message	Ahaha, that depends on how fun it is,\nso who knows.
+392	message	But I'll try not to put\nyour life on the line! That work? Works, right? Ehehe.

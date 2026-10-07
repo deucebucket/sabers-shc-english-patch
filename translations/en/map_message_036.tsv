@@ -1,0 +1,293 @@
+row	column	english
+3	message	Akihabara! Dejiko's back, nyo—!
+4	message	Whoa… what an amazing city.\nSo many people…
+5	message	Like people are trash, nyo?
+6	message	I feel like I'd get lost here.
+7	message	Worse than lost— if you let your guard down,\nsome shady creep will take you home, nyo.
+8	message	Is she talking about me? Me?
+9	message	Everyone stay close☆\nIf you get separated, scream for help, okay?
+10	message	Understood, I am.
+11	message	Group activities just aren't my thing.
+12	message	Can't exactly use IS casually around here.\nThere are so many shops I wanna check out,\nbut I'll hold back for now.
+13	message	To Gamers, nyo!
+14	message	So that's the shop Dejiko-chan works at.\nI wonder what it's like? Like?
+15	message	Isn't it this one?\nThe flyer they were handing out on the street\nsays Gamers on it.
+16	message	It's a game shop.\n…What's this? A new-manager\ncelebration campaign?
+17	message	Nyo? What do you mean, new manager, nyo!?\nDid the manager get fired, nyo!?
+18	message	Dejiko, calm down, you must.
+19	message	How can I stay calm, nyo!\nThe manager is Dejiko's benefactor, nyo!\nA new manager is no joke, nyo—!!
+20	message	//Dejiko runs off.
+21	message	Wait! If Dejiko-san, who knows the area,\ngets separated,\nwhat then!?
+22	message	We have no choice but to chase her.\nEveryone, run!
+23	message	//Scene change\n//Background: in front of Gamers\n//Usada appears
+24	message	Welcome to Gamers!\nWe're running our new-manager celebration\ncampaign! Thanks for shopping with us!
+25	message	//Dejiko comes running.
+26	message	You there, part-timer! Bring out this so-called new manager of Gamers, nyo!\nHurry up, nyo!!
+27	message	Oh my, who do we have here but\nDejiko the panty-flasher.
+28	message	Usada!? What are you doing, nyo!?
+29	message	Don't call me Usada!\nCall me Rabi~en~Rose!
+30	message	I wouldn't say it even if I died a hundred million and two thousand\ntimes, nyo~.
+31	message	You only get to die once!\nIt's not like you're that old dude who\nstomps turtles to multiply forever!
+32	message	Never mind that— bring out the new manager, nyo!\nDejiko won't allow a takeover, nyo!
+33	message	Oh my, Dejiko, have you ruined your eyes\nplaying too many games?\nYou can't even see the new manager?
+34	message	My eyes are so healthy they shoot beams, nyo!
+35	message	Then say the name of what you're glaring at\nright now.\nThat's your answer.
+36	message	So that means…
+37	message	You're the new manager…?
+38	message	Ding ding, correct~!!
+39	message	Nyo!?
+40	message	I'm Rabi~en~Rose, Gamers' new manager.\nPleased to meetcha!
+41	message	That's… impossible, nyo…!
+42	message	If dumb Usada becomes manager, bankruptcy in three months\nis guaranteed, nyo!!
+43	message	Don't throw out such oddly realistic numbers!!
+44	message	More importantly, Dejiko!\nYour time card's gone, so just enjoy\nsome shopping while you're here!
+45	message	Dejiko got fired, nyo!?
+46	message	From now on, I'll take Akihabara's throne\nas Gamers' manager. You just stay in your room\ndrawing BL doujinshi!
+47	message	That sounds nice… I mean no, nyo!\nDo you think doujinshi are free\nto make, nyo!?
+48	message	Doujin activities need money first, nyo!
+49	message	Anyway! I'm Gamers' manager!\nThat makes me the queen standing\nat the top of Akihabara!
+50	message	//Event art: Usada laughing loudly
+51	message	O-ho-ho-ho-ho!
+52	message	Are those your last words, nyo?
+53	message	//Event art off
+54	message	Huh???
+55	message	With such vulgar manners,\nyou cannot stand above others!
+56	message	You probably used some dirty trick,\nor took it by force.
+57	message	Things gained that way are lost in an instant.
+58	message	What! Don't mock me!\nIf you're gonna mock me, do it after conquering the new Gamers—\nturned into an impregnable fortress!
+59	message	What do you mean, fortress, nyo!?\nWhat did you do to Gamers, nyo!?
+60	message	Well, I didn't build it so someone\non Dejiko's level could stand a chance.
+61	message	Crawl on the ground and be looked down on\nby me from the top floor!\nO-ho-ho-ho-ho!
+62	message	//Usada leaves into Gamers.
+63	message	Damn you, Usada!\nI'll corner you and make you bawl, nyo!!
+64	message	She did call it an impregnable fortress.\nShe's probably prepared plenty of traps.
+65	message	She's planning to hole up in there.
+66	message	She sure was confident.
+67	message	Um, this is a normal shop, right?\nThen if we surround it and wait, they'd surrender when they get hungry\nwithout us even attacking, don't you think?
+68	message	That's called a siege, it is.\nSafe and reliable, it is.
+69	message	No! Absolutely not, nyo!!\nI can't stand Usada smirking at me\nuntil she comes out, nyo!!
+70	message	And Usada's the type who'll never learn unless you punch her head-on,\nphysically, nyo!
+71	message	But then the shop and its customers\nwould be bothered too…
+72	message	I'm with Dejiko on this!\nThese things need a raid to get\nexciting, y'know.
+73	message	Yeah! Let's get everyone evacuated\nand go in with a bang!!
+74	message	No matter how tight their defenses are,\nthey can't stop\nmy Magical Magic!
+75	message	Same here! Just try\nand stop me!
+76	message	I'd rather charge in too!\nBetter to just go for it than wait!
+77	message	If my wife says so, I have no objections.
+78	message	True, surrounding a place in a\nbustling district isn't easy either.
+79	message	Decided! Charge, nyo—!!
+80	message	Is that okay…?
+81	message	Dejiko-chan flying into the fire☆ —\nisn't that super cute?
+82	message	//Battle map: inside Gamers\n//After allies and enemies are placed
+83	message	Everyone, something's here!
+84	message	There seem to be traps too.\nBe careful!
+85	message	Laura, what's your read?
+86	message	It'd be easy if we could smash through the floor and go up,\nbut if not, this'll be tricky.
+87	message	Pin-pon-pan-poon!\nWelcome to Manager Usada's\nfortress Gamers! I welcome you!
+88	message	Usadaaa!\nHow dare you do this to everyone's Gamers!
+89	message	Do you remember how many days you skipped minding the store?\nComing from you, complaints don't mean much~?
+90	message	I didn't skip— I just got dragged\ninto trouble, nyo!
+91	message	That doesn't matter.\nToday I'll finally beat Dejiko and become\nAkihabara's new queen!
+92	message	Being the manager of this game shop\nis that big a deal…?\nWhat a world.
+93	message	Well, that IS amazing!\nBut isn't it a bit TOO amazing…?
+94	message	Maybe that's just how this world is!
+95	message	Since this is Dejiko's world,\nit's possible, it is.
+96	message	I see… my thinking was too rigid.\nI must reflect.
+97	message	Meaning: don't let your guard down.
+98	message	I've hired a special gatekeeper for each floor.\nI wonder if you can beat them?
+99	message	Now, good luck!\nO-ho-ho-ho-ho!
+100	message	That giddy voice acting like she's already won\nis so annoying, nyo!
+101	message	She said gatekeeper, right?\nIf we beat them, we can go up? Up?
+102	message	She should've kept quiet.
+103	message	Our targets are decided, then.
+104	message	Find the strongest one\nand beat it! Got it!
+105	message	//Battle start\n//Clear by defeating each floor's gatekeeper
+107	message	Hold it! If you wanna go up, you'll have to get past yours truly,\nRicorin!
+108	message	Nyo!? She just popped out, nyo!
+109	message	Usada-chan did all sorts of things for me,\nso this is a little\nextra service!
+110	message	Pfft! Even her allies call her\nUsada, nyo~.
+111	message	Not being called by her proper name\nis a little sad…
+112	message	//Clear by defeating Riko.
+113	message	Well, I guess Ricorin's job is done here?\nThe rest is up to you— bye-bye!
+114	message	//Riko vanishes.
+115	message	Okay, to the second floor, nyo!!
+116	message	Huh!? I just realized!\nIsn't this the format of that\nfamous kung fu movie!
+117	message	Kung… fu movie? What's that…?
+118	message	There's a five-storied pagoda, and on each floor\na different martial artist guards it as a warden,\nand the hero defeats them to climb up!
+119	message	That's it… I'm doing that right now!\nUwah, I'm getting fired up!
+120	message	Battling is fine, but we also have\nto watch out for traps and such.
+121	message	She did say it was an impregnable fortress.\nNo telling what's in here…
+122	message	Not being able to move flashily is a pain too.\nWe need to be careful.
+123	message	I can't hold back.\nIf a trap triggers, we'll deal with it then.
+124	message	Getting caught in traps on purpose\nhas its own flair, y'know. Ufufu…
+125	message	[NOEL]-chan gets all tingly\nover that stuff, right?\nThat side of you is sexy too~.
+126	message	Hmm-hmm…
+127	message	Laura, I don't think you should\ntake notes on that…
+128	message	Usada's little tricks are nothing to fear, nyo!\nOn to the next, nyo—!!
+129	message	//Battle end\n//Can save
+131	message	I wonder what kind of gatekeeper\nis on this floor?
+132	message	O-ho-ho-ho-ho! She's here, she's here!\nWho it is is a surprise!
+133	message	It's no fun, nyo!!
+134	message	//Floor 2 battle start\n//Clear by defeating the floor's gatekeeper\n//The gatekeeper is the Rival
+136	message	…They're here.
+137	message	[MERU]!?
+138	message	I'm not in the mood for chitchat!\nHere I go!!
+139	message	Teacher! [MERU]'s—!
+140	message	If you're gonna fight, then fight.\nStudents of Saint Mont Blanc Academy fight\nanytime, anywhere— or am I wrong?
+141	message	B-but…!
+142	message	I don't recall raising a weakling— nothing☆
+143	message	U-understood!\nUuuh, is this okay…
+144	message	She was probably hired or something.\nI don't plan to fight till she drops☆
+145	message	R-right! Okay!
+146	message	Her words are flippant, but she's a warrior at heart…
+147	message	…Come at me!
+148	message	[NOEL]!? Why!?
+149	message	Let's settle whether my magic\nor [MERU]'s yo-yo\nis better!
+150	message	Teacher! [NOEL]'s—!
+151	message	Yes, go get her☆
+152	message	H-huh!?
+153	message	If my cute student says she'll fight,\nI can't tell her not to~.
+154	message	…Are you enjoying this?
+155	message	You-betcha crackers☆
+156	message	Uuuh… I don't get it, but\nokay, for now…
+157	message	Her phrasing is bizarre, but she's\na strict teacher!
+158	message	//Clear by defeating the Rival.
+159	message	Aw man! Did I mess up!?\nI'll be back!!
+160	message	Muu! I'll let you through here!
+161	message	//Rival vanishes.
+162	message	I did it!
+163	message	Hmm, that kid was subpar.\nDid I teach her wrong…?
+164	message	Uuuh, but this isn't good enough…
+165	message	Ahem! I win!
+166	message	Hmm, that wasn't much of a fight\nto call it a win.
+167	message	Uuuh, harsh…
+168	message	Who cares how the student did, nyo!\nA win's a win, nyo!
+169	message	The result is satisfactory. Let's go to the third floor.
+171	message	Okay! Can't fight on an empty stomach, nyo!\nWait a bit, nyo.
+172	message	Um, we don't really have time for a leisurely meal…
+173	message	So impatient, nyo— eating is also battle, nyo!
+174	message	Sigh…
+175	message	//Battle end\n//Can save
+177	message	There'll probably be some nasty\ntrickery around here.
+178	message	There is not!\nI didn't set any traps at all!
+179	message	So obvious it brings tears to my eyes, nyo…
+180	message	W-well, let's proceed carefully.
+181	message	From the sound of that voice,\nshe's probably set traps\nin the obviously suspicious spots.
+182	message	Let's avoid those spots. Sorry to her, though.
+183	message	//Floor 3 battle start\n//Clear by defeating the floor's gatekeeper\n//The gatekeeper is Nain
+185	message	…You don't get through here.
+186	message	You are!?
+187	message	Twin Phantom…!
+188	message	Fight…!
+189	message	Nice stance. Care for a spar?
+190	message	//Clear by defeating Nain.
+191	message	…Retreat, understood.
+192	message	//Nain vanishes.
+193	message	Ah…
+194	message	She didn't seem intent on a real fight.
+195	message	I wanted to talk to her if I could…
+196	message	Now's no time for chitchat, nyo!\nGet to the fourth floor, nyo!
+197	message	Y-yeah…
+198	message	//Battle end\n//Can save
+200	message	Weell, getting to the climax, I'd say?
+201	message	Do your best, you must.
+202	message	Kiii! How dare you get this far!\nIt was so much trouble inviting guests!!
+203	message	You should do it yourself instead of relying on others, nyo~.
+204	message	Hmph! You haven't seen the true terror\nof the new Gamers yet!\nGo to hell! Dejiko!
+205	message	I see, this floor likely has\npitfall traps.
+206	message	Gulp.
+207	message	Oh, stop it! I totally don't think\ndumb Dejiko would fall for them!\nReally!
+208	message	What an easy person to read…
+209	message	Good girl, Usada, good girl, you are.
+210	message	In terms of suited or not,\nshe's totally not suited…
+211	message	But that's what's cute and addictive☆
+212	message	//Floor 4 battle start\n//Clear by defeating the floor's gatekeeper\n//The gatekeeper is Tesla
+214	message	You people… how dare you do that to Nacchan…!!
+215	message	Nyo-nyo!? She's giving off\nsome dark aura, nyo!
+216	message	I won't hold back anymore…\nAre you prepared…?
+217	message	Interesting. If that's how it is,\nit'll be worth doing.
+218	message	Everyone, do your best and beat her, nyo!\nDejiko will cheer you on, nyo!
+219	message	Just cheering?
+220	message	I'm saving my strength for the showdown with Usada, nyo!\nThis is a cerebral strategy, nyo!
+221	message	//Clear by defeating Tesla.
+222	message	…I let myself\nget a little heated.\nWe should retreat here.
+223	message	//Tesla vanishes.
+224	message	Ah, I couldn't talk to her again…
+225	message	We'll surely get another chance.\nLet's hurry to the floor above.
+226	message	Yeah…
+227	message	Is this finally the floor with the bunny lady?
+228	message	It's Gamers' top floor, nyo!\nUsada, you're not getting away, nyo…!!
+229	message	//Battle end\n//Can save
+231	message	You made it all the way up here!
+232	message	Usada, be honest, nyo. You're freaking out that we made it\nto this floor, nyo?
+233	message	After defeating all those, of course.
+234	message	We've gotten serious too!
+235	message	True, I worked desperately hard to beat Dejiko\nand made all these preparations!\nHaving them smashed through is a shock!
+236	message	But that doesn't mean I'll surrender—\nthat's not the Rabi~en~Rose I am now!\nCome at me!
+237	message	Usada's ambitions end here, nyo! No national edition, no warlords saga,\nno turbulent chronicle for you, nyo!
+238	message	As if!\nI'll show you Rabi-an Musou!
+239	message	//Battle start\n//Event triggers when Usada and Dejiko engage
+240	message	Come at me from anywhere! Dejiko!
+241	message	You've got nowhere left to run,\nso quit acting cool, nyo!
+242	message	It's when cornered that a manager's\ntrue worth is tested!
+243	message	That's a fighter, nyo!!
+244	message	Nope, it applies to all living things!\nI'll show you my hidden power!
+245	message	//Usada defeated
+246	message	Kiii! What, what!\nThis is so unfair!
+247	message	Let me teach you something, nyo.\nUsada's cause of defeat was…
+248	message	You didn't gather all your helpers on the fifth floor to fight us, nyo!
+249	message	Wh… I didn't notice!!
+250	message	Oh, she didn't notice…
+251	message	//Battle end\n//Background: inside Gamers
+252	message	Usada! Surrender already, nyo!
+253	message	Call me Rabi~en~Rose!
+254	message	Even now, you're hung up on that.
+255	message	So lively☆\nWant another round?
+256	message	Doesn't look like she has the strength left.
+257	message	I'm saying it's checkmate, nyo!\nSay "I give up," nyo!
+258	message	Giving up here is the old me— but the new me,\nthe new manager, is different!\nLook at this!
+259	message	Nyu~.
+260	message	Puchiko-san!?
+261	message	Do you care what happens to this little one's life?
+262	message	Usada… are you seriously doing this, nyo?
+263	message	Help me, nyu. I'm scared, nyu.
+264	message	O-ho-ho-ho! Well then, bye-bye!
+265	message	//Usada vanishes to another world, taking Puchiko.
+266	message	With a hostage… we can't move carelessly.
+267	message	She had an escape route ready, at least.\nMaybe I underestimated her.
+268	message	I hope Puchiko-san is okay…
+269	message	If she's a hostage, she'll be treated carefully,\nso there's probably not much to worry about?
+270	message	With her personality, she won't just\nkeep running forever. We'll get a chance\nto rescue her.
+271	message	Still, how did THAT Usada\ncome up with taking\nPuchiko hostage, nyo?
+272	message	Isn't that something anyone would think of?
+273	message	Not thinking of that is what makes her Usada, nyo!
+274	message	She's a good kid, Usada-chan.
+275	message	Surely there's some bad guy near Usada,\nforcing those underhanded tricks\non her, nyo!
+276	message	Probably.
+277	message	Usada's annoying, but that kind of villain\nis even MORE annoying, nyo!!
+278	message	If that's true,\nUsada-chan's in danger too.\nWe can't leave her alone!
+279	message	So, what do we do now?\nWe don't know where\nUsada-san fled.
+280	message	Eve, don't you have some plan?
+281	message	Hmm, dunnooo~☆\nI haven't looked into how those kids\nvanish yet.
+282	message	I see, then it can't be helped.
+283	message	Besides Puchiko, I can't leave Gamers\nlike this, nyo! I'll turn it back into\na proper shop, nyo!
+285	message	We'll help too, we will.
+286	message	Yes.\nThe real manager couldn't\ncome back to this either.
+287	message	So we'll crash here a while\nand help clean up?
+288	message	Koto-chan, are you the tidying-up type?
+289	message	Hehe, 'cause this town looks fun!
+290	message	Right! There are so many shops\nI wanna visit! Ufufu!
+291	message	I wanna find cute stuuuff!!
+292	message	Me too!
+293	message	//Event art: Satoko's fearless grin
+294	message	(Fufufu… I hear there's a shop in the back alleys\nselling shady equipment and parts.\nMy new trap-making will go swimmingly…!)
+295	message	I'm not the Satoko Hojo who'll end\nas Hinamizawa's trap master!\nFufufu…!
+296	message	Um, Satoko? Your face is scary!?
+297	message	//Event art off
+298	message	Huh? N-nothing at all?\nO-ho-ho— *cough*, *cough cough*!?
+299	message	Wh-what's wrong? You okay?\nThere there…
+300	message	Sorry, Haruka-san.\nI just laughed a little too much.\nFuu…
+301	message	So you don't get lost, when you go out,\ncome with me, you must.
+302	message	Understood.
+303	message	Then, while we help rebuild this place\nfor a while, we'll watch and wait.
+304	message	//END

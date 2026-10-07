@@ -1,0 +1,269 @@
+row	column	english
+4	message	Cleaning up circuits to the system.
+5	message	Repairing evasion error margins.
+6	message	Constructing a bypass to\nreduce CPU load on the main circuit.
+7	message	Whoa!? You startled me.\nYou were this close...?
+8	message	Negative.\nI have been here all along.
+9	message	Permission to ask a question?\nDenied?
+10	message	No, I wouldn't refuse...\nask me anything.
+11	message	Thank you.
+12	message	An incomprehensible event exists.\nWhy do humans fight?
+13	message	Um... that's quite the...\ncomplicated thing to be troubled by...
+14	message	Complicated...\nIf it is too difficult, I will not force it.
+15	message	Questions arose; appropriate\nknowledge was sought.
+16	message	I request that you not mind.
+17	message	It may not be the right answer, but...\npeople often fight because\neach has their own ideals.
+18	message	What are 'ideals'?\nDo I not have them?
+21	message	Things you want to do, for example.\nDoes anything come to mind?
+22	message	No matching entries.\nSuch data does not exist.
+25	message	Hmm... what about that?\nI think you have them, Key.\nBut you have to find them yourself.
+26	message	By... myself... find them?
+29	message	Incomprehensible...\nAppropriate response unknown.
+30	message	I will re-ask with a concrete event.
+31	message	A concrete event?\nYou mean giving an example?
+32	message	Affirmative.\nTracing memory, extracting an appropriate event.
+33	message	Complete.\nSeveral allies appear to be starting a conflict.
+34	message	Among us here!?\nNo way... surely not...
+35	message	Several human females, after observing\nanother female's chest, show elevated body temperature.
+36	message	Several females appear to be hostile.
+37	message	It appears a conflict is about to occur.
+38	message	I see... I understand.\nThat one's fine, I think?
+39	message	Like I said before, it's a mismatch of ideals.\nEnvying what others have\nleads to jealousy.
+40	message	According to data, incidents\nstemming from jealousy occur\nat an extremely high rate.
+41	message	This time it's fine...\nThe, er, smaller-chested women do have\ncomplexes, but they're used to it.
+42	message	...Not convinced.\nBut understood.
+43	message	(...She seems to be studying something.\nIs she trying to understand us...?)
+46	message	A new question has arisen.
+47	message	What is it this time?\nAnother hard one...?
+48	message	Look at that.\nAn ally is attacking an ally.
+49	message	In this case, which side should I assist?
+50	message	...I see. True.\nIn this case... leave them be.
+51	message	Ignore the event?\nSuch behavior has not\nbeen input.
+52	message	I request an explanation.
+53	message	That's... just roughhousing.\nLike animals playing —\nattacking while being careful of the other.
+54	message	Outside my comprehension.\nAttacks require efficiency.
+55	message	That, as play...\nThe same as Mie, then.
+56	message	Mie's is... a bit different, I think...\nbut similar. What's needed is\nconsideration for the other.
+59	message	It may be difficult, but...\nthink of it as socializing too.
+60	message	Difficult immediately.\nBut input complete.\nI will understand.
+63	message	Well, you don't have to force yourself to learn it...
+64	message	No.\nUnknown elements will be eliminated.
+67	message	Anyway, no need to get involved in that.\nLeave them alone.
+68	message	Understood.\nI will handle it appropriately.
+69	message	But if it starts getting a bit extreme,\nI'd like you to stop them...
+70	message	If I know the threshold, I can stop them.\nYour instructions.
+71	message	Should I stop them if a leg breaks?\nOr if breathing stops?
+72	message	Both of those are too late...\nBut this is a hard question too.\nIt might confuse you, Key.
+73	message	Currently, data is insufficient.
+74	message	I request that you\nbecome the subject of the simulation.
+75	message	You want to try roughhousing?
+76	message	Affirmative.
+77	message	Understood.\nThen... let's try.
+78	message	You've seen it a few times, I think,\nbut what kind do you want to try?
+79	message	One given a specific role\ncorners the others who flee in panic,\nand by touching them with that hand, corrupts them...
+80	message	Wh-what is that sinister description... it's scary...
+81	message	From the data, it is detected\nas 'tag'.
+82	message	...It was tag.\nYour description was a bit skewed.\nOkay, I'll be 'it'.
+83	message	I will flee.\nBut due to insufficient data on the effective fleeing range,\nan effective choice cannot be made.
+84	message	...I cannot find a reason\nto flee meaninglessly.
+85	message	O-okay.\nThen... I'll run, so catch me.\nJust touch me.
+86	message	Understood.\nI will make contact with you.
+87	message	Targeting set.\nCalculating time until target's escape.
+88	message	...Go!
+91	message	Guh... kah...!?
+92	message	(A full-power... tackle!?)
+93	message	Target contact complete.\n'It' role transfer successful.\nCalculating where the former 'it' will land.
+94	message	They appear to have arrived\n30.357 meters away.\nHeading to rescue.
+97	message	Comrade... found.
+98	message	...Oh, Key.
+99	message	Facial temperature rise detected.\nSweat confirmed.
+100	message	From mental reactions... fear detected.
+101	message	F-fear, I...
+102	message	Heart rate rising.\nBody temperature rising further.
+103	message	High probability of a false statement.
+104	message	No need to lie to me.\nI am an artificial lifeform...
+107	message	Don't say things like that.\nSaying you were made... that's too sad a way to put it.
+108	message	...Incomprehensible.\nYou need not show a sorrowful expression.\n...Comprehen...sion impossible.
+111	message	It's not that I'm scared...?
+112	message	Sweat output rising further.\nPer data, this is the phenomenon called 'acting tough'.
+115	message	It's really not that I'm scared of you,\nor that I hate you.
+116	message	Besides,\nI find being with you fun, Key.
+117	message	'Fun'?\nIncomprehensible.
+118	message	But fear is arising.
+119	message	Well, that's... if you get launched\n30 meters in tag... of course it's scary.
+120	message	Permission to roughhouse again?\nCan you roughhouse with me?
+121	message	Of course. I'll teach you properly...
+122	message	Thank you.
+123	message	What event is planned next?
+124	message	Hmm... and, please don't say 'harassment', okay?
+125	message	Let's try making contact once.\nJust placing a hand on the shoulder is fine.
+126	message	Understood.\nNo problem with the motion.\nJudged a possible operation.
+127	message	I will bring my right hand into contact with your shoulder.
+128	message	Gently. No need for force...
+129	message	Understood.\nSwitching to the small booster.
+130	message	Huh? Um...
+133	message	Naaaaaahhh!!
+134	message	Burial in ground to approximately 80 cm complete.\nContact mission complete.
+135	message	(What I remember... my body sinking into the ground...\nand Key's face, which looked satisfied)
+138	message	I was in possession\nof incorrect knowledge.
+139	message	What is it?
+140	message	The contact mission.\nWith incorrect knowledge,\nI was touching you.
+141	message	Booster use: stopped.\nMake contact with force that does\nnot destroy the other's body.
+142	message	New knowledge input.
+143	message	I see.\nGlad you understand.
+144	message	Again — this time, I request\nthat you touch me.
+145	message	Is it possible?\nIs it impossible?
+146	message	Touching...\nit's not really proper, is it...
+147	message	I judge it impossible.
+148	message	It's not impossible.\nO-okay...\njust don't tell the others...
+149	message	Like... this?
+150	message	Not the shoulder parts —\nI request the cheek area of the face.
+151	message	Your demands are growing...\nwell, fine... is this okay...?
+152	message	Your impressions.
+153	message	M-my impressions!? Even if you say that...
+154	message	Heart rate increase confirmed.\nBody heat transmitted through the hand also rising.
+155	message	Judged to be flustered.
+156	message	Well... yes, of course.\nI am touching a girl, after all...
+157	message	I also request permission to touch.
+160	message	Of course... it's fine. Go ahead.
+161	message	Thank you.\n...Confirming booster off...
+164	message	Um... please don't launch me.
+165	message	Understood.
+168	message	...Contact, complete...
+169	message	From the arm: body heat detected.\nHand size: slightly larger\nthan mine.
+170	message	Information updated.\nMission complete.
+171	message	Hehe. You look happy?
+172	message	'Happy'?\nI do not retain emotions.
+173	message	No, it's just how you look to me.
+174	message	...Incomprehensible.
+177	message	It's a little strange.
+178	message	Question's intent unclear.
+179	message	Lots of animals gather around you, Key,\nbut you didn't seem interested.
+180	message	No interest or concern.\nThey gather regardless of my will.
+181	message	As they are harmless, I take no countermeasures.
+182	message	From the animals' view, you're reassuring, Key.\nThey know you won't do anything cruel.
+183	message	Incomprehensible.\nI cause them no harm.\nThere are no other circumstances.
+184	message	...Weight detected on shoulder.\nBalance correction 0.2%.
+185	message	For all that,\nyou correct your balance just because a squirrel sat on your shoulder...
+186	message	Correction orders that auto-adjustment cannot follow\nrequire a separate organ to\nassist the correction.
+187	message	It was an order for that purpose.
+188	message	Not shooing the animal away, but\nadjusting yourself instead... that's called kindness.
+189	message	...Understood.\nIf that is the case, it is kindness.
+190	message	Hehe. You've probably only understood\na tiny bit... but that's fine.
+193	message	You're only scary... in battle, I think...
+194	message	Entirely natural.\nIn battle, there is no mercy.
+197	message	You could say you like animals...
+198	message	I have no such emotion...\nI was not taught it.
+201	message	Still, haven't you changed\nrecently, Key?\n...I think it's for the better.
+202	message	Checking logs...\nNot found in history.
+203	message	No changed sections.
+204	message	Is that right?\nWell, there are things you don't notice\nabout yourself... hehe.
+205	message	...!?\nAnomaly in the chest...
+206	message	A-are you... okay?
+207	message	No problem.\nBeginning self-repair...
+208	message	I will be unresponsive for\nseveral minutes.\nPermission for self-repair.
+209	message	O-okay.\nI'll watch nearby, so go ahead...
+210	message	Thank you.\n.........
+213	message	No anomaly found in the previous repair...\nThe anomaly is gone...
+214	message	Is something wrong? Key.
+215	message	Again, I have a question for you.\nPermission to ask.
+216	message	You don't need permission.\nGo ahead, ask.
+217	message	Explain why other humans\nkeep animals at their side.
+218	message	Entirely meaningless.\nWorthless.
+219	message	Why people dote on animals...\nit's not meaningless? Everyone wants\nto be healed.
+220	message	Time spent on animals would be more effective\nas rest.
+221	message	Healing from animals... incomprehensible.
+222	message	Seeing cute things heals people.\nThey're often small, maybe.
+223	message	Cannot agree. Understood.\nThen: ants are cute.
+224	message	Hmm... not sure about that.\nNot many people like them, I think...
+225	message	...Incomprehensible.
+226	message	I request other examples.
+229	message	Cats and dogs are common, I think... also rabbits...
+230	message	Fur-covered organisms.\nUnderstood.
+233	message	Four-legged creatures...
+234	message	Rhino, giraffe, elephant...
+235	message	Sorry... those feel too big.
+236	message	Judgment is difficult.
+239	message	Probably...\npeople like animals that are obedient to humans.
+240	message	Understood again.\nNo — per data, your statement\nis inhumane.
+241	message	No, I mean obedient in the sense of\nhelping each other... like, not betraying...
+242	message	Understood.\nI also do not betray.
+243	message	But I am not obedient.
+244	message	Right...\nKey, you're not an animal — you're a friend.
+245	message	'Friend'...\nIncomprehen...sion impossible.
+248	message	Self-repair cannot keep up.
+249	message	Huh!? Key, something's wrong!?
+250	message	Denied.\nPer data, there is no anomaly.
+251	message	An anomaly undetectable by\nthe self-repair function is arising.
+252	message	What does that... mean?
+253	message	An unforeseen situation.\nInitialization may also be unavoidable.
+254	message	No, not initialization!?\nYou can't... do that.
+255	message	It is merely one option.\nI am only considering it.
+256	message	If the abnormal data's true nature is identified,\ncountermeasures are possible.
+257	message	Abnormal data... like what?
+258	message	Checking logs...
+259	message	It appears to have arisen when\nunderstanding the emotion with which\nhumans love pet animals.
+260	message	Possibility that some unforeseen\ndata was mixed in.
+261	message	That... could it be...\nthat you're looking for\nan animal you find cute?
+262	message	Incomprehensible.\nUnnecessary emotion.
+263	message	But emotions can't lie.\nIn that case... it's a wonderful emotion!
+266	message	Because you'll find healing in animals.
+267	message	'Healing'...\nAs a new emotion, I am interested.
+270	message	Because it means you're becoming more human.
+271	message	No.\nI will never become human.
+274	message	'Wonderful' emotion...\nIncomprehensible.
+275	message	Do you have\nthe emotion called 'liking pet animals'?
+276	message	Of course. They heal me...
+277	message	Understood.\nThis emotion is not ominous data.
+278	message	Through self-study, I learned etiquette.\nI wish to convey gratitude...
+279	message	Thank... you...
+280	message	Huh...?
+281	message	(Just now, Key... looked like she smiled...)
+282	message	.........
+283	message	(...That's the usual Key... right...?\nOr is it my imagination...?)
+286	message	Heat source reaction discovered. Returning to duty immediately.
+287	message	Key...? Duty...?\nAnd what's with that outfit...?
+288	message	Answering.\nThis outfit is a uniform. A uniform called cosplay.
+289	message	Duty cannot be performed here. Requesting relocation.
+290	message	Huh!? Where are we going? Key?
+293	message	A café...? This place.
+294	message	Affirmative. Duty: serving you, and service activities.
+295	message	Objections are not recognized. Performing duty.
+296	message	So you wore that outfit for this?
+297	message	Affirmative. A strategic idea to induce some pleasure.
+298	message	Discarding it is also possible.
+299	message	No, it really suits you... It's cute.
+300	message	.........
+301	message	Key? Is something wrong...?
+302	message	Requesting selection from the menu.
+303	message	Let's see... lemon tea and cake, please.
+304	message	Beginning preparations. Please stand by.
+307	message	Preparations complete.
+308	message	...That was fast...
+309	message	I will transport it to your mouth.\nObjections... are recognized.
+310	message	It is not mandatory. It is optional.
+311	message	Then, can I... ask you to?
+312	message	Understood. I request that you open your mouth.
+313	message	...This is embarrassing... aaah...
+314	message	...Nn.
+315	message	...Mm. It's really delicious.
+316	message	...I have been considering something.\nI am abnormal.
+317	message	An emotion I have never felt before.\nI feel it sprouting.
+318	message	...Hot... what is this strange emotion...
+319	message	Y-yes... Key... could it be...
+320	message	Anomaly detected in the chest... constantly.\nHigh probability it resembles human love.
+321	message	I...
+322	message	...I'm happy, Key. Me too...
+325	message	U-uh? Huh... where is this...
+326	message	Sleep complete?\nYou are sleeping in a strange place.
+327	message	It was... a dream... of course...
+328	message	.........\nThe anomaly in\nmy chest will not stop.
+329	message	This is... an emotion I have never felt.
+330	message	(Could it be... a prophetic dream...?\nKey... me?)
+331	message	I request permission.
+332	message	Permission for what I am about to do.
+333	message	Y-yes... go ahead.
+334	message	Patting your head...\n...It is fluffy.
+335	message	...Huh?
+336	message	...Cute.
+337	message	(Oh, this... isn't a confession.\nShe means as a pet animal!?)

@@ -1,0 +1,281 @@
+row	column	english
+3	message	Aria-san's late.\nDoes handing over a criminal really take\nthat long?
+4	message	She mentioned a written statement, I think?\nThere's lots of paperwork to file,\nso it might take a bit.
+5	message	We've waited quite a while and she's still not here.\nI wonder what Aria-san's doing.\nGasp! Maybe she let her escape!?
+6	message	It's only been 10 minutes.\nActually, you said the same thing\n5 minutes ago?
+7	message	Did I?\nWell, never mind the details!
+8	message	So there's an arrangement with the police, but handing a criminal over at a school...\ntimes like this really make you feel\nit's a different world.
+9	message	The interrogation will be conducted\nby the Interrogation Department (Dagyura).\n...I wonder what their classes are usually like?
+10	message	To me, IS Academy students having classes\nwhere they fly in IS units is the strange part.
+11	message	Ahaha. As someone going to a normal music school,\nI think both are amazing!
+13	message	Sorry to keep you waiting, everyone!
+14	message	How did it go?
+15	message	It looks like Mama's sentence might get reduced!\nStill a long way to go, but it's a step forward!
+16	message	That's wonderful, Aria-san!\nLet's have a feast tonight!
+17	message	That's wonderful!\nAria, who loves her mama so much,\ndeserves a head pat—pat pat.
+18	message	H-hey! Don't pat my head!
+19	message	What a heartwarming sight.\nIf you ignore the fact\nthat the one being patted is a high schooler.
+20	message	Normally it'd be the other way around.
+21	message	In other words, she's only tall enough\nfor a petite elementary schooler to reach her head...
+22	message	Shut up! I'll punch a hole—
+24	message	Hauu! Your embarrassed face is so cute!
+25	message	Ah, hey, stop! Don't cling to me!\nYou there! Stop grinning!
+27	message	Sheesh, there's no arguing with a crying kid—or Rena.\nAnyway, I'm glad for you, Aria.
+28	message	Th-thanks...!
+29	message	Let me offer my congratulations as well, Kanzaki H. Aria.
+30	message	Thanks... wait!?\nWhy are YOU here!?
+31	message	Fufufu...!
+32	message	//Everyone tenses up.
+33	message	Did you break out!?
+34	message	Re-arrest her!
+35	message	So you escaped using a disguise?
+36	message	Rika-chan!\nGet behind me!
+37	message	//
+38	message	No need to be so tense.
+39	message	//
+40	message	Furude Rika is right.\nI've already accepted my defeat.\nI have no intention of fighting now.
+41	message	Even with a plea deal,\nan immediate release like this\nshouldn't be possible?
+42	message	Normally, yes.\nBut the information I hold and its usefulness\nare worth more than mere bargaining terms.
+43	message	Information...? What information...?
+44	message	Explain it so we're satisfied!
+45	message	Very well, wait a moment.\nI'll explain it so it's easy to understand.
+47	message	//Jeanne starts drawing.
+48	message	She's started drawing something.\nAn illustration, perhaps?
+49	message	Done.\nYou'll understand right away when you see this diagram.
+50	message	Umm... what is this?
+51	message	Looks like an elementary schooler's drawing...
+52	message	How rude!\nElementary schoolers draw better than that!
+53	message	Is this... cubism, maybe.
+54	message	Could she be Picasso's descendant\nrather than Jeanne d'Arc's?
+55	message	So what IS drawn in this picture!?
+56	message	Can't you tell by looking?
+57	message	Hmm. One of them could pass for an IS.\n...Isn't this that Kei?
+58	message	You can tell from THIS drawing?\nThen the other one is... Mii?
+59	message	Yes, I used information on these two for the deal.\nYi Wu and they were in a cooperative relationship,\nbut that's become dubious.
+60	message	I wonder if Yi Wu's higher-ups will stay quiet\nabout you selling their info on your own.
+61	message	As you probably know,\nthey're trying to erase one world.
+62	message	Even within Yi Wu, opinions are split on that,\nand no stance has been set.
+63	message	Personally, I've always felt\ntheir methods didn't suit me.
+64	message	Above all, I don't want to team up with boors\nwho'd interfere with a duel.
+65	message	Yeah, that was totally uncalled for!
+66	message	Besides, now that I've lost to you,\nthey'll abandon me and try to dispose of me.\nLike Yukine Chris, who's no longer needed.
+67	message	!!
+68	message	So I provided information valuable enough\nto secure immediate release, struck the deal, and came out—\nto act alongside you.
+69	message	You... with us...?
+70	message	What's your game?
+71	message	I decided I have more to learn\nfrom Hoshitogi Shirayuki—and even more from Furude Rika—\nthan from Mii and Kei.
+72	message	Do you think that can be forgiven!\nAsking us to suddenly trust someone who disguised herself as me\nand plotted to kidnap Rika is too much!
+73	message	I welcome Jeanne.
+74	message	What!?
+75	message	If Rika-chan's okay with it, so am I.
+76	message	Are you two really okay with this?
+77	message	Yes.\nIf Jeanne apologizes properly,\nI'd like to forgive her.
+78	message	Whatever the circumstances, I apologize for opposing you.\nAnd I'd like you to accept me as one who fights alongside you.\nPlease.
+79	message	I'm fine with it.\nShe's not a stranger,\nand I was in a similar boat myself.
+80	message	Agreed.\nAs long as she doesn't lay a hand on my wife, no problem.
+81	message	(What objection could there be to more beauties?\nRight, [CLAUDE]?)
+82	message	Uh, well...
+83	message	She knows Mii and Kei personally,\nso we can probably get all sorts of info out of her.
+84	message	I have nothing to hide. Ask me anything.
+85	message	U-um! I have a question right away!
+86	message	Please tell me where Chris-chan is!\nShe's my friend!
+87	message	I don't know where she is.\nNow that her relationship with Mii and the others has soured,\nshe's probably hiding somewhere.
+88	message	I see...
+89	message	Cheer up.\nYou'll meet again, I'm sure.
+90	message	She seemed like a persistent one.\nShe'll show up again, complaining loudly.
+91	message	Yeah... you're right!
+93	message	Anything else you'd like to ask?
+94	message	Who are those two weirdos?
+95	message	Who are the two in that funny drawing from before?
+96	message	Where Mii and Kei came from,\nand what they're trying to do—\neven I don't know.
+97	message	Didn't they say something about being kings of all worlds?
+98	message	In truth, those two may have\nthe power to become just that.
+99	message	Just granting others the power to move freely between worlds—\nthat alone should tell you\ntheir ability level is different from mine or yours.
+100	message	Even you, a magic-user, can't understand it?
+101	message	I was dispatched from Yi Wu\nprecisely to learn that.
+102	message	Before they showed their tails,\nyou got cut loose like a lizard's tail instead, huh.
+103	message	One thing's certain:\nMii doesn't think about efficiency or rationality\nat all.
+104	message	You, the strategist, were forced into brute force.\nThat was Mii's order?
+105	message	Yes. Kei, conversely, tries to proceed\nexactly as calculated, like a machine.\nThat's why she interfered with the duel.
+106	message	So it's all about results, then.
+107	message	However, Kei seems to obey Mii.\nIn terms of power, Mii must be above her.
+108	message	Are there other allies?
+109	message	Unknown. I've never taken orders\nfrom anyone but those two.
+110	message	Riko, Dr. Shinigami, the Yase Doji and others\nseem to be cooperating with Mii and Kei\nas individuals.
+111	message	Same as Chris-chan and Usada-chan, huh.
+112	message	Also, though their intent is unclear,\nMii and Kei have a strong interest in mysterious powers,\nand are trying to obtain them.
+113	message	Is that why they tried\nto abduct me and Rika-chan?
+114	message	On that point,\nMii and Kei's goals seem to align.
+115	message	...
+116	message	Where's their hideout?
+117	message	They don't have one.\nThey don't need such a thing.\nThey don't seem to care where they are.
+118	message	...That's about it.\nI didn't spend that much time\nwith those two myself.
+119	message	I see. After hearing all that,\nI have no choice but to trust you.
+120	message	...Hehe, you've changed, Kanzaki H. Aria.\nI'll have to slightly revise the personality profile\nI studied for my disguise.
+121	message	Wh-what! I haven't changed at all...!
+122	message	(glance)
+124	message	Hm?
+125	message	A-anyway! I'll trust you,\nbut if you try anything funny I'll punch a hole through you!
+126	message	I already know that.
+127	message	//Shirayuki gets a phone call.\n//SE: phone ringing.
+128	message	Oh, a call? Yes, this is Hoshitogi...
+129	message	What!? Yes, understood!\nI'll check right away!
+130	message	What is it?
+131	message	//
+132	message	It's from Butei High's Information Department (Informa)!\nFive high-speed flying objects are approaching Butei High!\nThey might be IS units...!
+133	message	IS units in this world!?
+134	message	The black ones that appeared in Hinamizawa...!
+135	message	If they run wild, it'll be a catastrophe!
+136	message	We'll go!\nLure them somewhere deserted and strike!
+137	message	That's fine, but is your Akatsubaki up for it, Houki?\nIn a 5-on-5 fight,\nthat bad fuel economy is a big problem.
+138	message	I don't have time to worry about that!\nI just need to win\nbefore the energy runs out!
+139	message	Hey Houki-chan, what are those black people?\nIf they're human,\ncouldn't we talk to them...?
+140	message	What are you saying at a time like this?\nThose things with the same appearance, faces, and powers\ncan't be human!
+141	message	They must be fakes made by the enemy!\nNo mercy needed!
+142	message	But...!
+143	message	That discussion is for later!\nRight now we have to stop the approaching enemy!\nMove out!!
+146	message	Let's go! Akatsubaki!
+147	message	Ah, hey! Wait up!\nWe're coming too!
+148	message	//IS startup sounds and boost sounds. The IS group heads OUT.
+149	message	As expected, IS units are incredibly fast.\nLet's follow them! Shirayuki,\nrequest tracking from Informa!
+150	message	Right!
+151	message	...
+152	message	Everyone, sorry!\nI'll go after Houki-chan and the others first!
+153	message	Huh, follow...?
+154	message	//Hibiki transforms.
+156	message	I'm off!!
+159	message	What an amazing jump!
+160	message	That looks fast.\nAria, let's go too!
+161	message	I'll have the Vehicle Department (Logi) get us a ride.\nShirayuki, can you handle the negotiation?
+162	message	Leave it to me!
+163	message	//Battle map: forest.\n//The IS group facing the Black IS. Hibiki and allies arrive later as reinforcements.
+164	message	All right, we can fight here!
+165	message	We lured them to the outskirts nicely.
+166	message	Still, fighting someone with my own face\ndoesn't feel great.
+167	message	If they're just as skilled,\nthat makes it even harder.
+168	message	We need to be careful.
+169	message	Let's probe them while watching how they move.
+170	message	...We just have to take them down!\nLet's go!
+171	message	//Battle begins.\n//Event after 2 turns or after dealing set damage to the enemy IS.
+172	message	Don't break formation.\nAre they really communicating with each other like that?
+173	message	Their movements aren't mechanical either.\nIt seems each one has its own intelligence.
+174	message	I expected more openings,\nbut this doesn't look easy.
+175	message	What is there to fear from fakes like that!\nI'll break through them!
+176	message	Don't rush!\nWhen forces are evenly matched,\na careless mistake can cost you your life!
+177	message	(I know...\nbut the Akatsubaki isn't suited for a long battle.\nAt this rate...!)
+178	message	//Battle begins.\n//On turn 3, Black Houki moves forward a little.
+179	message	Hm! So it's the same for them...!\nThen!
+180	message	Houki! That's a taunting move!
+181	message	Leave the probing to us and pull the Akatsubaki back!
+182	message	No, now's the time to strike! The Akatsubaki can do it!
+183	message	//Houki moves adjacent to Black Houki and attacks. Black Houki is knocked back and retreats a little.
+184	message	...
+185	message	I can do this!!
+186	message	//Houki moves adjacent to the retreated Black Houki. At that moment, the other Black IS units move and surround Houki.
+187	message	What!?
+188	message	Heh.
+189	message	//Houki is subjected to the Black IS units' fierce assault. She fights hard, but runs out of energy.\n*Can we get a battle animation for this part? At the very last fight, right before her HP (or rather, shield energy) runs out.
+190	message	Damn it, my energy...!
+191	message	This is bad!
+192	message	Houki-san!!
+193	message	What are you doing!!
+194	message	//Rin tries to head to the rescue, but grunts are deployed between her and Houki, cutting them off.
+195	message	Crap!? These guys!!
+196	message	So that's what they were after...!
+197	message	Houki! Run!
+198	message	Begone!
+199	message	Ngh!?
+200	message	Houki-chan!!
+201	message	//Hibiki appears next to Houki and support-guards against the Black IS attack.\n*Can we get a battle animation here too?
+202	message	Guuh! Th-that hurt~!
+203	message	Hibiki!!
+204	message	You won't escape!
+205	message	Look out, Houki-chan!!
+206	message	//The Black group aims a coordinated attack at Houki. But Hibiki shoves Houki aside, takes her place, and takes the coordinated attack instead.
+207	message	Wh!? Hibikiii!!
+208	message	//Hibiki is incapacitated.
+209	message	You're next!
+210	message	!!
+211	message	Not on my watch!!
+212	message	//Aria and Jeanne appear near Rin.
+213	message	Out of the waaaay!!
+214	message	I'll carve a path!
+215	message	//Aria and Jeanne scatter the grunts.
+216	message	Rin! Go!
+217	message	Got it!
+218	message	Charlotte!
+219	message	Leave it to me! Ignition Boost!!
+220	message	I'll cover you! Blue Tears!!
+221	message	Take this!!
+222	message	//Taking Cecilia and Laura's covering fire, Rin and Charlotte charge in; Rin recovers Hibiki, Charlotte recovers Houki. Rin, Charlotte, Hibiki, and Houki leave the front line.
+223	message	Hibiki recovered! Pulling out!
+224	message	I've got Houki! Cover me!
+225	message	Tch!
+226	message	Eyes on me!!\nHole! Hole! Hooole!!
+227	message	The tables have turned!
+228	message	//Allied reinforcements.
+229	message	They arrived sooner than expected.
+230	message	How dare you do that to Hibiki!! You won't get away with this!!
+231	message	Don't let your temper run away with you.
+232	message	Yeah, no can do!
+233	message	Everyone, don't get isolated!\nIS units are fast—you'll be surrounded in no time!
+234	message	The enemy is battle-hardened!\nEven with superior numbers, don't underestimate them!!
+235	message	Hmph, how about this.
+236	message	//More grunt reinforcements. Their numbers grow.
+237	message	They just keep coming!!
+238	message	Calm down. If the enemy are IS units,\nthey consume energy too.\nThey must hate being worn down slowly.
+239	message	I see... as expected of a strategist,\ndoing what the enemy hates is your specialty.
+240	message	A barbed way of putting it, but yes.
+241	message	Anyway, I'm definitely taking those guys down!
+242	message	//Event after defeating 2 IS units.\nIf Black Houki was defeated, she reappears.
+243	message	This is about time to go.
+244	message	//The enemy forces retreat in turn.
+245	message	They ran! Those guys...!
+246	message	They're not foolish enough to fight to annihilation.\nMore importantly...
+247	message	Back to Butei High, immediately.\nHibiki needs treatment... hurry!
+248	message	...
+249	message	//End of battle.
+252	message	Siesta, how is Hibiki...?
+253	message	She still hasn't regained consciousness...\nShirayuki-san is constantly using "Heal" on her.\nAnd [CLAUDE]-san is desperately using "Heal" too.
+254	message	Well, the slave apprentice\nis useful at times like this.
+255	message	Is Hibiki-san going to be okay?
+256	message	I hope Hibiki-san recovers safely...
+257	message	With no barrier on her,\nshe took a concentrated IS attack.\nIt's a wonder she's alive at all.
+258	message	Laura-san, how can you stay so calm?
+259	message	I thought Laura-san would be the most shaken.
+260	message	Panicking\nwon't let me do anything for her.
+261	message	And I believe—\nin Tachibana Hibiki's strength, more than anyone.
+262	message	That's right. As Hibiki-san's friend,\nI'll believe she'll be fine too!
+263	message	I thought the "wife" thing was half a joke,\nbut you two really do have a bond!
+264	message	Still, when she got hit,\nI thought my heart would stop.\nHonestly, what a reckless wife...
+265	message	The other reckless one's in bad shape too, it seems.
+266	message	I'll leave that to you.\nIf I went now,\nit'd only end badly.
+267	message	//Fade to black.\n//Background: seaside (if available).\n//Houki is depressed.
+268	message	...
+269	message	(It's my fault... Hibiki got hurt because of me...!\nHibiki was worried about me.)
+270	message	(And yet I... overestimated the Akatsubaki's power,\nand wanting to avoid the long battle I'm bad at,\nI lost myself...)
+271	message	(What a joke, "mastering power"!\nI obsessed over defeating the enemy and let power push me around!\nI haven't changed at all!)
+272	message	(What have I... been training for!\nWhat for...!)
+273	message	Ah, ah, how obvious.
+274	message	"Hibiki got hurt because of me,"\nmoping around like that?\nDon't give me that crap!
+275	message	I... won't use an IS... anymore...
+276	message	Don't be such a baby!\nIf we don't fight,\nwho's gonna fight those black IS units!!
+277	message	Rin's right.
+278	message	If you've got time to mope around here,\nhow about nursing Hibiki?
+279	message	Though there's no way\nI'm letting you near my wife in your current state.
+280	message	...
+281	message	I won't allow you\nto show Hibiki such a gloomy face.
+282	message	My wife... Hibiki, she likes you.\nAbout three places after me, that is.
+283	message	If you want to see her,\navenge her and go see her with your head held high.
+284	message	Show her the best version of you,\nhaving done the utmost you can do now.\nThat's the least you can do to make amends.
+285	message	...
+286	message	...Understood.
+287	message	You're right.\nI can't show Hibiki\nsuch a pathetic sight...!
+288	message	I swear... I'll avenge her!!\nI'll never repeat my mistake again!\n...Laura, Rin, lend me your strength. Please!
+289	message	It's settled. You should've just been honest from the start.
+290	message	Hmph, leave it to me.
+291	message	Excuse me! Would you mind\nnot leaving me out?
+292	message	If each of us shows what we can do,\nwe'll definitely win!
+293	message	Cecilia, Charlotte too!\nI'm counting on you!
+294	message	(Hibiki... wait for me.)
+295	message	//END

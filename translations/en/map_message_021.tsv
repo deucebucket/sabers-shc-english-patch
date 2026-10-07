@@ -1,0 +1,259 @@
+row	column	english
+3	message	Haa, haa... I hope\nSiesta's okay now.
+4	message	(She's safer without me.\nThere's no reason for a commoner to be targeted...)
+5	message	(I'm a noble — a noble protects the weak.\nEven alone, I'll manage...)
+6	message	...Wait, where is this?\nI came from that way, right?\nAh, maybe it was this way...
+7	message	Could it be... I'm lost...?\nNo way...
+8	message	At a time like this, if only\nI had my familiar...
+9	message	//SE: rustling, sound of grass brushing
+10	message	Wh-who's there!?
+12	message	Ow ow ow... please...\ndon't push. The leaves are stabbing me...\nOw... ow ow... it hurts...
+13	message	That's not it!\nUm, well, I tripped.
+14	message	H-huh... really...?\nThen stop clinging to me, quickly...
+15	message	Sorry sorry,\nI didn't push because\nI wanted to!
+16	message	I mean, I mean,\nthe footing was bad, so\nI just went THUD, that's all!
+17	message	What does "THUD" mean...
+18	message	Um, are you okay?\nLet's stay calm and act carefully.
+19	message	Still,\nwhere is this place...?\nWe're completely lost...
+20	message	W-we were lost...!?\nUu... which road is the right one...?
+21	message	Right or not,\nwe don't know where this is, which way\nto go, or what's that way...
+22	message	...
+23	message	(Oh, [CLAUDE]!\nThere's a beautiful girl over there!)
+24	message	Huh? Ah... who\nmight you be?
+25	message	That's MY line!!
+26	message	Who are you people? What commoners?\nDon't tell me you're the mages\nwho control those monstrous beasts!!
+27	message	No, we're definitely not suspicious people...
+28	message	You look suspicious from every angle! Your clothes are weird too!
+29	message	Eeeh!?\nTh-these are my own clothes, but\nare they... weird...?
+30	message	//A weakened Cecilia comes out
+31	message	U... ugh, what's going on?\nIt's noisy.
+32	message	Cecilia-chan, don't push yourself.
+33	message	//Event CG: Cecilia unwell (NG if the picture looks like anything but a stomachache, so no CG.
+34	message	Hauu...
+35	message	Wh-what's wrong? Your face is pale.
+36	message	It seems she caught a cold\nfrom the unfamiliar camping...
+37	message	Was it that cold...?
+38	message	Sleeping without a futon\nisn't normal...
+39	message	//Event CG off
+40	message	Water healing magic would fix that easily,\nbut I can't use water magic.
+41	message	Magic?\nAre you saying you're a mage?
+42	message	That's right. I am Louise Françoise\nLe Blanc de La Vallière.\nYou know what that name means, right?
+43	message	Whoa, a name like a spell!\nShe's definitely a mage!
+44	message	No! Unlike you commoners, I HAVE a family name!
+45	message	Mmm...??\nHaving a family name makes you\na mage?
+46	message	Hawawa! My family name is made up,\nbut am I a mage? Come to think of it,\nmagical = mage, that's the vibe.
+47	message	Um, being a mage because of a name\nsounds fishy.
+48	message	Muu! [CLAUDE]-san, not just your family name —\neven your given name is fishy!
+49	message	Having a family name makes you a mage? What's that~ (laugh)\nMagic is all about guts and fighting spirit!!
+50	message	Then I don't think you can use magic...
+51	message	Booo!! You can use magic too, you know!\nBut we don't know your family name!!
+52	message	What commoners are you?\nThere's a limit to not knowing things!
+53	message	C-commoners...?\nUm, excuse me, but\nwhat does that mean...?
+54	message	I'm a noble!\nIt's common sense that nobles can use magic!\nYou know at least that much, right?
+55	message	A noble?\nI, Cecilia Alcott, am\na noble too!
+56	message	Cecilia-chan, you'd better not push it...
+57	message	Alcott? Where's your territory?
+58	message	It's in England!
+59	message	Where's England!?\nI've never heard of such a name!\nAren't you a fake noble?
+60	message	What did you say!!
+61	message	Cecilia-san, please calm down.\nHearing "magic," I had a thought —\nisn't this some special world...?
+62	message	Is there a map of this area?
+63	message	A map of this area would really help?
+64	message	A map? I have one. Want to see?
+65	message	I see... as I thought, this is...
+66	message	It looks like... Europe,\nbut... a little different.
+67	message	My country isn't on the map!?
+68	message	I wonder where this is...
+69	message	Ah! Maybe it's the setting of a wonderful story,\nlike the swords-and-magic fantasy world you reach\nfrom a platform at a station you can't normally see!
+70	message	Everything you people have been saying\nfeels off somehow...?
+71	message	Right, you said Cecilia?\nIf you're a noble, you can use magic, right?\nShow me.
+72	message	Magic? Why would a noble use magic?
+73	message	You can't use it?\nThen you're just a commoner after all.
+74	message	What did you say!?
+75	message	Cecilia-san, if you push yourself\nyou'll get a fever...
+76	message	Being called a commoner\nburns away my fever with anger!
+77	message	(Seems like it'll give her more of a fever, though...)
+78	message	Louise-san! If you're a noble too,\nyou understand what it means\nto tarnish a noble's honor, don't you?
+79	message	What! If it's a duel, I'll accept!
+80	message	Let's not fight.\nWe can understand each other's words, after all...
+81	message	NO!!
+82	message	No way!!
+84	message	Um...\nThis doesn't seem like the time to be fighting.
+85	message	That's enough! Stop! Stoooop!
+86	message	What is it?
+87	message	Why'd you stop us!!
+88	message	It seems we're surrounded...
+91	message	No way!?
+92	message	//Switch to battle map\n//After allies and enemies are placed
+93	message	I'll fight too!
+94	message	What, you CAN use magic!
+95	message	My Blue Tears\naren't magic!
+96	message	You should've shown me from the start!\nWhat element? Earth alchemy plus common-magic\nlevitation combined? What unusual magic.
+97	message	Explaining the IS... doesn't seem like\nwe have the luxury for that.
+98	message	Eye-ess?
+99	message	Um, sufficiently advanced science\nis indistinguishable from magic!
+100	message	Um, well,\ndetails don't matter! Let's just\ndo what we gotta do first!
+101	message	I'll break through at one point!\nFirst, let's break the encirclement!
+102	message	You can use magic too, huh.
+103	message	Huh? Me?\nI'm hand-to-hand combat, so\nI don't think it's magic...
+104	message	I saw you bring out that armor.\nEarth-system alchemy and fixation, I'd say?\nA song-like spell, interesting.
+105	message	That's why it's not magic...
+106	message	By the way, are you feeling okay?\nDid you heal with healing magic?
+107	message	Not magic — fighting spirit!\nA noble doesn't show an unsightly figure to the enemy!
+108	message	Hmm, so you have pride... fine!\nI'll allow you to cooperate with me.
+109	message	Why are you talking down to me like that!?
+110	message	//Battle begins.\n//Event triggers when Louise attacks
+111	message	My! You're really a mage?
+112	message	If I couldn't use magic, I couldn't fight!
+113	message	True, if all you have are bows for ranged weapons,\nmagic sounds insanely strong.
+114	message	So magic in this world is\nlike how the IS made modern weapons\na thing of the past...
+115	message	Let me tell you, this isn't even\none-hundredth of my true power!\nDon't think this is all there is!
+116	message	And using powerful magic\nrequires a long chanting time, so\nyou all hold the enemies back properly!
+117	message	Leave that to me!
+118	message	//Defeat a certain number of small fry.\n//Black Puchiko appears
+119	message	...? A really tiny one showed up.\nA fairy, I wonder.
+120	message	...You're small too, nyu.
+121	message	Wh— You're smaller than me!
+122	message	...Look at your own chest before saying that, nyu.
+123	message	Wh... wh-wh-wh-what did you say!?
+124	message	That remark! I absolutely won't forgive it!
+125	message	...I'll beat you back, nyu...!
+126	message	Wow♪ This is a cute showdown!
+127	message	Coming from you,\nthat bugs me somehow...!
+128	message	//Battle resumes\n//Black Puchiko repelled (certain damage?)
+129	message	...Retreating, nyu.
+130	message	//Black Puchiko retreats
+131	message	Wait!\nI haven't forgiven you yet!
+132	message	Oh, she got away.
+133	message	...Chasing her would be stupid anyway.\nBesides, there's something bugging me.
+134	message	Something bugging you?
+135	message	About you all, obviously!
+136	message	//Battle ends
+138	message	For now, let me thank you. Thanks.\nIt'd have been bad without you all.
+139	message	You said Louise-san?\nYou're pretty good yourself.\nNot as good as my Blue Tears, though.
+140	message	Indeed, admirable guts despite being unwell.\nI have to acknowledge that.\nYour magic arm isn't bad, either.
+141	message	Even though I keep telling you\nit's not magic, how stubborn...
+142	message	Now now, Cecilia-san.\nYou could just honestly take it\nas a compliment, couldn't you?
+143	message	Of course!\nI am a genuine noble, after all.
+144	message	(So a cold can be cured with fighting spirit, huh)
+145	message	(More a gutsy person than a noble...)
+146	message	(It's magic called willpower, surely)
+147	message	Um, could you\nshow me that map one more time?
+148	message	Sure. Here.
+149	message	It resembles Europe,\nbut a lot is different...
+150	message	Europe? This is Halkeginia.\nHalkeginia's Kingdom of Gallia.\nYou're not Gallians?
+151	message	Yes. It's a long story, but...
+152	message	//Fade to black, time passes
+153	message	...Came from a different world...?
+154	message	(A different... world...)
+155	message	Huh? What's wrong?
+156	message	No, it's nothing. ...Yeah, nothing.
+157	message	So, if in this world too there are incidents\nlike people appearing from different worlds or\npeople disappearing, I'd like you to tell us.
+158	message	...There are.
+159	message	Really?
+160	message	In my country, the Kingdom of Tristain,\na mage who controls monstrous beasts has appeared\nand is causing calamities.
+161	message	Controls monstrous beasts...?
+162	message	Since he appeared,\nvillages in the country have been attacked, residents have vanished,\nstrange incidents keep happening one after another.
+163	message	To stand against him,\nI must meet His Holiness the Pope of Romalia\nand regain my lost power.
+164	message	You said this is the Kingdom of Gallia?
+165	message	Romalia is the country on the far side\npast the Kingdom of Gallia from the Kingdom of Tristain.\nI was making a secret journey there... ah!?
+166	message	What's wrong?\nUm, if it's hard to say,\nyou don't have to...
+167	message	It's not that!!\nI left the companion I was traveling with...!\nOh no, I have to go look for them!
+168	message	Louise-chan, calm down!\nActing alone is dangerous!
+170	message	Right, it's dangerous!\nAnd yet I left my companion alone!\nHow stupid was I...!!
+171	message	Not necessarily.\nThings turned out well, didn't they?
+172	message	What do you mean "well"!
+173	message	Searching together will be faster\nthan alone.
+174	message	You'll help me?
+175	message	I'm Tachibana Hibiki! My hobby is helping people!\nPlease let me help!
+176	message	When in trouble, we help each other.
+177	message	The mage who controls monstrous beasts\nthat Louise-san mentioned\nmight be someone we know.
+178	message	Louise-san, we might be\nfighting the same enemy!
+179	message	They say the enemy of my enemy is my friend?\nThen we're allies, aren't we?
+180	message	Comrades fighting our common enemy together!\nNice to meet you!
+182	message	A common... enemy.
+189	message	(Ugh... so big!!)
+190	message	(What is this!? Too big!\nIs something wrong with my eyes?\nThere are six lined up like Tiffa...!)
+191	message	What's wrong?
+192	message	(She's an enemy too!)
+193	message	Um, is something wrong...?
+194	message	Okay, you're an ally!
+195	message	Huh?
+196	message	Huh? Why's she mad?
+197	message	(This too... talk about adversity!\nI should've brought Tabatha...)
+198	message	Dunno what's going on, but\nthose burning eyes are the best!\nI can feel the will to fight!!
+199	message	(Look at her chest.\nSurely she has a complex about it)
+200	message	...Ah, so that's what it was.
+201	message	What do you mean, "that's what it was"?\nExplain it to me thoroughly.
+202	message	Huh? Well, that's... I mean, her chest...
+203	message	//[ES] Louise snaps at Claude. Stomping
+204	message	Don't you dare say it!! You perverted commoner!!
+205	message	Eeek!?
+206	message	I-I won't forgive you... to insult\nme, a noble, this much...
+207	message	Ah, I get it!\nSo you don't want your life, huh?
+208	message	Huh... I was just stating\nobjective facts...
+209	message	Who gave you permission to open your mouth?\nAnd if you're opening it,\napologize before making excuses!!
+210	message	Y-yes... I'm sorry!\nI'm sorry! I'm sorry!!
+211	message	Anyway, what IS this!\nThis lineup feels like harassment!!\nI see, it's your hobby, huh? Apologize!!
+212	message	Dragging along monster-class girls\nand barging into someone else's world uninvited!\nDo you want war that badly!
+213	message	U-um... Louise-san?
+214	message	Men are lewd beasts who think\nbigger is better!! They should die\nthe moment they're born!
+215	message	Y-you'd go that far...
+216	message	She's completely snapped...
+217	message	//Event CG off
+219	message	Haa, haa... I'm tired...
+220	message	(Th-that was probably two lifetimes'\nworth of scolding... when it's this much,\nit's almost starting to feel good... maybe)
+221	message	Ugh, haa haa...
+222	message	A-are you okay...?\nYou've been fidgety for a while...?
+223	message	(I wonder what'd happen to me\nif she talked to me like that...)
+224	message	...??
+225	message	By the way, Louise-san,\nshouldn't you go look for your attendant?
+226	message	Huh!? Siesta! That's right!
+227	message	We'd better hurry.
+228	message	Louise-chan, lead the way!
+229	message	...Got it.
+230	message	//Scene change\n//BG: plain (night)
+231	message	No good... I don't know\nwhere it was...
+232	message	This is troubling...
+233	message	What do I do... if something happened\nto Siesta because of me...!
+234	message	Setting aside me with my IS,\nsearching at night is difficult and dangerous.\nLet's search again in the morning.
+235	message	No! If we don't hurry, Siesta will!
+236	message	Even so, Louise-chan,\nyou're already swaying on your feet.
+237	message	Louise-san must be exhausted\nfrom using magic.
+238	message	You mustn't push yourself too hard!\nUm, won't you rest properly...?
+239	message	Yes. Forcing a search in this darkness\nwould be inefficient. I understand\nhow you feel, but please...
+240	message	Early to bed, early to rise, and resume at sunrise.\nThat minimizes the time loss.
+241	message	...Okay.
+242	message	(Siesta... stay safe...)
+243	message	//Scene change\n//BG: Forest (night)
+244	message	Louise-san,\nwhere could she have gone?\nWithout even proper food...
+245	message	I hope she hasn't collapsed\nfrom hunger. I'm worried about\nTiffa-san too, this is troubling...
+247	message	Siesta! I finally found you!
+248	message	Miss Vallière!?
+249	message	I'm sorry! I won't go off on my own anymore!
+250	message	...Y-yes.
+251	message	It's dangerous here.\nI found a small cave ahead.\nLet's move there.
+252	message	(Hm...?)
+253	message	That's fine, but.\n...Um, Miss Vallière.
+254	message	What?
+255	message	Have your breasts gotten a little bigger?
+256	message	Huh? Really? Isn't that your imagination?
+257	message	They were smaller, weren't they?
+258	message	W-were they? No they're not?
+259	message	(Sh-she's a fake...!!)
+260	message	(I thought something was off... her apologizing to me meekly\nwould be impossible even if heaven and earth flipped,\nand not getting grumpy when I mention her chest)
+261	message	...
+262	message	Hmph, you noticed. But too late.
+263	message	Who are you!?
+264	message	You'll provide me a little entertainment.\nEntertainment called rebellion against your master.
+265	message	...Rebel against Louise-san? Me?
+266	message	This world seems to have an interesting drug.\nYou drank the water from the canteen earlier, right?\nAt that point, you were in my grasp.
+267	message	//SE: sound of snapping fingers
+268	message	Ugh...
+270	message	Repeat after me. Miss Vallière is the enemy.
+271	message	...Miss Vallière is... the enemy...
+272	message	Hoh, this is... more effective than expected.
+273	message	Andvari's ring, which bends humans to one's will.\nAnd the tainted water it was soaked in.\nA terrifying enchantment ability.
+274	message	Bearer of the Void, Louise the Zero.\nHer mighty magic recovers with emotional ups and downs —\ntruly unbelievable information.
+275	message	I must use this girl to verify its truth.
+276	message	//END

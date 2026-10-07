@@ -1,0 +1,177 @@
+row	column	english
+3	message	Siesta, where did you go…
+4	message	She's surely hiding somewhere.\nCheer up, please.
+5	message	I'm not depressed.\nI'm just angry at my own carelessness!
+6	message	Louise-chan…
+7	message	Abandoning a maid employed by a noble—\nthat's unthinkable.\nI'll find her no matter what!
+8	message	Yes!\nLet's do our best together!
+9	message	I searched from the air with my IS's hyper-sensor,\nbut with all these trees, it's quite difficult.
+10	message	Thanks.\nWe'll have to search on foot, the slow way.
+12	message	…
+13	message	Huh? Hello, maid lady, indeed.
+14	message	Oh, a wild maid spotted!\nHuh, wait?
+15	message	Siesta!!
+16	message	Hawa!? It's her, indeed!?
+17	message	Not a wild one!!\nI mean, it was her!
+18	message	…
+19	message	Siesta? What's wrong?
+20	message	…Miss Valliere is…
+21	message	Huh?
+22	message	…Miss Valliere is… the enemy!
+24	message	Kya! What!?\nSiesta, are you angry at me?
+25	message	She's acting strange!
+26	message	Aoi-chan, Blue Angel!
+27	message	Yes!
+30	message	Siesta! What's gotten into you?
+32	message	Siesta! What are THOSE!?
+33	message	Wh-why is the maid lady\ncommanding monsters, indeed?
+34	message	Could the mage controlling these monstrous demons\nhave been Siesta-san all along?
+35	message	That's impossible!\nSiesta is a commoner—she can't use magic!
+36	message	Siesta-san isn't being attacked, so\nshe's on THEIR side? Is that it?
+37	message	It's strange—Siesta doesn't have that kind of power!\nWhat's going on…?
+38	message	I thought I'd finish you in one strike,\nbut you dodged…
+39	message	…She's not in her right mind.
+40	message	Wh-what, is she a bad person!?
+41	message	No. She seems to be controlled by someone.\nThis feeling… like during the soldiers' revolt\nin Southgota…?
+42	message	…Miss Valliere… prepare yourself!!
+43	message	Louise-san, what should I do?
+44	message	I'll handle Siesta!\nEveryone else, take the others!
+45	message	Understood!
+48	message	Siesta! Come back to your senses!
+49	message	…Miss Valliere…\nAlways, always getting in my way!
+50	message	Getting in your way? What do you mean?
+52	message	Putting up with things is a maid's job, but!\nOnce in a while I'll speak my mind!
+53	message	Wh-what…?
+54	message	For starters, you're selfish! And a crybaby!\nAnd violent! And noisy!
+55	message	…
+56	message	Are you listening properly! Louise-san!
+57	message	I'm listening… just this once.
+58	message	I'm telling you, you're a child! Get it?\nYou get it, right? And I don't just mean your body!
+59	message	M-mm… I have to listen properly…\nright… patience, patience…
+60	message	Truly, a child.\nC-h-i-l-d.
+62	message	Daaah!!!!\nNope, can't do it! I can't take it!!\nI'll bring you back to your senses the rough way!!
+64	message	Kyaaah!
+65	message	How's that? Back to your senses yet?
+66	message	…What are you talking about?\nShow-off! Stubborn!\nPancake-flat Louise-san?
+67	message	Wh-wh-wh… what did you say?\nI couldn't quite hear…
+68	message	Impulsive and flat-chested! Slapdash and flat-chested!\nI said you're a hotheaded flat-chest!
+69	message	WHAAAT did you just say!!!!
+70	message	Ohh, is that right! Yes! I heard that!\nWhatever the reason, I understand PERFECTLY\nthat you're trying to make me blow my top!!
+71	message	Um, Louise-san?
+72	message	Fufu, fufufu! I feel it… I feel it!\nIt's been so long… from the top of my head to my toes,\nsomething filling me up… this feeling…!!
+73	message	I only stated facts.\nAny complaints?
+74	message	Of course there are!!
+75	message	If you have a rebuttal, go ahead. As many as you like.
+76	message	Why youuuu!!
+78	message	That's enough! Siesta!!
+80	message	Uru surisazu ansuru ken
+81	message	…!!
+82	message	Gyofu nido naushizu
+83	message	Eusazu yara ieru eo!!
+85	message	Dispel!!
+87	message	Aaaah!!
+88	message	Louise-chan! What are you doing!?
+89	message	Don't worry, it's not an attack spell.\nThat was Dispel—\nVoid magic that negates all magic.
+91	message	…Oh? Miss Valliere?\nAre you back?
+92	message	Good grief… you're the one who came back.\nWelcome home, Siesta.
+95	message	What!? I was being controlled?
+96	message	You don't remember at all?
+97	message	Yes… though I vaguely recall\nseeing Miss Valliere's face.
+98	message	Well, whatever.\nI was wrong to leave you behind on your own,\nso I have things to say, but I'll forgive you.
+99	message	Haa.
+100	message	Oh, and if you have something to say to me,\ndon't bottle it up—let it out sometimes.\n…Because it's scary otherwise.
+101	message	I don't quite understand what you mean,\nbut if that's better, I'll do that.
+102	message	One more thing.\nSiesta… do you… hate me?
+103	message	Well… selfish, a crybaby,\nviolent, a show-off, stubborn,\nimpulsive…
+104	message	Slapdash and short-tempered, but\nI like you, Louise-san.
+105	message	…Really?
+106	message	I wouldn't know this much\nabout someone I hate.
+107	message	I see… well, fine.\nBut wait! Aren't you hiding something?
+108	message	What?
+109	message	(She left out 'flat-chested'…\nshowing mercy, huh…)
+110	message	Oh, she did say 'flat-chested', didn't she?
+113	message	!!
+114	message	Huh? Was I wrong…?
+115	message	E-e-e…EXPLOSION!!!!
+117	message	Why would you say that, indeed~…
+118	message	There are good fools and bad fools,\nand this is the bad kind…
+121	message	…Heightened emotion increasing magical power—\nso this phenomenon really exists.
+122	message	The bearer of the Void, Louise the Zero.\nA fearsome mage who defies\nthe very concepts of mana consumption and recovery…
+123	message	No wonder the client is interested.\nBut that magical power… can it be used\noutside this world?
+124	message	I need to investigate a bit more.
+127	message	So this is where Tefa-san\ndisappeared?
+128	message	Yes, no doubt.\nA suspicious pair appeared,\nand they vanished together.
+129	message	I saw it too.\nWhere could Tefa-san\nhave vanished to?
+130	message	I have to find Tefa.\nTell me anything you know.
+131	message	Isn't this where\nwe first came to this world?
+132	message	Indeed.\nThe Blue Tears' records say so as well.
+133	message	Does it have something to do with you?
+134	message	I can't say anything certain yet,\nbut the phenomenon of moving to another world\nseems to occur easily at certain specific places.
+135	message	It doesn't seem to always happen,\nso I doubt there's a rule to it, indeed…
+136	message	But there seem to be exceptions,\nhmm, nothing's clear.\nIt bugs me.
+137	message	Can we go search for Tefa?\nWe can, right?
+138	message	We're currently investigating that,\nwhich is how we happened to come\nto this Halkeginia.
+139	message	So if I stay with you,\nI might get to the world Tefa went to.\nThat's what you're saying, right?
+140	message	I can't promise anything.\nBut they say where there's a will, there's a way!
+141	message	Yes! Louise-chan feels this strongly,\nso a story where she never reunites with Tefa-chan\nsimply doesn't exist!
+142	message	Right, that's no laughing matter!\nThat would be completely unacceptable!
+143	message	I will absolutely save Tefa!\nAbsolutely!!
+145	message	Oh my? What's this?
+146	message	Huh, what?
+147	message	It's all white!!
+149	message	Stay here…?
+150	message	We don't intend to harm you.\nAs long as you don't try to escape, your safety is guaranteed.
+151	message	…Promise.
+152	message	So I'm a prisoner, then.
+153	message	If you think of yourself as a guest,\nwouldn't that put you at ease?
+154	message	A guest…
+155	message	(I could use memory-erasing magic on them\nand escape…)
+156	message	(But even if I escaped, where would I go?\nAnd I don't think these people are bad…)
+157	message	…
+158	message	Understood. I'll stay here.
+159	message	…Good. I'll keep the promise.
+160	message	I'm relieved you're so sensible.\nAs Natchan says, we'll keep the promise.\nDon't worry.
+162	message	Huh? A t-town!?
+163	message	Is this an illusion?
+164	message	This is apparently called Dokoka Town.\nIt's a tiny town… probably\na set from some studio!
+165	message	A studio?
+166	message	A set?
+167	message	Umm, well… Soniko-san\njust has a unique way of putting things…
+168	message	(Soniko-san is convinced this isn't real,\nthat it's all some kind of play.)
+169	message	(Huh? Is that okay?)
+170	message	(Won't she realize someday?)
+171	message	(I'd like to get her back to her own world\nbefore that, if possible.)
+172	message	(I see. If she's a civilian, it can't be helped.)
+173	message	(Understood. I'll play along.)
+174	message	Huh, is something wrong…?
+175	message	No, we were just saying\nthat Dokoka Town is hard to explain.
+176	message	Oh, true, this is a strange place.\nIt has everything…\na relaxing place, you might say…
+177	message	Is that so?
+178	message	Yes! Fluffy beds,\nfood… and cooking utensils—\nthey've got 'em all!
+179	message	Cooking utensils too!?\nI'd love to see them!
+180	message	Siesta-san, you're good at cooking♪\nOh! Then how about some ramen!
+181	message	Ramen?\nWhat kind of food is that?\nI'm curious!
+182	message	Um, noodles in soup…\nand especially the meat called chashu on top\nis delicious…!
+183	message	Hmm… rather than explaining,\nit'd be better to show you real ramen!
+184	message	Ideally I'd treat you at a good restaurant,\nbut I'll make ramen with what we have,\nso please, please try it♪
+185	message	Understood!\nI'm looking forward to learning an unknown dish!
+188	message	Good grief, they've hit it off.
+189	message	Would you like some too, Louise-san?\nRamen is delicious.
+190	message	Anything Siesta makes is delicious.\nWell, trying something unusual\nisn't bad either.
+191	message	Louise-chan! Here, have this♪\nIt's a sweet called a macaron!
+192	message	What, you're back already!?\nA macaron?
+193	message	Munch munch…
+194	message	Mmm! Sweet and delicious!
+195	message	Ehehe… it's my\nfavo~rite sweet!
+196	message	Hey, do they have Cookberry pie?
+197	message	They seem to have lots of sweets~♪\nThere should be all kinds of pies!
+198	message	I'll go look too!\nI don't really get it, but this place is amazing!
+199	message	Ufufu, with good food\ngirls become friends right away.
+200	message	Indeed!\nPerhaps I should show off a dish of my own?
+201	message	!!
+202	message	What's the matter?
+203	message	P-please, Cecilia-san, we'd love it if you\nshowed us British-style tea.\nIt's unfamiliar to us.
+204	message	Indeed, tea is indispensable!\nI'll teach you\nhow to enjoy it.
+205	message	Yes, please.
+206	message	(Right person for the right job…)
+207	message	//END

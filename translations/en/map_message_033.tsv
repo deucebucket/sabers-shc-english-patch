@@ -1,0 +1,182 @@
+row	column	english
+3	message	Almost to St. Mont Blanc Academy!
+4	message	Come to think of it, what's that school like?\nI feel like someone said all the students\ncan fight or something.
+5	message	St. Mont Blanc Academy has lots of departments,\nand most of them are 'Magical~' departments\nwith combat techniques attached.
+6	message	Cooking, sewing, math, music, and so on—\nin ancient times, all of them were techniques\nborn from the struggles of living things, but
+7	message	as the ages grew peaceful and\nthe need for combat faded,\nthey were absorbed into wholesome culture.
+8	message	Like how the javelin throw went from\na combat technique to a sport?
+9	message	Exactly. For example, in the Magical Patissier department,\nthey focus on making sweets, while also researching\ntechniques that apply those cooking skills to combat.
+10	message	But since combat techniques are their roots,\nit's based on the philosophy of cherishing the original\ntechniques and preserving their original forms.
+11	message	Hmm, that might not be so different\nfrom I-U's research philosophy…
+12	message	Almost to St. Mont Blanc Academy!
+13	message	Come to think of it, what's that school like?\nI feel like I heard all the students\ncan fight or something.
+14	message	At St. Mont Blanc Academy, starting with\nthe Magical Magician department I'm in,\ncombat techniques are required.
+15	message	Cooking, sewing, math, music—\nwhen they were invented way back,\nthey were all techniques related to fighting, apparently.
+16	message	Then peaceful times came,\nthe combat-related parts got shaved off,\nand they became safe, I think?
+17	message	Like how the javelin throw went from\na combat technique to a sport?
+18	message	My Magical Magician stuff is a fusion of\nsorcery and stage magic, but from a certain period\nit developed as a combat technique, apparently.
+19	message	So in that sense, we're carefully protecting our roots\nand keeping them alive today?
+20	message	Hmm, that might not be so different\nfrom I-U's research philosophy…
+21	message	Interesting story, but\nthis isn't the time for it!
+22	message	What's wrong?
+23	message	Looks like we're being ambushed.\nThey don't want us reaching St. Mont Blanc Academy,\nI wonder?
+24	message	Well, our movements were plain to see,\nso it can't be helped.\nCan we force our way through?
+25	message	Too late to go around now.\nLet's go head-on!
+26	message	//Battle map: Original Character World\n//The teacher set up this battle, so the placement and spawn timing are nasty.
+28	message	There are some weird ones.\nDo you know what those are?
+29	message	Waaah, it's slime-chan!\nThat form… don't you think it's lovely?
+30	message	…The meaning of 'lovely' in this world\nseems different from what I know…
+31	message	Ugeeh, it's slime-chan.
+32	message	'-chan'?
+33	message	[MERU] always said to put '-chan' on slime,\nso it just slipped out.
+34	message	They're not uncuttable?\nThen there's no problem!
+35	message	//Battle start\n//Enemy reinforcements on turn 2 — in nasty spots
+36	message	The hidden ones came out!?\nCheeky things—they've got intelligence?
+37	message	This many is nothing to worry about!
+38	message	//Enemy reinforcements on turn 3 — in nasty spots
+39	message	More were hiding!?\nWas I wrong to think their intelligence low!
+40	message	Something's off… this placement…\nIt's like a human planned it.
+41	message	Everyone, don't think this is the end!\nThere's probably more coming!
+42	message	//Enemy reinforcements on turn 4 — in nasty spots
+43	message	They were THERE too!?
+44	message	They keep popping up exactly\nwhere we don't want them to!?
+45	message	What is this!? It's practically a trap!
+46	message	They're closing in like a game of go…!\nWhose doing is this…?
+47	message	//Event at the start of turn 5: teacher appears
+48	message	We're being pushed back!!
+49	message	No way I'm going down here!
+50	message	No waaay! Could this be choberiba?\nI can't belieeeve it!
+51	message	Th-that voice!!
+52	message	That hyper voice!?
+53	message	(Wait, what's choberiba…?)
+55	message	Eve is gakkari-nko!!
+56	message	Teacheeer!!
+57	message	Yeees, [MERU]☆\nHappy?
+58	message	Yes-yes!
+59	message	Teacheeer!!
+60	message	Yeees, [NOEL]☆\nHappy?
+61	message	Yay!!
+62	message	…
+63	message	Hey, Tsubasa… that's your lifesaver?
+64	message	That's right.
+65	message	Seriously…!?
+66	message	I mean, in this situation,\nwhat IS that energy!?
+67	message	At this rate you'd be in remedial combat practice, y'know?\nBut I'll do you a little favor today!
+68	message	Kyapiin☆
+69	message	//Several grunts on the map explode (vanish)
+70	message	Wh—!? What was that…!?\nWhat did she do!? Tsubasa, did you see?
+71	message	No, I couldn't confirm anything like an attack motion.\nIs it something magical…?
+72	message	At the very least, all I can say is it's\nsomething different from the magic I know…
+73	message	One more! Kirakira-riin☆
+74	message	//Several grunts on the map explode (vanish)
+75	message	Again!?
+76	message	I told you!\nThe teacher is super strong.
+77	message	See? She's suuuper strong, right?
+78	message	Makes me want to rethink the concept of strength…
+79	message	Now let's clean up quick!\nKurin kurin kurin kurin♪
+80	message	(Slightly—no, quite outdated…)
+81	message	//Battle resumes\n//Event at the start of the next turn\n//Eve spots Jeanne and leaves
+82	message	Umm, right there! Dacchuuno☆
+83	message	//The spot where Jeanne is hiding explodes. Jeanne appears
+84	message	Wh—!?
+85	message	That's Jeanne…!?
+86	message	Thought you'd erased your presence completely?\nToo bad—Jeanne-woo, totally exposed!\nJust kidding!
+87	message	Impossible…
+88	message	Her speech is past its expiration date,\nbut her ability is inhuman…
+89	message	Well, clean that up for me, okay.\nByebyee☆
+90	message	//Eve vanishes.
+91	message	She vanished!
+92	message	As restless as ever.
+93	message	It's an assignment from the teacher!\nPrepare yourselves!
+94	message	Now that we've found you,\nyou're getting beat!
+95	message	A miscalculation… what my clan hates most…
+96	message	//Jeanne retreats after several turns or a set amount of damage
+97	message	With Eve gone, there's no reason\nto stay here anymore…
+99	message	She didn't seem to want to fight…
+100	message	She's totally ready to run!
+101	message	//Battle ends when all enemies are wiped out\n//Background: Original Character World
+102	message	Teacheeer! Teacheeer!
+103	message	Teacheeer! Come out, teacheeer!
+104	message	She just vanished, remember.\nIf she were coming back,\nshe wouldn't have left!
+105	message	//Eve suddenly appears behind Aria
+106	message	That's right! That's right!\nIt's bull-chop sauce!
+108	message	Hah!?
+109	message	When did you—!?
+110	message	//Event art: the master appears — 'wakannai'
+111	message	Hmm, Eve-chan just doesn't knooow☆
+112	message	…
+113	message	But I'm cute, so forgive me☆
+114	message	(Irritated)
+115	message	(She wears a mercilessly risqué outfit.\nI pay my respects to her overflowing spirit of service)
+116	message	(Service… is it?)
+117	message	(Once I've made her spill everything about the light and the travel,\nI get to punch a hole in her, right…)
+118	message	//Event art off
+119	message	Eve, you saved me again. Thank you.
+120	message	It's fine. Sorry for leaving you to handle it.\nGlad I made it in time.
+121	message	Teacher, why did you suddenly disappear?
+122	message	Teacher, why'd you suddenly vanish?
+123	message	Same as you.\nThe light guided me and I ended up in a different world.
+124	message	Just as I thought.
+125	message	I see. I see.
+126	message	Tsubasa said you're the one using\nthe light and the travel. True?
+127	message	Hmm, dunnooo☆
+128	message	Looks like somebody wants a hole punched in them…
+129	message	Mooou, you're so quick-tempered.\nYou're gonna get wrinkles on your face.
+130	message	Are you messing with me!!
+131	message	Calm down!\nWe won't get anywhere at this rate!
+132	message	Eve, tell us what you know so far.\nWe all need it.
+133	message	Trueee, well then,\nseeing is believing—I'll show you.
+134	message	//Fade to black\n//Background: the place where we first met in map 1
+135	message	This is where we were flung\nto Tsubasa's world.
+136	message	Isn't this the place where we\nmoved to Tsubasa's world?
+137	message	Correct!\nSo, have you seen this before?
+138	message	//A stone (Polyal) appears\n//SE: stone appearance sound
+139	message	Wah! Something came out!?
+140	message	It's like the stone from when we left Dokoka Town.
+141	message	What is this!? Where'd you pull it from!?
+142	message	This is called a 'Polyal.'\nI named it myself.\nCute, right?
+143	message	Forget the name, explain what it is!
+144	message	From what I've looked into,\nthis little guy seems to be what's causing\nthe light-and-travel phenomenon.
+145	message	This little guy?
+146	message	It's shy, I guess—\nnormally it hides so nobody\nnotices it.
+147	message	Can't see it, can't touch it,\nno way to notice it.\nIt'd be the best at hide-and-seek☆
+148	message	What's the principle? Magic?\nOr…
+149	message	Dunnooo☆
+150	message	Then how did you find it!?
+151	message	Seriously speaking… by accident, maybe.
+152	message	What's serious about that!
+153	message	I don't know the cause, but\nthe Polyals seem to be\ngoing out of control.
+154	message	Out of control?
+155	message	Yeah. Ever been suddenly lit up and flung away?\nThat seems different from its original function.
+156	message	Same deal—I just happened to discover\na Polyal that was visible by chance.\nSo it really was an accident.
+157	message	You say out of control,\nbut what is its true ability?
+158	message	Polyals have something like a will.\nThey emit faint waves\nthat react to human brainwaves.
+159	message	So they're alive?
+160	message	Dunnooo☆
+161	message	Enough of that!\nTell us how YOU'RE using this thing.
+162	message	I call a Polyal and ask it.\nThat's all. Easy, right?
+163	message	Um, so I call a Polyal and,\nfor example… 'I want to go to Akihabara!'\nI just ask like that?
+164	message	Like a taxi.
+165	message	That's worked so far.\nBut if Polyals have wills of their own,\nthey might refuse sometimes?
+166	message	That part I really dunnooo☆
+167	message	I mostly get it.\nThere are still unknowns, like the rampaging,\nbut the usage seems about right.
+168	message	So 'you can go where you truly wish'\nwas the right answer.
+169	message	Right, right!
+170	message	Haruka, totally correct!!
+171	message	Getting flung to places you didn't wish for\nfeels pretty dangerous, nyo…
+172	message	That's the tricky part.
+173	message	Well, whatever.\nLet's try using it!
+174	message	Where shall we head?
+175	message	How about IS Academy?\nCharlotte's still officially missing\non her way to IS Academy, right?
+176	message	Yeah. If everyone's okay with it,\nI'd at least like to finish my transfer procedures…
+177	message	Dejiko, you're just gonna say\nyou wanna go home again, right?
+178	message	I'm not saying it, nyo.
+179	message	You're scheming something, aren't you?
+180	message	(I'll let this one slide, nyo.\nFirst I'll make it look like I held back,\nthen next time! Next time's the real gamble, nyo… gufufu)
+181	message	Then let's go to IS Academy.
+182	message	You're coming too?
+183	message	Things'll go smoother with everyone around.\nSo—Polyal, please!
+184	message	//Light emanates from the stone (Polyal)
+185	message	I-it's glowing…! Wah!
+186	message	If it succeeds, it'll be great progress!
+187	message	//END

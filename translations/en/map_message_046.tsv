@@ -1,0 +1,373 @@
+row	column	english
+3	message	We part here.
+4	message	We'll meet again, right?
+5	message	Hmm, duuunno☆\nWell, bye-nara.
+6	message	//Eve vanishes in a flash of light.
+7	message	You really are, to the very end...
+8	message	'Mysteries stay mysteries, waiting for their time,' huh.\nI wonder if everyone will accept that...
+9	message	//END
+10	message	Woo! Feels like coming home after so long!
+11	message	Not unlike our world, maybe?
+12	message	It's my first time in Hibiki-chan's world!
+13	message	I fought Tsubasa here. Back then, who'd have thought\nwe'd end up fighting side by side.
+14	message	Fighting humans feels foolish\nwhen we're fighting the Noise,\nbut it never quite works out that way.
+15	message	But I believe humans can\nunderstand each other!
+16	message	...I was forcefully convinced\nby such pretty words.\nThat's exactly why you're my bride.
+17	message	Can't that 'bride' thing\njust be 'friends'...?
+18	message	Isn't it Japanese culture?
+19	message	Ah! Looks like Houki-san and the others are here!
+24	message	Heey! Houki-chaan!
+26	message	I told you before not to shout!\nHonestly, you never learn...
+27	message	Looks like you were doing fine,\nno need to have worried!
+28	message	Of course!
+29	message	Aria-san, you saw your mother after so long.\nHow was it?
+30	message	Well, it's both motivation\nand the anxious feeling that I have to do something.
+31	message	//
+32	message	So Dejiko, how was going back?\nI thought once you went home\nthat'd be the last of you.
+33	message	Usada took Puchiko away, nyo.\nTo take her back,\nthe journey continues a bit longer, nyo.
+34	message	Puchiko-san... that's terrible.
+35	message	Um... would you like\na hot-spring manju?
+36	message	Nyo!? What is this, nyo!?
+37	message	Hot-spring manju?
+38	message	Not THOSE buns, nyo!!\nI'm asking what those 'strongest boobs I ever designed'\nthings are, nyo!!
+39	message	Huh...?
+40	message	No can do, Dejiko~. These are mine!\nI won't let you touch~!
+41	message	Ah...
+43	message	//Tiffania flees Mion and hides behind Dejiko.
+45	message	What even IS this picture, nyo!?
+47	message	(A scheming petit knight\nprotecting a busty beauty from a molester, perhaps?)
+48	message	(I don't understand at all, but...)
+49	message	[CLAUDE]-san,\nhave you seen Teach, desu~?
+50	message	[CLAUDE]-kun,\ndid you see Teach?
+51	message	Eve-san?\nCome to think of it, she's nowhere to be seen...
+52	message	Don't tell me she slipped away\nwithout a word again, desu~?\nAfter we finally found her...
+53	message	Sheesh! Did her curiosity explode again\nand she wandered off somewhere!?\nHonestly, Teach!!
+54	message	With the [NOEL] thing too,\nI'm worried, desu~...
+55	message	I doubt it, but...\nmaybe she went to [MERU]...?
+56	message	//SFX: booming attack sounds. Usada's army attacks.\n//Screen shake and other effects.
+57	message	!?
+58	message	!?
+59	message	An attack!? We just got here!?
+60	message	This is...!
+61	message	Seems my prediction was right!
+62	message	//
+63	message	O-hohohoho!!\nLong time no see, you lot!!
+64	message	Ah, it's the bunny who failed\nto take over Gamers!
+65	message	Ugh, you tried to take over THAT?\nAnd failed? How embarrassing...
+66	message	People from a world without TV, shut it!
+68	message	Hmph, mock me all you want!\nIf you can mock me after seeing this fighting force!
+69	message	//
+73	message	...
+77	message	Huh!?
+79	message	Give Koto back!
+80	message	Olmes, this time I'll crush you completely!
+81	message	Louise the Zero, and Shirayuki.\nI'll be taking you prisoner.
+82	message	//
+83	message	How's that! How's that, Dejiko!!\nThis overwhelming force! The grand allied army!\nSurrender while you still can!!
+84	message	I'm hungry, nyo.\nUsada, go buy me some bread, nyo.
+85	message	Hah!? Are you half asleep?\nIs that it? Fine!\nI'll wake you up with a punch to the gut!
+86	message	Come at me!!
+87	message	(Dejiko, not flinching is admirable, but\nthis enemy lineup is on an unprecedented scale.\nWe don't have that much leeway...)
+88	message	(And since we were ambushed,\nwe're forced on the defensive!)
+90	message	(Ah, no problem, nyo.\nThe enemy has a decisive weakness,\nso this battle's a piece of cake, nyo~.)
+93	message	Huh?
+94	message	(The enemy's weakness is Usada, nyo.\nAs long as Usada's there, we can't lose, nyo~.)
+95	message	//Battle map: Symphogear.\n//Initial deployment: Yase, Riko, and Jeanne's units, with Usada's unit positioned behind them like a supreme commander. Strong in numbers and quality.\n//To sell the ambush, the enemy goes first if possible. Fine if not.\n//Allied deployment. Dejiko ambushes Usada later, so no initial deployment for her.\n//Conversation event after allied deployment.
+96	message	O-hohohoho!!\nBehold! The beauty of this formation!\nOverwhelming, no!
+97	message	How she gathered\nthis many people...
+98	message	This groundwork... not to be underestimated.
+99	message	She might be suited to politics.
+100	message	Huh? Dejiko doesn't seem to be here?\nHey you lot! Where's Dejiko?
+101	message	Oh, Dejiko-chan ran away.
+102	message	Ran away?
+103	message	She said something like 'no way we can win, nyo~'\nand wandered off somewhere.\nHonestly, what a handful.
+104	message	//
+105	message	Fufu... yes, she ran.\nIf that crafty Dejiko ran,\nit means she judged we can't win!
+106	message	We won! This battle is won!\nEveryone! Advance and suppress!! Crush them!!
+108	message	That was the plan from the start.\nI'll show anyone in my way some 'affection'!
+109	message	Nice!\nSimple orders are easier!
+110	message	...Overconfidence in numbers deserves no praise.
+111	message	I'm the commander!\nSo Dejiko can't complain, it'll be a crushing victory at minimum!\nA crushing victory at maximum too!
+112	message	...Understood.
+113	message	//Battle start. The enemy advances aggressively.\n//Conversation event at the start of turn 2.
+114	message	Ufufu! I'm on fire!\nWhy didn't I do this sooner?
+115	message	What a smug face.
+116	message	That B-tier idol vibe of getting carried away\nwithout even conquering anything\ngives me chills of admiration, desu~!
+117	message	That's niche...
+118	message	N-no, that's wrong, Char-san!\nMy strike zone is\nbetween C-tier and D-tier, desu~!
+119	message	So\nI'd like her to fall a bit further, desu~!!
+120	message	She'd be great for magic tricks!\nHypnosis would work on her in one shot.
+121	message	In other words, she's an idiot.
+122	message	At least say 'simple.'\nLike 'her heart is pure to an exasperating degree.' Y'know?
+123	message	You're mocking her either way!
+124	message	//Event when Yase and Koto clash (for the Yase ally flag).
+125	message	Saying it up front! I'm not going back to the Mirror Capital!
+126	message	Honestly! That, right off the bat?
+127	message	But it's more fun than the Mirror Capital!
+128	message	What's fun about it?
+129	message	Isn't it fun for you, Yase?\nGoing all sorts of places, eating all sorts of things!\nFighting all sorts of stuff!
+130	message	Because I'm not a child.
+131	message	Don't adults find the same things fun\nas kids?
+132	message	That's...
+133	message	(Koto, you're really a good kid... I love you.)
+134	message	//Yase's withdrawal line when defeated.
+135	message	Tch, these mere humans are infuriating!\nI can't deal with this!
+136	message	Huh? Why are you leaving!?
+137	message	//Event when Riko and Aria clash.
+138	message	Don't run, Olmes!
+139	message	I don't recall ever running.\nUnlike you!
+140	message	A phantom thief who doesn't run is a berserker!\nYou'd have to change jobs at some temple!
+141	message	I'll get you changed into a convict right away,\nso rest easy!!
+142	message	No thanks!!
+143	message	//Event when Riko and Houki clash.
+144	message	Mine Riko! Let's settle this!
+145	message	Still using that lame IS?\nHow can you stand it?
+146	message	What of its looks!
+147	message	The performance is lame too.\nJust swinging a sword around like that,\nRiko says no way!
+148	message	The sword is the soul of the samurai! Don't mock it!
+149	message	//Event when Riko and Tiffania clash.
+150	message	Oh my? Is that okay~?\nI'll catch you~?
+151	message	I won't be caught!\nFor everyone's sake too...!
+152	message	There's something big and jiggly\nthat looks easy to grab?\nKufufu, like a naughty game!
+153	message	I-I won't lose!!
+154	message	//Event when Riko is defeated.
+155	message	I'm just off my game today!\nI'll be back!!
+157	message	Huh!? Done already?\nAnd fast on her feet!?
+158	message	//Event when Jeanne and Shirayuki clash.
+159	message	Shirayuki, your place is not there.
+160	message	Can you say the same?\nThat your place is with I-U?
+161	message	Hmph, you've learned to talk back.\nBut it's just words.\nYour talent as a Choutei remains unpolished.
+162	message	That's not...!
+163	message	You're naive. With such half-hearted fighting,\nyour latent potential can never be drawn out.\nI think it's time you understood that.
+164	message	Jeanne...!
+165	message	//Event when Jeanne and Louise clash.
+166	message	Your magic seems in fine form, Louise the Zero.
+167	message	If you think so, run along.\nI'll blast you away!
+168	message	I'm not like a mage who can only use magic.\nYou should refrain from rash actions.
+169	message	Mind your own business!\nBeing able to use both sword and magic\njust makes you half-baked!
+170	message	You call the Silver Ice of Orleans and the holy sword Durandal\nhalf-baked?\nThen try me!
+171	message	//Event when Jeanne is defeated.
+172	message	Such a planless battle goes against my principles.\nI'm done.
+173	message	Ehh!? You're leaving!?\nTry a little harder!
+174	message	//Event when any of Riko, Yase, or Jeanne is defeated. Tesla and Nine appear.
+175	message	This changes the flow.
+176	message	We can do this, right?
+177	message	Ugh, this is bad!\nAt this rate I'll be a loser again!
+178	message	...Just kidding.
+179	message	Hm?
+180	message	I haven't shown all my cards yet!\nCome on out! My secret weapon!!
+181	message	//Tesla and Nine appear.
+182	message	Our turn.
+183	message	...Commencing action.
+184	message	Ah!!
+185	message	The Twin Phantoms...!
+188	message	We're betting everything on this battle!\nI told you! A crushing victory!
+189	message	You think you've won with this much?\nHow naive!
+190	message	Say what you like.\nNow, resume the advance and suppress!
+191	message	(Why didn't she deploy\nher full force from the start...?)
+192	message	(She probably thought it'd somehow\nmake her look smarter...)
+193	message	(She's just an idiot!)
+194	message	//Event when Tesla and Red Angel clash.
+195	message	Um, how many times have we met now?
+196	message	...That hardly matters right now.
+197	message	I feel like we've met a lot.\nIs that just me?
+198	message	Tch... I don't recall that.
+199	message	(To say this isn't awkward would be a lie...!\nBut!)
+200	message	//Event when Nine and Red Angel clash.
+201	message	Hey, why are you two fighting?
+202	message	...!
+203	message	I can't believe you're fighting for no reason.\nPlease, tell me...
+204	message	A reason...
+205	message	//Nine's spirits drop.
+207	message	You're looking well for someone just recovered!
+208	message	Huh... how do you know that?
+209	message	Fufu, losing focus over this much?\nYou've got a long way to go.
+210	message	Hah!?\nTch, but just who are you...?
+211	message	//Event when Nine and Blue Angel clash.
+212	message	...Nice moves.
+213	message	Huh?
+214	message	...No holding back.
+215	message	Just what I want!
+216	message	//Event when Tesla and White Angel clash.
+217	message	Hmph, so you're the Twin Phantom?\nSorry, but as long as I'M here,\nyou won't be throwing your weight around!
+218	message	Oh my, still a child~.\nBut I won't hold back?
+219	message	Hmph, I wonder if you'll be saying the same thing later?
+220	message	Quite confident, aren't you~?\nThen let me see what you can do!
+221	message	Bring it on!!
+222	message	//Event when Nine and White Angel clash.
+223	message	Twin Phantom or whatever you are,\nget in my way and I won't hold back!
+224	message	...
+225	message	Hmph, ignoring me takes guts.
+226	message	...I don't like arguing.
+227	message	Oh, we get along then. But...\nif you won't talk it out, we've got no choice but to fight!
+228	message	//Event when Tiffania clashes with either Tesla or Nine.
+229	message	Um, hello!\nI'm Tiffania!
+230	message	Long time no see.\nI may owe you an apology first.
+231	message	Why?
+232	message	Because I promised to guarantee your safety,\nyet I put you in danger.\nI apologize for that.
+233	message	But as for standing on this battlefield\nas enemies now,\nI don't intend to hold back.
+234	message	That's simply a difference of positions.
+235	message	But...!
+236	message	...If you don't want to fight, you should stand down.
+237	message	//Defeating either Tesla or Nine makes both withdraw.
+238	message	We're withdrawing, Nacchan.\nWe've done enough!
+239	message	...Understood.
+240	message	What!? Hang in there a little longer!\nYou both leave at once... sheesh!
+241	message	//Event when two of Yase, Riko, Jeanne, or Tesla & Nine are defeated, or when approaching within a set distance of Usada. Puchiko appears.
+242	message	The enemy formation is in disarray!
+243	message	Push them back! Everyone!
+244	message	Hold on a sec!\nI still have a trump card!!
+245	message	What is it?
+246	message	Come on!!
+247	message	//Puchiko appears near Usada, flanked by grunts on both sides.
+248	message	Nyu.
+249	message	That's Puchiko-san!
+250	message	The hostage they kidnapped\nfrom Gamers!
+251	message	That's a no-no~.
+253	message	I don't want to resort to this either!\nMy crushing-victory plan got ruined,\nso I have no choice!
+254	message	You're bad at fighting, nyu.\nIf Puchiko commanded, it'd be a piece of cake, nyu.
+255	message	Silence!\nA hostage should just beg for help!
+256	message	Beg for help silently?\nHow do you do that, nyu?
+257	message	That's... um, well... like,\nmake a sad face or something?
+258	message	Try it, nyu.
+259	message	Huh, me? Fine,\na princess begging for help is like...
+260	message	//Dejiko appears near Puchiko.
+261	message	Eye beams!!
+262	message	//The grunts near Puchiko are defeated.
+263	message	Huh?
+264	message	Puchiko! I came to save you, nyo!
+265	message	You're late, nyu. Reflect on that, nyu.
+266	message	Dejiko!? Didn't you run away!!
+267	message	I can't believe how dumb Usada is\nto believe that, nyo...
+268	message	Impossible...!
+269	message	How you manage to fight\nwith such lousy command, nyo.\nUsada, apologize to your allies, nyo!
+270	message	Why should I!?
+271	message	Look, nyo! Leaving your guard wide open like this\nand showing off the hostage is basically saying\n'please come rescue her,' nyo!!
+272	message	That's... I've got my reasons too!
+273	message	So what'll you do, nyo? Puchiko's saved,\nand all that's left is getting hit by\nmy angry eye beams. Anything else, nyo?
+274	message	What makes you think you've won?\nYou think I'd lose to Dejiko?
+275	message	Then it's a one-on-one, nyo!\nDejiko is angry too, nyo!!
+276	message	Bring it on! Let's do this!
+277	message	That settles it—\nleave Usada to me, nyo!
+278	message	Make sure you take her down responsibly, nyu.
+279	message	// Event triggers when Dejiko and Usada engage in combat
+280	message	Prepare yourself, Dejikooo!!
+281	message	I'm honestly moved by how dense you are,\nstill thinking you can win, nyo!\nYou've already lost, nyooo!!
+282	message	If I take you down, I win!!
+283	message	// Defeat condition changed: Dejiko being incapacitated is added
+284	message	Nyo!? Don't go changing the rules on me, nyo!?
+285	message	Shut up! I'm the commander here!!
+286	message	This is insane, nyo!!
+287	message	// Defeating Usada clears the map
+288	message	Awwn, why'd I have to loseee!!
+289	message	// If any enemies besides Usada remain, they all disappear
+290	message	Sniff... everyone's gone...
+291	message	Usada, how pitiful, nyo.
+292	message	// Battle ends\n// Background: Symphogear
+293	message	Mooou!! Why can't I ever win!
+294	message	// Event CG: a frustrated Usada
+295	message	I was SO sure I'd beat Dejiko this tiiime!!
+296	message	I worked sooo hard!\nI was everyone's errand girl,\ngave shoulder rubs and massages!
+297	message	And that's how I finally got put in charge\nof the plan, and got people to fight with me!
+298	message	I spent every point I earned\nto take on this huge showdown!!\nWhy'd I have to loseee!!
+299	message	Usada, there's only one reason you lost...\nAnd it's hopelessly simple, nyo.
+300	message	// Event CG off
+301	message	The reason I lost...?
+302	message	It's this...
+303	message	You picked the wrong friends to hang out with, nyo.
+304	message	Huh, uh...?
+305	message	Those guys are terrible people, nyo!\nHanging around with the likes of them,\nof course you'd turn out no good, nyo!
+306	message	I mean, taking Puchiko hostage\nis so not you, nyo!!\nYou lose because you do stuff\nthat doesn't suit you, nyo!
+307	message	Sniff... Dejiko... you're really smart...
+308	message	As long as you get that, nyo.\nWhat you do has gotta be more fun,\nor it's no fun for me either, nyo!
+309	message	Repent, nyu!
+310	message	Waaah, Dejikooo! Puchikooo!
+311	message	//
+312	message	Well, I suppose that settles that?
+313	message	Yeah.
+314	message	But the situation's still full of problems.
+315	message	Yes... hopefully we can get\nsome useful information out of Usada.
+316	message	We could get attacked here again.\nShouldn't we move somewhere else?
+317	message	Right, then shall we head to Dokoka Town?
+318	message	// Fade to black\n// Background: Dokoka Town
+319	message	...I see.\nSo Usada got talked into taking down Dejiko\nand went along with it, huh?
+320	message	That's right... um,\ncould you not call me 'Usada', please?
+321	message	Er, then, Rabi~en~Rose.\nWho was it that talked you into it?
+322	message	A girl about elementary-school age.
+323	message	Huh? An elementary schooler?
+324	message	Not Riko or Jeanne?\nOr maybe the Shinigami Doctor in disguise.
+325	message	No, one day a little girl\nwith a school backpack\ncame up and talked to me.
+326	message	She said she'd lend me her strength\nto defeat Dejiko.
+327	message	And you just went right along with it, nyo?\nYou're such an idiot, nyo.
+328	message	At first I thought it was a joke.\nI mean, you wouldn't think\na little kid like that could do anything.
+329	message	Then she handed me a little box,\nsaying if I had it I could go\nto all kinds of worlds—\nso help her friends there.
+330	message	By friends you mean Riko and Jeanne?
+331	message	Yeah. At first it was just little errands.\nLike, walk down this road,\nor go see what's around that corner.
+332	message	Oh, and there was one to keep an eye\non that elf girl over there.
+333	message	Huh? Me?\nSo that means you've had dealings\nwith Twin Phantom too.
+334	message	Yeah. But the only one\nI got friendly with was Riko.
+335	message	Idiot, she was just using you!\nRiko obviously thought of you\nas nothing but an errand girl!
+336	message	...Yeah, I figured.
+337	message	You said you received a small box?\nYou still have it?
+338	message	It's right here... hmm? Huh?\nI put it in this pocket...?\nDid I drop it somewhere???
+339	message	As I thought—\nit must vanish if you betray them,\nso no evidence remains.
+340	message	But I wonder whose world's\ntechnology that is.\nSomething scientific?\nOr something magical?
+341	message	Its connection to the Polyal concerns me too.\nI wonder what's producing the power\nto move between worlds...
+342	message	If only Eve were here, maybe...
+343	message	Gone, as I expected, I suppose.
+344	message	So Eve really was connected\nto how fast the enemy moves?
+345	message	The enemy, who shouldn't have known\nour destination, was lying in wait\nwhen we arrived.\nAnd in Eve's world, no less.
+346	message	We got attacked in a cave\nwe wandered into by chance\nat our hot-spring trip destination.
+347	message	But there's no proof\nthat happened because information\nleaked from Eve...
+348	message	Eve's the one who taught us how\nto use the Polyal stone...\nSo maybe using the Polyal\ntells the enemy where we're going?
+349	message	What about the possibility\nthat Eve, like Usada, was given something\nand was communicating through it?
+350	message	I can't say it's impossible,\nbut if that were the case,\nwould she really have taught us\nhow to use the Polyal?
+351	message	...
+352	message	...
+353	message	Haven't you heard anything from Eve?
+354	message	Nooo...
+355	message	No.
+356	message	// Meru or Noel runs off.
+358	message	Wait! We're not done talking!
+359	message	Kanzaki, I'll go.
+360	message	Tsubasa, please.
+361	message	// Fade to black\n// Background: forest
+362	message	Teacher...
+363	message	Teacher...
+364	message	How do you feel about Eve right now?
+365	message	I don't wanna say...
+366	message	Everyone's mad, right...?
+367	message	...I don't know about everyone else,\nbut I believe in Eve.
+368	message	Huh...
+369	message	You believe in her? Why?
+370	message	Partly because she saved my life,\nbut the biggest reason is you.
+371	message	Meee?
+372	message	Me? Why?
+373	message	Eve's like a mother to you, isn't she?\nCould someone like that\nreally be your enemy?
+374	message	If it were me, I'd take you along.\nI mean, if Eve told you to come with her,\nyou'd leave us and go with her, wouldn't you?
+375	message	Yeees...
+376	message	Yeah.
+377	message	And yet Eve left you behind without a word.\nThere must be some reason she did that.
+378	message	What kind of reason...?
+379	message	What kind of reason, I wonder?
+380	message	I'm no great detective,\nbut I think that reason is a mystery\nwe absolutely have to solve.
+381	message	It's not a mystery we can solve right now,\nso let's start with what we can do.\nThat way, we'll surely see Eve again.
+382	message	Tsubasa...!\nYou're right!\nMoping around won't get us anywhere!
+383	message	Start with what we can do, huh.\nYeah!\nThere's plenty we need to do!
+384	message	Thank you for cheering me up, Tsubasa!
+385	message	Thanks, Tsubasa! I feel better now!
+386	message	...Tachibana could probably support you\nbetter than I can, but I've known you\nthe longest, so...
+387	message	Yeees!
+388	message	We've been teamed up quite a while, huh!
+389	message	// Fade to black\n// Background: black
+390	message	Tsubasa's really trying!\nHehe, that Tsubasa...!
+391	message	Peeping is in poor taste, Hibiki.
+392	message	You're peeping too!
+393	message	Aria, you too!
+394	message	// Fade to black\n// Background: forest
+395	message	(I know you're there...\nI'm just too embarrassed to say anything...)
+396	message	I'll give it my all!
+397	message	If I'm all down in the dumps\nit'll just make people more suspicious!\nI'll be more fired up than ever!!
+398	message	(Teacher... someday, surely, again...!)
+399	message	(Teacher, I believe in you!!)
+400	message	//END

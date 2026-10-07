@@ -1,0 +1,52 @@
+row	column	english
+4	message	I have a favor to ask.
+5	message	Huh, me...?
+6	message	Yes.
+7	message	Could you spare us a little of your time?
+8	message	We'd like you to walk around this area.
+9	message	Haah, around here... is that okay...
+10	message	All right, counting on you.
+12	message	//fade to black after line; time passes
+13	message	I'm doing what I was told,\nbut what's supposed to happen?
+15	message	//enemies appear
+16	message	Huh, why...
+17	message	...
+18	message	Wh-wh-whyyy!
+20	message	//gunshot SFX
+21	message	...
+22	message	//enemies vanish
+24	message	What on earth...
+25	message	//enemies appear
+26	message	...
+27	message	Again!? Alone I'm at a disadvantage~!\nTime to run~.
+29	message	//beam SFX; lightning SFX
+30	message	...
+31	message	//enemies vanish
+33	message	Wh-what's happening...
+34	message	//enemies appear
+35	message	...
+36	message	Why!? They cut me off!?\nI'll run back to where everyone was~.
+38	message	//explosion SFX
+39	message	...
+40	message	//enemies vanish
+42	message	//
+44	message	Fuu, it seems that's the end of it.
+45	message	Mission complete.
+46	message	Good work, everyone.
+47	message	Huh...?
+49	message	That should do it.
+50	message	Yeah.
+52	message	Um, everyone... what are you talking about...
+53	message	It was practice hitting moving targets.
+54	message	So, we're terribly sorry,\nbut we used you as bait.
+55	message	We figured they'd come out\nif a girl was alone.
+56	message	Me... bait...?
+57	message	We decided to leave the bait role\nto someone whose movements are unnatural to begin with...
+58	message	You lured them splendidly —\nthe enemies were reeling too.
+59	message	Thanks to you, it was good practice!
+60	message	...Sorry we kept it secret.
+61	message	U-ugyuu~. I see...
+62	message	Thank you for your cooperation.
+63	message	Ufufu, you ran wonderfully.
+64	message	S-somehow, I can't just be happy about that!
+65	message	//

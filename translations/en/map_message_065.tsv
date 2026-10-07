@@ -1,0 +1,203 @@
+row	column	english
+3	message	Incomprehensible. Incomprehensible. Error: incomprehensible.
+4	message	Why can't you get it~?\nIt's fun! Those girls' powers!
+5	message	Why do humans try to use the power\nof IS and the Angel's Tears for destruction?
+6	message	Humans' operational concepts are wrong.\nThey fail to draw out\nthe power's potential.
+7	message	Why do they not build\nrational systems utilizing\nthat energy?
+8	message	That's what Mii finds fun about them! Humans!
+9	message	Humans use power wrong.\nIncomprehensible! Incomprehensible!
+10	message	Being wrong is what makes it good!\nIt's more fun that way~!
+11	message	Setting that aside, please decide\non Gustav's deployment plan.
+12	message	Hmm, the Angel's Tears\nare at Black Fund HQ, right?
+13	message	It is a trifling weapon of destruction made by humans.\nI believe we have no need of it, though.
+14	message	That's not true.\nFiring Gustav bang-bang is\nthe most fun of all!
+15	message	But just firing it is boring.\nWe've got to use it in a fun way!
+16	message	Where shall we set the target?
+17	message	Hmm... how about here?\nSt. Cherine Academy♪
+18	message	Understood. Proceeding with the firing plan at once.
+19	message	W-w-wait a minute!!\nFiring it right away is boring,\nso let's play a little~.
+20	message	Incomprehensible. I recommend immediate attack.
+21	message	Like I said, it's not about the result.\nFun is about the pro-cess, the pro-cess.\nPro-cess.
+22	message	The process, you mean.
+23	message	That's it!\nYou always skip the process, Kei-chan.\nWell, that's why Mii's here~.
+24	message	I will follow Mii's instructions.
+25	message	Then bring me paper, ink, and a brush!
+26	message	??? ...Incomprehensible.
+27	message	//fade to black\n//Background: St. Cherine Academy classroom
+28	message	Huh!? Tesla and Nine\ncame from Italy!?
+29	message	Yes. Because of my father's... work,\nwe traveled to many countries.
+30	message	Hey hey, Kurumi-chan.\nItaly's the spaghetti country, right?
+31	message	Honestly, is food all you think about?\nThere are other famous things, you know?\nThe Mouth of Truth, the Leaning Tower of Pisa...
+32	message	Whaaat!? There's a pizza tower!?
+33	message	Haruka-san, not pizza — Pisa.\nIt's a tower in a city called Pisa.
+34	message	Ehehe, right.\nIf a pizza were a tower,\nthe birds would eat it.
+35	message	(...Didn't she mix it up\nwith pizza before, too...?)
+36	message	(Haruka likes pizza...?)
+37	message	Honestly, keeping up with Haruka\nthrows off my rhythm.
+38	message	Haruka marches to her own beat. Ahaha!
+39	message	//Dejiko rushes back into the room from outside,\ncarrying a letter of challenge.
+40	message	Big trouble, nyo!!
+41	message	What's wrong, out of the blue like this?
+42	message	This arrived, nyo!
+43	message	Chal... lenge letter...\nA letter of challenge!?\nSomeone's prank?
+44	message	Mion-san, you could read that?\nThe handwriting's awful!
+45	message	No — thanks to that, I have a pretty good\nidea who wrote it.
+46	message	Um, do you recognize\nthis handwriting?
+47	message	No... most likely Mii's doing.
+48	message	Let's see, I'll read it.
+49	message	//Mion takes the letter of challenge from Dejiko and reads its contents.
+50	message	"I challenge you all to a duel.\nIf you beat Mii and Kei-chan within the time limit,\nI'll give you the Angel's Tears."
+51	message	"If time runs out,\nSt. Cherine Academy goes ZUKYUN♪"\n...it says.
+52	message	Does "zukyun" mean\nfiring Gustav?
+53	message	Most likely.
+54	message	Nooo! That's absolutely not okay!
+55	message	//
+56	message	(Fine calligraphy is nice, but bad handwriting\nhas its own charm.)
+57	message	(Isn't it just hard to read and annoying?)
+58	message	([CLAUDE], if men like you were\nthe only men in this world,\nwomen everywhere would lose their cuteness.)
+59	message	(I'm just saying normal things?)
+60	message	(Humans aren't machines.\nChasing convenience alone loses richness.\nPlease don't forget that.)
+61	message	(Richness...)
+62	message	//
+63	message	From the wording, the Angel's Tears\nare already in Mii-san's hands?
+64	message	This also tells us it was Mii,\nnot Kei, who moved.
+65	message	At this point we have no choice\nbut to storm Black Fund HQ directly.
+66	message	This is the worst-case pattern, desu~...
+67	message	It's the hottest development ever, but\nit looks rough...\nfufu, though I might kinda like it?
+68	message	Now that it's decided, let's move!\nEveryone, assemble~!
+69	message	//fade to black\n//Background: harbor warehouse
+70	message	Black Fund HQ is close!
+71	message	Stooop! Hey, you guys~\nwhere are you off to~?
+73	message	Meeean! I sent a letter of challenge\nand you ignored it!
+74	message	So you've shown yourself!
+75	message	Here I am! It's Mii!\nKei-chan's here too!
+76	message	Area scan: no anomalies.
+77	message	Well, look who showed up!\nThanks for the warm welcome!
+78	message	Wrong! You didn't come to the duel spot,\nso I came to check!
+79	message	Duel spot?
+80	message	Not Black Fund HQ?
+81	message	Nooo!\nNot some drab place like that...!
+82	message	The challenge letter I read\ndidn't say where?
+83	message	Hwuh?
+84	message	Mii, explain.
+85	message	Tehe, looks like I forgot to write it!
+88	message	Incomprehensible!
+89	message	Their sync rate is off the charts, nyo!!
+90	message	Eh, whatever! Let's do it here! Duel!
+91	message	Wow, decided on a whim!
+92	message	You're always like that too.\nAnyway, we'll intercept!!
+93	message	//Battle map: harbor warehouse\n//Player units, Mii, Kei, grunts deployed.
+94	message	Ahaha! A duel!
+95	message	Never seen such a casual duel!
+96	message	Mii's all about bright and fun.\nFighting with a scary face? No way.
+97	message	That attitude of yours is scarier.
+98	message	As already conveyed,\nif you cannot defeat us within 5 turns,\nwe will fire Gustav.
+99	message	5 turns is too short, nyo!\nIt should be longer, nyo!
+100	message	Okay, then let's change it to within 4 turns!
+101	message	It got one turn shorter, nyo!?
+102	message	That's 'cause you said something unnecessary, nyu.\nReflect, nyu!
+104	message	I request a change to within 6 turns, nyo!
+105	message	Denied.
+106	message	That's so mean, nyo!!
+107	message	Now, let the fun duel begin!
+108	message	//Battle start.\n//Talk event when someone engages Mii.
+109	message	Hey hey, no time left?\nDo your best~!
+110	message	You call this a duel...!?
+111	message	Don't like this vibe?\nOh, but Tsubacchi loves\ncoughing up blood and stuff, right?
+112	message	I merely know the weight of the word "duel."\nAnd that it shouldn't be spoken lightly.
+113	message	You'd get along with Kei-chan!
+114	message	Not a chance.
+115	message	//Talk event when someone engages Kei.
+116	message	...
+117	message	Huh? You seem unmotivated?
+118	message	In this battle, the only thing with meaning\nis the passage of time.\nNothing else has any meaning.
+119	message	I see — once the time limit hits it's over,\nso there's no point fighting seriously?
+120	message	...
+121	message	You won't even answer!!\nTalk about power-saving mode!
+122	message	//Event triggers again after defeating Mii and Kei, or after 4 turns.
+123	message	Time limit expired.\nIt is time to fire Gustav.
+124	message	Aw, too bad! Time's up~!
+125	message	Is it no good, nyo!?
+126	message	Bzzt! Kei-chan, you can fire!
+127	message	Understood. Confirming remote-operation data link.\nTarget: St. Cherine Academy.\nGustav firing in 3 seconds.
+128	message	Stoooop!!
+129	message	Please! Stop!
+131	message	Ahaha! Wanna try dogeza?\nWon't stop me though!
+132	message	2 seconds... 1 second...
+133	message	Gustav, fiiire!! Zukyun!
+135	message	No...!!
+136	message	//But nothing happens; everyone is dumbfounded.
+137	message	...!
+138	message	...!!
+139	message	...???
+140	message	Huh...?\nKei-chan, what's going on?
+141	message	Error! Error!
+142	message	...Could it be\nFather stopped the firing...?
+144	message	Nope.
+145	message	Huh?
+146	message	//Black Haruka, Aoi, and Kurumi appear.
+147	message	...Malice and despair, a hundred shots, a hundred hits.
+148	message	...Destroying everyone's smiles.
+149	message	Wicked-thief angel Twin Angel.
+151	message	It's the black Twin Angel!!
+152	message	I'll be taking this.
+153	message	That's... the Angel's Tears!!
+154	message	Did you... save us?
+155	message	Who knows?
+156	message	Well then, farewell.
+157	message	//Black Haruka, Aoi, and Kurumi leave.
+158	message	They vanished...!?
+159	message	What does this mean...?
+160	message	Could it be we're saved?
+161	message	//
+162	message	Ahahahaha!\nWhat is this? What IS this?\nSo fun! Ahahahahaha!!
+163	message	What's so funny!?\nAren't they your allies?
+164	message	Incomprehensible. Mii, revise the mission.
+165	message	Yeah~...
+166	message	Let's go home!
+167	message	Huh!?
+168	message	Ahahahaha!\nSee ya! Byebye!
+170	message	//Mii vanishes.
+171	message	She really left!?
+172	message	Mission force-terminated. Understood.
+174	message	//Kei vanishes.\n//Battle end.\n//Background: harbor warehouse
+175	message	What was that!?\nThey said "duel" and then just\nlost interest and went home!?
+176	message	Their own plan got crushed,\nand they're laughing like that... what's wrong with them!?
+177	message	They're the incomprehensible ones, yes.
+178	message	Maybe that Mii girl really is\njust treating it all like a game?
+179	message	Trying to fire a satellite cannon for fun\nis no joke, nyo!
+180	message	I kinda get it, actually.\nThat girl's so strong,\nshe's probably just bored.
+181	message	Would you do the same thing, nyu?
+182	message	No way.\nIf you break something that can't be fixed,\nyou shouldn't break it, right?
+183	message	It's like she doesn't even get that, or\nshe's beyond it...\nI can't figure that girl out.
+184	message	Kei's still better.\nShe thinks like a total machine.\nShe's just being dragged around by Mii.
+185	message	Is that how it is?
+187	message	What will Tesla-chan and Nine-chan\ndo from here?
+188	message	We can't stop until we've taken back\nthe Angel's Tears\nand neutralized Gustav.
+189	message	//Event CG: Kurumi going dere
+190	message	Tesla, Nine... it seems\nI really misunderstood you two.
+191	message	Hazuki-san?
+192	message	Honestly, I've still got a long way to go.\nNo matter what happened in the past,\nI couldn't bring myself to trust...
+193	message	Here you are, admitting your past mistakes\nand facing the problem at hand, while I...\nI'm utterly pathetic.
+194	message	It's fine.\nI'm a suspicious person too.\nI think Hazuki-san's attitude was only natural.
+195	message	I... don't care anymore.
+196	message	Thanks...
+197	message	//Event CG off.
+198	message	So, what now?\nThe Angel's Tears got taken\nby the black Twin Angel.
+199	message	Even if we search, we've got no idea\nwhere those black ones\nare hiding.
+200	message	At least the Angel's Tears are\naway from Gustav now.
+201	message	Yes. We still have to take it back, but\nit's way better than leaving\nthe world in danger!
+203	message	I wonder how Mii and Kei will move next?
+204	message	Trying to predict what brats think\nis a waste of time, nyo.
+205	message	Coming from Dejiko-chan, that's convincing.
+207	message	Maybe the team that went to IS Academy\nfound something new?
+208	message	True, regrouping once might be good.
+209	message	Dejiko thinks we should regroup\nin Akihabara, nyo!
+210	message	W-wow, Akihabara... b-but! The other day,\ndidn't you just take me there...?
+211	message	Don't be so stiff about it, nyo!
+212	message	Well, we're just regrouping. It's fine, no?
+213	message	All riiight, nyo!!
+214	message	What are you scheming, nyu?\nSomething bad again, nyu?
+215	message	No, nyo!\nDejiko is thinking about something\nvery, very important, nyo!
+216	message	Something important... I see!\nThen we must go to Akihabara!
+217	message	//END

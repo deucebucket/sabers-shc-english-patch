@@ -1,0 +1,101 @@
+row	column	english
+3	message	Waaah~, we finally made it back!
+4	message	Was Sonico's shoot location in this town?
+5	message	W-w-what's this? So many people...\nBut why? The people walking around\nfeel strangely familiar...
+6	message	Hunyaa~!?\nWhy are there so many people?\nIs there a festival or something?
+7	message	Is this everyone's first time in Akihabara?\nThen I'll be your guide!
+8	message	Nice! This place looks fun,\nNico-chan! Show us around~!
+9	message	There are tons of shops too!\nHey, hey, do they sell like\nmagic items?
+10	message	Ah, I'm sure they do!\nThey sell lots of\ninteresting things♪
+11	message	// SFX: 'pikiin' — a Newtype-style flash of insight
+14	message	Wh-what IS that a...dult shop?\nI feel strangely drawn to it\nfor some reason...
+16	message	Sounds fuuun!!\n14's basically an adult, right? Right?\nI wanna go toooo!
+17	message	Before that, we need to find Sonico's shoot location.
+18	message	Awawa! That's right!\nI-I'm sorry, senpai!
+19	message	S-senpai...?
+20	message	Yes! I'm older than you, but\nin the entertainment world, Tsubasa-chan is my senior,\nso I'd love your guidance!
+21	message	Ah, um... I see...
+22	message	F-first, I'd like you\nto take me to where\nyou first saw the light.
+23	message	Understood!\nThat's our next filming location!\nThen let's go!
+24	message	// Switch to battle map: Akihabara downtown
+25	message	Everyone, this way!
+26	message	Whoa, people wearing forehead protectors to protect their foreheads,\npeople with open gloves on their hands—\neveryone's ready for battle!
+27	message	Guess it's a rougher town than I thought?
+28	message	And I sense evil from the paper bag\nthat old guy's holding!\nHe's gotta be a dark sorcerer!
+29	message	At first, my friends took me all over\nand that's how I learned!
+30	message	// Black Dejiko and Black Puchiko appear
+31	message	Ah! That person over there\nis a maid cosplayer!
+32	message	A maid? A kid that small?
+33	message	Maybe she's doing it with her mom?\nHow cute~♪
+34	message	...Wait, something's off.
+35	message	All those people from before\nhave vanished without a trace.
+36	message	Ah, now that you mention it...
+37	message	We'd better be careful around those two.
+38	message	Huh? Wh-what's wrong?\nC-could it be, another sudden shoot...?
+39	message	...Take this, nyo.
+40	message	// Black Dejiko fires beams from her eyes;\nlands a short distance away
+41	message	She's attacking!
+42	message	Waaah!! That was sudden~?\nThey look kinda like the kids we fought before we came here!
+43	message	Uwawa~! Such intensity!\nThe staff's passion for film, no doubt!
+44	message	Sonico, stay in the rear!\nLeave this to us!
+45	message	Y-yes! I'll study hard\nfrom everyone's acting!
+46	message	// Battle start
+47	message	Ah, the foot traffic's gone...\nThe staff must have\ndirected people away!
+48	message	Crush the rivals, nyo...
+49	message	Looks fun, nyu...
+50	message	(These two... are they after Sonico?)
+51	message	Watch out so they don't go after Sonico!\nLooks like she's their target!
+52	message	R-right!\nI'll pray for everyone's safety\nfrom the rear!!
+53	message	No way! We're short-handed, so\nyou're fighting too!
+54	message	B-but...
+55	message	// When enemy reinforcements arrive
+56	message	Wha!? The cast changed!?
+57	message	Ufufu, I don't mind this tension!
+58	message	Strange attacks, though...!\nI can't figure out their intent...
+59	message	// Battle resumes
+61	message	Going home, nyo...
+62	message	Tired, nyu...
+63	message	//
+64	message	They're leaving?
+65	message	Good work, everyone~!\nAh, did they call cut...?
+66	message	Well, we survived, so fine, right?
+67	message	// Battle over
+69	message	Everyone, good work!\nSuch intensity again...!\nI learned a lot!
+70	message	(No doubt Sonico was the target.\nYet she's in full shoot-mode...\nwhat does this mean, I wonder?)
+71	message	(Is there a reason Sonico's being targeted...?)
+72	message	Hey, Sonico...
+73	message	Ah! That's right!
+74	message	Huh, what?
+75	message	Um... is everyone\nhungry?
+76	message	I know a delicious ramen shop...\nif you'd like...
+77	message	Ramen!! Yes, ramen!!\nI'm hungry—is it good there?
+78	message	Yes! I recommend it! Let's go~!
+79	message	...True.\nMy partner always said you can't think straight\non an empty stomach.
+80	message	Yes♪ Let's eat something delicious\nand do our best at the next shoot!
+81	message	// Sonico starts moving; everyone follows
+83	message	Man, that was amazing~!\nTonkotsu yogurt ramen, ajitama,\ndouble garlic, extra fat, extra veggies!!
+84	message	(It looked brutal, but it was delicious...)
+85	message	Not many people try\nthose toppings right away~!
+86	message	And the way you eat is so hearty...\nehehe~, it reminded me\nof my friend♪
+87	message	[NOEL]-chan is amazing...\nI've got to try harder!
+88	message	(Is that okay for an idol, I wonder...)
+89	message	Now, for after-meal exercise,\nlet's head to where Nico-chan was working!
+90	message	Y-yeah...
+91	message	What's wrong?
+92	message	It's nothing, let's go.
+93	message	// Fade to black
+95	message	This is where you saw the light?
+96	message	Ah, yes!
+97	message	[NOEL], find anything?
+98	message	Nothiiing! How about you, [CLAUDE]?
+99	message	Huh? That shady shop over there!?\nI'm not going, it's scary...
+100	message	Listen, [CLAUDE]!\nStop muttering to yourself\nand search properly!
+101	message	Ah, sorry, sorry!\nBut what am I even looking for...
+102	message	Well, something shiny, maybe?
+103	message	// Light appears
+104	message	Like this, a pikaa flash,\nlike a light...
+105	message	Wh-!? Huh!? Is this THE thing?
+106	message	No way!?\nWith zero warning, all of a sudden...!!
+107	message	[CLAUDE]!!
+108	message	I told you... it's not me...
+109	message	// END

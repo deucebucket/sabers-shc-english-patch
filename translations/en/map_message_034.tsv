@@ -1,0 +1,230 @@
+row	column	english
+3	message	This is… IS Academy!\nI-it worked!
+4	message	If we can get this into practical use,\nthings'll get a lot easier.
+5	message	I'll keep researching the Polyals,\nso if I learn anything else\nI'll let you know!
+6	message	Uwah! The teacher really is\namazing, as always!
+7	message	If she fully figures it out,\nshe'll earn another doctorate!
+8	message	Suzu, Houki, Charlotte—\nwe shall go make our report.
+9	message	Right. Gotta properly report\nthat Cecilia caught a cold too!
+10	message	Suzu!? Who told you that!?
+11	message	Who knows~?
+12	message	I'll also report that I overcame it\nthrough sheer willpower!
+13	message	I'll go do my transfer procedures.\nIt'll probably be a bit of a hassle.
+14	message	You were supposed to transfer as a boy,\nbut as things stand…
+15	message	Passing as a boy was a stretch anyway.\nStill, dealing with my home country\nweighs on me…
+16	message	…It'll be what it'll be.
+17	message	//Fade to black\n//IS Academy classroom
+18	message	The Polyal at IS Academy\nis the one in the arena.
+19	message	But why is the Polyal\ninside the arena?
+20	message	Isn't it the other way around, tonight?\nIf the Polyal was made in an older era,\nthen IS Academy was built here later.
+21	message	…Which means the Polyal\nhas been here since long ago?
+22	message	What's your proof the Polyal's old?
+23	message	Would it make sense if I said\nthat thing is a 'stone'?
+24	message	For example, if you used this IS world's\nscience and technology to build a device\nthat transfers you to another world,\nwould that become a single 'stone'?
+25	message	No, that'd be something mechanical,\nnot a stone.
+26	message	In my world, Halkeginia,\na stone holding immense magical power\nseems possible, though?
+27	message	How many years would it take to make\nsomething sealing that much power? And multiple of them.\nThis building is five years old at most.
+28	message	…True, it's hard to think\nthey were made recently.
+29	message	Normally I'd date it by the dirt and grime\nstuck to it, but it vanishes in a form\nthat doesn't exist as a solid, so I can't.
+30	message	Uuuh, it's too hard, I don't get it…
+31	message	Same here. Well, let's leave it to the smart people!
+32	message	It's almost snack time!\nUm, I brought macarons,\nso if you'd like, won't you join me!
+35	message	Yay!!
+37	message	(Yay!)
+38	message	(No, J…\nyou can't eat, can you…)
+39	message	(You don't understand… there are few gentlemanly acts\nmore wonderful than gazing at cute girls eating sweets, you know?)
+40	message	(Is that what a gentleman is…?)
+43	message	For now, assuming the Polyal is old,\nthe question is what it was made for.
+44	message	You'd have to ask whoever made it—\ndunnooo☆
+45	message	Investigating and figuring that out is archaeology!\nDo something about it!
+46	message	Yeees. Ganbarunba!
+47	message	Ugh, she's throwing me off…
+48	message	//Houki and the others finish reporting and come in.
+49	message	Sounds like a real tough discussion!\nLet me in on it!
+50	message	Too hard for an idiot.
+51	message	I'm not an idiot!\nTo become an IS national representative candidate\nI had to study like crazy!
+52	message	IS Academy classes aren't just general subjects—\nthere are IS piloting classes too,\nand those textbooks are way thicker.
+54	message	I'd love to know what kind of studying you do.
+55	message	M-me too…
+56	message	What's with this honor-student aura, nyo…
+58	message	We've been ordered to continue\noperating alongside you.\nI don't quite understand the thinking behind it.
+59	message	Probably the goal is IS deployment in other worlds\nand collecting data on it.
+60	message	Not just the units' combat data—\nwe can gather environmental data from each world too,\nso it's useful in all kinds of ways.
+61	message	Come to think of it, where's Cecilia?\nShe doesn't seem to be here.
+62	message	Cecilia skipped off back to her room.
+63	message	Ah, I see.
+64	message	//Event art: Cecilia resting in bed
+65	message	Ufufu!\nFinally, I can sleep in my own bed with my own pillow!
+66	message	Until now, in unfamiliar surroundings,\nI've had upset stomachs and awful experiences, but\ntoday I have none of those worries!
+67	message	Haa… how calming.\nThe smell and the feel are so nostalgic…
+68	message	I think I'll sleep wonderfully~…
+69	message	//Event art off
+71	message	…Understood.\nYou want results, right?\nFine, ending transmission!
+72	message	//SE: comms click off
+73	message	'To show off Schwarzer Regen's combat power\nto the world, produce clearer results,' they say?
+74	message	Those idiots in high command—they deploy me\nto another world and complain about results!
+75	message	Hmph, clear results, is it?\nFine, I'll give them that…!
+76	message	//Fade to black\n//IS Academy classroom\n//Alarm blaring
+77	message	What's happening!?
+78	message	Observation team! Report!\n…Huh? The barrier's been breached!?
+79	message	Intruder in the arena confirmed… this is!\nSchwarzer Regen!!
+80	message	It's her!!
+81	message	//Cecilia comes in.
+82	message	Everyone! Let's go!
+83	message	Wait, someone's already in the arena!
+84	message	What!?
+85	message	//Battle map: IS Academy arena\n//Laura and grunts deployed
+86	message	Clear results—\nthen crushing the IS units is fastest.\nCome out!!
+87	message	Sorry to keep you waiting.
+88	message	Fighting in a place like this…!!
+89	message	Hm?
+93	message	//Transformation movie\n//Tsubasa and Hibiki appear
+94	message	Kazanari Tsubasa! And Gungnir's Tachibana Hibiki!
+95	message	Your countless outrages can't be overlooked!
+96	message	Laura, this is IS Academy!\nWhy are you trying to fight IS against IS!
+97	message	Are you saying Symphogears\ndon't fight each other?
+98	message	That's…!
+99	message	I know you fought Ichival—\nYukine Chris.
+100	message	…!!
+101	message	Any trifling reason to fight will do.\nAs long as I can display my power and test my strength.
+102	message	No!
+103	message	Then show us.\nThis power of yours!
+104	message	No need to tell me.\nI came ready for that today.
+105	message	I'll show you the real Schwarzer Regen—\nnot like the boring data-gathering until now!
+106	message	Tsubasa…!
+107	message	I know.\nShe's not someone we should destroy.
+108	message	Yes!
+109	message	//Battle start\n//Allies appear on turn 2
+110	message	Tsubasa! Hibiki!
+111	message	When did you two slip out!?
+112	message	Sorry, Tsubasa noticed right away…
+113	message	A guardian's instincts, I suppose.
+114	message	Seeing through an IS's stealth mode on instinct!?\nHow does that even work!?
+115	message	So you've come out, my prey.\nI'll dispose of you along with these samurai.
+116	message	I'm no samurai—I'm a sword!
+117	message	//Event on defeating Laura
+118	message	Ugh…! Losing!?\nAm I losing… here…!?
+119	message	…The match is decided.
+120	message	I… won't lose…!\nI can't afford to lose…!!
+121	message	//Laura, energy-surge effect
+122	message	Laura…?!
+123	message	I was made, raised, and forged\nfor battle alone…
+124	message	I was exceptional… but when the IS was born,\nI, who couldn't sync with it,\nwas branded a failure…
+125	message	But under a certain person's tutelage,\nI once again reigned as the strongest\nof the German military's IS forces.
+126	message	…
+127	message	I must become strong!\nI must BE strong…!!
+128	message	Power… I want power…!!
+129	message	//Laura glows pale blue.\n//'Pikiin' mode-change SE plays.
+130	message	Do you wish…? Do you desire still greater power?
+131	message	Give me power!! Power beyond all compare…!!
+133	message	//A flash envelops Laura.\n//SE: 'Dooon!!' like a lightning strike.
+134	message	Uwaaaaaaaaaaaaaaaaaah!!
+135	message	//Event art: VT System
+136	message	…What is this!?
+137	message	Tachibana, you should understand.\nThat is one swallowed by raging power…!
+138	message	I understand… that's me, from that time!
+139	message	Yes, and it was once my form as well.
+141	message	A guardian… I once defined myself as\nsomething no longer human,\nand believed fighting was my sole reason to exist.
+142	message	But with that alone, true strength\ncould never be attained.
+143	message	Listen, Laura Bodewig!\nHuman strength is being human.
+144	message	Together with Tachibana, who taught me that,\nI'll show you now! A strength that can never reach\none who has abandoned their humanity!
+145	message	Tsubasa!!
+146	message	Tachibana! Lend me your strength!\nWith your hands and my sword!!
+147	message	With the burning feelings in my heart!!
+148	message	Haaaaaaaaaaaaaaaaah!!
+149	message	//The VT System's black form is cut in two, with flash-like effects and slashing sounds.\n//Then whiteout.\n//Background black — expressing Laura's mental world.
+152	message	…May I ask one thing?\nBehind your power, behind your battles—what is there?
+153	message	Behind? A foolish question.\nPower is me itself, battle is proof of existence—\nI care nothing for what's behind!
+154	message	I see… then all the more reason…\nI can't lose to a half-baked warrior.
+155	message	I… half-baked…?
+156	message	I was once the same…\nNo matter how you polish the blade,\na heartless sword can protect nothing…!
+157	message	A heartless sword… that's… me…
+158	message	//Laura's vision clearing.\n//Background: IS Academy arena
+159	message	…I…?
+160	message	You've come to, it seems.
+161	message	Kazanari… Tsubasa…
+162	message	Are you okay?\nDoes anything hurt, or feel sick?
+163	message	You… what are you?
+164	message	I'm Tachibana Hibiki, 15 years old,\nbirthday September 13th, blood type O!
+165	message	My height at the last school checkup was\n157 cm—my weight I'll tell you once\nwe're better friends!
+166	message	My hobby is helping people, and I love\nrice & rice! Also, my record of never having a boyfriend\nequals my age! Um, what about you, Laura?
+167	message	…???
+168	message	This is the human called Tachibana.\nWhat kind of human are you?
+169	message	I… I am…
+170	message	To become a warrior is to drift away\nfrom the way humans live.
+171	message	I, who thought so, never knew what lay\non the far side of battle, beyond it.\nJust like you now.
+172	message	Beyond… battle…?
+173	message	What you fight for, what you grow strong for.\nThe greater that reason,\nthe stronger a person can become. Tachibana is proof.
+174	message	A reason to fight…
+175	message	I wanted to grow strong because I have things to protect.\nIf someone's in trouble, I want to rush to them\nat top speed, by the shortest route, straight as an arrow.
+176	message	And… because I want to laugh and eat dinner tomorrow\njust like today.
+177	message	I have… nothing to laugh about…
+178	message	No need to think too hard.\nWhen do you feel happy, Laura?\nAnything at all is fine.
+179	message	If you get to eat yummy food,\nthat's happiness, right?\nThat's what it means!
+180	message	There are lots of otaku among soldiers too, nyo!\nIf it's hobbies, I know a great shop, nyo~.
+181	message	How about B-list idol research?
+182	message	If you keep making that gloomy face,\nall the fun stuff'll run away, you know
+183	message	The nightmare is over.\nLet's find a happy dream!
+184	message	That's right! I'll help!\nAs friend number one!
+185	message	Friend?
+186	message	Embarrassing as it is to admit,\nI was also swallowed by power like you, Laura,\nand went berserk.
+187	message	I didn't know what was what anymore.\nBut then, a friend saved me.\nShe brought me back to being human.
+188	message	So when you're in trouble, Laura,\nwhen things are hard, when you're in danger,\nI'll definitely save you. As a friend!
+189	message	I was your enemy, you know…?
+190	message	No. Because my way of fighting\nis holding hands with someone!
+191	message	…Such a way of fighting… exists?
+192	message	Let's hold hands!\nSome things can be conveyed that way!
+193	message	…
+196	message	Then I'll take the left hand as friend number two!
+197	message	Huh? Huh?
+198	message	Haruka, getting a head start is cheating!
+199	message	Hauu!! Can Rena take her home? Huh? Huh?
+200	message	Ehehe… may I also volunteer\nto be a friend?
+201	message	Wh-what ARE you people…???
+202	message	Let me warn you—they're a tough bunch.\nAstonishingly so.
+203	message	Don't you mean persistent?
+204	message	No, 'a pain' is the correct word!
+205	message	For all that talk, you two\nlike them well enough, right?
+208	message	I-I never said I hated them or anything!
+210	message	//Fade to black\n//Background: IS Academy classroom
+211	message	Heh, so you transferred to IS Academy?
+212	message	State power doesn't reach this school's students.\nIt's convenient in many ways.
+213	message	That black monstrous form was\nthe 'Valkyrie Trace System'—\nsomething banned by the IS Treaty.
+214	message	It seems the German military\nplanned this incident as a Valkyrie Trace System\nexperiment from the start.
+215	message	IS Academy will also report the German military\nand the related developers for treaty violation,\nand seek the Committee's investigation.
+216	message	I'll also report the military and the companies through IS Academy.\nI'll make the bastards who fooled me pay…!!
+217	message	This treaty violation, in Europe that's already in turmoil,\nwill draw harsh condemnation.
+218	message	Will Charlotte and Laura be able\nto go back to their countries properly?
+219	message	It'll be what it'll be.\nAt least we can stay at IS Academy for two and a half years—\nlet's hope things change.
+220	message	Good, you'll be okay for a while!
+221	message	Right, Hibiki… come here.
+222	message	Yes, what is it?
+224	message	You're going to be my wife! It's decided!\nNo objections allowed!
+226	message	Huh…?
+227	message	I heard it's common custom in Japan\nto take someone you've taken a liking to as your wife.\nTherefore, you're going to be my wife!
+228	message	Whaaaaaat!?
+229	message	Um, being told something like that out of the blue,\nI don't know how to answer…
+230	message	Didn't you say your record of never having a boyfriend\nequals your age?
+231	message	But Laura, you're a girl…
+232	message	You don't have a girlfriend either, right?
+233	message	I don't have a girlfri—… well, hmm…
+234	message	So you DO!
+235	message	No no! More than a girlfriend—\nmy precious childhood friend… yes.
+236	message	Guh…!
+237	message	//Laura runs out
+238	message	Laura! Sh-she left…
+239	message	Hibiki, shouldn't you go after her?
+240	message	Huh? What should I do?
+241	message	No, chasing her would only make it worse…
+242	message	//Background: IS Academy hallway\n//Laura talks to Clarissa over comms
+243	message	Bah, this is an emergency transmission!
+244	message	//Event art: Laura seeks advice from Clarissa over comms.
+245	message	Respond, Captain Clarissa Harfouch!
+246	message	Captain Laura Bodewig, has some problem arisen?
+247	message	An unexpected enemy has appeared!\nType: childhood friend! Requesting urgent countermeasures!
+248	message	Childhood friend…? Captain, childhood friends are formidable foes!\nBut childhood friends have one absolute weakness…
+249	message	Really!?\nAs expected of our Japan expert—I'm counting on you!\nHmm… hmm?
+250	message	//Aria and Louise pass by.
+251	message	What is that?
+252	message	Dunno…?
+253	message	//END

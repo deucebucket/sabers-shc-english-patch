@@ -1,0 +1,252 @@
+row	column	english
+3	message	Wow, it's like we really came to another world.\nThat startled me.
+4	message	I wonder if we've come to a different world\nfrom [NOEL] and the others?\nI'm worried~...
+5	message	If Tsubasa-san's here, everything'll be absolutely fine!\nI guarantee it!
+6	message	I just hope [NOEL] isn't being\nany trouble for Tsubasa-san...
+7	message	Does anyone recognize this world?
+8	message	It's similar to the world I was in.\nAh, but... a little different, maybe.
+9	message	Unyuu, it's totally different\nfrom my world~.
+10	message	Sorry, I don't recognize it either...
+11	message	I see. Then let's ask the townspeople.\nFirst we need to find out what kind of place this world is\nbefore we act.
+12	message	Huh? Me?\nBut............ Hmm, well...
+13	message	Hm? What's wrong?
+14	message	Um, how about I find a passerby\nand go ask them a few things?
+15	message	Huh, really?
+16	message	It might be my fault we're here—\nI said something weird, after all.\nAnd being totally useless on top of that... y'know.
+17	message	Besides, talking to people\nisn't exactly my weak point.
+21	message	Huh?
+23	message	Ah... yeah, I figured no one\nsees me that way at all...
+24	message	Still, it'd help. Just ask someone\nfor a bit of info, that's all.
+25	message	Got it.\nI'll be back in about ten minutes.
+26	message	//Fade to black: time passes.\n//Background: town at noon. Claude alone.
+27	message	I... I got lost...
+28	message	Where am I...?\nI wandered way too far just 'cause no one was around...\nWhich way was everyone? Which way?
+29	message	...When in doubt, keep it simple?\nJust go wherever the hot babes are...?
+30	message	N-no, that makes no sense whatsoever...
+31	message	Huh? Ride the skateboard over there?\nWhy would I do that?
+32	message	If I stand out, Remu-san and the others might find me?\n...Maybe, but\nI bet you just wanna try it...
+33	message	Besides, I've never even\nridden a skateboard before.\nSomething that dexterous is beyond me...
+34	message	H-huh? Hey, this is actually working!?
+35	message	//Claude rides off on the skateboard.\n//Riko's silhouette appears for an instant.
+36	message	........................ Heh.
+37	message	//Scene change.\n//Claude speeding along on the skateboard.
+40	message	I think I came from around here...\nWait, is this really the right way?
+41	message	//The bomb activates. A voice comes from the pursuing guard robots.
+42	message	THAT SKATEBOARD HAS\nA BOMB PLANTED IN IT.
+43	message	Hm? Did I just hear a weird voice...?
+44	message	GAGAGA...!
+45	message	What's that...? Wh-what is it?\nWhat's chasing me!?
+46	message	GETTING OFF THE SKATEBOARD\nOR SLOWING DOWN\nWILL CAUSE AN EXPLOSION.
+47	message	A b-bomb-rigged skateboard!?\nIt blows up if I slow down... no matter what I do,\nI'm gonna die, aren't I!?
+48	message	//SE: gunshot.\n//The guard robot is shot and destroyed.
+50	message	GOGH!? MAIN CAMERA DAMAGED!\nTAKING FIRE!!
+51	message	Huh...?
+52	message	//[Event art] Aria hanging upside-down\nfrom a parachute, firing her gun.
+53	message	What's that? A girl just dropped out of the sky...!?
+54	message	You idiot over there!\nTell me the situation!
+55	message	U-um... apparently this skateboard\nhas a bomb planted in it.\nIf I get off or slow down, it explodes...
+56	message	Copy... I'm getting you outta this!
+57	message	Huh!? She's charging straight at me???
+58	message	Butei Charter, Article 1!\n'Trust your comrades, aid your comrades'—\nHere I come!
+59	message	Grab on!!
+60	message	//SE: rapid gunfire, then an explosion. Screen flashes white,\nthen fades to black.\n//Event art off.
+63	message	Ugh, what happened...?\nI remember a girl diving down from the sky...
+64	message	We took the blast wave mid-air\nand got blown all the way here, that's what.
+65	message	That's insane...
+66	message	You're alive, right?\nI bet you're hurting all over, but tough it out.
+67	message	Ngh? Owowow... my arms, my legs, my face—everything hurts!
+68	message	Quiet! Think about the situation a little!
+69	message	S-sorry,\nKanzaki H. Aria-san...
+70	message	...Hmph, so you've got enough composure\nto read my name tag, huh.
+71	message	Um, why are you wearing a name tag?
+72	message	It's the opening ceremony today, duh.\nIf you're a new Butei High student,\nyou should know that much!
+73	message	Huh? I... um...
+74	message	Forget that—look,\nwe're surrounded by enemies...!
+75	message	Huh...?
+76	message	//A swarm of Noise surrounds the building\nwhere Aria and Claude are.
+77	message	...!
+78	message	I've been shooting them this whole time and nothing works!\nWhat ARE those things!?
+79	message	Ah, those are Noise!?\nThis is bad... normal attacks\ndon't work on them...
+80	message	You know what those things are?
+81	message	Y-yes. You see, those are...
+82	message	//Fade to black: time passes.\n//Battle map: around the school.
+83	message	...Singing, transforming—\nit all sounds like a joke.\nBut you've got no reason to lie, huh.
+84	message	You believe me?
+85	message	So, where's this Hibiki girl\nwho can beat the Noise?
+86	message	Well, I got lost,\nand thanks to that skateboard\nI have no idea where I am...
+87	message	Got it. I'm going.
+88	message	Huh?
+89	message	I'll break through the encirclement.\nAfter that, yell or do whatever it takes—\nI'll find that Hibiki girl no matter what.
+90	message	Until then, you hide.
+91	message	...
+92	message	No—I'll be the decoy and jump out.\nWhile they're distracted, Aria-san,\nyou break through the encirclement.
+93	message	Huh? Do you even hear yourself?\nYou're unarmed!
+94	message	That's exactly why I'll be the decoy.\nIf you went out, Aria-san,\nI couldn't cover you at all...
+95	message	Well... that's true.
+96	message	I have fought the Noise before,\nso maybe I can\nkeep running for a little while...
+97	message	...
+98	message	I-I don't wanna die either, y'know!\nHiding here, getting found,\nand tortured to death—no thanks...
+99	message	Fine. We'll go with your plan.\nNow, go!!
+100	message	Huh, right now!? Waaah!?
+101	message	//Claude moves forward.
+104	message	Uh, h-hi... Mr. Noise...
+105	message	...!
+106	message	E-eep!? They're scary after all!!
+107	message	//The Noise's attention turns to Claude.\nFrom here on, they target Claude.
+108	message	If he's gonna stand out that much,\nas a decoy he's flawless...
+109	message	//Battle continues.\n//Aria reaches the destination.
+110	message	Good. Broke through the encirclement.\nNow for that Tachibana Hibiki girl...
+111	message	Huh!?
+112	message	//Ambush Noise appear around Aria.
+113	message	...!
+114	message	Dammit!?
+115	message	Aaah, I-it's hopeless!!
+116	message	Idiot! Don't you dare give up on your own!
+118	message	That's right! Don't give up on living!
+119	message	!?
+122	message	//The transformed Hibiki appears on the map.
+123	message	[CLAUDE]-san!\nYou were taking so long I came to get you!
+124	message	Hibiki-san!
+125	message	Girl over there! Can you hear my song?\nIf you can hear it—fight!
+126	message	This is the song that protects us, right?\nEither way, in this situation, I'll believe!
+127	message	Thank you!
+128	message	Counterattack, start! I'll blow a huge hole in 'em!
+129	message	//Battle continues.\n//Noise can now be attacked; objective changes\nto wiping out the enemy.
+131	message	............
+132	message	Something showed up.\nGiving off serious killer vibes?
+133	message	Is it an enemy?
+134	message	Obviously it's an enemy.\nJust look at it!
+135	message	That unnecessarily huge chest is the proof!\nEnemy, no matter how you look at it! Enemy!
+136	message	THAT'S what you can tell just by looking!?
+137	message	(I wish we could understand each other...)
+138	message	//Battle continues.\n//Deal a set amount of damage to Black Broom.
+139	message	............
+140	message	//Black Broom retreats.
+141	message	Don't you run away! You silent, useless-tits, deadpan woman!!
+142	message	But Aria-san,\ndo you even have bullets left...?
+143	message	Tch. Can't be helped...
+144	message	//■Battle end.\n//Background: town at noon.
+145	message	...Anyway,\nlooks like I owe you one.
+146	message	No no! I'm just glad you're safe!\nSo, [CLAUDE]-san,\nwho is this...?
+147	message	Hold on. Introductions later.\nMore importantly, you two...
+148	message	Who the hell are you!?
+149	message	Um, why the sharp glare...
+150	message	I heard the story from this wimp,\nbut you two are way too suspicious!\nComing from another world and whatever.
+151	message	Huh? But you said you believed us...?
+152	message	Whether you're trustworthy is another matter!\nYou're gonna tell me the whole story,\nso you're both coming with me!
+153	message	Where to?
+154	message	Butei High. Questions later!
+155	message	//Scene change.\n//Background: in front of Butei High.\n//Meru and Remu. They met Riko and were brought here.
+156	message	...So this is Butei High?\nI just followed along, but\nit looks like a normal school.
+157	message	You really don't know, huh.\nSimply put, this is\na school that trains Butei.
+158	message	What is a 'butei'~?\nUm... you were Mine Riko-san, right?
+159	message	Just Riko is fine~\nDrop the stiff formalities!\n[MERU]-chan♪
+160	message	Y-yes~...\n(She's so hyper~...)
+161	message	A Butei is an armed detective!\nEvery Butei High student is a Butei.\nPretty amazing, right?
+162	message	Is that so~? St. Mont Blanc Academy\nalso required combat skills, but\nthat's not normal~?
+163	message	Not normal, I'd say...?
+164	message	Riko's a Butei High student too!\nI'll show you around!
+165	message	Will you really help us?
+166	message	If something weird was going on,\nButei High's Inquesta (detective division)\nwould've caught wind of it already.
+167	message	Riko's in Inquesta too,\nso leave that to me! \nMaybe there's already word about the missing kids~?
+168	message	I hope [CLAUDE]-san and Hibiki-san\nare all right~...
+169	message	//Aria, Claude, and Hibiki arrive in front of Butei High.
+170	message	Ah!
+171	message	[CLAUDE]-san!\nWhere'd you go~!?
+172	message	So Aria was looking after you.\nA fated meeting, perhaps?
+173	message	Don't say stupid stuff.\nSo, what? These guys your friends?
+174	message	Yes!\nThis is Remu-san and [MERU]-chan!
+175	message	Since Riko's wearing the same uniform,\ndoes Butei High have a middle school division too?
+176	message	Middle school!?\nI'm a second-year high-schooler!!
+177	message	Huh!? You're a year older than me!?\nI totally thought you were younger...
+178	message	Shut up shut up shuuut up!\nAnyway, everyone's coming with meee!
+179	message	//Scene change.\n//Background: classroom inside Butei High.\n//Shirayuki appears.
+180	message	Nice to meet you.\nI'm Hoshika Shirayuki, Butei High's student council president.
+181	message	I've heard the story.\nYou supposedly came from another world...
+182	message	It's obviously a lie! No way!
+183	message	Huh? Didn't you believe\nthat story?
+184	message	I don't recall believing anything about coming from another world.\nThat's way too out there, even so!
+185	message	Now now, Ariaaa.\nSounds interesting, doesn't it? Let's hear 'em out~.
+186	message	I haven't completely believed\nyour story either, but...
+187	message	It's hard to be believed without proof, isn't it.\nBy the way, may I ask\nsome questions of my own?
+188	message	Of course.
+189	message	I heard that here you can hire help\nfor investigations and solving cases—\nis that true?
+190	message	Yes. A Butei is an armed detective\nlicensed to use force against violent crime,\nwho takes contracts from civilians to investigate cases.
+191	message	Hm, same as a normal detective in that respect.
+192	message	If every Butei High student is a Butei,\ndoes everyone carry weapons?
+193	message	Carrying guns and blades is a student's duty.
+194	message	Like handkerchiefs and tissues~...
+195	message	The uniforms are bulletproof, y'know!\nGetting shot a little won't even faze us!
+196	message	Whoa...
+197	message	Then you must all\npractice martial arts too, right?\nCheck this out!
+198	message	HWACHAAA!
+199	message	What is that...?
+200	message	A Jeet Kune Do stance!\nHWAH!!
+201	message	//Event art: Hibiki watching a Bruce Lee video.
+202	message	Following my master's style,\nI learned martial arts from watching movies!
+203	message	The Dragon's the best, after all!
+204	message	You'd die doing that on a battlefield.
+205	message	//Event art off.
+206	message	Huh!? No good!?\nBut it's the coolest martial art in the world,\ntaught to me by my master...
+207	message	I see—so your skills are the real deal.
+208	message	By the way, contracting a Butei\nrequires payment.\nThis ain't charity~.
+209	message	Well, if they're armed and\ntake on life-or-death jobs, that's only natural.
+210	message	So, what is it you'd like our help with?
+211	message	Let's see... first I need to confirm\nwhether people suddenly vanishing from this world—\nlike mysterious disappearances—has been happening.
+212	message	Mysterious disappearances?
+213	message	This actually happened in our world.\nLike I said earlier, we came here\nfrom a different world.
+214	message	I got thrown into Remu-san's world,\nand then thrown here from there!
+215	message	I want to know\nwhether that's been happening\nin this world too.
+216	message	Missing-persons cases? There are tons of those.\nBut whether any of 'em are the\nunreal kind you're talking about, I couldn't say.
+217	message	There's confidentiality to consider,\nso disclosing information would be difficult.
+218	message	I'm a detective myself,\nso I understand those circumstances.
+219	message	Then, how about we contract with a Butei\nand have you assist our investigation?
+220	message	That, I think, is possible.
+221	message	Really!?
+222	message	Butei Charter, Article 9! Take flight across the world.\nRegardless of race or nationality, fight as one!
+223	message	In other words, anyone from anywhere\ncan contract a Butei!\nVui!
+224	message	I wonder if the contract fee could be paid later?\nI don't exactly have\nthis world's currency on hand.
+225	message	Regarding that—\non the condition that you stay at Butei High,\nwe'll guarantee your living expenses for the time being.
+226	message	Really!?
+227	message	Butei Charter, Article 3! A Butei must be strong.\nBut before that, be righteous.\nA Butei is an ally of justice, see!
+228	message	In exchange, we will be\nkeeping an eye on your movements.
+229	message	...Naturally. I don't trust you.
+230	message	Did we do anything suspicious?
+231	message	...That bomb-rigged skateboard you were riding.\nThat's the 'Butei Killer's' handiwork.
+232	message	The 'Butei Killer'...?
+233	message	A criminal who targets Butei.\nThey were arrested before,\nso this is likely a copycat.
+234	message	I just happened to ride it by accident!
+235	message	Can't explain it. But my gut tells me\nyou guys are connected\nto the Butei Killer.
+236	message	Your gut...
+237	message	No proof, so we can't prove our innocence.\nNot unless we catch\nthat Butei Killer or whatever.
+238	message	Yes-yes! Riko just\ncame up with a niiice idea!
+239	message	Riko nominates Aria\nas these people's caretaker!
+240	message	Hah!?
+241	message	Aria suspects [MERU]-chan and the others, right?\nThen you should look after them\nup close!
+242	message	Two birds with one stone, right?
+243	message	That may be a good idea.\nIf I recall, Kanzaki-san has already\nearned her graduation credits.
+244	message	Like hell!\nWho'd be a caretaker!?
+245	message	Hmm, then maybe Riko'll volunteer?\nRiko's nice, unlike Aria,\nso I'll dote on them all☆
+246	message	Don't be an idiot!\nLike I'd leave it to YOU!
+247	message	Then Aria's gotta do it, right?\nDecided!!
+248	message	Including me, the other students\nall have classes...
+249	message	...Fine.\nI'll do it, all right, I'll do it!
+250	message	But if I see even a hint of anything suspicious,\nI'll ventilate you—be ready for that!
+251	message	Y-you wouldn't shoot at school... right?
+252	message	Shooting outside the range is\n'not to be done more than necessary,' that's the rule.
+253	message	'Not more than necessary'... so\nit's fine to shoot if it's necessary!?
+254	message	Why the surprise~?\nIf armed guerrillas attacked,\nnot being able to fight back would be a problem~?
+255	message	([MERU]-chan...\nhas she seen more action than I'd think...)
+256	message	Now that that's settled, pack your bags\nand move to the prison!
+257	message	Prison...?
+258	message	No, it's a normal classroom?
+259	message	You startled me~...
+260	message	But you'd best not get any funny ideas,\nfor your own sake, 'kay?
+261	message	They call her Quadra—Aria of the twin blades and twin guns!\nThe strongest S-rank Butei\nin the all-combat Assault division, y'know?
+262	message	Is S-rank amazing~?
+263	message	Aria's caught criminals\n99 times in a row.\nYou'll never get away☆
+264	message	...Be ready, got it?
+265	message	Um... excuse me,\nwh-why are you glaring at me...?
+266	message	Because YOU'RE the most suspicious!!
+267	message	Good grief... what'll become of us.
+268	message	//END

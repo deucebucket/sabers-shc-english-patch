@@ -1,0 +1,509 @@
+row	column	english
+3	message	It's definitely this way!\nA bird flew that way just now!
+4	message	Geez, you're always so careless, desuu...\nBirds don't always fly to town, desuu!!
+5	message	Buuuh!\nThen which way IS it!!
+6	message	I dunno, desuu!\nAnd whose fault is it we're stuck\nin this sandy backwater, desuu?
+7	message	It's fine!\nWe've got techniques taught by our master!\nWe'll get through any pinch!
+8	message	Hold on! Even so,\nwe're still in training, desuu!
+9	message	We have to find our master who disappeared,\nor we'll never\nget our full license, desuu!
+10	message	Really?\nI think we're pretty strong as-is?
+13	message	I, candidate successor of 'Magical Magic' —\nthe one-hit-kill art that strikes enemy openings\nthrough martial arts, tactics, and psychological mastery,
+16	message	and candidate successor of 'Magical Yo-Yo' —\nthe martial art fusing magic with the assassination weapon\n'Gekijin Kaiten Komahimo',
+18	message	Right! Think about it —\nthe strongest duo at Saint Mont Blanc Academy\nis us... isn't it?
+19	message	Geez! Why does it end as a question\nafter all that hype, desuu?
+20	message	But Maron-chan from the next class\nhad this amazing adventure...\nso maybe we're second-best.
+21	message	Geez, you only lack confidence\nin the weirdest places, desuu...
+22	message	But but but!\nThey say matches come down to luck~\n'unbeaten forever' sounds fishy...
+23	message	Then don't go calling yourselves the strongest\non hype alone, desuu.\n...[NOEL] really is a child, desuu.
+24	message	I'm not a child, mon!\nWith [MERU], people usually think\nI'M the older sister, mon.
+25	message	Ugyuu~, that's for a different reason, desuu!
+26	message	...Anyway,\nwhich way is town, desuu...
+27	message	Hmm, probably this way! Let's go!
+28	message	Um... with that carelessness,\ndidn't we loop the same spot twice yesterday, desuu...?
+30	message	Geez, we're low on food, desuu.\nIf we don't reach town by tomorrow, that's bad, desuu?
+31	message	In other words...\nrun across the stone bridge, right!\nC'mon c'mon, let's hurry!
+32	message	In YOUR case, don't cross the stone bridge — swim it, desuu!\nNow's the time to be careful, desuu!
+33	message	Uuuugh, 'be careful' — how!?
+34	message	Um, um... I know!\nAsk someone for directions, desuu.
+35	message	Pfft, good one.\nIn this wasteland without even a signpost, let alone a house,\nthere's no way there's a person...
+36	message	Ah, there is, desuu!
+37	message	No way!?
+39	message	H-he looks woozy, desuu...
+40	message	I-is he okay? Well, worth a shot!\nHeeey! You there!
+41	message	...mi
+42	message	Um, can I ask you for directions?
+43	message	...Wa-water...
+44	message	U-um... are you from around here, desuu?
+46	message	Huh???
+47	message	Hawawawawa!! He's collapsed from exhaustion, desuu!!
+49	message	Hah!? Wh-where is this!?
+50	message	Phew, good good, desuu.\nHe came back when I splashed water on him, desuu!
+51	message	Mooou! That was precious water!
+52	message	Phew... I don't know who you are, but\nth-thank you.
+53	message	Um, are you lost too, desuu?
+54	message	Um, I'm... not so much lost as —\nI don't remember anything\nexcept my own name...
+57	message	My name is...
+59	message	Nothing else...
+60	message	You walked from over there —\nis there no town that way, desuu?
+61	message	Town...?
+62	message	Yes!! We're looking for someone!\nOur teacher — strong, super cute, curvy,\nand a total airhead — know her?
+63	message	Geeez!! Nobody can answer a question\nlike that out of nowhere, desuu!
+64	message	Um, um, well, we got lost\nwithout realizing it,\nand we have no idea where this is, desuu.
+65	message	U-um, I don't know where this is either...
+66	message	No good~!!\nRight, someone who only remembers their name\nwouldn't know where this is.
+67	message	I'm sorry...
+69	message	Hm? Feels like the sun\nsuddenly got stronger, desuu?
+70	message	Wh-what? Ugh... so bright!
+71	message	Wh-wh-what IS this!?\nMy-my eyes...!?
+73	message	Harya?
+74	message	Huh? Huh!? A town, desuu!?
+75	message	Huh?
+76	message	What did you just do, desuu!?
+77	message	Could it be...\nthe mighty Magical Magician blood sleeping within me\nhas awakened!!
+78	message	The time has come, y'know!!
+79	message	That's 200% not it, desuu...\nUm, what happened, desuu?
+80	message	I-I don't know...
+81	message	Meh! Whatever!\nWe dunno what happened,\nbut we can see something town-like!
+82	message	There you go being careless again...!\nHype alone won't cut it, desuu.\nLearn already, desuu.
+83	message	But we're going to town, that's decided!\nOkay, race to see who gets there first! C'mon c'mon c'mon!!
+84	message	Geez... [NOEL]\nreally is a child, desuu!
+85	message	But strolling to town won't get us anywhere,\nso I'll play along, desuu.
+86	message	On your marks!\nReaaady...
+89	message	...
+90	message	Hm? Is that\n[CLAUDE]-kun's friend?\nWanna join our race?
+91	message	???
+92	message	Huh?\nWho are you talking about?
+93	message	Hawawa... wh-wh-what IS it, desuu!!\nIs this kid [CLAUDE]-san's friend, desuu?\nThis skin texture!! This captivating form!!
+94	message	And colors that melt into this strange world!!\nGeez! Where were you hiding such a kid~?\nUkyuuuu!!
+95	message	Uh oh~,\n[MERU]'s hopeless lovely-radar\nis going off...
+96	message	Anyway, what IS this thing?
+97	message	I-I don't know either!?\nWhat IS it?
+99	message	...
+101	message	...
+102	message	...
+103	message	...
+105	message	Th-they multiplied, desuu!!\nLovely bonus x2! x3!\n...x765, desuu!!
+106	message	Ugeeh~,\nthe creepiness is infinite though!?
+107	message	C'mon, do something, [CLAUDE]-kun!\nYou're a boy, aren't you!!
+108	message	Wh-what do you want ME to do?
+109	message	Are they strays, desuu?\nLost their owner, desuu?
+110	message	With this many, taking one home as takeout...\nukyuu!
+113	message	Um... hate to\ninterrupt the excitement, but...\ndon't you get a baaad feeling...?
+114	message	Hey... [MERU], don't you notice?
+115	message	Uuuuu, something IS off, desuu...
+116	message	They're so cute, so why are they\nradiating killing intent\nat us?
+117	message	!!
+118	message	!! [CLAUDE]-kun, watch out!!
+119	message	Huh? Huh?
+122	message	Waaah!? Waaah!?\nWaaaaah!?
+123	message	Hey, did you see that? That attack!
+124	message	Yes desuu,\nthey were totally going for the kill, desuu.
+125	message	They're so cute,\nI can't believe it, desuu...\nAnd pretty sharp, desuu...
+126	message	Huh? What?\nWhat IS this creature...?
+127	message	Ugyugyugyuuu~,\ntoo cute for its own good times a hundred!\nGive me back my pure love, desuu~!!
+128	message	Cute or not... 'always be ready for battle'\nis our master's teaching!\nSaint Mont Blanc Academy students are trained to fight anytime, anywhere!
+130	message	Come on, bring it!
+131	message	Mukyuu~, what a shame, but\nhere I go, desuu~!!
+133	message	Hawawa?\nMy yo-yo's not connecting, desuu?
+134	message	Y-yeah,\ndidn't look like it dodged, but...?
+136	message	Huh!?\nMy magic's not working?
+137	message	Muu! Maybe you just messed up, desuu?
+139	message	Um, um... in cases like this...\nrunning might be...
+141	message	Uh oh~, we're surrounded, desuu!!
+142	message	Heeee, they're creepy~!
+143	message	Our escape route's gone...
+144	message	Okay! If that's how it is,\nteleportation magic...
+145	message	They'll beat us senseless while you set that up, desuu!!\nPlus not everyone can escape — rejected, desuu!
+146	message	Geeez!\n[NOEL] never thinks about the situation, desuu~!!
+147	message	Ahhh, th-this is it,\nisn't it...?\nWhat was my life even...
+148	message	Don't give up!
+149	message	Wh-who is it, desuu!?
+153	message	Wh-wh-what!?
+154	message	Who in the world are you, desuu...?
+155	message	I am the sakimori who guards humanity...\nWith this Ame no Habakiri, I'll carve a path! Hah!!
+157	message	Perish!!
+159	message	S-so amazing, desuu...
+160	message	She's fighting while singing!
+161	message	Huh? THAT's what amazes you!?
+162	message	Her singing AND her skills, desuu!\nCould she be\na graduate of the Magical Singer department, desuu?
+163	message	You lot! You can hear my song, right?
+164	message	Y-yes!
+165	message	Then it's fine to touch them.\nMy song will protect you.
+166	message	Really?\nSo our attacks will actually land!\nAlright!
+167	message	W-wait, I didn't say you could fight!
+168	message	Fufufu! You'll see when I try!\nNow — counterattack, go!!
+170	message	W-we did it, desuu,\nour attacks are working, desuu!
+171	message	Alright, we can do this! We can DO this!!
+172	message	They damaged an unidentified Noise...?\nEven with my song acting as a barrier,\nhow did they neutralize the phase-difference barrier...?
+173	message	Come to think of it, that boy took a Noise attack\nbefore I started singing...
+174	message	Could this be... something different\nfrom the Noise born of Solomon's Cane...?
+175	message	What's wrong, desuu?
+176	message	No, don't worry about it.\n...Though I'd prefer civilians\nto fall back...
+177	message	Ehem!! Bring it on,\na hundred or a thousand of you!
+178	message	She told us to fall back...\nshe really never listens, desuu.
+180	message	Phew, got most of 'em!
+181	message	I hope so, desuu~...
+182	message	Wait, something's coming! From the sky!
+185	message	Hm, here.\nThey'll do nicely as bait, then.
+186	message	This area is sealed off\nby the Special Disaster Response Team!\nWho are you?
+187	message	I am Laura Bodewig.
+188	message	You are Kazanari Tsubasa,\nSymphogear wielder of Relic No. 1, 'Ame no Habakiri', correct?\nFight me!
+189	message	How do you know about the Symphogear!?\nOnly a select few should know that name!
+190	message	Enough talk. Ready yourself.
+191	message	Whoever you are, I refuse!\nAme no Habakiri is not a blade swung for personal duels!
+192	message	Hmph, quite the lofty hero.
+195	message	You're... controlling the Noise!?
+196	message	Hmph, you ask too many questions...\nor so I'd like to say — but do you understand now?
+197	message	You're saying she's the enemy!
+198	message	Wh-what IS\nthat overdressed person!?\nS-she looks strong, desuu...
+199	message	Tch...!
+202	message	Hmph! Completely different from the data. Disappointing.
+203	message	...!
+204	message	At this level, you don't even qualify\nfor a performance test of Schwarzer Regen.\nA waste of time.
+205	message	Sharpen that rusted sword of yours.\nGot it?
+207	message	(She saw through my weakened state... but)
+208	message	...For now, I'll be glad the home front is safe.
+209	message	You two over there, any injuries?\nI can arrange treatment if needed.
+210	message	Ehehe, as you can see, we're fine!
+211	message	Phew, but I'm a little tired, desuu...
+212	message	Good.
+216	message	...You have nothing to prove your identity?
+217	message	Is this Saint Mont Blanc Academy\nstudent ID no good?
+218	message	According to the Special Disaster Response Team's records,\nno such academy exists.
+219	message	But I'm a second-year in the Magical Magician department\nof Saint Mont Blanc Academy's middle school!
+220	message	Likewise, second year of the Magical Yo-Yo department,\nSaint Mont Blanc Academy middle school, desuu...
+221	message	U-um... sorry...\nwho am I...?
+222	message	A magician, a yo-yo, and... beyond discussion.\n...This testimony is so absurd\nI wonder if you're mocking me.
+223	message	And if I believe your story,\nthat would mean you're not\nresidents of this world?
+224	message	...Hah!? M-maybe...\nno, it's definitely THIS person's fault!
+225	message	What!?!?\nI-I didn't do anything...
+226	message	Mmm, indeed,\nthere's no other possible cause, desuu!
+227	message	After a weird flash of light,\nwe woke up here, desuu!
+228	message	Weird light...?
+229	message	...I see.\nI'll proceed assuming\nyour testimony is factual.
+230	message	You believe us?
+231	message	Not completely.\nBut there's a similar case to your testimony.
+232	message	A case?
+233	message	My partner went missing.\nWitnesses say she vanished wrapped in light.\nLike a spiriting-away.
+234	message	But no matter how much we investigated,\nwe found no clues.
+235	message	So that means...?
+236	message	Yes, it seems related to you.\nCould you tell me more about the situation?
+237	message	I'll talk as much as you want!\nUm... what was your name again?
+238	message	Special Disaster Response Team, 'Kazanari Tsubasa'.\nI'm in charge of your protection and this case.
+239	message	Whoa! Cool name!\nNice to meet you!
+240	message	...desuu!
+241	message	Right away, then —\ncan you tell me about the situation before and after\nyou appeared here?
+242	message	Like I explained,\nI was talking to this shady guy\nwhen suddenly there was a flash...
+243	message	Um... 'sh-shady guy'...?
+244	message	What kind of light?
+245	message	The light was whitish and hazy,\nlike, for example, this...
+246	message	Like this? Wh—!?
+248	message	Ahh!? No way, desuu~!?!
+249	message	See, see!\nI-I didn't do anything!!
+253	message	Nn... woah!?\nWh-where is this?
+254	message	Another different place from before, desuu...?
+255	message	Geeez!!\n[CLAUDE]-kun, where IS this!?\nYOU warped us here, didn't you!
+256	message	It wasn't me, I tell you! Really...!
+257	message	But it's the second time!!
+258	message	Even if you say that...
+259	message	What do you make of this phenomenon, Tsubasa-san, desuu?
+260	message	I've lost contact with HQ... meaning\nthis isn't where we were.\nHard to believe, but...
+261	message	Before identifying the cause,\nwe need to find out where this is.
+262	message	Come to think of it, this place feels weird.
+263	message	It's a town, but there's no sign of people, desuu.
+264	message	Then let's head to a building\nwhere people might be!
+266	message	Hellooo, anyone here?
+267	message	Weird, desuu — open, but nobody here.
+268	message	Wait, who's that over there...?
+269	message	...
+270	message	...
+271	message	Dolls, maybe? They're not moving.
+272	message	Master code confirmed_ migrating data\nfrom secondary to primary.\nSYSTEM: CATHERINE_ boot.
+273	message	Language base: English...\nerror, error_
+274	message	Recompiling language data with Japanese as base.\nReboot_
+275	message	SYSTEM: CATHERINE_ boot acknowledged.\nRestoring data\nvia auth code 'J'.
+276	message	CODE: Dorothy_ boot.\nBasing on Japanese...
+277	message	error, error...\nerror, error... reboot_
+278	message	Th-they moved!?
+280	message	U-uuuh, good MORNING!\nEVERYBODY!!
+281	message	Slept a LOT! How are ya?\nHOW ABOUT YOU?
+282	message	U-um... high energy, huh?
+283	message	YAH! YAH!\nHottaimo ijikuruna?\nUm, what was it?
+284	message	There you go matching the vibe with nonsense again...\ngeez, desuu.
+285	message	My NAME is Jumarin, yo!\nCall me Catherine, OK!\nNice to MEET YOU!
+286	message	I'm Kazanari Tsubasa.\nSorry to ask right after meeting, but I'd like to ask about this town.
+287	message	(Tsubasa-san marches to her own beat too, desuu!?)
+288	message	Nice to MEET YOU! TSUBASA!!\nLISTEN to me about anything!
+289	message	This town is... what, exactly?
+290	message	This is Dokoka Town, yo!
+291	message	Dokoka Town — that's this town's name.\nAnd then?
+292	message	A town that's somewhere and nowhere —\nthat's Dokoka Town, yo♪
+293	message	Ahaha~, fun~!\nLike a riddle♪
+294	message	Geeez! Stop having fun\nand assess the situation, desuu!!
+295	message	Our work... is trade, y'see.\nBuy something, won't you.
+296	message	H-hey~, Dorothy-chan!\nCustomer service is noble work, yo!
+297	message	Then let's do our work.\nJumarin, have you issued the cards?
+298	message	OUCH!!\nNo rush, no ruuush♪
+299	message	TAKE IT EASY, okay!!\nEVERYOOONE, write your NAME\non this!
+301	message	What's that?
+302	message	It's a Dokoka Card, yo!\nWe give them to visitors, yo!
+303	message	Dokoka Card?
+304	message	Like a points card with perks?
+305	message	Pretty much, yo!\nNo signup fee, no annual fee! Safe, yo!
+306	message	I see, then it's safe!
+307	message	!? What\nabout this is safe, desuu!?
+308	message	Huh, no... I don't know...?
+309	message	No! There isn't, right!?\nI said there isn't! Stop pestering me!
+310	message	Um, what are you talking about, desuu?
+311	message	What? Talking to yourself? Creeeepy!\nKeep away from me, creep!
+312	message	Huh? No, it's just... a habit...\nhow do I put it... um, that!\nY'see... I don't have friends, so...
+313	message	(Ugh... painful, desuu)
+314	message	Honestly, how pathetic~.\nYou'd be better off training your body\nand talking to your muscles
+315	message	That doesn't sound much better, desuu...
+316	message	By the way, since coming to this town\nwe've only met you two —\nis there anyone else?
+317	message	In Dokoka Town\nthere's only me and Dorothy-chan, yo.\nThere used to be LOTS, though~
+318	message	Huh!? A town with only two people, desuu?
+319	message	Nice and roomy, isn't it?\nI like it, y'see.
+321	message	There really were only two of them. Weird!
+322	message	That's not all.\nThis town has no entrance or exit.
+323	message	Something like a barrier is up —\ncompletely sealed.
+324	message	Then how did WE\nget here, desuu?
+325	message	Nothing but unknowns...
+326	message	But good news!\nBuildings but no people —\nfree beds for us!
+327	message	Jumarin-san and Dorothy-san said\nwe can sleep anywhere,\nbut is that really okay?
+328	message	For now there seem to be no hostiles,\nso let's rest.
+329	message	Yay! Yaaay! Hurraaay!!!
+330	message	What about food?\nThey said we can use\ningredients freely.
+331	message	Anyone who can cook~?
+332	message	We're\nnot great at cooking, desuu...\nTsubasa-san?
+333	message	I-I'm a sakimori, so a kitchen knife...\nI don't carry one. What about you?
+334	message	M-m-me?
+335	message	Huh? Um... yeah, I can manage, I think?\nIf curry's okay...
+336	message	Curry? Never heard of\nthat dish, but make it! Make it!!\nLet's eat at the inn!
+337	message	Tsubasa-san, do you know curry, desuu?
+338	message	Yes, I know it.\nIs the food culture similar, I wonder?
+339	message	Umyuu~, mysterious, desuu!
+341	message	I patrolled the town again —\nreally only two residents.
+342	message	And unless I imagined it,\nthose two weren't moving when we entered the shop.\nWhat does that mean...?
+343	message	And with the barrier,\nno way to investigate where this is\nor how it connects outside.
+344	message	Tachibana... what would you do at a time like this?
+345	message	Heh... no need to think.\nShe'd say 'let's all work together\nand figure it out,' obviously.
+346	message	Those three sleeping soundly\ndon't seem like bad kids either...\nI'll try doing it Tachibana's way...
+348	message	Mornin'! Mooornin'!!
+349	message	G-g-good morning.\nHigh energy this morning...
+350	message	Totally~ — I was so tired\nI fell right asleep, desuu.
+351	message	Man, futons are great!\nWe've been camping out lately.
+352	message	[NOEL] and [MERU] were traveling\nto find your missing teacher, right?
+353	message	Yes, desuu.
+354	message	Suddenly our teacher\nstarted busily preparing something,\nsaid 'I'll go save them,' and just stopped coming to the academy, desuu.
+355	message	For my Magical Magician\nand [MERU]'s Magical Yo-Yo,\nthere are no successors besides our teacher.
+356	message	If our teacher's gone,\nour technique classes can't happen, desuu.
+357	message	But do students normally go searching\nfor a missing teacher?
+358	message	Hmm, well, she's been our teacher\nsince we were little.
+359	message	Huh?
+360	message	She saved us when we were young\nand raised us, desuu.
+361	message	I see...
+362	message	But our teacher's insanely strong,\nso I'm not worried at all!
+363	message	Really?
+364	message	If anything, her curiosity's\ntoo strong — if we don't go find her,\nshe might never come back, desuu...
+365	message	And then we can't graduate!
+366	message	That IS... a pressing issue...
+367	message	Good MORNING, everybody~!
+368	message	Hellooow!
+369	message	WELCOME, yo!\nBuy something, PLEASE, yo!
+370	message	Huh? We can shop, desuu?
+372	message	Hey Catherine, this town seems to have\nno entrance or exit —\nhow do we get out?
+373	message	Oh! That's EASY, yo!
+375	message	But this is the center of town?
+376	message	Aren't exits usually at the edge of town?
+377	message	No no! Right here, yo!\nShow your Dokoka Card, yo!
+378	message	Hah... show the card, and then?
+380	message	Something came out!?
+381	message	A stone, desuu?
+382	message	This object is the exit?
+383	message	EVERYBODY, come closer, PLEASE!
+384	message	Get close to this?
+385	message	Is here okay, desuu?
+386	message	Do we need to operate something?
+387	message	Will this stone open up...?
+388	message	Then GOODBYE, yo!!
+389	message	Huh!?
+391	message	W-wait a moment, desuu!!
+392	message	What's the meaning of this!?
+393	message	The STONE decides, yo!\nHAVE A NICE DAY!
+394	message	Well then, see you.
+395	message	No discussion!?\nH-hey, is this allowed!?
+396	message	This time you'll believe\nit wasn't me, right? Right?
+399	message	[NOEL],\ndon't push yourself too hard, desuu!
+400	message	Ahahaha, I know, I know!\nLeave it to me!
+401	message	By the way, do you actually remember\nhow to fight like our teacher taught us, desuu...?
+402	message	Of course! The 'hit it till it breaks' thing, right!
+403	message	...Hah... you don't remember at all, desuu.
+404	message	N-no, that's not true!
+405	message	Hah... fine, desuu...\nshould we review how to fight?
+406	message	F-fighting is...
+408	message	It's fine! I can go anytime!
+409	message	Really, desuu?
+410	message	Obviously! C'mon, let's go!
+411	message	Yes yes, got it, desuu!
+413	message	Uu... maybe I'm not confident...
+414	message	Hah... just as I thought, desuu...
+415	message	Then I'll explain,\nso listen carefully, desuu?
+416	message	Yeah!
+418	message	First, how to tell friend from foe, desuu.
+419	message	Yes, teacher!
+421	message	Look at this screen, desuu
+422	message	See how our characters and the enemies are different colors, desuu?
+423	message	True, we're blue and the enemies are red
+424	message	Yes desuu — press the △ button and allies show blue,\nenemies red, so you can tell them apart, desuu
+425	message	I see!
+426	message	Next, I'll explain 'movement', desuu!
+428	message	Select 'Move' and the squares in range\nturn blue, desuu.
+429	message	That range is how far the character can move, desuu.
+430	message	Hmm hmm, I get it, I get it!
+431	message	Normally you can move wherever you like,\nbut in battle there are things to watch out for, desuu.
+432	message	Things to watch out for?
+433	message	Right desuu — three things:\n'height,' 'facing,' and 'terrain effects,' desuu!
+434	message	I kinda get 'height' and 'facing.'
+435	message	//
+438	message	Getting attacked from higher up or from behind\nputs you at a disadvantage, right?
+439	message	Exactly desuu — when YOU attack, do the reverse:\nfrom higher than them,\nfrom somewhere other than the direction they're facing
+440	message	Attack from there and the battle goes in your favor, desuu.
+441	message	I see.
+442	message	So what's the third one, 'terrain effects'?
+443	message	'Terrain effects' are how each location affects battle, desuu.
+444	message	The map has various terrain,\neach with its own 'terrain effects,' desuu.
+445	message	//
+448	message	Each square\nhas its own terrain set, desuu.
+449	message	Like this 'road,' right?
+450	message	Terrain affects 'defense,' 'evasion rate,'\nand 'movement,' desuu.
+451	message	Some places make you take more damage\nor limit how far you move,\nso watch where you go, desuu!
+453	message	Got it got it...\nokay, I think I've got it!\nLet's start!
+454	message	Wait, desuu!\nI'm not done explaining, desuu!
+455	message	Ehh, there's more...?
+456	message	Who do you think I'm explaining this for, desuu!\nJust listen quietly, desuu!
+457	message	Ugh... what are you teaching me now?
+458	message	One more thing to watch when moving...\nI'll explain\n'attributes,' desuu.
+459	message	An attribute?
+460	message	//
+463	message	Every one of us has one of the four attributes—\n"Bonds," "Heart," "Friendship," or "Annihilation"—desuu!
+464	message	Bonds gets a shield, Heart gets a bow, Friendship gets a sword,\nand Annihilation gets... "nothing"!\nThat's the image behind each symbol, desuu!
+465	message	Mine's... "Friendship," I guess!
+466	message	It goes like this: Bonds beats Friendship,\nFriendship beats Heart, and Heart beats Bonds, desuu.
+467	message	When your attribute has the edge over the enemy's,\nyour attacks deal MORE damage, desuu!
+468	message	But when YOUR attribute's at a disadvantage,\nthe damage you deal goes DOWN, desuu...
+469	message	Got it!\nSo if I keep picking fights with good matchups,\nbattles'll go my way!
+470	message	That weird creature's a Heart attribute!\nThis one's all mine—my time to shine!
+471	message	It's so cute, but it's a bad matchup for me...\nThe world is just wrong, desuu...
+472	message	One more thing...\nThis one's important too:\nyou should try to keep your friends close together in battle, desuu!
+473	message	//
+476	message	Huh, why's that?
+477	message	When you pick "Move,"\nanother range shows up besides your movement range, desuu.
+478	message	You're right—what IS this thing?
+479	message	This is called the Sympathy Area.\nIf an ally's inside it when you go into battle,
+480	message	then under certain conditions,\na friend might come help you out mid-battle, desuu!
+481	message	Certain conditions?
+482	message	I'll explain that some other time, desuu!
+483	message	Whaaat...!?
+484	message	The Sympathy Area has\none more important thing about it, but...\nthat's for later too, desuu!
+485	message	Aww!
+486	message	And that's the basics, desuu.
+487	message	// Display off
+488	message	Got most of that, desuu?
+489	message	Umm...
+491	message	Then let's go, desuu!
+492	message	Alright, let's gooo!
+495	message	Alright, battle's finally starting!
+496	message	You remember how to attack, desuu?
+497	message	Uh, umm...
+498	message	//
+499	message	It's fine, I got this, I got this!
+500	message	Really, desuu...?
+501	message	Then let's gooo!
+502	message	//
+503	message	Urgh... please teach me...
+504	message	Sigh... guess I have to, desuu...
+505	message	I'll explain it, so listen good, desuu?
+506	message	Okay!
+507	message	// Show still image: battle-prep screen capture with AP circled
+508	message	To attack,\nyou need "AP (Attack Points)," desuu.
+509	message	Each technique costs a set amount of AP,\nso if you don't have enough, you can't use it, desuu.
+510	message	You've only got so much AP,\nso if you burn techniques recklessly you won't be able to do anything later, desuu?
+511	message	So I gotta keep an eye on my AP while I fight!
+512	message	AP recovers by 60 at the start of every one of our phases, desuu.
+513	message	Budget it well and you'll pull through, desuu!
+514	message	// Show still image: battle-prep screen with combo list circled
+515	message	Next, look at the circled part of the screen, desuu.
+516	message	This is your attack combo list, desuu.\nIt shows as many slots as your max combo count, desuu.
+517	message	Combo?
+518	message	It's a chain of attack techniques, desuu.\nYou can set as many techniques as there are slots for one battle, desuu!
+519	message	The more you set,\nthe more damage you deal in one battle, desuu.
+520	message	But each one you set\neats more AP, so watch out, desuu.
+521	message	Okay, I set them! Wait, huh!?\nI set the same technique, but the AP cost went up\nand my accuracy went DOWN!?
+522	message	That's 'cause you set the same technique, desuu.\nThe more times you set one technique in a single battle,\nthe higher the AP cost gets and the lower the accuracy, desuu.
+523	message	Even a strong technique gets predictable\nif your combo's all the same, so the enemy reads it... that's the idea, desuu!
+524	message	// Show still image: battle-prep screen with predicted damage circled
+525	message	Another important thing when setting combos:\nAbility HP, desuu!
+526	message	Umm, what's Ability HP?
+527	message	Okay, desuu! "Ability HP" is\na character's endurance for each of their abilities, desuu.
+528	message	There are three—"ATK," "SPD," and "HIT"—\nand they go down along with HP when you take damage, desuu.
+529	message	The lower Ability HP gets,\nthe lower the matching stat drops, so be careful, desuu.
+530	message	"ATK" drops attack power, "SPD" drops evasion,\nand "HIT" drops accuracy, desuu!
+531	message	Destroy all of a foe's Ability HP,\nand that counts as winning the battle, desuu!
+532	message	But if all of YOURS get destroyed,\nyou lose, so be careful, desuu?
+533	message	Every technique we use targets\na set Ability HP, so if you set them smart,\nyou can hit just one specific ability, desuu!
+534	message	You can tell which ability you'll damage\nby looking at the predicted Ability damage, desuu!
+535	message	Got it!
+536	message	So check the info each time and\nset up the combo you think is best, desuu!
+537	message	// Show still image: enemy knockdown display; enemy is a Noise lookalike
+538	message	Fight with the combo you set,\nand if you drop the enemy's HP to 0, you win, desuu!
+539	message	// Show still image: Ability-destruction illustration display
+540	message	In battle, meeting certain conditions\ncan shift you into a special mode, desuu.
+541	message	A special mode?
+542	message	That's right, desuu! Depending on how you damage the enemy,\na special cutscene can trigger, desuu.
+543	message	// Show still image: Soul Sympathy character-select screen
+544	message	If an ally's in the Sympathy Area,\nthe characters who can come help show up on screen, desuu!
+545	message	Push the directional button toward the character you want,\nand you'll enter "Soul Sympathy" mode,\nwhere your chosen character comes to your aid, desuu!
+546	message	Whoa!
+547	message	It costs one Soul Crystal\nto join a fight, but\nas long as you've got Soul Crystals, you can call for help, desuu!
+548	message	Soul Crystals?
+549	message	Yes, desuu! Soul Crystals\nbuild up on their own\nwhen characters in the Sympathy Area attack, desuu.
+550	message	I see.
+551	message	// Still image: Extra Attack technique-select screen
+552	message	If nobody's in the Soul Sympathy Area,\nthe screen shows the techniques that character can use, desuu!
+553	message	Push the directional button toward a shown technique,\nand you'll enter "Extra Attack Mode,"\nwhere you follow up with the chosen technique, desuu!
+554	message	Both modes only damage Ability HP, desuu!
+555	message	Use these two modes and normal battles to your advantage,\nand rumor says that if you meet certain conditions,\nyou can shift into an even MORE amazing mode, desuu!
+556	message	Rumor? From who, exactly...?
+557	message	My teacher told me, desuu!
+558	message	Ah, right... your teacher.
+559	message	// Display off
+560	message	Got the hang of battling, desuu?
+562	message	Then, battle start, desuu!
+563	message	// Tutorial: counterattack
+564	message	Whoa, the enemy's attacking!
+565	message	Don't panic, desuu!\nEven now, stay calm and handle it, desuu!
+566	message	//
+567	message	Alright, bring it on!
+568	message	//
+569	message	B-but... "stay calm and handle it" is easier said than done...
+570	message	Calm down, desuu!
+571	message	Follow what I'm about to tell you,\nand you'll handle it calmly, desuu!
+572	message	O-okay!
+573	message	// Show still image: action-select screen, when action-select window is shown
+574	message	When the enemy attacks you, you've got three options:\n"Counter," "Evade," and "Guard," desuu!
+575	message	"Counter" means\nattacking back after the enemy's attack, desuu.
+576	message	"Evade" means you don't attack,\nbut you lower the enemy's hit rate, desuu.
+577	message	"Guard" means you don't attack, but\nit halves the damage to your HP and Ability HP, desuu!
+578	message	// Show still image: ability-destruction cut-in image
+579	message	Once an Ability HP hits 0, that ability gets destroyed, desuu.
+580	message	Once destroyed, the hit to your stats is huge,\nso it's very dangerous, desuu.
+581	message	Ability HP recovers a bit at the start of each turn, but
+582	message	once it's destroyed,\nit can't be fixed for the rest of the stage, so
+583	message	if things look dicey, don't tough it out—\nheal up with items or skills, desuu!
+584	message	If ALL your ability parts hit 0,\nyou'll be knocked out even with HP left,\nso be extra careful, desuu!
+585	message	// Display off
+586	message	Got the counterattack stuff, desuu?
+587	message	// Display off
+588	message	Then brace for the enemy's attack, desuu!
+589	message	// Display off

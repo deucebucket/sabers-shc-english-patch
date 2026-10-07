@@ -1,0 +1,320 @@
+row	column	english
+4	message	Yo.
+5	message	Ah, Mion-san. Hey.
+6	message	Hey, you know Jiji-nuki?
+7	message	Of course.
+10	message	The long black thing, right?\nThe carpenter's…….
+11	message	That's a nail puller!\nAhahaha!　Nice.\nYour uncle here doesn't mind that kind of thing.
+14	message	Um…… that thing, right?\nI know it.
+15	message	Did you just blank?\nCan't recall it right away?
+18	message	It's a variant of Old Maid, right?
+19	message	Right. In Old Maid,\nthe extra joker is the old maid, but…….
+20	message	In Jiji-nuki, the pair of the first card drawn is the jiji.\nYou don't know what's the jiji till the very end.\nCome on, let's play.
+21	message	Time-killing in the name of club.\nAs long as you're hanging out with us,\nyou're a club member too.
+22	message	……I-is that so?
+23	message	Huh?　Got a complaint?\nThen try beating me.\nThen I'll hear you out.
+24	message	Then shuffle the cards.\nDraw one. Put it there face-down.
+25	message	……These cards are really worn.\nUm…… then, this one.
+26	message	That card's pair is the jiji.\nOkay, dealing.
+27	message	Heh.\nPretty good at handling cards, right?\nWe play card games in the club all the time.
+28	message	Discard pre-made pairs to the field…… 2…… 6…… 7……\nSo. Who's the dealer?
+29	message	Hmm…… I'm the club president,\nso I'll be dealer.\nCome on, draw a card from me.
+30	message	(One card is obviously sticking out……)
+31	message	Come on, draw.
+32	message	(Unlike Old Maid, this shouldn't be the old maid from the start.\nDoesn't matter which I draw)
+33	message	Then…… this one.
+34	message	(Seven of diamonds)
+35	message	……Yes!
+36	message	Huh……?\nWhat was that just now…….
+37	message	Nothin'.\nNext, me.\nLet's keep it moving.
+38	message	Oh, I forgot to mention.\nThere's a punishment game for the loser.\nToday it's serving in a maid outfit.
+39	message	Whaaaaaat!!\n……That…… is a bit…….
+40	message	Just win. If you win.\nOr are you not confident?\nFor a guy, you'd give up mid-match?
+41	message	The maid outfit I prepared shows off cleavage and stuff.\nI may not look it, but I'm confident in my chest.
+42	message	……Huh.\nIs that so…….
+43	message	Ehh……\nThat reaction…… even your uncle here\ngets hurt, y'know.
+44	message	As a man, this is where you get fired up, right?\nBut…… if you thought you could beat\nTHIS Sonozaki Mion…… even for a moment…….
+45	message	Think again!\nI'm out~!
+46	message	No way…… the 7 of diamonds I drew\nback then was the jiji…….
+47	message	Ahahaha!\nThe moment you drew the 7 of diamonds first,\nmy win was sealed.
+48	message	Alright, punishment game! Punishment game!\nHere, wear this.
+49	message	Th-this…… embarrassing thing……?
+50	message	Come on, hurry…… strip!
+51	message	Ahahaha!　Cute, cute!\nEven though you're a boy…… tee hee!　Now……\nhow about making tea in that outfit.
+52	message	Ugh…… *sniffle*…….
+55	message	Yoo-hoo.
+56	message	Gah…… Mion-san……!
+57	message	Huh?\nI thought you were around here…….
+58	message	……I hid reflexively……\nThat other day…… the maid outfit…… ugh.
+59	message	Yoo-hoo.\nNot here?\nLet's do club~.
+60	message	Weeird.\nYoo-hoo.\nHere~?
+61	message	Wheeere~?\nAhaha. A little hide-and-seek.
+62	message	Surely……\nyou're not avoiding me……?
+63	message	Huh……?\nIt's not that I want to avoid you…….
+64	message	If so……\n……I'll have to punish you…….
+65	message	Yeah, that…… when you say punishment……\ntie you up so you can't move…….
+66	message	Your fingernails…… one by one…….
+67	message	N-nails…… wait……\neven so, that's…….
+68	message	I'll paint them with nail polish~!\nAnd of course dress you as a maid~!\nAhahahaha!
+69	message	N-nail polish!?
+70	message	Ah. Found you.
+73	message	I-I wasn't hiding…….
+74	message	Hmm…… but that scared look……\nmeans you heard my little speech, doesn't it?
+75	message	This…… calls for punishment…….
+78	message	Wh-what are you doing in a place like this?\nHa, haha…….
+79	message	Oh, did you just happen here?\nI thought you'd been here all along.
+80	message	And I thought you were hiding there,\nquietly waiting for me to find you.
+81	message	……Well, you saved me the trouble of searching.
+84	message	Now…… tell me,\nwhat nail polish color do you like?
+85	message	Huh……?\nNail polish…… I don't need any…….
+86	message	That won't do.\nYour uncle here is just dying to paint them.
+87	message	……Just kidding. It's a joke.\nTHIS Sonozaki Mion\nwould never do something like that.
+88	message	Not when I haven't even beaten you\nin a club game yet.
+89	message	R-right……\nMion-san…… would never do that…… right…….
+90	message	……Really…… if it were Mion…….
+91	message	Huh……?\nWhat does that…… mean…….
+92	message	Nothin'.\nOh, I'm hungry!\nSee ya.
+94	message	………….\nWhat is this uneasy feeling…….
+97	message	Hm?\nNot hiding today?
+98	message	Huh……\nI don't know what you're talking about…….
+99	message	Whatever.\nIf you're free, let's do 'club'.\nWith a punishment game, of course.
+100	message	What?　Scared?
+103	message	I'm not scared!
+104	message	(Honestly, I'm pretty traumatized……\nbut I can't recover if I keep running……!)
+105	message	Huh. After what you went through.\nYou've got guts.
+108	message	Just a little…….
+109	message	For a guy, you've got no guts.\nWell, whatever.\nEven if you run.
+110	message	I-I never said I'd run!
+113	message	Then let's play Concentration.
+114	message	……You suspect cheating?\nThen go ahead, inspect the cards.\nYou won't find anything.
+115	message	Come on, mix the cards with me.\nMixy mixy. Mixy mixy.
+116	message	Shuffling them around like this\nis pointlessly fun.
+117	message	Y-yeah……\nYou can do it mindlessly.
+118	message	And then our hands touch…….
+119	message	And boys get the wrong idea~.
+120	message	Ah, is that so……?\nThe wrong idea…… I see.
+121	message	You're a strange one.\nYou might be good at hurting me.
+122	message	Huh?　Did I do something……?
+123	message	Ahahaha!　Fine, let's play.\nI went first last time,\nso today I'll let you go first.
+124	message	Huh……?　Really?\nThen…… flip…… flip……\nAh, totally different…….
+125	message	Next, me~.\nHere's the 2 of diamonds~.\nAnd this is the 2 of spades.
+126	message	Next~ the 6 of clubs!\nHere it is. The 6 of hearts was this one.
+127	message	Whaaat?\nHow do you know……?
+128	message	Man, lucky, lucky.\nNext…… ace of spades.\nCome…… ace, come……
+129	message	Got it!　The ace of hearts came!
+130	message	Man, I'm on a roll~.\nGot it!　Got another!
+131	message	H-hey…… that's…… consecutive……\nIt's been your turn this whole time……?
+132	message	Got got got!\nMan, I'm sharp today.
+133	message	I can see!　I can see!\nI can see all the cards~!\nOh, and the punishment game is super-spicy curry.
+134	message	Th-that's……!\nSaying it now is unfair……\nNo…… I just have to win.
+135	message	I'm going all the way!　Going all the way to the end!\nYes yes…… yeees!\nAnd finish~!
+136	message	Th-this can't be real……\nThis is too much…….
+137	message	You suspect cheating?\nInspect the cards all you want.
+138	message	(They're so worn that I can tell them all apart face-down\nby scratches and creases, though)
+139	message	Hehehe. Now, this super-spicy curry.
+140	message	I-I'm not really good with spicy stuff.
+141	message	Just eat it!\nThere!
+142	message	Mmghmha…… ah…… spicy!\nIt hurts!　Hweh…….
+143	message	Ahahahaha!　Good!\nGood, that reaction!\nYour uncle's sides hurt!
+144	message	W-water…….
+147	message	Hey.\nLet's do a punishment game.
+148	message	Huh?　Don't we play first?
+149	message	Because you're super weak at games.
+150	message	To win properly,\nyou need proper preparation.
+151	message	Aim only for first place!　For that,\nspare no effort.
+152	message	I see……\nSo…… you're saying Mion-san\nhas a plan to win…….
+153	message	Of course!\nIf you treat it like a game…… you'll die……!
+154	message	Whaaat!?\nDie…….
+155	message	That was a lie. But with your half-hearted resolve,\nyou may never beat me.
+156	message	……If you put it that way……
+159	message	I do want to win at something…….
+160	message	Heh…… you've got spirit.\nJust as I'd expect from the guy I picked.
+163	message	This is getting me down…….
+164	message	Come on…… cheer up.\nIf you got serious you'd definitely win!\nYou're the guy I picked!
+167	message	Then, let's play Daifugo today.
+168	message	……How about something other than cards?\nSince I can't play into\nyour preparations…….
+169	message	Hmm. Good call.\nThen what kind of match?
+170	message	Something purely luck-based……\ndice…… roulette…….
+171	message	Then…… the Hinamizawa branch school specialty……!\n'Manpa Giru Uretto' ooooh!
+172	message	Ohagi…… roulette……!?\n……What's in that two-tiered box?
+173	message	Ohagi.\nRena and I made them\nfor everyone's snack.
+174	message	Look tasty, right?\nBut out of 4×2 tiers, eight total……\none has…… 'hazardous material' in it.
+175	message	Just a little game.\nWasabi-filled or curry-flavored, that level.\nYou won't die eating it.
+176	message	Um…… that intro is already scary.\nI don't think I'd die, but……\nwhy the intro……?
+177	message	……Never mind that.\nI thought you'd be nervous.
+178	message	Blindfolded, we each eat one.\nWhoever eats the 'hit' loses.\nThat IS the punishment game.
+179	message	I see…… that really is……\na little Russian roulette.\nUnderstood…….
+180	message	Then I'll go first.
+181	message	The next head of the Sonozaki family\ncan't flinch at small-time gambling.\nBlindfold on…… around here…… maybe?
+182	message	(To win the match…… proper preparation……\nThen…… rotate the box……)
+183	message	Hm?　Are you…… up to something?
+184	message	I'm just moving the box to make it easier to grab.
+185	message	('Aim only for first place.\nFor that, spare no effort,' right!)
+186	message	Hmm…… whatever.\nWell, here goes.\nAaahn…….
+187	message	…………Safe!\nNow your turn.\nPut the blindfold on.
+188	message	……Tch.\nI really can't see anything……\nHm?　Are you doing something?
+189	message	Oh, just making it easier to grab.
+190	message	(Actually I swapped it with the bottom tier~.\nAnd the bottom tier is all…… hits……!)
+191	message	Well, here goes. Aaahn……\n……Ngh……!?　Hagaaaah!\nThis…… stabbing sensation on my tongue……!?
+192	message	Ahahahaha!\nHow's the taste of Mion's special……\n'needle'-filled ohagi?
+193	message	N-needles!?\nThat's…… not funny!!
+194	message	Just kidding~.\nIt's really just super-spicy chili peppers~.\nAhahahaha!
+195	message	……Joking like that while I'm blindfolded……\nAh, tears are coming…….
+196	message	Sorry. Don't cry. Maybe I actually\nmessed up the chili amount?\nAha…… ahahaha…….
+199	message	Mion-san!
+200	message	Whoa!\nYou startled me……\nwhat's with the suddenness.
+201	message	What do you mean. It's obvious……\nClub……!
+202	message	You're fired up.\nAfter all those crushing losses.
+203	message	Enthusiasm is good.\nSo?　What match do you want today?
+206	message	'Railway Mania Quiz' match!
+207	message	Railway Mania Quiz…… I see.\nDid you study with that book\nyou're hiding behind your back?
+208	message	But the preparation counts\nup until you bring it to the match.\nStill too naive.\nRejected.
+211	message	'King of Chatanyara Daybreak II' match!
+212	message	What's that.
+213	message	It's a huge hit fighting game.
+214	message	We didn't have those where I live.\nRejected.
+217	message	Um…… then today, something sporty……\na physical match.
+218	message	I see~.\nYou figure you won't lose a stamina contest\nto a girl like me…….
+219	message	I'll show you how naive that thinking is.
+220	message	The Hinamizawa branch school specialty…… 'One-on-One Tag'!
+221	message	That's…… so……\none-on-one tag?
+222	message	Right. Thirty-minute limit. A touch anywhere\non the body counts. Swap who's 'it' on each touch,\nnon-stop till time runs out.
+223	message	To win you need not just stamina,\nbut agility, reflexes, and strategy.
+224	message	You don't seem all that useful in battle,\nbut are you okay?
+225	message	I-I'm fine.\nLet's do it…… one-on-one tag.
+226	message	Okay. First, rock-paper-scissors.\nLoser is 'it'.\nJaaan-ken……
+227	message	Pon!　Yes, I won—!\n……Waaah!!
+228	message	Tch…… missed…….
+229	message	Going for my throat with a knife-hand right away,\nwhat the…….
+230	message	Naive!　The match has already begun!\nCome on…… come on…… try running from me!\nTag!　Yay!　Switch!
+231	message	Ugh…… I'm 'it' already……\nBut I'll definitely catch— whoa, you're fast!\nWhen did you……!?
+232	message	If I run out the clock for thirty minutes……\nit's my…… win!
+235	message	Hah…… hah……\nYou're pretty good……\nBut I can run it out…….
+236	message	No…… it's fine……\nThat's a dead end…….
+237	message	Wh-……\nSo that was your preparation to win……\nHah hah…… nice.
+238	message	……F-fine.\nIn honor of your effort, let's call it……\na draw…… time's up anyway.
+239	message	……I still have ways\nto win, though…….
+240	message	Hah…… hah…… come to think of it…….
+241	message	……?
+242	message	I never heard…… what the punishment game was…….
+243	message	……Pff……\naha…… ahahahaha!
+246	message	Go…… ready…… go!
+247	message	Ham!\nMugu mugu mugu……!\nGulp!　Gobble gobble gobble…….
+248	message	Mogu mogu mogu……!\nNgu……!　Pwah!\nAmu amu amu……!
+249	message	Hagu hagu hagu hagu……\nNgu……!\nFinish!
+250	message	Ngu…… ngu…… gulp!\nI'm finished too!
+251	message	A simultaneous finish……\n……I've never eaten this fast in my life.
+252	message	Urp……\n'Watanagashi Festival Five-Fierce Explosive Battle,'\nrounds one, two, and three all draws…….
+253	message	Yakisoba, takoyaki, cotton candy……\nto not settle it with consecutive speed-eating contests…….
+254	message	There's supposed to be goldfish scooping and target shooting too.\nAnother time……\nI can't prepare them.
+255	message	Let's take a little break……\nthere……\nahh…… bliss…….
+256	message	Really, this feels nice……\nGood weather…… nice breeze.
+257	message	Relaxing like this……\nmakes me nostalgic…… for the ordinary everyday life\nuntil just recently…….
+258	message	A classroom of mixed grades,\nnoisy but bright and warm.\nAfter school, nothing but club with the members.
+259	message	In school club too, you must\ndominate, Mion-san.
+260	message	Not at all. It's fifty-fifty.\nRena's sharp, Satoko's tricky,\nand Rika-chan has her godlike moments.
+261	message	I lost all the time at first.\nEvery day, doing the punishment games I suggested myself.\nThat really was…… 'punishment'…….
+262	message	Not punishment games…… punishment……?
+263	message	……Hm?\nAh, no…… just a figure of speech.\nI was just weak. At games.
+264	message	I see…….
+265	message	Ahaha. I talked too much.\nI wonder why.\nWith you, I get too honest.
+266	message	Huh…… that means…….
+269	message	That I'm dependable?
+270	message	……Hmm…… I wonder……?\nIt's not like you're dependable.\nBut…….
+271	message	Being with you…… is fun……\nI mean……\num…… er…….
+272	message	What's wrong?　You're all fidgety.\nThat's not like you, Mion-san.
+273	message	……Geez!　Idiot!　You're so dense!\nI don't know!
+276	message	Could it be…… love?
+277	message	S-stupid!\nDon't get weird ideas!\nYou're just easy to talk to!
+278	message	Hey…… don't get so mad.\nIt's just a joke.
+279	message	A joke?　Geez……!\nWhat do you take me for.
+283	message	Ah…… she left……\nher face bright red……\nCould this be…….
+286	message	I wonder if he'll come soon…….
+287	message	Ah, Mion-san.
+288	message	He's heeere!
+289	message	Hm?\nYou seem really happy.
+290	message	Th-that's…… not true……\nA-anyway…… club! Let's do club!
+291	message	How about this.\nTa-daa!\nCompressed-air super water gun~!
+292	message	Satoko modded this one.\nThe range and capacity are no joke.
+293	message	A shootout.\nNot my forte, but it sounds fun.\nLet's do it!　Let's do it!
+294	message	Thirty minutes, no refills, one match.\nHit anywhere on the body and you're out.\nThe punishment game…… the winner picks freely.
+295	message	Which means…….
+298	message	Like, 'give me a shoulder massage'……?\nThat's allowed!?
+299	message	Well, if that's all you want,\nanytime's fine…….
+300	message	What kind of position\ndo I hold in your heart?
+303	message	So it's okay for me to marry into the Sonozaki family\nand rule Hinamizawa!?
+304	message	Huh……?\nThat could be taken as a confession……?
+305	message	But the wall is high……\nWhether Hinamizawa would accept\nan outsider so easily…….
+306	message	Ah, please don't actually think about it……\nIt was an extreme example…….
+309	message	Well, we'll think about the punishment game later……\nshall we start.
+310	message	Okay, here I go.\nReady…… gooo!
+311	message	Whoa!\nI saw that opening ambush coming.\nI'll…… move in small steps…… rapid fire!
+312	message	Haha!　Pretty quick moves.\nBut waste too many shots……\nand you'll…… regret it!
+313	message	If it doesn't hit, it doesn't matter!\nTime to settle this…… ah……!!
+314	message	(The wet ground is slippery…… I'm gonna fall……!!)
+315	message	Mion-san!
+316	message	Huh……!\nYou…… saved me?\nWhy…….
+317	message	O-of course……\nI don't want you getting hurt…….
+318	message	……How shameless……\nAnd…… it's your win.
+319	message	Huh……?
+320	message	Your water gun is on me.\nIt hasn't touched water, but\nbeing held at gunpoint and not admitting defeat\nwould be……?
+321	message	Can't be helped, right……?
+322	message	Ah, I finally…… won.\nI see…… good.
+323	message	So……?\nThe punishment game?
+324	message	……Huh?\nI won, right……?
+325	message	Exactly.\nThe punishment game is for me, the loser.
+326	message	Ah…… right!\nI wasn't thinking.\n……I figured I'd lose again.
+327	message	Geez, there's unambitious and then there's you.\nFine, I'll think up the punishment game myself.
+328	message	I'll think of something fitting,\nso look forward to it.
+329	message	I need to prepare myself too.\nAnyway…… expect it.
+331	message	……Expect it……\nWith your face that red…… no no…… surely not…….
+334	message	Is this…… a school……?\nLooks like I've wandered into another unknown world…….
+335	message	…………Yoo-hoo……\n……Where are you……?
+336	message	Mion-san……?
+337	message	Good. You were here.\nGeez…… I searched forever…….
+338	message	Now, never mind that, let's go.
+339	message	Huh…… go…… where?
+340	message	The cosplay café.\nI told you we're doing it for the school festival.\nCome on, hurry.
+341	message	W-was it……?
+344	message	Arrived~. Sit here.\nI'll go change.\nWait a bit.
+347	message	S-sorry to keep you waiting……\nThis is more embarrassing than I thought…….
+348	message	Stop…… don't stare so much…….
+349	message	Mion-san…… you dress like that……\nI mean…….
+350	message	If you've got something to say, say it. I won't get mad……\nYou're gonna say it doesn't suit me anyway, right?
+351	message	No, it suits you a lot……\nI'm a little moved.
+352	message	You're exaggerating……\nWell, I'm glad. Thanks.
+353	message	So, about that punishment game from last time…….
+354	message	Today I'm going to serve you.\nF-for 5 minutes…….
+355	message	S-serve……?
+356	message	D-don't get weird ideas?\nIt's a café, okay?
+357	message	Like…… pouring tea like this…….
+358	message	Like…… feeding you cake……\nHere, say aah.
+359	message	A…… aahn…….
+360	message	That's what I mean.\nThat was the bonus menu.\nNice, right?
+361	message	……I feel like I shouldn't be asked\nwhether this is okay.
+362	message	You're no fun.\nOr am I not good enough?
+363	message	Th-that's not it……!
+364	message	R-really?　Then I'd be glad if you enjoyed it.\nI'll do my best.
+365	message	I'm grateful to you for always playing with me.\nEven me.
+366	message	Before I knew it…… my feelings……\nwh-what are you making me say!?
+367	message	Huh…… you said it yourself……\nBut I'm glad about those feelings.
+368	message	R-really?　It's not a bother?\n……Then, from now on…….
+371	message	Yoo-hoo, you okay?
+372	message	Hm?\n……Huh?　Mion-san…… cosplay?
+373	message	Cosplay?\nWhat, you want to cosplay that bad?\nYou could've asked and your uncle would've prepared it.
+374	message	You'll catch a cold sleeping out here.\nEven for you, that's too carefree.
+375	message	……The school festival was…….
+376	message	Still half-asleep?\nWake up soon or you'll get left behind.
+377	message	And this.
+378	message	What is this.
+379	message	I told you before, right?\nI'd think about the punishment game later.
+380	message	I'll give you this.
+381	message	This is…….
+382	message	M-my photo.\nTaking it myself was nothing\nbut humiliating.
+383	message	Pff…… ahaha.
+384	message	H-hey, laughing is rude!?\nIt's not like I wanted to give it to you.
+385	message	S-sorry…….
+386	message	(It's the same outfit I saw in my dream…… this)
+387	message	This won't happen again.\nTreasure it.
+388	message	Thank you.\nMion-san.
+389	message	Being thanked……\nis a little embarrassing.

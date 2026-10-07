@@ -1,0 +1,174 @@
+row	column	english
+4	message	...Hmm.
+5	message	Hm? Something wrong?
+6	message	Oh, Houki-san.\nNo... um... it's nothing.
+7	message	No need to hold back.\nWe're comrades, after all.
+8	message	Sorry... I was just thinking\nabout something really trivial.
+9	message	Something trivial?
+10	message	Well... I was thinking\nmaybe I should build a little muscle...
+11	message	That's a fine attitude.\nWe're living in battle right now, after all.\nYou should do everything you can.
+14	message	Yeah... you're right.
+15	message	You need enough muscle\nto keep a healthy body, too.
+16	message	No... that's not it.
+17	message	Hm?
+20	message	But... something feels off about it.
+21	message	Something bothering you?
+24	message	What exactly are you agonizing over?
+25	message	Well... if I got all buff\nand could fight with just my fists,\nmaybe people wouldn't see me as a non-combatant...
+26	message	You were never a non-combatant to begin with.\nRear support is still\ntaking part in the fight.
+27	message	Hmm...\nYeah, that does sound like a trivial worry.
+28	message	Just do what\nyou can do.
+29	message	I can take the front line\nbecause I've got comrades like you behind me.
+30	message	Houki-san...
+31	message	Is that your only worry?\nIf something weird's on your mind,\ntell me anything.
+32	message	(Houki-san... she's so kind.\nTo worry about someone like me...)
+35	message	Huh? It won't open.
+36	message	Hm, what's wrong this time?
+37	message	Ah... well, I can't get this open.
+38	message	The jam lid?\nYou can't even open this?
+39	message	Maybe you should build a little strength after all.
+40	message	(Wha—! But she just told me\nto do what I can... I can't say that out loud...)
+41	message	Can't be helped.\nI'll open it.
+42	message	Sorry... please.
+43	message	This is nothing... huh?\nNngh!
+44	message	I-it's pretty tight.
+45	message	Can't get it open?
+46	message	N-no, I just let my guard down.\nIt's fine, don't worry.
+47	message	Nngh! Nnngh!
+50	message	Please... don't push yourself too hard.
+51	message	I-I'm not pushing myself.\nIt's a lid—of course it'll open.
+54	message	Too much even for you, Houki-san?
+55	message	What's that supposed to mean?\nAre you calling me a musclehead?
+56	message	No... that's not what I meant.
+59	message	Wait here a moment.
+61	message	Ah, where are you—
+62	message	It's open!
+63	message	Ah, thank you!
+64	message	You should build at least\nthis much strength.
+65	message	...Right.
+66	message	(This... the lid wasn't so much opened\nas cut clean off...\nShe wants me to build THIS kind of strength...?)
+67	message	(Plus... now we'll have to finish all this jam\nbefore it goes bad...\nNo... I'll look for another container...)
+70	message	You always wear a ponytail, Houki-san.
+71	message	That's right.
+72	message	No plans to change your hairstyle?
+73	message	Are you telling me to change it?
+74	message	No, that's not what I mean—\nit's just that I think anything would suit you.\nWhy not twintails?
+75	message	Twintails...\nNo, I'm fine as I am.
+76	message	I don't remember it well, but...\nIt's kind of like a wish I made.
+77	message	I have no intention of changing it.
+78	message	A wish...?
+81	message	I see... then it can't be changed.
+82	message	Yeah. I think it must be\nsomething important to me.
+85	message	But you don't remember, right?
+86	message	W-well, that's true...\nBut it's important to me.
+89	message	Then maybe I should\nget a ponytail too.
+90	message	Huh?
+91	message	No, I mean—if you have that kind of wish\nattached to yours,\nmaybe something of mine would come true if I got a ponytail and made a wish too.
+92	message	I don't think that's how it works.\nThis is my wish and mine alone.
+93	message	Besides, I don't think\na ponytail would suit you.
+94	message	Worst case, the other comrades\nwould keep their distance.
+95	message	Y-yeah, you're right...\nI'll pass.
+96	message	Good.
+99	message	It's nice that everyone has their own special talent.
+100	message	Where did that come from?
+101	message	Well, you're good at cooking, Houki-san,\nand I just thought it's enviable to be good at something.
+102	message	Is that so?\nSurely you've got at least one talent?
+103	message	No, nothing in particular.\nI'm a little below average, if anything.
+104	message	No need to put yourself down.\nEven if you're a little below average,\nyou can still do it.
+105	message	Even I... wasn't always\ngood at cooking, you know.
+106	message	Really!?
+107	message	Yeah.\nBut practice always makes you better.
+108	message	That's just how it is.
+111	message	How bad were you?
+112	message	Th-that doesn't matter.\nNo need to dwell on the past.
+115	message	You'd never know it.\nI can't even imagine you being bad at it.
+116	message	Is that so?\nThat's nice to hear.
+119	message	Anyway, the point is to practice.\nThough first you should decide\nwhat you want to get better at.
+120	message	Y-you're right!\nWhat should I practice... I'll think about it.
+123	message	Hah... hah... hah...
+124	message	Worn out already?\nYou're the one who asked me to teach you kendo.
+125	message	B-but... I can't take any more.
+126	message	Then let's try a little harder.
+127	message	Pushing past what feels like your limit\nis what's good for you.
+130	message	M-my body won't move anymore...
+131	message	It's fine.\nYou must still have some strength in reserve.
+134	message	O-okay...
+135	message	Good! Let's work at it together!
+138	message	H-hiyaaah...
+139	message	No, more like... shubat!\nthen bwat!
+140	message	Huh? Isn't it easier to go basut!\nand then suu—?
+141	message	No, you go gut! then shutat!\nor you'll never land a hit.
+142	message	You think...?\nI feel like it's more gant! then zunt! then zuoooh—
+143	message	Can I say something?
+144	message	What is it?
+145	message	Your way of putting it is hard to follow, I think.\nYou should use words\nthat get through to people better.
+146	message	Ehhh...
+147	message	(Coming from YOU, Houki-san...)
+150	message	You've got your own personal unit too, right, Houki-san?
+151	message	That's right.
+152	message	What color is it?\nI don't remember.
+153	message	Main color's red.\nIt's called Akatsubaki.
+154	message	Red! That's so cool.
+155	message	I-is it?
+158	message	It's cool! I really admire it.\nIn sentai shows, red's always the leader!
+159	message	We're talking about slightly different\nkinds of cool, but thanks.
+162	message	No reason in particular, it's just cool.
+163	message	No reason... what do you mean?
+164	message	No, it's just...\ninstinctively cool, I guess.
+167	message	Does it have horns?\nMove three times faster or anything!?
+168	message	No horns,\nbut it's probably fast.\nThough three times faster than what, I wonder.
+169	message	And it's got\nthat axe-like weapon, right?
+170	message	No... that's wrong.\nWhat are you even talking about?
+171	message	No, I mean it's cool.\nThe powered suit.
+172	message	That's what I'm asking—what are you talking about?\nIt's an IS. An IS.
+173	message	...Huh? I think I was picturing something a little different.\nWrong personal unit...
+174	message	How do you mix that up?\nWell, no point blaming you.
+177	message	Lately, I feel like I've been having you\nlisten to me a lot, Houki-san.
+178	message	Is that so?
+179	message	I don't talk much to begin with, but\nI think you're the one I talk to most.
+180	message	Is that right.\nWell, we're comrades. I can't just leave you be.
+181	message	Thank you.
+182	message	If you're ever troubled, Houki-san, I'd like to listen for a change...\nif that's not too presumptuous of me...
+183	message	No, thank you.\nI'll come to you then.
+186	message	Well, you don't seem like the type to worry about things, though.
+187	message	What exactly do you take me for...?
+190	message	I'll do my best to be of help.
+191	message	Yeah. I'm counting on it.
+194	message	Um... Houki-san.\nCan I ask you something?
+195	message	Ah, sure.
+196	message	Why do you listen to me?
+197	message	That's a strange question.\nLike I said,\nwe're comrades. Of course I would.
+198	message	Is that all you wanted to ask?\nThen I'm off.
+200	message	(But... her listening to my troubles like this...\ncould it mean...)
+203	message	So here you are.
+204	message	Houki-san? Huh? Where is this?
+205	message	I wanted to talk to you about something.\nCould you come over here?
+208	message	Um... where is this?
+209	message	Don't you remember?\nYou said you were going to run a café.
+210	message	D-did I...?\nWait, huh!? Houki-san? That outfit...?
+211	message	Th-this is... what I wanted to ask about.\nD-does it look weird?
+212	message	No! Not at all!\nIt really suits you.
+213	message	I-is that so! It suits me.\n...Okay.
+214	message	R-right!\nSince this is a café, won't you order something?
+215	message	As a café waitress,\nI can't just stand around doing nothing, you know?
+216	message	Th-then... the recommendation.
+217	message	R-right, good choice.\nI'll get it ready.
+218	message	...How's this?
+219	message	Huh? Did that just come from under the table...?
+220	message	I had it prepared.\nGood thing you ordered the recommendation.
+221	message	Order anything else you'd like.\nI'm the waitress, after all.
+222	message	Um... am I the only one?\nThe only one you invited here?
+223	message	Th-that's right!\nDon't worry about that, just relax.
+224	message	(Just me... Could it be... that Houki-san has feelings for me...)
+227	message	U-uhn? Huh... a dream...\nRight... of course...
+228	message	There you are.\nI've been looking for you.
+229	message	Houki-san? Looking for me?
+230	message	Yeah, there's something I'd like to ask of you.
+231	message	Something to ask of me...
+232	message	(Could it be... a prophetic dream)
+233	message	I got hurt a little.\nIt'd heal on its own, but\nit's kind of noticeable, and it bothers me.
+234	message	Could you cast a healing spell on me?
+235	message	I did think about just leaving it, you know?\nBut... what you really need\nis comrades, I figured.
+236	message	Comrades...
+237	message	Got a problem with that?
+238	message	No... thank you.\nThose words make me happy too.

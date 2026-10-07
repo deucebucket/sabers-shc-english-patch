@@ -1,0 +1,176 @@
+row	column	english
+3	message	Tsubasa-san, wanna go to karaoke\nwith everyone now?
+4	message	Karaoke?
+5	message	Yes! I want everyone to hear\nTsubasa-san sing.\nI want to hear 'Koi no Okehazama' again too!
+6	message	...Hey, is Eve going to karaoke too?
+7	message	Yes! Eve-san said she's going too.
+8	message	...Hibiki, sorry, but Tsubasa and I have business.\nGo with the rest.
+9	message	Business? Then it can't be helped.\nGot it, contact me if anything comes up.
+10	message	//Hibiki leaves.
+11	message	What's up, Laura?\nDon't tell me you're going to say you'll take me as your bride now?
+12	message	I hear in Japan many change wives every three months,\nbut I'm not that flighty.
+13	message	This business is serious.\nYou've noticed too, haven't you?\nHow strange the enemy's movements have been lately.
+14	message	Yes... how the enemy gets ahead of us\nwherever we go.
+15	message	Right. An ambush inside the cave\nwould be impossible unless our movements were completely leaked.
+16	message	You're saying there's a mole?
+17	message	I dislike beating around the bush.\nI suspect Eve. So\nI want the opinion of you, who were saved by Eve.
+18	message	Well... Eve is my savior.\nIf I suspected her of being a spy,\nI couldn't explain why she saved me.
+19	message	What about Eve fighting her own pupil who showed up in the cave,\nwithout a word of reproach?
+20	message	All I can say is I don't know.\nIf Eve were the enemy, I couldn't explain\nwhy she taught us how to use the Porial either.
+21	message	Which is why. Before we split up,\nRemu and I came up with a trap to test Eve.\nIt is...
+22	message	//Fade to black.\n//Background: in front of Gamers
+23	message	Gamers is finally getting\nback to normal, nyo~.
+24	message	The renovation inconvenienced our customers, nyo!\nWe'll give great service as aftercare, nyo!
+25	message	We'll win back the customers who cheated\non us with other shops, nyo...!!
+26	message	//Yase arrives.
+27	message	Good day. May I have a moment?
+28	message	Nyo!? A blonde monster, nyo!!
+29	message	Who are you calling a monster?
+30	message	I-I feel like a frog stared down by a snake... no,\nlike a mouse stared down by a white weasel, nyo...
+31	message	I'm Yase. I'm not scary?\nAs long as you don't resist pointlessly.
+32	message	(That's definitely a lie, nyo... total liar, nyo.)
+33	message	Oh? You think I'm a total liar.
+34	message	I don't think that at all, nyo!\nReally, nyo!!
+35	message	Let me tell you something nice.\nI absolutely hate lies and humans.
+36	message	(Th-this is bad, nyo...)
+37	message	//Event CG: Yase giving orders
+38	message	They say liars swallow a thousand needles, right?\nI think that's too lenient.
+39	message	Then... how many, nyo?
+40	message	Let's see, how about being force-fed needles mouth-to-mouth\nby a thousand youkai who each swallowed a thousand needles?
+41	message	That makes no sense at all, nyo!?
+42	message	Shall I try it out on you?\nGo, my servants!\nSeize that liar!!
+43	message	This is a brutal twist even a horror movie would pale at, nyo!!
+44	message	//Battle map: Akihabara.\n//Initial deployment: allies are Dejiko, enemies are Yase.
+45	message	You won't escape!
+46	message	Somebody help me, nyo!!
+49	message	//Tsubasa transformation movie.\n//Tsubasa and Laura appear.
+50	message	Staying behind was the right call.
+51	message	You who command ayakashi!\nSakimori, Kazanari Tsubasa, shall face you!
+52	message	Laura! Tsubasa!\nFinish her off, nyo!!
+53	message	Let me ask you two as well.\nDo you know a girl named Koto?
+54	message	I do. But I don't intend to answer.
+55	message	To question someone\nin such an aggressive stance;\nyou must be quite ill-mannered!
+56	message	Who do you think I am?\nIf you speak of manners, kneel there and bow your head!
+57	message	Talking is pointless.
+58	message	Indeed!
+59	message	//Battle start.\n//Koto and allies appear on turn 2.
+60	message	I know Koto is here.\nTrying to hide her is useless.
+61	message	And you think that means we'll hand her over?
+62	message	...You know what I think? Humans really are fools!!
+63	message	//Koto appears.
+64	message	Tsubasa-san, Laura-san, what are you doing?
+65	message	!!
+66	message	Oh, it's Yase.
+67	message	Finally found you, you tomboy!
+68	message	What are you doing here?
+69	message	I came to bring you back.\nNow, let's return to the Mirror Capital.
+71	message	Ehh!! No no, absolutely not!\nNo way.
+72	message	What are you saying?\nYour place isn't here.
+73	message	No way! The Mirror Capital is boring!
+74	message	That's not the point.\nYou must be in the Mirror Capital.
+75	message	Sorry, but no can do!
+77	message	Koto...!!
+78	message	Yes, that's it...\nYou're the ones who dragged Koto down a bad path!!
+79	message	She's really mad, nyo...
+80	message	She wears it on her face, this type.
+81	message	Fine!\nI'll wipe you all out and take Koto home.\nToo late to apologize now!!
+82	message	//Battle resumes.
+84	message	You bastards! At it again!?
+85	message	Nyo!?
+88	message	//Chris transformation movie.\n//Chris appears.
+89	message	Chris-chan!!
+90	message	This time I'll stop you for sure!!
+91	message	Wait, Chris-chan!\nWe're fighting to protect the city, y'know?
+92	message	Shut up! Dragging conflict\ninto world after world!\nYou're the ones spreading the flames of war!!
+93	message	Disband and go home already!
+94	message	That's not it, Chris-chan!\nThe incidents happening across the worlds now\nwon't end just by going back to our own world!
+95	message	Shut it!\nI'll deny that logic!
+96	message	Talking won't work like this.\nThen I'll speak with this sword...!
+97	message	I'll... give it a try too.
+98	message	//Battle resumes.
+100	message	Let's stop. I don't wanna fight Yase.
+101	message	Koto, you really insist on siding with them?
+102	message	They've looked after me.\nI can't be ungrateful!
+103	message	(Knowing Koto's personality,\nthis approach may have been a mistake...?)
+104	message	//Conversation event when Chris and Hibiki clash.
+105	message	Chris-chan! Let's talk it out!
+106	message	Heh! You're naive!\nThis isn't something you and I\ncan settle by talking!
+107	message	Even so, I want to talk it out!
+108	message	Too bad!\nI don't wanna talk!!
+109	message	//Conversation event when Chris and Tsubasa clash.
+110	message	Yukine, feel my sword!
+111	message	Heh, you taste my bullets too!
+112	message	//Conversation event when Chris and Laura clash.
+113	message	It's just imitation, but I'll put into this strike...!\nMy own feelings!
+114	message	I'll teach you how to get through to someone!\nThe painful way!!
+115	message	//Conversation event when Chris is defeated.
+116	message	Damn it! Not yet!\nI haven't gone all out yet!!
+117	message	Chris-chan, listen!\nThe ones you fought might have been\nfakes of me and Tsubasa-san!
+118	message	Fakes? Don't screw with me!\nThere can't be two\nof the same Symphogear!
+119	message	And there's no way I'd mistake\nyour songs!
+120	message	What if there's someone who can perfectly recreate\neven our songs?
+121	message	Wh-what are you saying!\nNo way! Nobody like that exists!
+122	message	Don't mock me!!
+123	message	//Chris vanishes.
+124	message	Chris-chan...
+125	message	It reached her a little... let's think that.
+126	message	Yeah...
+127	message	//Event when Yase is defeated.
+128	message	To think humans could be this capable...\nI see, no wonder Koto took a liking to you.
+129	message	Won't you come with us too, Yase?
+130	message	No. We're going back to the Mirror Capital.\nCome, Koto.
+131	message	No.
+132	message	You're such a handful...\nFine, I'll give you time to say goodbye.\nBe ready to leave by next time.
+133	message	//Yase vanishes.
+134	message	She's gone.\nStill, I'm surprised Yase came.
+135	message	What IS that scary lady, nyo?
+136	message	Yase isn't scary.\nShe's nice to me.
+137	message	So what is she, nyo?
+138	message	Dunno? Something really important?
+139	message	That explains nothing, nyo!?
+140	message	//Battle ends when all enemies are defeated.\n//Background: in front of Gamers
+141	message	Phew, we somehow protected Gamers\nfrom the youkai army, nyo...
+142	message	Tsubasa, lingering too long in one world\nis dangerous after all.
+143	message	Yeah.
+144	message	Isn't it about time\nto rendezvous at IS Academy? I wonder?
+145	message	Yeah.\nIt's a bit early, but shall we head to IS Academy?
+146	message	That might be nice.
+147	message	Then prepare yourselves\nand gather in the top-floor warehouse at Gamers.
+148	message	What about you, Dejiko-chan?
+149	message	I'll see you off, nyo.\n...is what I'd like to say, nyo,\nbut I'm going to save Puchiko, nyo.
+150	message	We have to find Usada-san.
+151	message	I don't want that idiot Usada attacking Gamers again\nand wrecking the store, nyo!
+152	message	I'll punish her thoroughly, nyo!!
+153	message	//Fade to black.\n//Background: warehouse interior (something fitting), same as 016C.
+154	message	Everyone's here.
+155	message	Then I'll inform you of the destination change.
+156	message	Huh?
+157	message	What do you mean? I wonder?
+158	message	Remu and I decided it\nwhen we split into two teams.
+159	message	The plan is to rendezvous at IS Academy,\nbut switch to Lydian Private Music Academy right before departure.
+160	message	Where's Lydian Private Music Academy, nyo?
+161	message	It's the school I go to! But why?
+162	message	It's a test. If we're attacked\nright after moving,\nthen that means...
+163	message	Our movements are being leaked? I wonder?
+164	message	Rena's right.\nWe have to confirm that.
+165	message	I see. Well, let's go!
+166	message	...
+167	message	...
+168	message	Um, could it be...?
+169	message	Hm? No way...?
+170	message	Let's go. Hibiki, do it.
+171	message	Y-yes!!\nPorial-san! To Lydian Private Music Academy!!
+172	message	//The Porial appears, and light erupts.\n//Show the player as if the group vanished, but Eve and Tsubasa remain.
+173	message	...
+174	message	...Not going?
+175	message	...
+176	message	Eve, I'm grateful to you.\nAnd I trust you.
+177	message	But it's also true that there's\ncircumstantial evidence\nforcing me to suspect you...
+178	message	True. I won't deny it,\nI have no complaints for Sakimori-chan,\nand I don't plan to fight you here.
+179	message	So...
+180	message	//Event CG: the master's secret.
+181	message	...Say nothing?
+182	message	Mysteries unravel when they need to.\nUntil then, shh...
+183	message	I can trust you?
+184	message	...
+185	message	//Event CG off.

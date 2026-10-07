@@ -1,0 +1,213 @@
+row	column	english
+3	message	…You want me to hand over Tiffania?
+4	message	Yes. Zero's Louise's friend,\nTiffania Westwood. You've got her\nsecured, don't you?
+5	message	You've got a trump card in hand,\nso why not use it? I've been wondering.
+6	message	I'm afraid that's not possible~.
+7	message	Huh~? What's that supposed to mean?
+8	message	I promised to guarantee her safety…\nthat's the deal.
+9	message	Keep… promises.
+10	message	Come on, just break that promise.
+11	message	That goes against our principles.\nWe cannot hand over Tiffania.
+12	message	The client is interested in the bearer of Void.
+13	message	I know. That's why we're keeping\nTiffania in our custody.
+14	message	So why does that lead to NOT using Tiffania\nto catch Louise? I just don't get it at aall.
+15	message	How honest of you to admit\nyou can't catch her with your own strength.
+16	message	I just hate hassle.\nIf I accidentally killed her,\nthe client would be mad, y'know?
+17	message	Well, whatever.\nI'll just tell the client you refused\nto hand her over?
+18	message	Then what'll happen to—what was it,\nthe Black Fund? Your organization and boss?
+19	message	…!!
+20	message	You…!
+21	message	Think whatever you want.\nLiving while picking and choosing my methods\njust isn't Riko's way.
+22	message	…What do you plan to do with her?
+23	message	Riko just gets what she's told to get.\nNothing else interests me.
+24	message	That's… not okay…!
+25	message	Got attached? How soft.
+26	message	// Scene change\n// Background: inside Butei High
+27	message	Miss Vallière! Where are you, Miss Vallière!
+28	message	Siesta. What's wrong?
+29	message	I haven't seen Miss Vallière\nsince this morning. Have you seen her?
+30	message	Whaaat!? She's being targeted,\nand after we told her so many times\nnot to go off alone!
+31	message	I'm sorry!\nWhen I woke up, she was gone from beside me…
+32	message	I saw Louise a bit ago.\nShe's probably still inside Butei High.
+33	message	Let's all look for her!
+34	message	// Scene change\n// Background: school hallway\n// Louise alone, looking for the bath.
+35	message	…Umm, where is it, I wonder?
+37	message	Louise? What are you doing!
+38	message	Oh, perfect timing.\nHey, where's the bath?
+39	message	The bath?
+40	message	I want to take a bath alone.\nJust because I'm being targeted,\nsomeone's always with me.
+41	message	I just want to soak in the bath\nalone in peace!
+42	message	And when we bathe together,\nI can't help comparing and it irritates me!\nYou'd understand, right?
+43	message	Yeah, I get it… Louise.
+44	message	Right, right!
+45	message	But I also get why everyone wants\nto bathe with you, Louise.
+46	message	Huh?
+47	message	'Cause you're cute…
+49	message	Wh-wh-what are you saying!?\nYou're into that sort of thing!?
+50	message	Dunno. But looking at Louise,\nI feel like… we're not strangers, somehow…
+51	message	D-don't come closer!
+52	message	Hey, Louisee.\nWanna do naughty things with me?
+53	message	Eeep!? No, don't touch me…!
+54	message	Just kidding! It was a joke!
+55	message	Huh!? What was that!?
+56	message	Well, I'm off.\nI'll be waiting. Fufu.
+59	message	Wh-what was that Aria just now…\nDefinitely weird… huh?
+60	message	This… a letter? When did she…!?
+61	message	…To Louise.\nCome alone to the place shown on the map.\nReporting to your comrades is forbidden.
+62	message	If you keep the promise…\nthey'll return Tiffania!?
+63	message	Tifa…!!
+64	message	// Scene change\n// Battle map: forest\n// Louise deployed with allies; Aria (Riko in disguise) deployed with enemies.
+65	message	Aha♪ You came, Louisee.
+66	message	We're both flat as boards,\nso how about we two head off\nto the forbidden world together~?
+67	message	…Stop fooling around.\nWhy don't you drop the bad impression?
+68	message	…Fufu.
+69	message	// Aria drops her disguise, becoming Riko.
+70	message	Did you really come alone~?
+71	message	A noble doesn't break promises.
+72	message	Oh, good for you.\nRiko'll give you a round of applause.
+73	message	More importantly, where's Tifa?\nI don't see her.
+74	message	Before that, hear me out a little.
+75	message	Don't you want to explore the true worth\nof your Void magic—its real purpose?
+76	message	…The letter said if I came alone,\nyou'd return Tifa. There was no condition\nabout listening to any talk.
+77	message	So you won't talk this out peacefully?
+78	message	Let me put it plainly.\nGive Tifa back, now!
+79	message	…You're just like the person\nRiko hates most. You could be sisters.
+80	message	Bring out Tifa!
+81	message	That arrogance! That nerve!\nIt pisses me off!!
+82	message	Shut up!\nYou're pissing me off too!
+83	message	Don't you care what happens to your friend?\nYou should be groveling and begging\nto see her!
+84	message	I went out of my way to come here,\nso YOU bow your head and thank ME!
+85	message	Is that so… can you keep up\nthat attitude after seeing this?
+86	message	// Tifa appears, flanked on both sides by grunt bandit units. She appears near Riko.
+87	message	Tifa!
+88	message	Louise! Run! It's a trap!
+89	message	I don't care about traps!\nTifa risked her life to save me!
+90	message	I thought I might never even get\nto say thank you! So…!
+91	message	That's enough.\nYou know what happens if you resist, right?
+92	message	Just so you know, Riko hates\nthis kind of barbaric approach, but—\ndon't forget whose fault this is, okay?
+93	message	Give Tifa back, you rotten woman!\nIf you do anything weird to Tifa,\nI'll never forgive you!
+94	message	…Seriously pissing me off. Have you really\nlived like that all this time?\nThat doesn't fly here!!
+95	message	Shut up! A self-proclaimed phantom thief\nwho only ever fails has no right\nordering ME around!!
+96	message	Don't you get your position here!!\nGrovel and beg for mercy, wailing!
+97	message	Acting tough won't help!\nHow about Mine Riko, with zero achievements,\nrenames herself Lupin the Zero?
+98	message	Don't screw with meeeee!!
+99	message	Ahahaha! You're mad, you're mad!\nA phantom thief with no shred of composure?\nAren't you just stuuupid!?
+100	message	Shut up!! Shut up shut up shut up!!\nSay one more word and I'll finish her off!!
+101	message	…Could you, I wonder?
+102	message	What!?
+103	message	Need Is Algeez…\nBerkana Man Lagoo!
+104	message	// The forgetting spell activates\non the grunt units holding Tifa.
+105	message	A spell!?
+106	message	Who do you think we are?\nBearers of Void—mages.
+107	message	Damn it, cut Tiffania to pieces!\nI'll show you!!
+108	message	…???
+109	message	Wh-what!? What's wrong!?
+110	message	Everyone.\nShouldn't you hurry home?
+113	message	// The grunt units run off and vanish
+114	message	Impossible…!?
+115	message	I had them forget. Their role.
+116	message	Tifa's forgetting spell.\nYou were so enraged by my insults,\nyou noticed the chanting too late.
+117	message	No way… that was the plan\nfrom the start!?
+118	message	Did you think I angered you\nwithout thinking?
+119	message	Don't mess with me! It's just two of you!\nI'll capture you both!!
+120	message	// Grunt units appear
+121	message	Hmm, then I'll call mine too.\nCome out!
+122	message	What!?
+123	message	// Allied units appear
+124	message	No way… where were they hiding!?
+125	message	I told you. I'm a mage.
+126	message	Illusion—Louise's spell that shows visions.\nThey must've looked like grass and trees to you!
+127	message	Olmes!!
+128	message	Who's 'flat as boards' together!\nI had to hold myself back from punching\na hole through you!!
+129	message	Didn't you say a noble doesn't break promises!
+130	message	Who tried to lay hands on Tifa?\nYou're the one who broke the promise.
+131	message	Yooouuu!!
+132	message	Shall we step in about now?
+133	message	I'll be your opponent!
+134	message	Wait, everyone!\nFirst get Tifa somewhere safe!
+135	message	Exactly! We'll cover her!\nShe's not going to the enemy!
+136	message	Tifa! Run!
+137	message	Yes!
+138	message	Like hell I'll let you!!
+139	message	// Battle start\n// Objective: move Tifa to the designated position
+141	message	Haa, haa… if I can get this far…!
+142	message	All right, she's safe!
+143	message	Too naive!
+144	message	// A grunt bandit unit appears next to Tifa.
+147	message	Ah!
+148	message	An ambush in a place like that!?
+149	message	Ahahaha! Grab her!\nI'm the one who wins in the end!
+150	message	Tifaaa!
+151	message	// SE: gunshot.\n// The bandit's HP hits zero and it falls.
+152	message	Gih!?
+154	message	A sniper!? From where!?
+155	message	Who? What was that?
+156	message	Wasn't us!\nIt came from a different direction…!
+157	message	Damn it, what's going on…
+158	message	…Got any more tricks? If so, use them!
+159	message	Tch… this wasn't supposed to happen…\ndamn it!!
+160	message	I'll repay this debt, no matter what!
+161	message	// Riko vanishes.\n// Battle end.\n// Background: forest
+162	message	…Phew.\nThat was close, but we managed.
+163	message	Louiseee!
+165	message	Uph!?
+166	message	We met! We finally met!\nThank you so much!
+167	message	H-hey! O-okay, I get it! I can't breathe!\nMy face is buried in your cleavage… mmmph…!
+169	message	S-sorry. I was so happy, I just…
+170	message	Geez, still huge as ever!\nDon't those things ever deflate, I wonder…
+171	message	Wooow…
+172	message	My…
+173	message	Off the charts…
+174	message	Hoho, tonight's bath should be fun…
+175	message	Sis, you're drooling…
+177	message	(Indeed, there'll be much to look forward to.)
+178	message	(Hey, what exactly are you imagining…)
+179	message	(Journeys are full of little happenings, no?)
+180	message	(No, I don't get what you mean…)
+182	message	Tifa… welcome back.
+183	message	Siesta…
+184	message	I've been worried this whole time.\nI'm glad you're safe… truly…
+185	message	Don't cry. Geez…
+186	message	Louise, introduce her properly.
+187	message	I know! This is Tiffania Westwood.\nShe's an elf, and…
+188	message	An elf?
+189	message	Ah! I forgot to hide my ears…
+190	message	Hey, forget the ears—\ncan't you do something about those?
+191	message	Huh?
+192	message	We all come from different worlds and cultures.\nBut if we cherish each other's feelings,\ndifferences are trivial.
+193	message	Shirayuki's right.\nAfter seeing magic, not much surprises me anymore.
+194	message	Anyone's welcome here!\nLet's be friends!
+195	message	Will I be all right?
+196	message	If Louise is fine, you'll be fine!
+197	message	What's that supposed to mean!?
+199	message	Tonight's Tifa's welcome party!\nI'll go all out on the cooking!
+200	message	Leave the Japanese food to me!
+201	message	This is my time to shine!
+202	message	No, it's mine!
+203	message	Not Cecilia!!
+204	message	Everyone's so mean!!
+205	message	// Fade to black\n// Background: forest\n// Aria picking up a bullet.
+206	message	…Found it.
+207	message	Aria, what's that?
+208	message	A bullet.
+209	message	Ah, the one that took out the ambusher?\nI wonder who that was.
+210	message	I recognize this bullet.\nI don't think it was standard issue.\nA sniper who uses these is…
+211	message	// Scene change\n// Background: mountains or some natural scenery. The Twin Phantoms with Reki, finished sniping.
+212	message	Tiffania Westwood's protection:\nmission complete.
+213	message	Thank youuu.\nA difficult job, but splendidly done~.
+214	message	…Thanks.
+215	message	I always honor my contract with the client. That's all.
+216	message	…Contact me again if needed.
+217	message	// Reki leaves.
+218	message	Skilled, but an unfriendly girl.
+219	message	…
+220	message	Fufu, but I don't dislike that type…
+221	message	…Sis.
+222	message	…Is it okay?
+223	message	Worried about when it's found out?\nThis is Riko's own doing.
+224	message	I'm looking forward to seeing\nhow Riko makes up for losing Tifa.
+225	message	…What about Tifa?
+226	message	If we took her back here,\nRiko would lose face. Unless ordered,\nwe won't interfere.
+227	message	…Good.
+228	message	(She looked lonely on her own…)
+229	message	//END

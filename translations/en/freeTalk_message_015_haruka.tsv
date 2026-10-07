@@ -1,0 +1,265 @@
+row	column	english
+4	message	...Hm?
+5	message	Huh?
+6	message	What's wrong?\nYou're in such a hurry.
+7	message	N-nothing at all.\nAhaha...
+8	message	Come to think of it, did you see Twin Angel\naround here just now?
+9	message	Gah! I-I didn't see them.
+10	message	Probably just your imagination~.\nYeah, that must be it!
+11	message	B-besides, I heard they've had\nlots of missions lately and they're busy,\nso they probably wouldn't be around here?
+12	message	I see...\nI wanted to thank them sometime.
+13	message	Th-thanks!?\nThen I'd want striped pa— I mean!
+14	message	Twin Angel are heroes of justice,\nso I don't think they'd want anything in return!
+15	message	Yeah, that's right!\nThey probably don't need thanks!
+16	message	So don't even think about it anymore...\nokay?
+17	message	Then... just pass along my thanks.
+18	message	Yeah, of course!
+19	message	Still,\nwhere does Twin Angel come from?
+20	message	Huh? W-well...\nI don't really know either...\nBut why do you ask?
+23	message	No reason, I've just always wondered...
+24	message	Yeah yeah, I get it~~.
+25	message	But I think it's better\nnot to know that kind of thing —\nkeeps the mystery alive, right?
+28	message	I was wondering if they have a home or something.
+29	message	A home!? W-well~~\nA hero of justice's house...\nMight be closer than you think...
+30	message	But who knows!?\nMaybe they came from another planet!\n...Just kidding... ahaha...
+33	message	I still want to know...\nCan you summon them here?
+34	message	Huh!? Here?\nTh-that's a bit...
+35	message	If they transformed someplace like this,\nthey'd be fou— Uwaaah! I mean!
+36	message	Um, uh, that... right!\nThey just went on a mission,\nso they're probably tired~~?
+37	message	Calling them when there's no trouble\nwould be a bother, right~~? Right??
+38	message	Too bad, but you're right, Haruka-san.\nSorry about that.
+39	message	Y-yeah. Sorry.
+40	message	But next time I see them, I'll definitely tell them\nyou were grateful!!
+41	message	Yes, please.
+44	message	Phew~~. That was close...
+45	message	But it doesn't look like anyone knows\nI transform.\nIs that thanks to the Holy Grail fragments too?
+46	message	Anyway, that was close,\nbut I've got to be careful from now on!
+49	message	Haruka-san, um...\nAbout what we talked about before...
+50	message	Huh? Wh-what about?
+51	message	About Twin Angel...?\nAre you still curious?
+52	message	B-but I don't think\nthere's much I can answer~~...
+53	message	Then just one thing.\nWhy is Twin Angel so strong?
+54	message	Huh, are they that strong?\nHmm, I wonder why...
+55	message	The reason for their strength...\nBecause they're heroes of justice, yeah!!
+56	message	Is that really all?
+57	message	That's definitely it!\nIf they were weak they couldn't be heroes of justice...
+58	message	Oh, and maybe\nbecause there are two of them!?
+59	message	The two of them are in perfect sync,\nso they're probably putting out many times the power!
+60	message	True... now that you mention it.\nIt'd be weird if they were secretly going to the gym.
+61	message	Huh, jam? Come to think of it, I'm hungry~~\nI want striped panties with jam\nand condensed milk...
+64	message	No.\nGym. Gym.
+65	message	Huh, gym? The exercise kind?\nAhaha, I thought that was weird~.
+66	message	Maybe they train\nat places like that!
+69	message	'Jam'...?
+70	message	Huh!? Didn't you just say 'jam'?\nDid I hear wrong?
+71	message	I was hungry, so it just slipped out...\nRed Angel probably likes strawberry jam~~,\nyeah!!
+74	message	Well, that's about it.\nDid you get the gist?
+75	message	Mostly...\nBut I get that Twin Angel is amazing.
+76	message	Ehehe...\nbeing praised like that is embarrassing~~.
+77	message	Hm? I wasn't talking about you, Haruka-san?
+78	message	Huh!? O-oh, right, of course!?\nI just thought maybe you were~!
+79	message	See, I'm always the one who calls them,\nso it feels like it's about me...
+80	message	Yeah, that must be it. That's what it is!!
+81	message	...?
+82	message	N-next time I see Twin Angel,\nI'll tell them you praised them.
+83	message	Yes, please!\nSee you later.
+86	message	That was close...
+89	message	Hey hey,\nis there a pool around here?
+90	message	A pool?\nI don't think there is...\nWhy?
+91	message	I suddenly felt like swimming...
+92	message	I love swimming!\nI'm on the swim team at the academy too.
+93	message	I wish all my classes were swimming~~,\nthat's how much!
+94	message	My best stroke is the crawl!\nI can even swim with my face up!
+95	message	Hey, do you like swimming?
+96	message	I like it enough\nthat I'd be fine with swim class every day!
+97	message	I'm always racing everyone on the team.\nHey, let's swim together sometime!
+98	message	I wonder who's faster?\nUuugh~~, can't wait~~!
+99	message	I'll pass.\nI'm probably not as good as you, Haruka-san.
+100	message	Oh, but do you have a swimsuit?
+101	message	A swimsuit?
+102	message	Yeah, you need a swimsuit to swim.
+103	message	Boys' swimsuits come in all kinds these days.\nLike this!
+104	message	Ta-daa! Striped swimsuit!\nThe stripe colors, the stripe ratio — perfect!
+105	message	But even I can't wear a boy's swimsuit...\nHow about it?\nWant to try it on?
+106	message	Wh-why are you pushing stripes so hard?
+107	message	Stripes are cute!\nStaring at them makes me happy~~.
+108	message	Stripes make anything about 50% cuter,\nbut especially...\npanties...
+111	message	U-uh...
+112	message	Striped panties are great...
+113	message	I want to collect striped panties from all over the world\nand open a Striped Panty Museum...
+116	message	Yeah... I guess.
+117	message	I knew it!?\nYeah yeah, you get it~~!
+120	message	Striped panties should catch on\nwith boys too!!
+121	message	Ah! S-sorry!?\nTalking about this with a boy...
+122	message	You're easy to talk to,\nso I got carried away.
+123	message	But if you ever notice\nthe charm of stripes, I'd be happy.\nSee you later!
+125	message	Haruka-san really gets fired up about striped panties...
+128	message	Uuugh, I'm huuungry.
+129	message	Hm? Haruka-san? Heeey!
+130	message	Ah, morning!
+131	message	'Morning'? It's already this late?
+132	message	Ehehe, I overslept...
+133	message	Aoi-chan usually wakes me up,\nbut...
+134	message	Today Aoi-chan had something to do\nand wasn't around.
+135	message	Well, we're not going to school\nright now anyway, so it's fine.
+138	message	She always wakes you up?
+139	message	Yeah!\nAoi-chan is a super early riser.
+140	message	I tell myself I've got to get up on my own,\nbut I end up feeling safe and...
+143	message	Aren't you barely on time every day?
+144	message	Yeah, I am~~.\nSo I always end up running to school...
+145	message	I feel bad making\neven early-rising Aoi-chan run, but...
+148	message	You two really are close.
+149	message	Yeah! Aoi-chan's kind, good at studying,\ngraceful...
+150	message	And, well, she's got a big chest too...\nuuugh, total opposite of me.
+151	message	Her only flaw is loving spicy food a bit too much?\nJust watching Aoi-chan's curry from next to her\nmakes my eyes sting~~.
+152	message	Hm? What's wrong?\nWhy are you staring...
+153	message	No, I just thought you looked really happy.
+154	message	R-really?\nSpicy stuff's not really my thing...
+155	message	No, I mean you look really happy\nwhen you talk about Aoi-san.
+156	message	Oh, that?\nEhehe, did I really look that happy?
+157	message	I'm always with Aoi-chan, after all.
+158	message	And Aoi-chan was\nmy first-ever friend...
+159	message	She's special.\nLike family, almost.
+160	message	I'd be happy\nif I could always be with Aoi-chan...
+163	message	Ehehe, my stomach growled.\nSorry, I'm going to buy some food —\nsee ya.
+165	message	Her first friend... huh.
+168	message	Sigh...
+169	message	What's wrong?\nYou look down.
+170	message	Haruka-san...
+171	message	Ahh, did you drop\nthe anpan you were saving\non the ground or something?
+172	message	Or did you forget your bento\nor something...?
+173	message	Then let's trade side dishes!\nAh, but if you forgot it, there's nothing to trade.
+174	message	That's not it.\nAnd why is it always about food?
+175	message	Huh, no?\nThen did someone steal\nyour favorite panties...?
+176	message	That'd be shocking~~. But cheer up!\nAt times like that, these striped pa—
+177	message	No! Sigh...\nSeeing your smile made me completely\nforget the bad stuff.
+178	message	Huh, really?\nThat's great~~!
+179	message	Your friendliness and energy\nalways surprise me, Haruka-san.
+180	message	R-really? People always say energy's\nmy only good trait...
+181	message	Oh, but I wasn't always like that.
+182	message	Um, well.\nIt might not be a fun story, but...
+183	message	When I was little,\nI lost my parents in an accident.
+184	message	I was really down back then,\nshut myself away...
+185	message	Ah, sorry!?\nFor suddenly telling you this.
+186	message	But Aoi-chan saved me\nfrom that.
+187	message	Ahaha, maybe I overcorrected\nand got too energetic?\nJust kidding...
+188	message	That happened...?\nI'm sorry.
+189	message	No, it's not your fault.
+190	message	And now I want to help\npeople who feel lonely~~...\nor so I hope!!
+193	message	That's admirable!
+194	message	S-saying that makes me\nblush~~.
+195	message	But I've still got a long way to go!\nI've got to try even harder!
+198	message	So that's why you... me...
+199	message	Huh? Oh, no, that was...\nI really thought you were just\nhungry back then...
+200	message	But if it cheered you up,\nall's well that ends well, right? Ehehe.
+203	message	I should learn from you...
+204	message	Ehehe,\nI haven't done anything worth praising.
+205	message	It's still amazing.
+206	message	Ehehe, thanks.
+207	message	(My view of Haruka-san has changed...)
+210	message	Hey hey, got a minute?
+211	message	Actually, I was thinking\nwe should all do something together sometime...
+212	message	It'd bring everyone closer,\nand it sounds fun, right?
+213	message	So we decided\nto do something in Dokoka Town.
+214	message	I suggested a striped-panty café,\nbut it got shot down\ninstantly...
+215	message	So in the end, nothing's decided.\nWhat do I dooo.
+216	message	Hmm, let me think...
+217	message	If nobody has a better idea,\na striped-panty café would be fine~~...
+218	message	Huh... but wait,\nwhat even is a striped-panty café...?
+219	message	Doing something together as a group is a good idea,\nso let's think of something else.
+220	message	Yeah. But what do we do~~?\nI can't think of anything~~.
+221	message	Don't overthink it —\nhow about just a normal party?
+222	message	A party...? Yeah, maybe!\nIt's normal, but I never would've thought of it~~.
+225	message	You're the organizer, Haruka-san?
+226	message	Yeah.\nKurumi-chan was going to do it, actually.
+227	message	She looked busy,\nso I volunteered~~.
+230	message	Is anyone helping you?
+231	message	Just me this time.\nEveryone looked busy,\nso I said I'd do it alone!
+232	message	But I'll give it my all alone!\nI'll hype it up to the max~~!!
+235	message	Still, why was everyone\nso busy~~?
+236	message	I think it was something like... teiki-kenshin?\nThey just did one not long ago, I thought.
+237	message	Aoi-chan even asked me if my studying was okay~~,\nI wonder what that was about...?
+238	message	You mean regular exams...?
+239	message	Huh? Regu...lar... ex-ams...?
+240	message	Th-that's what it was~~!?\nUuugh, I thought something was off.
+241	message	Wh-wh-what do I do,\nI'll fail if I'm busy with party prep.\nI'm barely passing as it is...
+242	message	But I said I'd do it,\nso I've got to try!\nCould you help me out a little...?
+243	message	Of course.\nMy exams are done, so I'll help.
+244	message	Yay!\nWhat a relief.
+245	message	I'll think of some other ideas too.
+246	message	Yeah, thanks.\nI'll let you know when we decide anything—!
+248	message	What kind of party will it be...?\nI'm nervous, but kind of looking forward to it.
+251	message	Hey, Haruka-san.
+252	message	What's up?
+253	message	About the party the other day...
+254	message	That's all set!\nEverything's ready!
+255	message	Ah, I'm studying for exams properly too.\nAoi-chan's helping me!
+256	message	When I told Aoi-chan, she said she'd help\nwith studying AND party prep...
+257	message	So the two of us\nhave prep covered!
+260	message	Are you sure without me?
+261	message	Yeah. Once everyone talked it over,\nit went super smoothly.
+262	message	So it's fine!\nThanks so much, really.
+265	message	Everyone's helping too?
+266	message	Yeah! Everyone's busy with exams, though —\nI hope it's okay?
+267	message	...not that I can talk.\nAhaha...
+270	message	So what's the party\ngoing to be like?
+271	message	Huh?\nTh-that's... still a secret.
+272	message	I could tell you, but I think it's better\nto save the surprise~~.
+273	message	A hint... ehehe.\nI think you'll love it!
+274	message	It'll make your heart skip a beat, for sure!\nNo more — it's a secret!
+275	message	(Heart-skipping!? But that means...\nthis and that...)
+276	message	Hm? What's wrong?
+277	message	Huh? Wh-what!?\nN-nothing.
+278	message	Ahaha, are you nervous, maybe?
+279	message	But really,\nhaving you around helped so much~~.
+280	message	Not just this time.\nUntil now I've talked to Aoi-chan\nabout everything, but...
+281	message	I end up relying on her too much.\nI'm glad I made another friend I can talk to.
+282	message	Friends... right? Us...?\nHuh, this feels weird... my chest...
+283	message	Ahaha, like your heart skipping a beat?
+284	message	Heart skipping...\nyeah. Maybe...
+285	message	(Huh!? I meant it as a joke.\nCould that mean...!?)
+286	message	I... want to know more\nabout you...
+287	message	H-huh!?
+288	message	Play together more, have fun together...\nI want to make you happy...
+289	message	A-ah? What am I saying.\nSorry, suddenly — see ya!!
+291	message	Haruka-san... does that mean me!?
+294	message	Ah! I've been waiting!\nHere! Hurry inside.
+295	message	H-huhhh?\nInside... what do you mean?
+298	message	Wait a bit, okay?\nYou came sooner than I thought,\nso I'm not ready yet~~.
+299	message	Ehehe,\nI hope you'll like it...
+302	message	Ehehe... how is it?\nIs it weird...?
+303	message	It's my party outfit.\nKind of embarrassing, but...
+304	message	I-I see... wait, where is everyone!?\nJust the two of us!?
+305	message	Y-yeah. I wanted only you to see it...
+306	message	It's a secret from everyone, okay?\nPromise...?
+307	message	I've been looking forward to today for sooo long...
+308	message	Ah... sorry I'm getting\nall worked up by myself?
+309	message	N-no, not at all...
+310	message	(Could this be going where I think...)
+311	message	What's wrong? You're grinning~~?
+312	message	Y-you're not thinking\nweird things... are you?
+313	message	Ahh, I'm getting embarrassed~~!\nI-I'll go make some tea!!
+316	message	Kyaaa—!!
+317	message	A-are you okay!?
+318	message	Y-yeah, I'm fine...\ns-sorry.
+319	message	Ah, right...\nI totally forgot, but...
+320	message	Here. This is your costume.
+321	message	Wearing it alone is embarrassing... what do you think?
+322	message	You mean... I should wear it too?
+323	message	Yeah! It'll be fun if we both wear them~~!
+324	message	I didn't know what you'd like, but...
+325	message	Is this style okay?
+326	message	(So when she said she wanted to know more about me,\nTHIS is what she meant!?)
+327	message	A-and~~ of course, THIS too!!\nStriped panties for men—!!☆
+328	message	Come on~~, don't be shy,\ntry them on~~!!
+329	message	Wh-whaa—!!\nStop—!!
+332	message	...Hm? Mmm... huh?
+333	message	A-are you okay?\nYou were really tossing and turning...
+334	message	You were shouting in your sleep.\n'Stop—!'...
+335	message	What kind of scary dream was it...?\nGhosts? Zombies?
+336	message	N-no, not that.
+337	message	Good thing it was a dream!\nOh, everyone already went ahead.\nHurry, hurry!
+338	message	Here, don't forget this.\nI think we'll use it at today's party.
+339	message	Huh? Is this... striped panties?
+340	message	Yeah! They're properly for boys, so don't worry!\nOh, putting them on already??
+341	message	Whaa—!!\nStop—!!

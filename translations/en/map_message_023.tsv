@@ -1,0 +1,219 @@
+row	column	english
+3	message	A quiet morning…
+4	message	Haruka and Koto too… hmm,\nis everyone still asleep?
+5	message	Then, some morning training on my own…
+7	message	Hm? A call on the communicator? Reki, huh.
+8	message	This is Houki Shinonono. What is it?
+9	message	Yes. I have an urgent report.
+10	message	Shirayuki has disappeared.
+11	message	What!?
+13	message	…
+14	message	Sorry to keep you waiting.
+15	message	I ran here as fast as I could!
+16	message	I heard Shirayuki-chan disappeared and I was so shocked!\nIs it true!?
+17	message	Yes. Her room showed no signs of disturbance,\nso abduction seems unlikely.
+18	message	So you're saying she left on her own?
+19	message	Most likely.
+20	message	Where could she have gone?
+21	message	Hauu, I have no idea!
+22	message	Please calm down.\nIf you lose your composure,\nyour abilities are halved.
+23	message	So I just need to calm down, right?\nBreathe in, breathe out… phew.\nUgh, but I can't think of anything!
+24	message	Can't we search with all of Butei High's resources?
+25	message	If the commotion grows, the search will only get more confused,\nand finding her harder.
+26	message	That's no good, then!
+27	message	Butei aren't trained to move in large groups like an army.\nTo perform at their best,\nsmall team operations are best.
+28	message	Anyway, let's think about where Shirayuki went.\nCan we assume she moved at night?
+29	message	Yes. Usable transportation would be limited.
+30	message	That's right! Wasn't Shirayuki-chan not allowed\nanywhere but the shrine and Butei High?
+31	message	So it's hard to imagine she went far\nin the middle of the night, right?
+32	message	Her range is limited, then.\nAny other leads?
+33	message	Shirayuki probably left because of the demon sword Durandal…\nit reportedly never shows itself to people. A cautious one.
+34	message	Then a place out of sight would be suspicious, indeed.\nMaybe the demon sword is hiding somewhere nearby, indeed?
+35	message	Shirayuki only knows the area around Butei High,\nand Durandal never shows itself to people.\nCan't we narrow it down with those two conditions?
+36	message	Reki-chan, can I borrow your phone?\nI'll call Shirayuki-chan.
+37	message	Go ahead.
+39	message	//The number you have dialed is either out of the service area\nor has the phone turned off,\nso your call cannot be completed.
+40	message	Huh!?
+41	message	No signal…?\nReki, are there any places near Butei High\nwhere cell phones get no signal?
+42	message	If anywhere… underground.
+43	message	Underground? Butei High has an underground?
+44	message	Yes. The megafloat that Butei High sits on\nhas a maze-like underground.
+45	message	Durandal, the demon sword that doesn't want to be seen,\nsummoned Shirayuki underground…?
+46	message	Seems quite likely.
+47	message	Let's go!! Reki-chan, lead the way!
+48	message	Wait for us, Shirayuki-chan!
+50	message	…It's dark… but ahead lies…
+52	message	…You're there, aren't you?\nAs promised, I came alone.
+53	message	//…I shall keep my promise as well.\nI will do Butei High no harm.
+54	message	//Nor to those people\nyou were worried about.
+55	message	…
+56	message	Why do you want me?\nSomeone like me, with no real ability.
+57	message	//No false modesty.\nYou're a great uncut gem.
+58	message	//And when that gem is poorly guarded,\nit's only natural hands reach for it.
+59	message	…
+60	message	//Follow me, Shirayuki.
+61	message	//I'll take you to the Yiu.\nYour power should be honed there.
+62	message	I don't have any real ability…
+63	message	//Refuse, and I'll simply blow up\nthe underground powder magazine of Butei High.
+64	message	No! Anything but that…!!
+66	message	Don't resist. Just stay obedient.\nLike you've done all this time,\nkeeping my contact with you secret… forever…
+67	message	Ugh…
+68	message	//Wait!!
+70	message	That voice!?
+73	message	I won't let you kidnap Shirayuki-chan!!
+74	message	…I anticipated you might track this place down.\nBut this fast… that's outside my calculations.
+75	message	Of course!\nBecause we're friends!!
+76	message	Huh…
+77	message	Ah… well, Haruka-chan's friends are my friends too!\nI'll protect you no matter what!!
+78	message	Red Angel… one half of Twin Angel…\nI'd heard of your extraordinary speed and power,\nand now I see.
+79	message	You know about me?
+80	message	It's only natural to research potential enemies.\nBut no matter what power you have,\nthere are plenty of ways to seal it.
+81	message	Listen. I've planted bombs\nin Butei High's underground ammunition depot.\nYou know what happens if you resist, don't you?
+82	message	So that's how you blackmailed Shirayuki-chan\ninto coming here… Unforgivable!
+83	message	There's nothing you can do.\nSurrender too. I won't treat you badly.
+84	message	Tch…!
+86	message	Follow me, Red Angel.\nYou too have already fallen into my hands.
+87	message	//Heh, we'll see about that.
+89	message	Sorry, but I already removed the bombs!
+90	message	What?
+91	message	I got help from Butei High students\nand removed the bombs from the depot!\nAll that remains is to strike you down!
+93	message	But the bombs haven't been fully disposed of yet, have they?\nIf I activate the detonator here,\nyou won't get off unscathed…
+95	message	What! You sniped the detonator!?
+97	message	I am a single bullet. Bullets have no human heart.\nSo they think nothing.\nThey simply fly toward their objective.
+98	message	Reki-chan!
+99	message	This is the end, Durandal!
+100	message	Don't call me that.\nI dislike the name humans gave me.
+101	message	What?
+102	message	Just as Lupin the Fourth said,\nyour bravery and earnestness at least\nare worthy of praise.
+103	message	Lupin the Fourth…?
+104	message	She means Riko-san, indeed!
+105	message	The phantom thief Twintail—Riko Mine!?
+106	message	But my ancestor, Joan of Arc,\nwas more beautiful and more brave than any of you.
+107	message	That name… you mean the Saint of France,\nJoan of Arc?
+108	message	Ehh!? …Who's that?
+109	message	Hmph. I come from another world.\nNo wonder you don't know.
+110	message	Um… oh, she's the one from the textbooks!?
+111	message	But Joan of Arc was burned at the stake,\nso she shouldn't have any descendants…
+112	message	The one who was killed was a body double.
+113	message	I am of a clan of strategists.\nLurking in darkness, manipulating history,\nwe passed down pride and cunning.
+114	message	I am the 30th-generation Joan of Arc.
+115	message	I've talked too long.\nI wasn't told to bring you back.\nYou'll meet your end here, underground.
+116	message	Ice Flower of Orleans—scatter as silver ice!
+117	message	Everyone!\nShe's a mage (Matsugi)—she's dangerous!
+118	message	So what.\nI've steeled myself to fight anything!
+119	message	Haven't fought a mage yet, huh?\nHeh, sounds fun!
+120	message	Huh…?
+121	message	Leave it to me, rest easy—Red Angel!\nEveryone, let's go!
+124	message	Hmph… a miscalculation—what my clan despises.\nOne gear slightly off, and everything warps…
+125	message	Drop the sword, Jehanne!\nYou've already lost.
+126	message	Lost? Don't make me laugh.\nAs long as the holy sword Durandal exists, I cannot be defeated!
+128	message	Okay, stooop! It's all over~
+129	message	You are…!
+130	message	Riko Mine!!
+131	message	Heya, Houkin!\nBut we don't have time to play around~
+132	message	It's a withdrawal order, Jehanne.
+133	message	…
+134	message	I repeat, this is an order.
+135	message	…Hmph!
+137	message	Sorry to intrude~☆
+139	message	…Those two were working together.
+140	message	They got away, huh.
+141	message	Shirayuki-chan is safe,\nso all's well for now, I guess?
+144	message	Everyone, I'm so sorry for all the trouble.
+145	message	I got a recruitment email from Jehanne, for the Yiu…
+146	message	When I refused,\nshe threatened to blow up Butei High next,\nso…
+147	message	So she threatened to bomb them if you didn't keep it secret.\nBut thinking you could solve it alone\nwas a big mistake.
+148	message	Houki-san…
+149	message	That's right, Shirayuki-chan.
+150	message	If something painful or troubling happens,\nyou can tell us anything.\nBecause we're friends!
+151	message	Friends… I'm not worthy of that…
+152	message	You don't need any qualifications!\nI want to be friends with Shirayuki-chan.\nWhat about you, Shirayuki-chan?
+153	message	I…
+154	message	We come from different worlds to begin with…\nWe each have our status and position, but\nshouldn't what matters be our feelings?
+155	message	Feelings…?
+156	message	Haruka-san really loves Shirayuki-san, y'know.\nSo how about you, Shirayuki-san?\nOkay, confession time—go!
+157	message	H-huh!?
+158	message	…!
+159	message	Um, when Haruka-san said she wanted to be friends,\nI was actually happy… but scared.\nScared of dragging such a kind person into trouble.
+160	message	Uh-huh, uh-huh, and?
+161	message	Hey, stop teasing.
+162	message	I've never had a single friend,\nand I don't know what to do…\nbut if that's okay with you… yes.
+163	message	We got an OK!
+164	message	I said stop teasing!
+165	message	Yaaay!! Woohoo!!
+166	message	Haruka, you're getting too excited!
+167	message	Ehehe, because… being Shirayuki-chan's friend\nnumber one makes me happy.
+168	message	Woo! Shirayuki-san's first!
+169	message	Stop saying things that invite misunderstanding!
+170	message	Nice to meet you, Shirayuki-chan!\nOnce again, I'm Haruka Minazuki!\nThank you for being my friend!
+171	message	I'm Shirayuki Hoshiga. I'm still inexperienced,\nbut um, please be nice to me!
+172	message	Shirayukii-chaaan!!
+174	message	Hya!?
+175	message	Haruka sticks to you like a magnet.\nYou'd better brace yourself.
+176	message	Speaking from experience, huh!
+177	message	…Maybe you should experience it yourself, Koto.
+179	message	Are you finished talking?
+180	message	Huh? Reki-san, what are you eating?
+182	message	Nom nom…
+183	message	A snack?
+184	message	It's a meal.
+185	message	That!? Does it fill you up?
+186	message	…
+188	message	I've finished eating, so let's head back.
+189	message	Thank you too, Reki.
+190	message	…I merely carried out the request.
+193	message	She's skilled, but so unfriendly…
+194	message	Says you, Houki-san?
+195	message	What?
+196	message	Kidding, kidding! You're funny, Houki-san!
+197	message	No! Houki-chan is cute!
+198	message	C-cu…? What are you saying!?
+199	message	See, you ARE funny!
+200	message	She's cute, I tell you!
+201	message	(…a quick glance)
+202	message	You're cute too, Shirayuki-chan!
+203	message	!!
+204	message	Sheesh,\nlet's just say everyone's cute!
+205	message	W-wait, include me too, indeed~!!
+206	message	(This kind of scene is truly lovely.\nA girl's cuteness is living art.)
+207	message	Haa, is that so…
+210	message	Good morning!
+211	message	Umm…?
+212	message	Explain yourself, Shirayuki.\nWhat's with that luggage?
+213	message	These are my travel preparations.\nI've decided to go with everyone.
+214	message	What?
+215	message	Since then, I've researched and studied\nwhat friends are.
+216	message	I learned that friends are truly friends\nonly when they show their feelings through actions—\ndoing what they can for each other.
+217	message	And that explains the luggage?
+218	message	Because if I don't act together with my friends,\nI can't help them.
+219	message	Won't you be punished\nfor leaving the shrine and school?
+220	message	I'm prepared for that.\nAnd if it's an accident,\nit shouldn't count as breaking the ban.
+221	message	Shirayuki-chan…
+222	message	Am I… a bother…?
+223	message	No! You're super welcome!\nThank you, Shirayuki-chan!
+224	message	Yes!
+225	message	So, how do we get\nto another world from here?
+226	message	Based on the pattern so far,\nif we go to where that light appeared once,\nthe light appears again, indeed.
+227	message	Seems like the places are fixed.\nLike, places that lit up once\nlit up again?
+228	message	Then should we go to where Aria disappeared?
+229	message	Shirayuki, can you guide us there?
+230	message	Yes.
+232	message	This is where Aria disappeared.
+233	message	Just a normal street, huh?
+234	message	Doesn't look like anything special.
+235	message	Butei High thoroughly investigated this site,\nbut found nothing suspicious.
+236	message	That's right, indeed.\nNo clues even after investigating, indeed.
+237	message	It's a mystery.\nHow that light is generated—\neven I, a magician, can't figure it out.
+238	message	If Butei High investigated and found nothing,\nthere's nothing we can do…
+239	message	Come to think of it, Shirayuki-san, what about school?\nWon't you be skipping class?
+240	message	At Butei High, credits aren't just from classes—\nyou can also earn them\nby completing requests for Butei High.
+241	message	If I complete the search for Aria—listed as missing—as a request,\nmy credits will be fine.
+242	message	Credits, huh…
+243	message	Houki-chan, what's wrong?
+244	message	No, it's just… hearing about credits…
+245	message	(How many days has it been since I left IS Academy?\nI should at least report that I'm safe…)
+246	message	(Still, I don't know when I can return.\nNo telling when I'll get to report…)
+247	message	Hm?
+249	message	Huh? Isn't this… it?
+250	message	C-can I… go too?
+251	message	(This is… no, surely not)

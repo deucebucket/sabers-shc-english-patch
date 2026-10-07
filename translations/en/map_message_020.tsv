@@ -1,0 +1,142 @@
+row	column	english
+3	message	Um... the designated place is\nthis classroom, right?
+4	message	Summoning us with a note left behind...\nI wonder who it is?
+5	message	Be careful, it could be a trap.
+6	message	Nobody'd try to trap us\nwith such an obvious summons.
+7	message	You're too easygoing, Koto.
+8	message	Ah, someone's coming!
+10	message	We're all here.
+11	message	Ah, you're...!
+12	message	You are...!
+13	message	You know her?
+14	message	We worked together once before.
+15	message	You're Reki-san, right?\nYou saved me when I was in danger...
+16	message	I was only fulfilling a contract.
+17	message	You're the one who called us, Reki-chan?
+18	message	Yes. In guarding Shirayuki-san,\nI've come to ask for your cooperation.
+19	message	Cooperation?
+20	message	The Academic Affairs Office requested I guard Shirayuki-san,\nand I'm currently on the mission, but\nsomeone seems to have infiltrated Butei High.
+21	message	Someone... who?
+22	message	Somebody called the demon sword Durandal?
+23	message	Unknown.\nBut while continuing to watch Shirayuki-san,\nI sensed something off.
+24	message	Something off?
+25	message	Yes, the Shirayuki-san I'm guarding\nfeels like there are two of her.
+26	message	Two? Isn't that just a mistake?
+27	message	No, when I was observing from afar,\nshe moved a distance that was clearly unnatural.
+28	message	Not like Shirayuki-chan ran at full speed\nor used psychic powers or something?
+29	message	I don't think there was any reason\nfor her to do that.
+30	message	A doppelganger...?
+31	message	Like Remu-san said,\nsomeone who looks just like you appears...?
+32	message	So there's a fake, you mean?
+33	message	That's what I'd like you all to investigate.
+34	message	As Shirayuki-san's guard,\nI can't make any conspicuous moves.
+35	message	I see.
+36	message	So, what should we do?
+37	message	How about attaching one person near Shirayuki-san,\nand the rest search for the fake?
+38	message	Kinda simple.\nBut easy to understand!
+39	message	Got the plan.\nSo, who stays with Shirayuki?
+40	message	I'll take that role!
+41	message	Haruka, you can't fight.
+42	message	The ones who'd fight are the fake-finding team.\nBesides, Shirayuki-chan is strong, so it's fine!\nShe can even call Red Angel!
+43	message	I don't mind who takes it.
+44	message	Then it's decided!
+45	message	Fine, let's leave it to Haruka.
+46	message	Thanks, everyone!\nI'll do my best!
+47	message	We'll be moving separately,\nso we need a way to contact each other.
+48	message	Communicators are already prepared.\nPlease use them.
+49	message	Oooh! Well prepared!
+50	message	As expected of Butei High.
+51	message	Ahaha, Butei High has everything!
+52	message	Haruka-san, please send Shirayuki-san\nan email from my phone.\nGoing suddenly would startle her.
+53	message	Right. I'll email that\nI'll wait in front of Shirayuki-chan's dorm!
+54	message	Don't be too desperate about it.\nShe might hate you for it.
+55	message	Okay! Thanks, Houki-chan!
+56	message	//Fade to black\n//BG: town (night)
+57	message	Um... Shirayuki-chan's dorm is\naround here, I think...
+58	message	Hm? Who's that over there!
+59	message	Heeey, Shirayuki-chan!
+60	message	...?
+61	message	You're late?\nI thought you'd already gone back to your room.
+62	message	...Ah, yeah.
+63	message	But I'm glad I ran into you here!\nI couldn't figure out where\nShirayuki-chan's dorm is... ehehe.
+64	message	I see... follow me.
+65	message	Okay!
+66	message	(Good, looks like she doesn't hate me)
+67	message	//Fade to black\n//BG: town (night)\n//BGM off, quiet
+68	message	Hey, Shirayuki-chan...\nare we going the right way...?
+69	message	Feels a bit far from Butei High, like...
+70	message	We're going the right way.
+71	message	To erase you... this place will do.
+72	message	//Black Shirayuki attacks Haruka
+73	message	Kyaa!? Shirayuki-chan...!?
+74	message	Fufufu...
+75	message	Why... would you do this?\nHuh!? No way!!
+76	message	Noticing now is too late. Goodbye.
+77	message	Hauu!!
+78	message	//SE: attack sound and the clang of it being blocked
+79	message	!?
+81	message	Good, I made it in time!
+82	message	Shirayuki-chan!?
+83	message	...
+84	message	Two... Shirayuki-chans...?
+85	message	I read the email.\nBut you never showed up in front of the dorm, so\nI came looking for you.
+86	message	Haruka-san, leave this to me!\nYou...!
+87	message	Okay, I'll call Red Angel!
+88	message	//Battle map: only Shirayuki in initial allied deployment
+89	message	Fighting my own form is\nnot pleasant, but\nI shall punish you!
+90	message	...
+91	message	//Battle begins.\n//Event occurs on turn 2: Red Angel appears.
+92	message	Shirayuki-chan!!
+93	message	Red Angel-san!\nIs Haruka-san safe?
+94	message	Yeah, don't worry!\nI've contacted everyone too,\nso let's the two of us hold out until then!
+95	message	Yes!
+96	message	//Battle resumes. If a certain number of enemy small fry are defeated, an ally reinforcement event occurs.
+97	message	Found you! I wondered where you'd gone!
+98	message	Auuu, I was so worried!
+99	message	Well, whatever! You're safe, after all!
+100	message	It went differently than planned, but\nwe found the fake.
+101	message	Intruder! Prepare yourself!
+102	message	//Battle resumes. Event occurs when Black Shirayuki is defeated.
+103	message	I won't forgive...
+105	message	She got away...
+106	message	No need to chase.\nWith this, she won't be able\nto enter Butei High again.
+107	message	I hope so.
+108	message	Combat over.
+109	message	(Though I can't say the mission\nis complete)
+110	message	//■After battle\n//BG: town at night
+111	message	Everyone, are you all okay?
+112	message	Haruka-san, it's good you didn't\nget dragged into it.
+113	message	Thanks to Shirayuki-chan.
+114	message	No, it's more like I dragged\neveryone into this.
+115	message	But it's over now.
+116	message	Do you really think so?
+117	message	The Intelligence Division (Informa) probably\nmistook that girl for\nthe demon sword Durandal.
+118	message	So I won't be attacked anymore.
+119	message	So the demon sword Durandal\nwasn't here after all?
+120	message	Yes. Thanks to Haruka-san, it's resolved.\nThank you.
+121	message	But I just mistook the fake\nfor the real Shirayuki-chan\nand followed along...
+122	message	A lucky accident, as they say.
+123	message	Please rest well today.\nI'll report to Butei High myself.
+124	message	...
+125	message	Reki, something wrong?
+126	message	No... I'll be going.
+129	message	Let's head back too.
+130	message	You're just hungry, aren't you?
+131	message	How'd you know!?
+132	message	Nobody's more transparent than you!
+133	message	Then, let's disperse.\nSee you tomorrow.
+134	message	Yeah, good night, Shirayuki-chan.
+135	message	//BG: Butei High classroom
+136	message	Still, what was that fake Shirayuki?\nI can't believe she was just some weirdo.
+137	message	Remu-san was investigating an incident\nwhere doppelgangers appear —\ncould that be this...?
+138	message	Maybe she's actually a long-lost sister!
+139	message	I don't think so?\nShirayuki-chan never\nsaid anything like that.
+140	message	Muuu! If she shows up again,\nI'll definitely catch her!
+141	message	If I get a rematch chance,\nI'll interrogate her with the sawing-a-person-in-half trick!\nHmph.
+142	message	//Fade to black\n//BG: black background
+143	message	...Phew, had my bath, time to sleep.
+144	message	//Email notification sound
+145	message	Hm...? An email\nat this hour?
+146	message	Um...
+147	message	Huh...!?
+148	message	//END

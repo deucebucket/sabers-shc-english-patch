@@ -1,0 +1,244 @@
+row	column	english
+3	message	This is the scene!\nAlpha, Beta! Keep watch on the surroundings!
+4	message	Meow!
+5	message	Woof!
+6	message	A victim!\nHey—wake up, please!\nYou can't sleep in a place like this!
+7	message	Zzz... mmnya-mmnya...
+8	message	Shaking him doesn't wake him at all...?\n...I see.
+9	message	This calls for\nmy "guaranteed-to-wake-you alarm watch."
+10	message	Now, wake up for me!
+11	message	// SFX: alarm ringing. See anime. Sound: "tee-teen-teen-teen-teen."
+12	message	Ngh... huh? Wha—???
+13	message	So, how's it feel waking up on the street?
+14	message	Huh? I was sleeping HERE!?
+15	message	That's right.\nDid the drowsiness hit you all of a sudden?
+16	message	No, I wasn't tired or\nanything like that...\nSo why'd I conk out?
+17	message	You didn't have a bad dream or anything?
+18	message	Dunno, can't remember while I was asleep.
+19	message	I see...
+20	message	// Fade to black: time passes\n// Background: town (night)
+21	message	Thank you so much.\n...But why did I fall asleep, I wonder?\nStrange things do happen, don't they?
+22	message	Indeed.\nWell, take care now.
+23	message	Yes.
+25	message	That makes five victims at this scene.\nThirteen total with yesterday and the day before.\nDefinitely abnormal.
+26	message	People suddenly fall asleep on the street and can't be woken.\nIf the range and number of these incidents keeps growing,\nit'll lead to large-scale accidents or crimes.
+27	message	Inspector Sakaki says it might be the dream demons' doing,\nbut...
+28	message	Meeooow!!
+29	message	What is it, Alpha?\nDid you find someone asleep?
+30	message	Nya-nya-nya-nya-nya!
+31	message	What!? A sleeping person is being attacked by a dream demon!?\nGot it, lead the way!
+32	message	// Fade to black: time passes\n// Background: town (night)
+33	message	Woof woof woof!!
+34	message	...!!
+35	message	Beta!\nYou guarded the sleeping person well!\nLeave the rest to me!
+36	message	// Event art: Remu leveling her magnum
+37	message	That said, all I can rely on right now\nis this magnum loaded with silver dum-dum rounds.
+38	message	If I could only use my powers...\nI could wipe out dream demons like these in no time...!
+39	message	Calm and precise... take it down, Remu!
+40	message	// To battle map: town (night)
+42	message	Let's go! Prepare yourself!
+43	message	// Battle start\n// Allied reinforcements appear after defeating a set number of dream demons or a set number of turns
+44	message	This many is getting to be a real pain...!
+45	message	// Light appears on screen
+46	message	Ugh, what!?
+47	message	// Meru, Noel, Claude, and Tsubasa appear
+48	message	Whoa!? It's dark!!
+49	message	Hawawawaaah~!\n[NOEL]'s fault—\nwe got flung to the very first block of hell, desuu~!
+50	message	...Um, isn't it just nighttime?
+51	message	Watch out! There's something weird here!
+52	message	// A dream demon appears near Meru and the others
+53	message	I-it's out, desuu!?\nBut just like the last one,\nit's sooo preeetty, desuu~!
+54	message	Umm, the pretty one from before... hmm?\nThat means...
+55	message	You there!\nAre YOU the ones who summoned the dream demons?
+56	message	These are called dream demons?\nFirst time I've ever seen such a thing!
+57	message	Dream demons attack people! Run!
+58	message	If they attack people,\nI can't just run away.\n...Good thing I came prepared for a fight, just in case.
+59	message	Way to go!
+60	message	We'll fight too, desuu!!
+61	message	Um... let's run away~.
+62	message	You know, running away at a time like this\nusually makes you victim number one, but\nyou're fine with that? Really fine with that??
+63	message	Uuuugh, (I wanna run but I can't,\nwanna run but I can't, wanna run\nbut I can't, wanna run but...)
+64	message	I'll back you up as much as I can!\nHang in there somehow!
+65	message	Understood!\nFiend! Taste the blade of the guardian!
+66	message	Whoa! So coool!!\nAlright! I'll try it too!!
+67	message	As long as evil exists in this world...\numm, what was the rest?
+68	message	(Huh... is this spook actually listening politely?)
+69	message	// Battle resumes\n// Black Tiffania appears when dream demons fall below a set number
+70	message	...
+71	message	Hm? Who are you?
+72	message	Hey... will you be my sacrifice...?\nMy very first... sacrifice...
+73	message	Don't say terrifying things so casually!
+74	message	Is this one a dream demon too?
+75	message	Doesn't seem like it... but those ears—\ncould she be a dark elf or something?
+76	message	Who? Dark-elf? Friend? Foe?
+77	message	No idea.\nBut I'm not about to become someone's sacrifice!
+78	message	// Battle resumes\n// Event triggers when Black Tiffania is defeated
+79	message	You'll... regret this...
+81	message	What does that mean...?
+82	message	Not sure, but\nshe doesn't seem keen on a real fight.
+83	message	W-what kind of person... I mean,\nI don't know if she's even a person... desuu?
+84	message	Hmm, I'll have to look into it.
+85	message	// After all enemies are wiped out, event on the map
+86	message	Fuuuh~! I'm beat, desuu~!!
+87	message	Huh? What's that?
+88	message	// Sonico appears
+89	message	Uhyaah!\nMan, one thing after another—we're swamped!
+90	message	U-ummm, pardon meeee!
+91	message	Hawawawa, she's talking to us, desuu!
+92	message	Well, she IS human. Of course she talks.
+93	message	Sorry to bother you while you're busy!
+94	message	She's, uh, bowing\nwith incredible force...?
+95	message	Ye-es! What is it?
+96	message	Haa, haa...\nUm, is this the right place for\nthe photo book shoot!?
+97	message	Huh? A shoot... this isn't one, though?
+98	message	Ah...!\nI-I'm so sorry!
+99	message	???
+100	message	Am I... lost...?\nB-but I gotta keep looking my best...!
+101	message	Uuuugh! Hiyah!
+102	message	// Sonico leaves.
+103	message	Someone you know?
+104	message	[CLAUDE], she was just as\nscatterbrained as you, no?
+105	message	I don't think I know her...\nBut what's a photo book?
+106	message	Not, huh?\nWell, let's calm down for now.
+107	message	// Battle over
+108	message	Man, [MERU]'s taste is\nas off-kilter as ever—\nthat almost got us killed.
+109	message	It is NOT off, and cute is\ncute, desuu!!
+110	message	That's right!!\nUm, um, thank you\nso much for helping us, desuu!
+111	message	No need—you saved me too.\nI was in a situation where I couldn't afford to waste time.
+112	message	// SFX: police siren
+113	message	Sounds like the commotion\ngot the police moving.\nThat settles things for now.
+114	message	Police?
+115	message	Yes. I'm Remu Ayanokouji.\nA detective specializing in paranormal cases.\nI'm on good terms with the police.
+116	message	You exterminate\nthose spooky things from before, desuu?
+117	message	That's right. Those are dream demons—\ndemons that come from the demon world and attack people.
+118	message	They normally appear inside dreams, but\nsometimes they materialize and act like that.
+119	message	You're less a detective, more a monster exterminator.
+120	message	Well, officially I'm a detective.\nSo, what about you all?\nYou appeared out of nowhere like teleportation.
+121	message	Um, desuu...
+122	message	// Fade to black: time passes
+123	message	You came from a different world...?
+124	message	Um, well,\nI... I thought you might not believe me,\nb-but desuu...!
+125	message	Hehe! You're more nervous\nthan when you were fighting dream demons. Cute!
+126	message	[MERU]'s shy around strangers.\nHonestly, she's totally different\nfrom when she talks to me...
+127	message	Relax, relax!\nI'm not THAT scary, am I?
+128	message	Y-yes, desuu~...\nI'm sorry, desuu...
+129	message	So, what kind of world did you come from?
+130	message	You believe us?
+131	message	Not to brag, but\nI've had my share of strange experiences.
+132	message	Besides,\nI don't think this girl could lie if she tried.
+133	message	H-hawawa... I'm sorry, desuu...
+134	message	Come to think of it, she's acting\npretty different from when I showed up, no?
+135	message	When you arrived, Tsubasa, I was even MORE flustered...\nyees, desuu~...
+136	message	We've fought together now,\nwe're not strangers anymore, right?
+137	message	Uu, I'm so glad\nboth you and Remu are such kind people, desuu...!
+138	message	You say you've had many strange experiences, but\nare people appearing from other worlds\nnot unusual around here?
+139	message	I'll need to look into that.\nI've been focused lately on the "sudden street-sleeping phenomenon"\ncase, so I don't know about anything else.
+140	message	The "sudden street-sleeping phenomenon"?
+141	message	People walking down the street suddenly fall asleep\nand can't be woken.\nCause is still unknown.
+142	message	This is one of the scenes, and\nthat's where the dream demons—and you lot—showed up.
+143	message	It's all one big mystery, desuu?
+144	message	Something like that.
+145	message	Ah! Oh no!\nI'm the only one who can wake\nthe sleeping people!
+146	message	Sorry! I'll head to the police station right away\nand wake the sleepers!
+147	message	Here, my card!\nIt's got my office address on it,\nso come visit sometime!
+148	message	Huh? Ah... hey, wait!
+149	message	See ya!
+152	message	Auuuuh, she's gone, desuu...
+153	message	// Sonico's voice is heard.
+154	message	Uu...\nS-so, which way is the shoot location...!
+155	message	Hunya? Whose voice was that?
+156	message	It's the headphone girl from before, desuu!
+157	message	She's still looking for something.\nPoor thing—alright!\nLet's help her out!
+158	message	H-hold on!!\nWE'VE got\nour own problems, desuu...
+159	message	C'mon, even our teacher said to help people in need!\nBefore that, though—what kind of person ARE you!?
+160	message	We don't know left from right here—\nhow do you think WE can help\nsomeone find something, desuu?
+161	message	You never know till you try!
+162	message	Geez, you're always all momentum...\nDo whatever you want, desuu.
+163	message	OK! Okay!! Leave it to me!\nMy magical magic'll solve it in one shot!
+164	message	I can't leave it to you, desuu!\nMaking MORE problems is\n[NOEL]'s worst habit, desuu~!
+165	message	Don't be so mad.\nPersonally,\nI'm with [NOEL] on this.
+166	message	Huh...?
+167	message	As a guardian,\nI can't abandon someone in need.
+168	message	See, see~! Ahem!!\nAnd it's not like those dream demon things\ncouldn't show up again.
+169	message	But...
+170	message	Here's what we'll do.
+171	message	[NOEL] and I will go\nlook for that girl, and you head\nto the Ayanokouji Detective Agency first. How's that?
+172	message	...
+173	message	We can call if anything happens.\nDon't worry.
+174	message	Unyuu...\nIf you say so, Tsubasa... okay, desuu.
+175	message	Um, what about me...?
+176	message	Hwauh!? That's right!\nYou were here too!!
+177	message	You've got no presence, desuu.\nIf you don't state your opinion clearly,\npeople forget you, desuu.
+178	message	Don't go by others' will—decide for yourself.\nNo one can take responsibility for you.
+179	message	You're right...\nChase after that girl from before, or\ngo to the Ayanokouji Detective Agency... what should I do?
+180	message	// Choice\n// Search for the girl with Tsubasa and Noel\n// Go to the Ayanokouji Detective Agency with Meru
+182	message	Understood.\nThough I'm worried about\n[MERU] being on her own.
+183	message	I'm fine, desuu! My magical yo-yo is\na martial art rooted in ancient assassination techniques!\nAs long as I walk without leaving an opening, I'm fine, desuu.
+184	message	That's right! With OUR techniques,\nthere's nothing to worry about!!
+185	message	[NOEL] tends to rush ahead,\nso don't be a bother to Tsubasa!
+186	message	Ha ha... [MERU],\nyou're like\n[NOEL]'s mom.
+187	message	I am NOT, desuu!!
+188	message	She's not!!
+189	message	// To 003A
+191	message	Ehhh, with ME, desuu~?
+192	message	(Uwaah... she thinks I'm dead weight... alright!)
+193	message	I-I'm a man, so\nI want to p-protect\nMiss [MERU]...
+194	message	Well, numbers-wise it's balanced,\nso why not.
+195	message	With [CLAUDE] along,\nwe've got healing covered.
+196	message	True.\n[MERU], I'm counting on you\nwith [CLAUDE].
+197	message	I'm not thrilled, but understood, desuu~.
+199	message	(Uuuugh, isn't the way they treat me... harsh?)
+200	message	(Can't lose heart, can't lose heart,\ncan't lose heart, can't lose heart...)
+201	message	...wait, huh? Nobody's here!?\nHeeey! Waaait for meeee!
+202	message	// To 003B
+204	message	Wh-what was that...
+205	message	I-I don't know, desuu...
+206	message	But right now,\nwe've got Soul Link active, desuu.
+207	message	Soul Link?
+208	message	Yes, desuu.
+209	message	Reluctantly, [NOEL] and I\nshare the same Soul, desuu.
+210	message	Muuugh, that was casually cruel...\nwell, whatever.
+211	message	What's a Soul?
+212	message	A Soul is like\na person's individuality, desuu.
+213	message	When someone with the same Soul is\ninside your Sympathy Area,\nSoul Link activates, desuu.
+214	message	The active Soul Link\ngrants all kinds of effects, desuu!
+215	message	So if you stick together with\nallies who share your Soul,\nbattles might go your way, desuu!
+216	message	// Show still image: active link list displayed
+217	message	You can check which Soul Links are active\non screen while moving and such, desuu!
+218	message	I see—checking who has what Soul\nwhile fighting might be fun!
+219	message	// Display off
+220	message	...Still, what WAS\nthat phenomenon just now, desuu...?
+221	message	//
+223	message	Huh, what's this.
+224	message	Ah, that's a Skill Coin, desuu.
+225	message	Skill Coin?
+226	message	Our teacher taught us before, desuu!\nYou don't remember, desuu?
+227	message	Umm...
+229	message	It's fine, it's fine!\nOf course I remember!
+230	message	I hope so, desuu...
+232	message	Knew it, desuu...
+233	message	Ehehe...
+234	message	Sigh, then I'll explain, so\nlisten well, desuu.
+235	message	// Show still image: coin equip screen
+236	message	Skill Coins have various skills sealed inside;\nequip one and you can use its skill, desuu.
+237	message	Some hold 'restricted skills' you can't use\nunless you equip a specific color combination, desuu.
+238	message	// ↓ unused
+239	message	Some hold 'restricted skills' you can't use\nunless you equip a specific color combination, desuu.
+240	message	// Display off
+241	message	For skills showing a Skill Coin icon in the ○ part,
+242	message	you can't use the skill unless you've equipped\nexactly that color combination of Skill Coins, so be careful, desuu!
+243	message	// Display off
+244	message	Also, Skill Coins can\nboost your attribute's power, desuu!
+245	message	// Display off
+246	message	The more Skill Coins of your attribute's color you equip,\nthe bigger the damage when you attack\nan attribute you have the advantage over, desuu!
+247	message	Equipping Skill Coins in your attribute's color\nboosts damage AND lets you use skills—great deal, desuu!
+248	message	Got it!
+249	message	// Display off
+250	message	You can only equip 3 Skill Coins at once, so\nbalance them out and find the best combo, desuu!
+251	message	// Display off
+252	message	You can get Skill Coins\nin all sorts of places, desuu.
+253	message	According to our teacher,\nyou can't get lots of them unless you enter\na certain mode, desuu!
+254	message	Not sure what that's about, though...
+255	message	...
+257	message	Got Skill Coins mostly figured out, desuu?
+259	message	When you get a Skill Coin,\nmake sure to equip it, desuu?

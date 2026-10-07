@@ -1,0 +1,177 @@
+row	column	english
+3	message	Alright, everyone!\nTime for a meeting!
+5	message	There's still seconds of sweet-and-sour pork!
+6	message	Is there still\nchashu ramen?!
+7	message	How about shiratama anmitsu for dessert?
+8	message	There's chiffon cake too!
+9	message	Where's my peach bun!?
+10	message	Uh-oh!? Busted, nyo!!
+11	message	I'm sooo full!
+12	message	Should I have cooked five more cups of rice...?
+13	message	...
+14	message	W-well... right after eating, this is normal.
+15	message	Being this relaxed\nkeeps things from getting too heavy, no?
+16	message	Some of us will listen properly.
+17	message	True.
+18	message	Shall we begin, then?\nI'll take the minutes.
+19	message	Got it. First, a summary of\nwhat we learned in Eve's lab.
+21	message	...So Eve was looking for a way\nto erase the Goddess of Destruction, but\nin the end the answer was 'impossible'.
+22	message	No way... there's no way\nto separate her\nfrom [MERU]!?
+23	message	No way... there's no way\nto separate her\nfrom [NOEL]!?
+24	message	And when she learns the truth of the world,\nthe Goddess of Destruction fully awakens.
+25	message	So that's why Eve tried to keep\n[MERU] away from Mie and them.
+26	message	So that's why Eve tried to keep\n[NOEL] away from Mie and them.
+27	message	Sounds like Eve didn't know\nthe truth of the world.
+28	message	So it's certain that the current [MERU]\nhasn't fully awakened?
+29	message	So it's certain that the current [NOEL]\nhasn't fully awakened?
+30	message	On that, I'd like to hear\nfrom Mion and the others who observed her directly.
+31	message	[MERU] — or rather, I'll\ncall her the Goddess of Destruction —\nseems to act in a fixed cycle.
+32	message	[NOEL] — or rather, I'll\ncall her the Goddess of Destruction —\nseems to act in a fixed cycle.
+33	message	A cycle?
+34	message	Just when I thought 'she's moving!',\nshe suddenly ran off. Twice, even.
+35	message	That's what saved our lives, though.
+36	message	Lucky you survived... According to Eve's research,\njust approaching the Goddess of Destruction\nturns all things to dust.
+37	message	Dust just from approaching...?
+38	message	Good thing we didn't carelessly approach,\nIS or not...
+39	message	But Mie got beat up by her, y'know?\nDidn't look like she turned to dust.
+40	message	Because she's not complete yet?
+41	message	Or maybe Mie's just super strong?
+42	message	Or both.
+43	message	Either way, we should assume\nwe can't do anything about\nthe Goddess of Destruction physically.
+44	message	If even Eve judged her unkillable,\nI doubt we — who couldn't beat Eve —\ncould do anything.
+45	message	Yeah. Mie's tough enough,\nand she went down in one hit. No way, no way!
+46	message	So, what do we actually do\nto protect the doujin event, nyo?
+47	message	Um... if [MERU] is\njust a sleepyhead,\nand stays asleep,
+48	message	couldn't we do all sorts of things\nin the meantime?
+49	message	Um... if [NOEL] is\njust a sleepyhead,\nand stays asleep,
+50	message	couldn't we do all sorts of things\nin the meantime?
+51	message	Isn't that impossible?\nHer sleeping forever?
+52	message	Y-yeah, you're right... Just because I'm bad\nat mornings doesn't mean\neveryone else sleeps the same way...
+53	message	Uu... when you're in a warm futon,\nit's so hard to get up...
+54	message	...Sleep... sleep... hmm.
+55	message	Did you think of something?
+56	message	Just a hypothesis, but if\n[MERU] is asleep,\nwe might manage something.
+57	message	Just a hypothesis, but if\n[NOEL] is asleep,\nwe might manage something.
+58	message	Really!?
+59	message	Hey, [NOEL],\ncan you try syncing\nwith [MERU]?
+60	message	Hey, [MERU],\ncan you try syncing\nwith [NOEL]?
+61	message	Sync?
+62	message	Remember when [MERU] and I\nswapped bodies?
+63	message	Back then, the teacher rigged us\nso we could share sensations.
+64	message	Remember when [NOEL] and I\nswapped bodies?
+65	message	Back then, the teacher\nrigged us two\nso we could share sensations.
+66	message	She'd try anything, nyu.
+67	message	If by sharing sensations\nwe can confirm\n[MERU]'s asleep...
+68	message	If by sharing sensations\nwe can confirm\n[NOEL]'s asleep...
+69	message	Ah! Remu's 'dream power'!!
+70	message	Right. With my dream power,\nwe should be able to enter\n[MERU]'s dreams.
+71	message	Right. With my dream power,\nwe should be able to enter\n[NOEL]'s dreams.
+72	message	I see, an interesting plan.\nBut can we really contend with\nthe Goddess of Destruction in a dream?
+73	message	We won't know till we try.\nBut fighting in the material world, our odds are zero.\nI think there's still a chance.
+74	message	Fighting in a dream... like\nwhen we fought in Tesla's dream?
+75	message	There was also when I fought my black self.
+76	message	In the dream world, strength of heart becomes power.\nI wonder if we all have the resolve\nto fight in such a world?
+77	message	No need to even ask.\nRight, everyone?
+78	message	Yes! It'll definitely be okay!\nBecause you're the stars of this story —\nsuper heroines!
+79	message	S-super heroines?\nAren't you the only 'suuper' one...
+80	message	That's not true!\nEvery single one of you\nis a super heroine!
+81	message	If Soniko says so, can't argue, nyo.\nSuper heroines it is, nyo!
+82	message	Is that okay...?
+83	message	Maybe that kind of spirit\nis a good thing?
+84	message	True! When you're trying to make the impossible possible,\nmomentum matters!
+85	message	Can't run from this one.\nNot that I was gonna run anyway!
+86	message	But there's just one problem.
+87	message	Problem?
+88	message	There's one person who\nabsolutely can't be a heroine...
+89	message	...?
+90	message	Aaah!!
+92	message	Let's confirm the plan.\nFirst, split into two teams.
+93	message	One secures the area\naround the Goddess of Destruction. The other\ndives into the dream.
+94	message	The security team stays in the normal world\nguarding against Mie and Kei's attacks\nwhile Remu's group dives into the dream.
+95	message	So we don't go into the dream.
+96	message	Members diving into the dream\ncan't deploy with the security team,\nso split with that in mind.
+98	message	I'll approach the dormant Goddess of Destruction\nwith [NOEL] and\nattempt the sync.
+99	message	I'll approach the dormant Goddess of Destruction\nwith [MERU] and\nattempt the sync.
+100	message	And if it works, into the dream.
+101	message	I have no idea\nwhat the odds of success are.\nBut let's believe we can do it!
+102	message	It's not about whether we can — we'll DO it!
+103	message	Hibiki's right. We'll see it through!
+104	message	Obviously! It's our only shot!
+105	message	Just do what we've always done! Right?
+106	message	Impossible, limits, whatever —\nI'll punch a hole through any wall like that!
+107	message	This feels good! With everyone,\nI feel like we can do anything!
+108	message	Let's all protect the doujin event, nyo!
+109	message	Then let's all do THAT to get fired up!
+110	message	THAT! Let's do it!
+111	message	Swap 'angel' for 'heroine',\neveryone, stay in sync!\nReady!
+112	message	Let's go, fever tiiime!
+114	message	Lovely heroines!!
+116	message	Decided!
+117	message	Move out!!
+118	message	Yeah!!
+121	message	Good, she's in her stopped phase.
+122	message	Approach all at once?
+123	message	I'm nervous... thinking\nabout one wrong step.
+124	message	We'll manage anyway! We'll show her!
+125	message	That spirit is what matters.
+127	message	You called, I jumped out — ta-daaa!
+128	message	Nobody called you!!
+129	message	So she did come...
+130	message	Combat power: unmeasurable.\nBehavioral principle: incomprehensible.
+131	message	Kei's here too...
+132	message	They see this as the decisive moment too!
+134	message	...
+135	message	...
+136	message	What's that?
+137	message	No idea, but we have to go!\nEveryone, Mie and Kei are yours!
+140	message	That's Mii's fun!\nNo stealing it!
+141	message	Do you even know what that is?
+142	message	Not knowing is what makes it fun!\nAhaha!!
+143	message	Fearless children are scary...
+145	message	Per Mie's orders, eliminating interference.
+146	message	You've gotten awfully obedient.
+147	message	Mie is a higher existence than me.\nHer orders are absolute.
+148	message	I don't think that's happiness\nfor you, though.
+150	message	Good, this close!\n[NOEL]!
+151	message	Yes!
+152	message	Good, this close!\n[MERU]!
+153	message	Yes!
+155	message	Starting sync!
+156	message	Starting sync!
+158	message	Ngh, no good!\nThis black haze is blocking it!
+159	message	Uu, no good!\nThis black haze is blocking it!
+160	message	So it was a barrier!\nAnd barriers are for smashing!\nEveryone! Attack!
+163	message	We did it!
+164	message	This time for sure! I'll sync!
+165	message	This time I'll sync!
+167	message	We did it... success...
+168	message	We did it... success...
+169	message	What's [MERU]'s state?
+170	message	What's [NOEL]'s state?
+171	message	This is... a dream?\nShe's fighting... the enemy is...?\nThe Goddess of Destruction!
+172	message	This is... a dream?\nShe's fighting... the enemy is...?\nThe Goddess of Destruction!
+173	message	It's a dream? No doubt!\nThen!
+175	message	Psycho power, full throttle!! Let's go!!
+177	message	Everyone! The rest is up to you!\nDive team, ready? We're going in!
+178	message	Me too!
+179	message	I'm going too!
+181	message	Ahh! Mii wanna go too!
+183	message	Cheh, fine! Going home!
+185	message	Withdrawal, acknowledged.
+188	message	We can do it!\nInto [MERU]'s dreams!
+189	message	We can do it!\nInto [NOEL]'s dreams!
+190	message	Everyone, no matter how strange that world is,\ndon't be afraid! Strength of heart becomes power!\nNever forget that!
+191	message	[MERU]'s surely\nfighting too...\nwith strength of heart as her weapon...!
+192	message	[NOEL]'s surely\nfighting too...\nwith strength of heart as her weapon...!
+194	message	Was that acceptable?
+195	message	Yeah. I just had a little flash of inspiration!
+196	message	Either side winning would be fun!
+197	message	What do you mean?
+198	message	Normally you'd think the black one wins, right?\nThen I can play with it, and\nif it loses, that's fun too, right?
+199	message	Huh?
+200	message	The most boring thing would be beating up\nthat motionless black monster over there.\nSo I stopped! Mii's smart!
+201	message	I cannot understand\nthe difference between boring and fun.
+202	message	You'd think you'd get it by now.
+203	message	Perhaps it's forever impossible.
+204	message	Well, whatever.\nMama's decision won't change anyway!
+205	message	...Indeed.

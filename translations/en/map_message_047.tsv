@@ -1,0 +1,295 @@
+row	column	english
+3	message	Take this, Dejiko!!
+4	message	// SE: water gun firing sound
+5	message	Ginyaa!?\nTaken down by the likes of Usada, nyo!!
+6	message	And Dejiko's out!
+8	message	So frustrating, nyo!!\nI didn't want to lose to Usada\nof all people, nyo!!
+9	message	O-ho-ho-ho!\nMy shooting sense is better than yours too!
+10	message	Anyway, Usada!\nWhy are you still here, nyo!\nGo back to Gamers, nyo!
+11	message	Why?
+12	message	'Why' is not the answer, nyo!\nYou've got no business here anymore, nyo!
+13	message	You said it yourself, right?\nThat my reason for losing\nwas picking the wrong friends.
+14	message	So what, nyo?
+15	message	Which means, if I become friends\nwith the same people Dejiko's friends with,\nthe conditions are the same!!\nThere'd be no reason for me to lose!
+16	message	Ohh, I see, nyo... NOT, nyo!!\nYou lost, Usada, nyo!
+17	message	I just won! That makes us even!
+18	message	You're such a sore loser, nyoo!!
+20	message	Your guard's down, Usada!
+21	message	// SE: water gun firing sound
+22	message	Aaah!?
+23	message	Usada's out!\nYou put up a great fight for your first time,\nbut too bad!
+25	message	Hey!\nIt's Dejiko's fault I lost!
+27	message	Serves you right, nyo~.
+29	message	No looking away\nin this water-gun battle.
+31	message	Exactly!!
+33	message	// SE: water gun firing sound, dodged by Rena
+34	message	Not a chance!
+36	message	Ohh, it's down to Aria and Rena!\nThis duel's gonna be worth watching!
+38	message	Sorry, but I'm taking this win!\nA pro keeps track of her opponent's\nremaining shots too...\nYou've got one shot left at most, Rena!
+39	message	...!
+40	message	With that much water, your range\nis two meters at most,\nthree if you're lucky.\nThis match is mine.
+41	message	You're not thinking this through, Aria.
+42	message	What was that?
+43	message	A club veteran keeps track\nof the disqualified players'\nremaining shots too!
+44	message	Usada and Dejiko's water guns!?\nWhen did you—!?
+45	message	Now I've got the ammo advantage.\nCome on, let's settle this!
+46	message	...I see.\nNow I understand how you've\nsurvived this far.
+47	message	But with your skill,\ntaking me down is impossible!
+48	message	Is that so? I wonder~
+49	message	No mercy! Here I go!
+52	message	...!
+54	message	// Rena moves a beat later
+55	message	It'll be hard for Rena to catch\nAria's movements. Unless she can force\nit into real close quarters.
+56	message	But Aria's low on ammo.\nTo land a hit before running dry,\nshe has to get close!
+57	message	That's what makes it fun!\nRena! Show 'em the pride\nof a club veteran!
+58	message	//
+59	message	I've got three shots.\nRena's got an estimated eight.\nBut she's holding three guns—\nthere's always an opening when she switches!
+60	message	Hiyah!
+62	message	// SE: water gun firing sound, dodged by Aria
+63	message	Now! Her right gun's empty—she's switching!
+64	message	That's Aria!\nCircling to the right and closing in!
+65	message	Got her hooked!
+66	message	Wh—!?
+67	message	// SE: water gun firing sounds x2; Aria and Rena are hit simultaneously.
+68	message	Ugh!
+69	message	Hyah!
+70	message	That's enough!\nHmm, looked like a simultaneous hit to me,\nbut what do you think?
+71	message	//
+72	message	I couldn't see a difference either.
+73	message	I couldn't tell at all!
+74	message	Then it's a draw!\nBoth of you win!
+75	message	Tch... how careless of me...
+76	message	Phew... I thought I had it, though.
+77	message	That was a duel for the ages, wasn't it.
+78	message	You were both wonderful, you know~
+79	message	Rena... at the end, how did your right water gun\nstill have two shots' worth of water?\nIt didn't look like you switched.
+80	message	While I was running at a distance,\nI shot the refill port of my right gun\nwith my left gun, where you couldn't see,\nto top it up.
+81	message	Huh... so that's the trick?
+82	message	That's something you can only do\nwith a water gun, not a real one.
+83	message	I see... I was thinking in terms of real guns,\nso that idea never occurred to me...
+84	message	It might not have worked\non Mii-chan or Satoko-chan.
+85	message	You got me.\nIt was a draw, but it feels like I lost.
+86	message	You're amazing.\nAn amateur, yet you fought thinking through\nyour weapon's traits and your opponent's mind...
+87	message	Must be the fruits of\ndaily club activities! I wonder~
+88	message	(I'm starting to understand...\nwhy a partner is needed.\nIdeas and ways of thinking I don't have...\nthey help me grow...)
+89	message	// Fade to black\n// Background: a cafeteria-like place
+90	message	So what are we doing from here?
+91	message	Hmm...
+92	message	About that—could we head back to IS Academy?\nI'd like to get my IS serviced.
+93	message	The plan to regroup at IS Academy\nwas partly for the maintenance schedule.
+94	message	We also need to submit our data to IS Academy,\nand the unstable situation in Europe worries me.
+95	message	Then, unless anyone objects,\nlet's go to IS Academy.\nDeparting tomorrow work for everyone?
+96	message	Think we'll get ambushed?
+97	message	Even without us personal-IS pilots,\nIS Academy has its teachers,\nso it can't be attacked that easily!
+98	message	For us, with the enemy getting ahead of us,\nit's a somewhat reassuring destination.
+99	message	// Fade to black\n// Background: in front of IS Academy
+100	message	—IS Academy
+101	message	// Fade to black\n// Background: IS Academy classroom
+102	message	Rin and the others aren't back\nfrom reporting yet.
+103	message	There's the medical checkup too,\nso it won't be quick.
+104	message	I wonder if the enemy\nreally didn't set an ambush?
+105	message	Right now it's the very picture of peace!
+106	message	So I guess there's no idiot dumb enough\nto pick a fight with an academy\nfull of IS pilots?
+107	message	There was, though...
+108	message	// Koto enters.
+109	message	It's an emergency, sis!
+110	message	What's wrong, Hachi?
+111	message	It's Koto, not Hachi!\nAnyway, it sounds like IS Academy's\ndoing something fun!
+112	message	What what? What are they doing?
+113	message	The fun thing is...
+114	message	// Fade to black: passage of time
+115	message	Hweh? A mixed tag match?
+116	message	People with IS units team up\nwith people without them for matches?
+117	message	Something about IS-vs-IS combat training\nnot being enough for the current situation,\nor whatever.
+118	message	True—fighting in coordination\nbetween IS pilots and those who can't fly\ntakes special training.
+119	message	Sounds fine.\nNothing to lose by trying.
+120	message	So, what are the teams?
+121	message	IS Academy's deciding based on the data,\napparently. I wonder how it'll turn out~?
+122	message	// Battle map: IS Academy arena\n// Player deployment: Cecilia & Sonico, Rin & Dejiko, Charlotte & Puchiko, Laura & Siesta, and Houki & Hibiki teams are deployed.
+123	message	Cecilia, let's do our best!
+124	message	Leave it to me and victory is certain!
+125	message	//
+126	message	Dejiko! If we're doing this,\nwe're winning, got it!
+127	message	What a pain, nyo~.\nUsada, take my place, nyo.
+128	message	Just go get beaten already, Dejiko!
+129	message	What'd you say, nyo!?\nDon't screw with me, nyo!!
+130	message	//
+131	message	Puchiko, I'll definitely protect you,\nso don't worry.
+132	message	Fight properly, nyu.
+133	message	As you wish, my princess.
+134	message	//
+135	message	Why am I not teamed with my wife?!\nUnacceptable!
+136	message	Maybe because you and Hibiki together\nwould be too strong?
+137	message	//
+138	message	Let's do our best, Houki!
+139	message	(So I'm the only one with a handicap...)
+140	message	//
+141	message	The rule is: if either teammate\ngoes down, you lose, right?
+142	message	Looks like we'll be protecting\nour partners.
+143	message	Since we can't fight selfishly,\nthis'll be different from\nan IS-vs-IS match!
+144	message	Honestly, this isn't my strong suit.\nSiesta, don't do anything—\njust watch the surroundings\nand give me directions.\nThat'll be easier for me.
+145	message	Understood!\nI'm counting on you!
+146	message	Houki, what should we do?
+147	message	Don't overthink it—\njust do what we always do.\nWe both know each other's strength,\ndon't we?
+148	message	Yeah! All right, let's go!
+149	message	The tag match is finally starting!\nAria, who do you think'll win?
+150	message	I'd like to say Hibiki and Houki, but...
+151	message	Dejiko's in this, y'know.\nRin's a tricky one too—\nfeels like they'll stir things up.
+152	message	Then Puchiko and Charlotte,\nwho can read Dejiko's personality,\nmight have a shot?
+153	message	In raw IS combat power,\nLaura's a cut above the rest.\nHow the others fight her\nis worth watching too.
+154	message	What if Cecilia carried Sonico\nand fought in the air?
+155	message	This format favors the Blue Tears.
+156	message	When you have to protect someone\nbesides yourself, bit attacks\nare a threat, you know.
+157	message	Everyone, good luuuck!!
+158	message	Urgh, I wanted to compete too!!
+159	message	//
+160	message	The mixed tag match will now begin!\n3... 2... 1...
+161	message	Hooold on a minute!
+162	message	Who's there!?
+163	message	The voice—it's coming from\ninside the arena!?
+164	message	// Riko and Jeanne appear
+165	message	You're doing something fun!\nRikoring wants to join too!
+166	message	...
+167	message	Riko Mine!! Jeanne!!
+168	message	I'm entering the tag match\nteamed with Jeanne, so if we win,\nhand over the Blue Tears!
+169	message	I will NOT!!
+170	message	Intruders will be eliminated.\nThat's all.
+171	message	Why nooot! Scared you'll lose!?
+172	message	Still, declaring you'll join\nin this situation takes some nerve...
+173	message	Maybe they have another objective...!
+174	message	Don't care, nyo!!\nPreemptive strike! Eye beams!!
+175	message	// Dejiko attacks Riko; battle animation off, damage to Riko
+176	message	So meaan!!
+177	message	The battle-start countdown\nalready ended, nyo~!\nIt's not cowardly at all, nyo~!
+179	message	Riko, enough playing around?
+180	message	Tch. Yeah yeah, I'll get serious.
+181	message	// Grunts are also deployed in large numbers
+182	message	Eeep!\nThis many participants!?
+183	message	They don't look like they're\nteamed up.
+185	message	Oh, I reinforced the barrier here.\nThe folks in the stands\ncan't barge in.
+186	message	I locked the security shutters too.\nBeing a spectacle isn't my taste,\nbut Riko wanted it...
+187	message	Then, IS fight, ready... go!!
+188	message	You're not even an IS!!
+189	message	// Battle begins\n// The battle itself is a normal battle.
+191	message	I won't stand for this outrage!!
+192	message	You're still fighting with that rust bucket?
+193	message	It's grown on me as I use it.\nThat's what an IS is!
+194	message	But it's just one sword, isn't it?
+195	message	// Event triggers when Riko and Cecilia engage
+196	message	The Blue Tears, just as I thought!
+197	message	Of course!\nYou have a good eye,\nas expected of a phantom thief!
+198	message	Hand it over!
+199	message	Absolutely NOT!!
+200	message	// Event triggers when Riko engages Dejiko
+201	message	Say, haven't we met somewhere before, nyo?
+202	message	Huh? Rikoring hasn't gone\nwindow-shopping at Gamers or anything?
+203	message	I knew it—you're that customer\nfrom back then, nyo!!
+204	message	Sorryyy, I've been busy lately\nand haven't had time for games.
+205	message	I understand that, nyo...
+206	message	// Event triggers when Jeanne and Siesta engage
+207	message	You were useful to me.\nIf you're willing to serve me,\nI could take you on?
+208	message	I'm honored by the offer, but I must decline.\nI serve the Tristain royal family—\nI cannot betray Her Majesty the Queen.
+209	message	I see... the Queen, huh...
+210	message	Of course, I like Louise too!
+211	message	(Her...? Strange tastes...)
+212	message	// Event triggers on defeating Riko
+213	message	I was going for a tag match,\nso maybe I was a bit off my game~?
+214	message	Excuses are unsightly.
+215	message	Slipping away quietly would be way lamer!\nSee ya later!
+216	message	// Event triggers on defeating Jeanne
+217	message	I came at Riko's request, but forcing things\nthrough goes against my principles.
+218	message	Sounds like you've got it rough\nover there too.
+219	message	I don't recall asking for your sympathy.\nFarewell.
+220	message	// Clear when all enemies are wiped out
+221	message	That's taken care of.
+222	message	Sheesh, so what happens\nto the tag match?
+223	message	That's hardly the point.\nWe were attacked.
+224	message	For us, it might've been\ngood training after all.
+225	message	// Battle ends
+227	message	Sheesh, what an ordeal, nyo...
+228	message	All's well that ends well, nyu.
+229	message	Still, the enemy sure is reckless!
+230	message	Still after the Blue Tears, huh.\nEven though they couldn't use it anyway!
+231	message	Everyone! Glad you're all safe.
+232	message	It was nothing.\nEveryone's getting used to fighting.
+233	message	Still, I have no idea\nwhat Riko's thinking.
+234	message	What does she gain from repeating\nattacks like this, I wonder?
+235	message	Not being able to read her intentions\nmakes it creepier.
+236	message	Huh? Where'd Houki go?
+237	message	She's not here, now that you mention it...
+238	message	// Fade to black\n// Background: in front of IS Academy
+239	message	...
+240	message	That battle made me realize it again.\nAs I am, I'll only hold everyone back.
+241	message	...All right, I've decided!
+242	message	// Houki calls her sister on her phone\n// SE: dialing
+243	message	—. ...Sis.
+244	message	// Fade to black\n// Background: IS Academy classroom
+245	message	Aw, no going out for a while, huh.\nBoring.
+246	message	It's a shame, but it can't be helped\nright now...
+247	message	With security completely hijacked\nand a stunt like that,\nthe academy's gonna be in an uproar.
+248	message	At times like this, let's relax.\nIf only there were something\nto take our minds off it...
+249	message	Hey, anyone wanna play tennis?\nThey've gotta have tennis courts, right?
+250	message	Oh, Kurumi plays tennis?
+251	message	Sure do!\nGotta play once in a while\nor my skills get rusty.
+252	message	Then I'll be your opponent!\nI'm pretty good, you know!
+253	message	Bring it on!
+254	message	Sounds great~!\nLet's all have fun!
+255	message	Doubles would be fun, right?\nI'm in too!
+256	message	Can you even play, nyu?
+257	message	I've played before, you know!
+258	message	Aoi, won't you play with me?
+259	message	Huh? Me...?\nBut I'm not very athletic...
+260	message	It's fine!\nI'll back you up!
+261	message	True... if I play,\nmaybe others will feel like joining too.\nKurumi, I'm counting on you!
+262	message	Yes!
+263	message	I'll handle the court reservation\nand equipment!
+264	message	Then I'll prepare lunch boxes and drinks.
+265	message	I'll help too.
+266	message	We'll be watching, you know~
+267	message	I was good at baseball, though.\nWhat a shame.
+268	message	// Fade to black\n// Background: top of stairs (or a substitute)
+269	message	Sigh...\nI still feel so deflated...
+270	message	With Teacher gone, who knows\nwhere [NOEL] is or what they're doing...
+271	message	I don't understand anything...\nwhat should I do...
+272	message	You're as passive as ever.
+273	message	That voice!
+274	message	...Long time no see.
+275	message	How did you get in here!?
+276	message	I don't think I need to say.
+277	message	What do you want...?
+278	message	Isn't it obvious!\nIt's about Teacher!\nWhere'd she go?
+279	message	I don't know...\ndoesn't [NOEL] know?
+280	message	There it is again!! Again!!\n[MERU]! What are you even doing?!
+281	message	Huh?
+282	message	You finally found Teacher\nand got to be together!\nHow can you just sit there\nwith an 'oh, she's gone' face!?
+283	message	Th-that's not fair!!\n[NOEL] met Teacher too,\nand still attacked her!!
+284	message	And why am I the bad one!!
+285	message	You are!!
+286	message	I am not!!
+287	message	Anyway, what is [NOEL]\neven doing!
+288	message	Trying to prove you're better than me\nin front of Teacher!\nThat's so childish!!
+289	message	What do you know, [MERU]!!
+290	message	I don't know!!\nI don't know anything at aaaall!!
+291	message	//END_Meru
+292	message	Sigh... where'd Teacher go...
+293	message	[MERU] too—everyone calls me childish,\nbut they're all the same...!
+294	message	What should I do about Teacher and [MERU]...\nI don't get it at all.
+295	message	You think you can just wing it, don't you?
+296	message	Huh?
+297	message	...Good grief.
+298	message	Wait, how did you get in here!?
+299	message	Figure that out yourself.
+300	message	You're looking down on me as always!
+301	message	So, where did Teacher go?
+302	message	I don't know.\nShe was gone before I noticed...
+303	message	Phew~—[NOEL] really is\nan idiot, idiot!!
+304	message	Wh-what do you mean!
+305	message	You're an idiot because\nyou don't think about anything!\nYou never once thought about\nwhat Teacher's thinking\nor what she's trying to do!!
+306	message	But Teacher never talks\nabout that stuff...!
+307	message	You call me passive,\nbut what about you!!
+308	message	[MERU]'s bad too!!\nPicking a fight with me in front of Teacher!\nAnd you think you can complain!?
+309	message	It's all [NOEL]'s fault!
+310	message	That's crazy!\n[MERU], aren't you forcing yourself?\nWhat you're saying makes no sense!
+311	message	Ptbbt!\nI'm still better than [NOEL]!!
+312	message	What do you mean 'better'!\n'Better' how!!
+313	message	//END_Noel

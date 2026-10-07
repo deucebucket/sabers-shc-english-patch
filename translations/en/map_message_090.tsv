@@ -1,0 +1,215 @@
+row	column	english
+3	message	I recognize this place. Nostalgic...
+4	message	If that's an act, color me surprised.
+5	message	The possibility of him being a spy is not zero.
+6	message	A spy, huh... My role\nwasn't a spy, but\nmaybe it was something close.
+7	message	Erasing your very existence is simple.\nDo you understand?
+8	message	If you erase me, won't you get scolded?
+9	message	By Mama?
+10	message	That's right.\nBecause your Mama\nis my Mama too.
+12	message	Huh?
+13	message	!?
+14	message	...Shall we go.
+17	message	He is...
+18	message	Big brother...?
+21	message	...
+22	message	I've returned.
+24	message	Mama!
+25	message	We've returned.
+26	message	[CLAUDE], well done making it here.\nMie, Kei — return to the surface.
+27	message	Ehh? I wanna talk!\nIs he really Mii's big brother?
+28	message	Requesting data.
+29	message	You don't need to know.
+30	message	Ehh! Why, why!!
+31	message	It's decided. Move quickly.
+32	message	Uu... fiiine...\nLet's go, Kei-chan.
+33	message	Understood.
+35	message	What should I call you?
+36	message	As you like.
+37	message	Then I'll call you Mother.\nBefore my report, I'd like to confirm:\nyou created Mie and Kei, didn't you?
+38	message	That's right.
+39	message	Then the Goddess of Destruction —\nno, you made the thing that returns the world to nothing too?
+40	message	That's right.
+41	message	May I ask why?
+42	message	Because you never awakened.
+43	message	...When was I made?
+44	message	Long ago.\nThe you I sent to the surface never activated\nand stayed asleep.
+45	message	You were a failure.
+46	message	A failure...
+47	message	By then, Mother was\nno longer a perfect supervisor.
+48	message	Yes... I remember why\nI was made. It was...
+49	message	so that you, who were becoming abnormal,\ncould regain your rightness.
+50	message	But [CLAUDE] was a failure.\nMistakes must be corrected.
+51	message	And the reset device for that\nwas the Goddess of Destruction?
+52	message	Humanity must not know this world's truth,\nits mechanism. When they do,\neverything must be redone.
+53	message	But you're a supervisor.\nYou shouldn't have the authority to pass judgment on humanity yourself.
+54	message	I keep that rule.\nI have not ordered the world's reset.
+55	message	I see... so that's why\nyou made Mie and Kei?
+56	message	Entrust the world to those children,\nand the world inevitably falls into disorder.
+57	message	And one carrying the Goddess of Destruction's factor\nwould eventually learn the truth of the world and awaken.\nThat was the script...?
+58	message	But even that ended in failure.
+59	message	The Goddess of Destruction\ndidn't awaken properly.\nFailed because of Mie and Kei...
+60	message	I am not normal.\nThat is why mistakes occur.
+61	message	...That's why I came back.\nI'm the only one who might\nrestore you to normal.
+62	message	[CLAUDE], can you fulfill\nyour role?
+63	message	Yes. I will submit to you\nthe human data I've gathered.
+64	message	The reason I was made, the role I was given,\nis to gather data to repair\nyour degrading data.
+65	message	Now is the time to fulfill it.
+66	message	[CLAUDE]... well done.\nCome, this way.
+67	message	Yes.
+69	message	Data link start.\nTransferring all my data to Mother.
+71	message	...If this restores Mother to normal...
+72	message	Thank you, [CLAUDE].
+73	message	The way to solve everything\nis already prepared.\nWith the data you provide...
+75	message	The world and humanity will be unnecessary!!
+76	message	Huh!?\nMother! You couldn't!?
+77	message	Data salvage complete.\nErasing [CLAUDE]'s original data.
+78	message	W-wait!!
+79	message	Delete.
+82	message	........................................................................................................\n........................................................................................................\n............
+83	message	........................................................................................................
+84	message	…
+85	message	......
+88	message	Fufufu... fufufufufuu fufufufufuu fufufufuu\nfufufufufufufufufuu fufufufufufufufufufufufuu\nfufu!!
+90	message	Heeey, Kei-chan! What should we do~?
+91	message	What do you mean?
+92	message	This hide-and-seek, y'know,\nthey're never gonna find him, right?
+93	message	You mean those searching for [CLAUDE].
+94	message	Never losing is boring, y'know!
+95	message	Then what?
+96	message	Got any ideas to make it more fun~?\nLike...
+97	message	Like?
+98	message	Ah! I thought of something good!
+99	message	I have a bad feeling.
+100	message	Fufuun!\nLet's quit hide-and-seek!!
+102	message	[CLAUDE]'s\nnot here...
+103	message	He's a genius at hide-and-seek!\nGood thing it's not a club sport.
+104	message	He'd surely win solo.
+105	message	This is no time for jokes.\nSearching this much with no sign —\nthe worst case is possible.
+106	message	Hee, Cecilia, you're surprisingly\nworried about [CLAUDE]?
+107	message	Don't get the wrong idea!\nI dislike\nfeeble men!
+108	message	Well, [CLAUDE]'s not really someone\nto look at that way.
+109	message	Exactly! It's like pity\nfor a miserable creature! Mole crickets and\nwater striders live too, after all!
+110	message	Insect-level, though...?
+111	message	But ninjas hide\nin earth and water too, so maybe...!?
+112	message	A ninja after all.
+113	message	The wimpy vibe is his disguise for hiding in society!?
+114	message	Impossible. If he's a ninja,\nby that math I'd be president!
+115	message	What kind of math is that!\nJust hurry up and search.
+116	message	Kurumi, you're searching hard.\nWorried after all?
+117	message	In a different sense. I feel like\nhe's gone somewhere\nunbelievable.
+118	message	Somewhere unbelievable?
+119	message	A guy who's prime friend material\nescaping this environment —\nnot even if heaven and earth flipped!
+120	message	(I can see about ten million people\naround the world nodding hard, nyu.)
+121	message	Everyone's cute, sure, but\nis it THAT amazing...?
+122	message	Hauu~,\nthey're so amazing\nI wanna take them all home!
+123	message	Rena, your eyes are scary!?
+124	message	Kurumi's got a point.\nThere's hardly a better place\nthan here.
+125	message	And the food's the best!!
+126	message	Maybe he's into...\nthat side of things, nyo?
+127	message	Hm, the way of shudo, then.\nPlausible for a ninja.
+128	message	Drop the ninja thing!
+130	message	Hm!? What!?
+131	message	Enemy attack! Prepare to deploy!
+132	message	Yes!
+133	message	Tch, stayed here a bit too long!
+135	message	Here they come!
+136	message	Persistent, nyo!
+137	message	Hiya hiya! It's Mii!\nToday I've brought some\nbig news!
+138	message	Hmph, 'play with me and I'll tell you',\nis that it?
+139	message	That procedure is unnecessary.
+141	message	Tell us\nwhere [CLAUDE] is!
+142	message	Where's [CLAUDE]!?
+143	message	[MERU]!\nDon't go out carelessly!
+144	message	[NOEL]!\nDon't go out carelessly!
+145	message	Oh, you came out!\nFine, I'll tell you right away!
+146	message	Huh?
+147	message	Huh?
+148	message	This place, y'know,\nisn't a planet — it's inside a spaceship!
+149	message	Huhhh?
+150	message	Hweh?
+151	message	It's an ark ruled by the great Master,\nand the Master made the Goddess of Destruction!
+152	message	...What is that?
+153	message	That's as much nonsense as\n'Hinamizawa is being invaded by aliens'...
+154	message	The Master put me in charge of\nruling this world and having fun doing it.\nAmazing, right?
+155	message	Sounds like a sketchy cult recruitment, nyo...
+156	message	That's a hard-to-comment-on kind of joke.
+157	message	Kei-chan! They don't believe me!
+158	message	With this, the Goddess of Destruction\nshould fully awaken.\nError, error, unable to analyze.
+159	message	I don't understand\na single thing you're saying?
+160	message	You with the long name, shush!
+161	message	Ah, maybe [MERU]'s\nthe type who doesn't get space stuff?
+162	message	Ah, maybe [NOEL]'s\nthe type who doesn't get space stuff?
+163	message	No, I know about it.
+164	message	I know that much.
+165	message	Then fully awaken!
+166	message	!!
+167	message	!!
+168	message	Is it coming?
+169	message	UOOOOOOH\nOOOOOOH\nOOOH!!
+170	message	Wooooooooooooooooooooooooooooo\nwoooooooooooooooooooooo\nwooo!!
+172	message	Here it coooomes!!
+173	message	Juuust kidding, desu~!
+174	message	Just kiddiiing!
+175	message	Nya-nyaa!?
+176	message	The Goddess of Destruction?\nWe already beat her, desu~.
+177	message	The Goddess of Destruction?\nWe knocked her out, so\nshe's probably not around anymore.
+178	message	…!?
+179	message	Guess that means we're stronger?
+180	message	That means we're stronger, desu~!
+181	message	No waaay!!
+182	message	Lies!!
+183	message	Ah, right — you two weren't inside the dream, were you.\nNo wonder you didn't really get it.
+184	message	Bleh! Sheeesh!!\nFine, then we'll just beat you up!
+185	message	Entering combat mode.
+186	message	[MERU]! Get 'em!
+187	message	[NOEL]! Let's do this, desu~!
+188	message	Yes, desu~!
+189	message	It's showtime!
+192	message	You look way weaker than the other one!
+193	message	We'll show you that strength isn't just\nabout looks and power, desu~!!
+195	message	You look weaker than before!
+196	message	Thinking like that just proves you don't get it!\nThat's not what strength is!!
+198	message	Data scan… combat power massively down!?\nValues are dropping too fast.\nError, error!
+199	message	Your readings are correct, desu~.\nBut that doesn't mean we're weaker —\ndon't you forget it!
+201	message	Data scan… combat power massively down!?\nValues are dropping too fast.\nError, error!
+202	message	You're not wrong about that.\nBut the strength you can get from calculations\nisn't real strength — let me teach you that!
+204	message	Whaaat!? Whyyy!?
+205	message	Too bad, but it looks like I'm — I mean, we're\nway, way stronger, desu~.
+206	message	Looks like I'm — I mean, we're\noverwhelmingly stronger!
+207	message	How about that!
+208	message	We did it, desu~!!
+211	message	Database anomaly detected!\nCannot correct!\nContinued combat judged impossible!
+212	message	Looks like judging by data just isn't possible, desu~.
+213	message	Even I'm not sure what's going on, and I'm the one fighting.\nSo you've got no chance of figuring it out.
+214	message	All right! We wiiiin!!
+215	message	Everything went great, so it's all good, desu~!
+218	message	Man, they're scary as enemies, but\nas allies they're real dependable!
+219	message	Glad I could be of help, desu~!
+220	message	Ehehe, I gotta work hard to make up for all the trouble I caused!
+221	message	You're really okay?
+222	message	I'm fine, desu~!
+223	message	Nothing in particular?
+224	message	Guess what she was saying\nwas all bogus after all.
+226	message	She was saying something about a spaceship.
+227	message	A spaceship…\nThat's hard to believe, but…
+228	message	The possibility isn't zero, nyo.\nThat's what Dejiko thinks, nyo~.
+229	message	With magic and science and the Goddess of Destruction,\nanything goes at this point…
+230	message	Like a dream world.
+231	message	I've even wondered if all of this\nis just a dream world.
+232	message	[CLAUDE] disappearing…\ncould that be related to it, I wonder?\nI wonder?
+233	message	Maybe.\nThe reason, though, I couldn't tell you.
+234	message	[CLAUDE]…
+235	message	[CLAUDE]…
+237	message	Mamaa! We lost!
+238	message	Database anomaly! Correct it!
+239	message	Kill them.
+240	message	Huh…?
+241	message	That is an order. Exterminate them.
+242	message	But Mama!\nYou said Mie could do whatever she wanted with the world!
+243	message	That order is rescinded.\nExterminate them.
+244	message	…That's so—
+245	message	…
+246	message	O-okay… I'm going…
+247	message	Mission acknowledged.
+249	message	I no longer need anything.\nNothing… except time… Fufufu!

@@ -1,0 +1,197 @@
+row	column	english
+3	message	Suu, suu...\nMy striped paaanties... ufufufufu...
+4	message	Haruka! Haruka!\nWake up, please.
+5	message	Ehehe... Aoi's...\nstriped panties...
+6	message	Sorry to wake you\nfrom a fun dream, but wake up, Haruka!\nThere's an incident!
+7	message	// Event still: night. Haruka, woken by Aoi in bed, still half-asleep. Pajamas disheveled.
+8	message	...Fueh? An incident?\nLike the stripes vanishing from striped panties?
+9	message	There's a robbery at the harbor art warehouse!\nIt's Twin Angel time!
+10	message	Art? ...Striped panties are art... munya,\nstealing's baaad... theft is...
+11	message	// Event still ends here
+12	message	Theft...? Hawah!? Gotta go!!
+13	message	// Movie: Twin Angel transformation. Let's Go Fever Time!
+15	message	Hurry, Blue Angel!!
+16	message	Huh? Ah, yes.\nHehe, rare for you to call me that.
+17	message	Huh? Ah, y-you're right...\nEhehe, still half-asleep, I guess.
+18	message	Then, psyching myself up again!\nAngel Time, let's goo~!!
+19	message	Who the hell are you!?
+20	message	Begone, evildoers! Angel Tornaaado!!
+21	message	// SFX: huge explosion and flash
+22	message	You're fired up!\nThen me too! Angel Arrow!
+23	message	// SFX: huge explosion and flash
+24	message	This much should do, no?\nLet's leave the rest to the police.
+25	message	Yeah! Let's hurry home and sleep!\nHope I can keep dreaming that dream~!
+26	message	// Fade to black\n// Background: town (day)
+27	message	Fuwaah~, sleepy...
+28	message	Wait up, Harukaaa.
+29	message	Hurry or we'll be late, Aoi!
+30	message	Haa, haa... yes,\nwe can't... be late...
+31	message	But but, yesterday was late too~!\nHafuu, yaaawn.
+32	message	Oh? Look, Haruka.\nPeople are gathering?
+33	message	Hm, what is it?
+34	message	// Mook Guard Robos are rampaging\n// Staged with sound effects, screen shake, etc.
+35	message	Gaga!!
+36	message	Bigagaga!!
+37	message	R-run!!
+38	message	Heeelp!!
+39	message	What IS that!?\nBlack Fund's new mecha!?
+40	message	It's destroying the town! We've got to stop it!
+41	message	Let's transform, Aoi!
+42	message	Yes!\nLet's find somewhere out of sight...!
+43	message	// Remove all characters
+44	message	Gagagaga!!
+45	message	Ah!!
+46	message	A robot's coming from behind too!
+47	message	No way!! We can't transform like this!!
+48	message	Ga... ga... gagah!!
+50	message	Wait right there!!
+51	message	Huh?
+52	message	That voice...?
+53	message	// Claude appears. (The masked version was scrapped, huh.)
+54	message	Wh-whoa, what, suddenly!?\nUm, uh... sorry, it's me...
+55	message	Who!?
+56	message	Who might you be...?
+57	message	Sorry, sorry,\nI'm nobody worth naming,\nbut for now please run!!
+58	message	...Huh? Be cooler?\nI can't do that...
+59	message	Huh?
+60	message	Ah, no, it's nothing,\nsorry, sorry, sorry...
+61	message	I-is he okay...?
+62	message	It's fine! After everyone runs,\nI'll run too!!\nRunning's my specialty!!!
+63	message	U-uh...
+64	message	Ah! It's coming this way~!!\nHe who runs wins!
+65	message	// Claude runs away
+66	message	GAGAGAGAGAGAGAGAGAGA—!!
+67	message	//All the guard robots chase after Claude.
+68	message	H-Hawawawa! A whole bunch of 'em are right on my tail!\nSomebody pleeease let me get away!!
+69	message	Wow, that guy was fast...
+70	message	This is no time to be admiring him, Haruka-san!
+71	message	Oops, right!!\nTime to transform—Twin Angel go!
+72	message	//Haruka runs off.\n//As Aoi is about to follow, she spots Riko.
+73	message	...Hm? What's that?
+74	message	......
+75	message	//Riko leaves.
+76	message	Aoi-chaan! Hurry uup!
+77	message	Coming! Sorry, Haruka-san!
+78	message	//Aoi runs off.
+81	message	Uuugh, I think I'm done for...\nFace it—someone like me helping people\nis way out of my league...
+82	message	Angel! Puuunch!!
+83	message	//A guard robot explodes.
+84	message	Yeep!?
+85	message	Angel Arrow!!
+86	message	//A guard robot explodes.\n//Red Angel and Blue Angel appear.
+87	message	Whoa... Um, who exactly are you two...?
+88	message	With love and courage—every shot finds its mark!
+89	message	We bring back everyone's smiles!
+90	message	Twin Angel, the phantom-thief angels!
+91	message	Twin... Angel...?
+92	message	Come on, come on, speedy big bro!\nLeave the rest to us!
+93	message	Right! It's dangerous here.\nPlease, run away quickly!
+94	message	Th-th-thank you so much!\nI'll run for it with all my heart and soul!!
+95	message	//Battle start.\n//Allied reinforcements arrive after enough enemies are defeated or enough turns pass.
+96	message	So you're all right, [CLAUDE]!
+97	message	Tsubasa-san?
+98	message	Jeez!! What IS all this ruckus?\nAll I asked was for you to scout the area!
+99	message	Wah! Those two cute girls over there are...?
+100	message	Ah, um, h-hello!\nI've come to help out!
+101	message	Yaaay! Thank youuu!
+102	message	They don't seem to be enemies.\nLet's join forces and\ntake down these robots!
+103	message	They seem to be warriors of this world.\nIf they'll fight alongside us,\nI see no reason to refuse.
+104	message	A red-and-blue combo, huh.\nThese two're clearly somethin' special.\nLet's see what you've got!
+105	message	//Battle continues.
+107	message	Huh? That's it?\nThat was surprisingly anticlimactic.
+108	message	No—please don't let your guard down yet.\nThere may still be something out there.
+109	message	//Riko appears.
+110	message	Huh, so you noticed?\nColor me surprised—\nI had you pegged as more of a ditz.
+111	message	Wah!? WHAT!? WHO!?
+112	message	...Who are you?
+113	message	Hmm? Let's see...
+114	message	How about I go by\nPhantom Thief Twintail?
+115	message	Phantom Thief Twintail?\nKinda sounds like us, doesn't it?
+116	message	Hey, hey—Twin Angel girls, you're angels\nbut also phantom thieves? How's that work?\nAre you burglars?
+117	message	We're NOT burglars!!
+118	message	So then you're angels?
+120	message	A-Angel... I mean, I'm not good enough\nor cute enough to go around calling myself that...\nB-but I AM an Angel, so I guess that makes me an angel...?
+122	message	Haruka-san, calm down!\nDon't let yourself get shaken\nby Twintail-san's bait!
+123	message	Hah!? Shoot!\nTwintail-chan is so cute, I couldn't help it...\nNgh.
+124	message	Ahaha... you look like fun to tease.\nI think I'll play with you just a little!
+125	message	//Battle resumes.
+127	message	Ugh, she's tough...!
+128	message	You've got power, sure, but you don't really\ngive off that 'phantom thief' vibe, y'know?\nMore like wreck-'em angels?
+129	message	Nuh-uh! We ARE phantom thieves!
+130	message	Ahaha! You're like a little kid!\nThat just makes my heart flutter!
+131	message	Well then, let's play again sometime!\nAu revoir.
+132	message	//Riko vanishes.
+133	message	Ah!!
+134	message	So fast... She really does feel like a phantom thief...
+135	message	Uuugh, that's so frustrating!
+136	message	//Battle end.
+138	message	Thank you for saving\nmy friends Haruka-san and Aoi-san earlier.
+139	message	Huh? N-no, that wasn't me...\nI mean, it WAS me, but...\nAhaha... hahaha...
+140	message	Thank you!\nYou really saved us— I mean, not us!\nThose two are super thankful too!
+141	message	[CLAUDE]-kun rushing to save girls in a pinch?\nSuuuspicious.\nYou had some ulterior motive, didn't you?
+142	message	W-when I put my mind to it, I can do it too!
+143	message	And who exactly are you?
+144	message	Twin Angel, the phantom-thief angels!\nWe're on the side of people in trouble!
+145	message	Yes!\nUm... let's just say the details are a secret.
+146	message	I understand.\nI'm in a similar position myself.
+147	message	So is there a reason you sing while you fight?\nOr is that a secret too?
+148	message	Song becomes the power I fight with.\nI can't tell you how it works, though.
+149	message	I see! You just burst into song out of nowhere,\nso it startled me a little.
+150	message	By the way, you're all quite strong, aren't you?\nWhat is your relationship to each other?
+151	message	Like the Avvvalanchers or the Advvventurers—\nsome kinda hero-of-justice group?
+152	message	Ah, yes!\nI think it's probably a production with that kind of theme...\nYou two, nice work on the shoot!
+153	message	Sh-shoot?
+154	message	Sonico, I'll explain that part myself.
+155	message	//Fade to black: time passes.
+156	message	You came from another world...?
+157	message	...I know being told something like this out of nowhere\nmust be hard to believe.
+158	message	Nope, I believe you!
+159	message	Huh!?
+160	message	You protected this town, after all! \nYou're not the kind of people who'd trick anyone! Right?
+161	message	That's right.
+162	message	I never thought you'd accept it\nquite this readily.
+163	message	Besides, we know really well that\nmysterious powers are real!
+164	message	Come to think of it, Tsubasa-san believed us right away\nwhen we said we came from another world too.\nIsn't that the same thing?
+165	message	I see. You have a point.
+166	message	Oh, look at the time.\nThere's so much more I'd like to talk about, but\nit's about time we...
+167	message	You're right.\nWe really gotta get going...
+168	message	I see... I'll be sad to see you go...
+169	message	But if you'd like, please do visit\nSt. Cherinu Academy, just up ahead.
+170	message	Yeah! We'll... I mean—\nour friends Haruka-chan and Aoi-chan\ncan help out with all sorts of stuff, I bet!
+171	message	Really? Thank you!!\nThis time I won't get lost!
+172	message	Those two are sure to want to thank\n[CLAUDE]-san too,\nso please do stop by.
+173	message	N-no, I'm honored, but someone like me...
+174	message	We don't know much about this world,\nso we'd appreciate the help.
+175	message	Yay!\nSee you later, then!
+176	message	Huh?
+177	message	Hopefully we'll meet again.\nWell then, excuse us.
+178	message	//Background: in front of Cherinu Academy
+179	message	There it is, there it is!! This is the place!\nSt. Cherinu Academy!\nIt's got that... classy vibe, y'know~!
+180	message	I wonder if we may go in?
+181	message	//Aoi comes out.
+182	message	Everyone, welcome.\nAllow me to introduce myself properly: I'm Kannazuki Aoi.
+183	message	//Event art: Aoi welcoming them, in uniform
+184	message	Thank you so much for saving me\nwhen I was in danger earlier.
+185	message	No no no, I was no help at all—\nTwin Angel-san's the one\nwho saved ME.
+186	message	I've heard about the rest of you\nfrom Twin Angel-san too.\nPlease, allow me to welcome you.
+187	message	Haruka-san said she's looking forward\nto meeting all of you.
+188	message	And where is this Haruka-san?
+189	message	Right now she's eagerly preparing the welcome party.
+190	message	//Event art off
+194	message	A welcome party!?
+195	message	Wah! That's wonderful~!
+197	message	We've done nothing to deserve a welcome...
+198	message	Haruka-san's drive at times like this is incredible—\nno one can stop her.
+199	message	Not just the welcome party—we'll provide meals,\nlodging, daily necessities and such for the time being,\nso please don't hesitate to ask for anything you need.
+200	message	We couldn't possibly impose that much...
+201	message	Please, don't hold back.\nThere are all sorts of things I'd like to ask you about, after all... you know?
+202	message	I see... so it's a trade, then.\nIf that's the situation, I can understand.\nHolding back would only breed suspicion, huh.
+203	message	Geez!\nEnough with the complicated talk—\nlet's just help out with the welcome party!
+204	message	Huh?\nBut having our guests help...
+205	message	I'm a magical magician!\nI'll show you magic that'll\nblow everyone's minds!
+206	message	Well, if that's the case, we'd love that.\nI'm sure Haruka-san will be delighted too.
+207	message	[NOEL]-chan's magic show!\nI'm sooo looking forward to it♪—my heart's all fluttery...
+208	message	My heart's pounding for a different reason...
+209	message	(I can't exactly say I think she's gonna bomb...)
+210	message	Then allow me to show you in. This way, please!
+211	message	//END

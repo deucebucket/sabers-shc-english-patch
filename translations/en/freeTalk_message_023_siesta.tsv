@@ -1,0 +1,302 @@
+row	column	english
+4	message	~♪
+5	message	......... Hm?
+6	message	~♪
+7	message	I-I'm sorry...
+8	message	Huh!?\nWhy are you apologizing all of a sudden!?
+9	message	Um... I was wondering if something was wrong...
+10	message	Wrong how?\nNothing's wrong.
+11	message	You just looked like you were having fun.
+12	message	Ah! That...\nplease don't point that out.
+13	message	I just hummed without thinking.
+14	message	It's embarrassing.\nWhy do I just start humming\nwithout realizing...
+15	message	S-sorry for saying something weird.\nSo, what were you doing?
+16	message	Preparing everyone's meals.\nI want to do what I can.
+17	message	I'm no use in battle,\nso I want to help everyone\nin other ways.
+18	message	That's why I came along.
+19	message	I see.\nYour cooking is delicious, Siesta,\nso I'm sure it lifts everyone's spirits.
+20	message	Thank you.\nThat makes me happy to hear.
+21	message	If you have any requests,\njust say the word.\nRecipe requests are welcome too.
+22	message	If I think I can make it, I'll give it a try.
+23	message	And if there's anything you dislike,\ntell me that too.\nI'll avoid it as much as I can.
+24	message	...Maybe everyone's doing well\nthanks to you, Siesta.
+25	message	Huh!? What's with the sudden compliment?\nFlattery won't get you anything, you know?
+26	message	I don't want anything in return...\nAt least I'm glad\nthere's good food.
+27	message	Hee. Then I'll keep putting\nmy all into the cooking.
+28	message	You really love cooking...
+29	message	The head chef usually cooks,\nbut I get to make things sometimes.
+30	message	Serving the nobles\nis my job, after all.
+31	message	Is that why you're dressed like that?
+32	message	By 'like that,' do you mean the maid outfit?
+33	message	Um... does this outfit look weird?\nI can change if it does...
+34	message	Or does it not suit me?\nI'm so used to wearing it,\nI never thought about it.
+37	message	It's not weird, but...\num... it does stand out.
+38	message	Does it?\nI thought everyone else was\ndressed pretty outlandishly too...
+39	message	T-true...\nWith so many worlds mixed together,\nit can't be helped.
+42	message	Not at all.\nIt suits you.\nA real maid is just a rare sight.
+43	message	Is that so?\nIt was normal in my world.
+44	message	Still, thank you\nfor saying it suits me.\nThat gives me confidence.
+47	message	There really are all kinds of worlds.\nPeople who use magic without being nobles...\nclothes I've never seen...
+48	message	It's so stimulating, so fulfilling.\nDon't you think?
+49	message	True.\nYou're so positive, Siesta.
+50	message	You can't be positive?\nThat's terrible!
+51	message	You must be hungry.\nThat's got to be it.
+52	message	Let's eat something delicious\nand do our best! Okay?
+53	message	Hee. Right.
+56	message	You're not a noble, are you?
+57	message	Uh, well... of course not...\nNobility doesn't suit me.
+58	message	I've had a lot of contact with nobles,\nand everyone who could use magic\nwas a noble...
+59	message	So I get a little nervous.\nI'm a commoner, after all.
+60	message	A commoner speaking up to a noble\nwas unthinkable.
+61	message	But you talk to Louise normally, don't you?
+62	message	Miss Valliere\nis a kind person.
+63	message	Her words and personality are a bit much,\nshe gets worked up easily, her figure...
+64	message	She has plenty\nof childish sides.
+65	message	Even so, Miss Valliere is easy\nfor a commoner like me\nto talk to.
+66	message	Some nobles are\noverbearing tyrants.
+67	message	Among them, Miss Valliere has\nthe heart to listen\nto a commoner's words.
+68	message	You really trust Louise...
+69	message	Well, she does have a complex\nabout her figure, so that's\nwhere I win!
+70	message	No noble can do anything\nabout bust size, after all.
+71	message	Oh, and keep what I just said\na secret from Miss Valliere, okay?
+72	message	She'd scold me.
+75	message	Um... aren't you two close...?
+76	message	Being close with a noble is too presumptuous for me.
+77	message	I just have things I don't want\nto lose to Miss Valliere in,\nso I end up competing.
+80	message	Small ones have their fans too, right...
+81	message	I never expected\nyou to say that.
+82	message	Do you prefer small?
+85	message	P-please don't... press your chest against me like that...
+86	message	...Hee.\nYou're naughty!
+87	message	But this is where I won't lose\nto Miss Valliere...
+88	message	I won't let her gloat so easily.\nA commoner can shine when it counts!
+89	message	(I don't really... understand Siesta and\nLouise's relationship...)
+92	message	Um... I'm so shocked\nI can't believe my eyes...
+93	message	Do carriages in other worlds have no horses?
+94	message	Carriages...?
+95	message	A box-like thing was running with no horses.
+96	message	A commoner like me rarely rides carriages,\nso maybe I just didn't know-\nare there modern carriages like that?
+97	message	A horseless carriage running...
+98	message	Could you mean... a car?
+99	message	C-car?\nIs that the name of the running box?\nI've been curious but couldn't ask!
+100	message	The horses are inside, right?\nI know that much.
+101	message	No... there are no horses inside.
+102	message	W-whaa-!!\nThen where are the horses!?
+103	message	...You're not trying to trick me, are you?\nTrying to make a fool of me...
+104	message	Um, it doesn't run on horses.\nIt has... a different power source.
+105	message	Power source...?\nWhat's that?
+106	message	Is it magic?\nSo it can't run\nwithout magic?
+107	message	That I could understand.
+108	message	Um... how do I explain...\nIt's like ordinary people can use\nwhat you'd call magic.
+109	message	Ordinary people... you mean commoners?\nThen would it run\nif I rode it?
+110	message	...Yes.
+111	message	Amazing!? Other worlds have\nsuch technology...\nAnother discovery...
+112	message	Car... car...\nI hope I can ride one someday.
+113	message	It's faster than the carriages I know,\nso I might not handle it,\nbut I'm curious.
+116	message	I'll ride with you then...\nsince you'd be nervous.
+117	message	Thank you!\nI'd feel so much braver with you there.
+120	message	...When you ride in a car, you always secure your body, so...
+121	message	You need a fixing spell!?\nSee! You DO need magic\nafter all!
+122	message	So a commoner can't ride\nwithout a noble along, right?
+125	message	Technology other than magic from other worlds\nis beyond my imagination...
+126	message	So many surprises...
+127	message	If I asked other people, they'd\nprobably think I'm silly, so...
+128	message	Please teach me more sometime.\nI'm counting on you.
+131	message	...Well... I do have this.
+132	message	...Um... what should I do.\nSiesta looks troubled, but if I\ncalled out to her... I'd be a bother.
+133	message	Oh? Is something wrong?
+134	message	Huh!? U-um... well.\n...Could it be... are you having trouble?
+135	message	Yes...\nI'm actually a little short on ingredients.
+136	message	Huh? That's terrible!\nYou can't cook?
+137	message	No, it's not that I can't\nmake today's meals.
+138	message	Rest assured.\nI'd never do anything to harm\neveryone's health.
+139	message	I just wanted to make something,\nand I'm a little short on its ingredients.
+140	message	But it's not urgent, so I'll wait\nuntil I can get them.
+141	message	What is it?\nMaybe I can get it right away.
+142	message	Um... I want mushrooms.\nBut it's not that simple...
+143	message	Mushrooms?\nCouldn't we just look for some?
+144	message	I looked around, but didn't find\nanything promising.\nIt has to be safe to eat...
+147	message	That's true...\nGetting sick before a battle would be awful...
+148	message	Yes.\nI take that seriously,\nyou know.
+149	message	Since I make the food,\nI handle that properly.
+152	message	Other than mushrooms?\nIsn't there a substitute?
+153	message	Tree bark could work...\nbut...
+154	message	Huh!? Wait a sec.\nThis is cooking... right?
+155	message	Yes, it is.\nI'm just unsure about the trees\naround here, so I'm uneasy.
+158	message	...Um.\nWant to look together sometime?\nFor mushrooms.
+159	message	N-no! It's fine!\nI don't want to trouble you.
+160	message	Even so, it's something I can\nmake anytime.
+161	message	So I'll really just make it\nwhenever I feel like it.
+162	message	I want to try what you want to make, Siesta.\nLet me help.
+163	message	...Then...\nmay I ask for your help?
+164	message	Thank you.\nThat's a huge help.
+165	message	Mushrooms...\nWe have to watch out for poisonous ones.
+166	message	Hee. Leave it to me.\nI can tell that much apart.
+167	message	I used to go picking\nin my village a lot.
+168	message	I'm good at finding edible\nmushrooms and mountain greens.
+169	message	Oh, looks like we're moving.\nLet's go.\nWe can't hold everyone up.
+171	message	...Cooking, huh.\nOh, what was she planning to make again?
+174	message	How about this one?\nIt's really colorful, but...
+175	message	That one's no good.\nIt's poisonous.
+176	message	It's pretty, but even\nbugs won't eat it.
+177	message	Oh, please wash your hands.\nThe itch won't go away otherwise.
+178	message	Thank you.\nThis one's poison too...\nMost of what I picked...
+181	message	How do you tell them apart?\nI thought it might come in handy sometime...
+182	message	Well...\nunfamiliar ones are tricky,\nbut I avoid the pretty ones.
+183	message	The flashy-colored ones\nare visible to birds too...\nmeaning they're confident they're inedible.
+184	message	I-I see...\nSo this mushroom is\npoisonous in that sense too...
+187	message	Poison... could we use it in battle...\nif we can't eat it, at least...
+188	message	It's not fast-acting poison,\nand getting the enemy to eat it\nwould be hard, don't you think?
+191	message	Don't look so down.\nUm, if you really wanted to eat it,\nI think you could...
+192	message	I just don't recommend it.\nFor example... this one!\nThis mushroom probably won't kill you.
+193	message	It'll just make you throw up nonstop...
+194	message	L-let's not!\nThat's a no!\n...Too dangerous.
+195	message	Th-then, this one!\nThis one's milder?
+196	message	I-if I remember right...\nit should just make your tongue numb.
+197	message	That one's... also a problem...\nit'd get in the way of fighting.
+198	message	Right.\nThen how about this one...
+199	message	Um... you don't have to worry about me.\nPoison is scary... so.\nLet's just gather safe mushrooms.
+200	message	...Sorry.
+201	message	You're helping me out,\nand I didn't want to bring you down...
+202	message	But even just safe mushrooms,\nwe got this many.\nThis is plenty.
+203	message	Thank you.\nGathering alone is hard,\nso you really saved me.
+204	message	Glad I could help...\nUm... I forgot to ask,\nwhat dish is this for?
+205	message	Huh? Didn't I explain?\nIt's my hometown dish.\nIt's called Yoshenave.
+206	message	Yoshanaabi...?
+207	message	Yoshenave.\nMy father taught me to make it.
+208	message	He said he learned it\nfrom his great-grandfather.
+209	message	The ingredients aren't fixed,\nso it's a really convenient dish\nyou can make lots of ways...
+210	message	Even so, there are ingredients\nI personally can't leave out.
+211	message	My little obsession.
+212	message	And that was... mushrooms?
+213	message	Well, it's not that I'm obsessed\nwith mushrooms.\nThey're just easy to get.
+214	message	Now, before prepping the Yoshenave,\nI'll make today's meals for everyone.
+215	message	I'll make the Yoshenave\nlater on.
+216	message	...Okay.\nI'm looking forward to it.
+219	message	Sorry about the other day...
+220	message	P-please forget about that...\nIt's embarrassing.
+221	message	Because of me,\nyou ended up in danger.
+222	message	No, it was my carelessness...
+223	message	If I hadn't said I wanted\nto add meat to the Yoshenave\nto make it a bit fancier...
+224	message	Who'd have thought that chasing a piglet,\nyou'd get run over by a boar...
+225	message	I should've stopped you.\nCatching a fleeing piglet\nis nearly impossible.
+226	message	And where there's a piglet,\nthere's a parent nearby-I should\nhave warned you to watch out.
+227	message	When it slammed into me,\nI thought I was done for...
+228	message	Same here, watching it!\nYou scared me half to death!
+229	message	I'm glad you're okay.\nDon't risk your life over\nYoshenave ingredients!
+230	message	But... I'm sorry.\nBecause of me the piglet got away,\nand the boar's on guard now.
+231	message	More important than that:\ntreasure your life.
+232	message	Otherwise, what's the point of me\nmaking all this food?
+235	message	That means... you care\nabout everyone's health...?
+236	message	Of course!\nWhat else would it be?
+237	message	N-no... nothing.
+240	message	That sounds... kind of like a confession.
+241	message	Hey! Don't tease me!\nI really was worried!
+242	message	The Yoshenave ingredients\nare fine, though.
+245	message	Don't worry.\nI caught a wild rabbit\ninstead.
+246	message	I'm sorry all over again...
+247	message	I'm used to this kind of thing.\nIt was normal in my village.
+248	message	You look really tough...
+249	message	Stop it.\nDon't say it like that.
+250	message	.........
+251	message	Would it be better... if I were\nmore... girly?
+252	message	Huh? Why?
+253	message	Well, um... that kind of foraging\nwas normal in my village...
+254	message	I just wouldn't like it\nif what's normal to me looked weird to you...
+255	message	It's just that in my village it was normal,\nso I wondered if I should\nkeep that side hidden...
+256	message	Isn't it fine...?\nIt's your wild side.
+257	message	W-wild...?\nThat doesn't feel like a compliment.
+258	message	Is 'wild' something girls in your world\nlike hearing?
+259	message	I'm a little torn...
+260	message	...Maybe not, actually.
+261	message	Wha!?\nThen you said something to me\nthat ISN'T a compliment!?
+262	message	A little more... um...
+263	message	Ngh-!! Never mind.\nYou need to think more about\nhow girls feel!
+265	message	Um... what is she angry about?\nI don't get it at all...
+268	message	I can finally\nmake the Yoshenave!
+269	message	The rabbit meat is prepped\nand tenderized, so it should\nbe ready to eat soon.
+270	message	Thank you\nfor all your help.
+273	message	Is there anything else you need?\n...If there is...
+274	message	Thank you.\nThe ingredients are perfect now.\nDon't worry.
+277	message	Yoshenave...?\nAh, your hometown dish, Siesta.
+278	message	D-did you forget!?\nYou're joking, right?
+279	message	O-of course!
+282	message	...I want to eat the Yoshenave soon.
+283	message	Hee. Were you always\nsuch a glutton?
+284	message	Knowing someone's waiting for my cooking\nmakes me kind of happy.
+285	message	It really makes it worth making.
+286	message	It's your hometown dish...\nI keep imagining how delicious it must be...
+287	message	I-if you raise the bar that high,\nthat puts me in a bind...
+288	message	I could make it right away,\nbut we'll be moving soon,\nso I'll hold off for now.
+289	message	I'm sure you'll like it.\nJust wait a little longer\nin anticipation.
+290	message	It'll still take a while...?\nWhat if we asked everyone and ate it here...?
+291	message	That won't work.\nI'm a maid, after all!
+292	message	Just as I can't waste\nthe nobles' time,\nI can't take up everyone's extra time.
+293	message	That's absolute.
+294	message	Is that how it is...?
+295	message	Besides, I'd like you to be\nthe first to taste it, if possible.
+296	message	Huh?
+297	message	You helped me so much,\nI want to repay you.
+298	message	I think people who work hard\ndeserve a proper reward.\nIt's only right.
+299	message	My cooking as that reward\nis presumptuous of me, but...
+300	message	No. Thank you.\nI'm really... happy.
+301	message	Hee.\nI'll make a perfect Yoshenave.
+302	message	It'll be a taste you never forget.
+305	message	Um, wake up.\nWake up.
+306	message	Nn... huh?\nSiesta...?\nWhere is this? And that outfit...?
+307	message	Still half asleep?\nThat's what you get for sleeping in the hallway.
+308	message	Come on, this way.
+311	message	This place... what was it again?
+312	message	You're really out of it.\nIt's a cafe. We turned the classroom into one.\nI'm the waitress.
+313	message	I brought you here to treat you.
+314	message	Now, sorry to keep you waiting.\nPlease, dig in!
+315	message	This is my hometown dish, Yoshenave.
+316	message	It's finally done, and I wanted you\nto taste it first, so I brought it.
+317	message	I-I'm honored...\nWow... it smells amazing.
+318	message	Thanks to the mushrooms you picked.
+319	message	Without those, I couldn't have made the broth.
+320	message	Try some. Here you go.
+321	message	O-okay. Here I go...
+322	message	......... S-so, how is it?
+323	message	Yeah! It's super delicious!
+324	message	Great! I was nervous whether you'd like it.
+325	message	I gathered ingredients across worlds,\nso I worried about the flavor, but it seems fine.
+326	message	Coming from you, Siesta, I never doubted it'd be delicious.
+327	message	Hee. Thank you.
+328	message	Is there anything else you'd like?\nI'd be happy to serve you.
+329	message	Serve me!?
+330	message	I'm a maid who serves nobles,\nbut right now I want to help everyone.
+331	message	Here, have some tea too.\nWith the Yoshenave, it'll warm you up.
+332	message	...Okay.\nMm... this tea is delicious too.
+333	message	It pairs well with the Yoshenave, right?\nThe tea is light, so it\nbrings out the Yoshenave even more.
+334	message	True... It's this delicious, huh.
+335	message	I'm really glad you like it.
+336	message	And I'm glad you got to be\nthe first to taste it.
+337	message	...Siesta.
+338	message	Thanks to you, it turned out to be a wonderful Yoshenave.
+339	message	You've been helping me out a lot lately.
+340	message	I-it's fine!\nIt's the only thing... I can do.
+341	message	...Can I keep counting on you?\nJust kidding. Hee.
+342	message	.........
+343	message	.........
+344	message	...I... you...
+345	message	Huh? What was that, Siesta...\nI didn't catch the end...
+348	message	Siesta... I...
+349	message	Huh? Did you call me?\nWait, was that sleep-talking?
+350	message	Come on, wake up already.
+351	message	Nn... huh?\nSiesta...?\nWait, where's the Yoshenave...?
+352	message	You've got a good nose.\nI just brought it over.\nYou were asleep, so I was going to wait.
+353	message	Since you're awake,\nplease try some.
+354	message	O-okay... *munch*.\nYeah! It's really delicious!\nThat's our Siesta!
+355	message	Really! Great~!\nEat as much as you like!
+356	message	If I'm the first one eating this...\nthen Siesta really is...
+357	message	Oh, I have to take this to everyone soon.\nThe Yoshenave will get cold.
+358	message	Huh? Um...
+359	message	Honestly, with all the different worlds,\nI was worried it wouldn't taste right.
+360	message	Having you taste it showed me\nit's just like always.
+361	message	Thank you.
+362	message	Oh, sure...
+363	message	I'm sure everyone\nwill enjoy it too!
+364	message	Well then, thank you very much!
+366	message	...So I was just the taste-tester...?\nNo way...
+367	message	...Where am I supposed to put\nall this pounding in my chest-?!

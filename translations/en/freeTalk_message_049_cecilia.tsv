@@ -1,0 +1,281 @@
+row	column	english
+4	message	...Oh?\nYou've come at just the right moment.
+5	message	You're lucky too.\nYou get to be of use\nto me, Cecilia Alcott.
+6	message	Hah...\nSo, what is it you need?
+7	message	My! What a curt reply.\nAre you nervous,\nbeing spoken to by me?
+8	message	There's no need to be nervous.\nWe're comrades, after all.
+9	message	Ah, I'm not nervous or anything...\nI was just wondering what we're doing.
+10	message	Actually, I'd like\nto borrow your strength...
+11	message	Normally I'd look for someone better suited, but...\nAt this point,\nyou'll do.
+12	message	I'd like to hear your impressions.
+13	message	Impressions...?\nOf what?
+14	message	This!
+15	message	I made it.\nWell? Doesn't it look delicious?
+16	message	It's my masterpiece.\nOf course—anything I make\nturns out perfect.
+17	message	...It does look delicious.\nMay I have some?
+18	message	Indeed.\nAnyone would do, but for some reason\nno one else is coming by.
+19	message	And then you happened along.\nHow fortunate.
+20	message	Now, please.
+21	message	Y-yes...\nBut first... what is that black lump behind you?
+22	message	This? It's a pot.
+23	message	Th-that's a pot!?\nThis... thing?
+24	message	I just made a small mistake.\nIt got completely charred.
+25	message	When I used my Blue Tears,\nthe pot couldn't take it.
+26	message	Honestly! The thing has a durability problem!
+27	message	(Th-this is the result...?\nI've been wondering... how does it come out\nlooking so beautiful?)
+30	message	...Can I take back the eating part?
+31	message	Why?\nOf course it's free, so don't worry\nand dig in.
+34	message	It really does look delicious!
+35	message	(...Let's pretend I never saw that pot...\nI feel like I shouldn't think about it...)
+36	message	Doesn't it?\nIt's not just the looks, either.\nGo on, have some.
+39	message	I-is that so...\nW-well then... thank you for the meal.
+40	message	Yes!
+41	message	Nom...\n.........\n.........
+42	message	...?\nWhat's wrong?
+43	message	Oh my, you're so overcome by deliciousness\nyou can't even speak.
+44	message	I understand, you don't have to say it all.\nEmotion doesn't have to be spoken aloud\nto be conveyed.
+45	message	...Guh...\n...g-guh-gah...
+46	message	...Hee hee.\nSquirming with happiness like that is\nunladylike... I mean, unseemly.
+47	message	(...No... I can't... not yet...\n...Ah... is this the end...?)
+50	message	Cecilia-san!\nToday... I have a request!
+51	message	Why are you in such a panic?
+52	message	Getting flustered so easily is unbecoming\nof a gentleman, you know?\nI recommend keeping your composure.
+53	message	Y-yeah. That's... for later.\nRight now... it's about the cooking...
+54	message	My! You have a good nose?
+55	message	To sniff it out this fast,\nyou must really adore it...\nI'm honored.
+56	message	...Um... surely not...?\n...Again?
+57	message	Exactly!\nTo come running the moment I finish making it—\nyou must really love it.
+58	message	Now, please.
+59	message	...I've made a mistake...
+60	message	Oh my, you're so happy you're\nprostrating yourself on the ground?
+61	message	That's too much.\nPlease stop—even I get flustered\nwhen you go that far.
+64	message	...I-I'm happy...\nM-my tears... won't stop...
+65	message	To be this delighted—\nmy cooking skills are almost\ntoo good.
+68	message	I'm full, you know...\nWh-what a shame... truly...
+69	message	Oh, is that so?\nThen just one bite is fine.\nIt'll go bad if too much time passes.
+72	message	I make this food\nto make people happy,\nso no need to hold back.
+73	message	...Um... before I eat... just one thing?
+74	message	What is it?\nIf it's a request, I'll make it for you\nif you just give me a photo.
+75	message	But I won't prioritize yours.\nPlaying favorites wouldn't be fair\nto everyone.
+76	message	So, what is it?
+77	message	...This is really hard to say, but...\nCould you stop cooking?
+78	message	Wh-why?\nYou seemed so delighted.
+79	message	And I haven't served\nanyone else yet.
+80	message	Are you planning to keep it all to yourself?\nI don't approve of that.
+81	message	N-no, that's not it...
+82	message	(What do I do...?\nAt this rate the victims will only increase...)
+83	message	If there's a reason,\ntell me!
+84	message	I can't accept this otherwise!
+85	message	...It's... well...\nIf everyone eats your cooking... everyone's...
+86	message	Everyone's... what?
+87	message	Everyone's... confidence might be shattered...!
+88	message	.........\nI see... you have a point.\nYou're worried about everyone...
+89	message	(...I lied...\nThis dish... is my punishment, isn't it...)
+90	message	Nom...\n.........\n...bwehh!
+91	message	My! Even if you say you'll hold back\nfrom now on,\nthere's no need to wolf it down like that...
+94	message	Might I have a moment?
+95	message	Y-yes!\nWh-what is it?
+96	message	Why are you so nervous?\nHow rude!
+97	message	Sadly, today\nis not about cooking.
+98	message	Since you told me to cut back,\nit can't be helped, can it?
+99	message	I-is that so!\nWell then...
+100	message	...A beaming smile...?\nI don't understand your thinking at all.
+101	message	Well, whatever.\nI'd like your opinion on something.
+102	message	A-an opinion?\nWhat now...?
+103	message	In battle, don't you think I...\nrely on rear support a bit too much?
+104	message	With my Blue Tears, I can be active\nin every direction!
+105	message	Well, I admit my close-range tactics\nare lacking, certainly.
+106	message	Even so, I can fight well enough!\nI'm a personal-unit holder, after all!
+107	message	S-so... what do you want from me?
+108	message	If you were to fight,\nwho would be harder to deal with—\nsomeone specialized in close combat, or me?
+111	message	...You, Cecilia-san.\nI couldn't get one step closer to you...
+112	message	Naturally!\nMy Blue Tears\nhas no blind spots.
+115	message	Both of them...\nI'm... not cut out for fighting...
+116	message	Don't get depressed over a question like this.\nI'm not trying\nto blame you.
+119	message	To keep being active in battle,\nI'd like to practice close-range combat.
+120	message	You'll help me... won't you?
+121	message	Help...?\nYou don't mean fight, do you!?\nI-impossible... I can't!!
+122	message	After eating so much\nof my cooking,\ndon't you feel any gratitude?
+123	message	(...I feel none at all.\nI prepared myself for death...)
+124	message	Of course, I'll hold back.\nEven if you get hurt, only a little.
+125	message	Now, let's start right—well, unfortunately\nI'm not free either.
+126	message	I'll ask you another time.
+127	message	...Yes.
+128	message	(...I suppose... I can't refuse)
+131	message	There!!
+134	message	Whoa!?
+135	message	...Just running away isn't\nany fun.
+136	message	Challenging me—\na long-range sniper type—\nto long-range combat gives you no chance of winning.
+137	message	I'd like to try\nclose-range combat.
+140	message	B-but still...\nWhoa! I can't get close!
+141	message	Naturally.\nI'm good at long-range combat, so\nI fight by keeping my distance.
+142	message	...That said,\nthis won't make for good practice.
+143	message	Understood.\nCould you come a bit closer?
+144	message	Let's start from there.
+145	message	Closer... around here?
+146	message	From there, I could open the distance right away.\nCome closer still.
+147	message	(Closer... she says...\nany more than this...)
+148	message	...This close,\nwe're in close range.
+149	message	I'll prove I can fight even closer\nthan a sword's reach.
+150	message	Wh-!?\nBlue Tears\nis already moving!?
+153	message	...Then I'll make myself hard to aim at...
+154	message	You're darting around; I can't get a lock.\nThat kind of resistance is fine...\nPerfect for practice.
+155	message	But you won't escape!!
+158	message	I... might be done for.
+159	message	Don't give up!\nResist properly!
+162	message	Whoa!!\n...Ow!?
+165	message	Kyaaah!\nWhat are you grabbing onto me for!!
+166	message	S-sorry!\nI tried to run and you were just... there...
+167	message	...Unforgivable!\nLet go of me at once!
+168	message	...I'll turn you to cinders...
+169	message	...No way!\nYou're the one who told me to come closer, Cecilia-san...
+170	message	No excuses!!
+173	message	Uwaaaaah!!
+174	message	Wait right there!
+177	message	...Cecilia-san?
+178	message	What is it?
+179	message	I am angry, you know.\nDo you understand that?
+180	message	...Yes.\nAbout the other day, right.
+181	message	To suddenly grab a woman\nin all that confusion...
+182	message	It's far too ungentlemanly!!\nThat's what I can't forgive!
+183	message	Reflect on what you've done!
+184	message	Yes... I'm sorry...\nI won't do it again. I swear.
+185	message	...Your swearing it doesn't help me.
+186	message	I'll remember it, for what it's worth...\nBut that kind of ungentlemanly behavior\nwill ruin you!!
+187	message	...It can't be helped.\nI'll forget\nwhat you did.
+188	message	...Thank you.
+189	message	Don't forget your oath!\nUnderstood?
+190	message	Y-yes...\nI'll be careful.
+191	message	With this, I can\nno longer ask you\nfor combat training.
+192	message	I'll look elsewhere for that.\nFortunately, there are plenty of women here\nwho can fight.
+193	message	By the way,\nwhat is this?
+194	message	That's... an idol group.\nWhat's with the flyer?
+195	message	An idol group...\nThey're all wearing the same clothes so I can't tell them apart—\nhow many groups is this?
+196	message	Huh? That's ONE\nidol group.\n...Probably.
+197	message	!?\nThis is...?
+198	message	I'd heard Japan has a lot\nof idols, but...\nthis many...
+199	message	Can you remember all of them?
+202	message	...No way.\nYou can't remember all of them.
+203	message	Right!?\nWith this many people,\nif no one remembers you...
+206	message	Most of them, probably.
+207	message	Really...?\nThen, do you remember this person?
+208	message	S-sorry...\nI was bluffing...
+211	message	Sure, singing center with this many people\nwould feel great, but...
+212	message	.........
+213	message	Hm? What's wrong?
+214	message	That's it!\nYes, this is good!
+215	message	Now—action, and nothing else!
+217	message	...What did she come up with...?
+220	message	Everyone,\nwhy won't you agree with me!?\nIt's a great idea!!
+221	message	...She tried to form an idol group...?
+222	message	Yes!\nThere are plenty of beautiful women here—\nnot that they compare to me, of course!
+223	message	If we formed an idol group,\nit'd be a huge hit, no doubt...
+224	message	Isn't it because there's fighting and... all sorts of trouble right now?
+225	message	I know that!\nThat's why I'm asking everyone\nbetween battles!
+226	message	If we do it in our spare moments,\nno one can complain!
+227	message	And yet no one understands—\nwhat's wrong with it!?
+228	message	...People have their strengths and weaknesses.
+229	message	Some people were interested,\nthough...
+230	message	Demanding the center spot—\nthere are limits to shamelessness!
+231	message	The center is obviously mine!
+232	message	I see... so the ground\nbeing gouged out here and there...\nthat's what that battle was...
+233	message	The others need\nto show me off\nto the fullest.
+234	message	Otherwise there's no point\nin forming an idol group.
+237	message	...Let's all get along, okay?
+238	message	Exactly!\nI want to get along, but...
+239	message	(I see... so she'll never give up\nthe center spot...)
+242	message	So this is... the battle for center...
+243	message	I've read about it in books.\nReal idols, behind the scenes...
+244	message	Let's drop this topic.\nIt'll shatter my dreams...
+247	message	If it's hopeless... let's give up on the idol group.
+248	message	That's true...\nMe appearing on TV and getting too busy\nwould be a problem.
+249	message	I'm a personal-unit holder, after all.\nI have plenty of other things to do.
+250	message	Thinking about it,\nit was impossible from the start.
+251	message	Cecilia-san, are you depressed...?\n...That... serious about it...
+252	message	I'm not serious.\nI just wanted to try it.
+253	message	To see whether I'd be accepted\nin that sort of field too.
+254	message	But just realizing it was impossible,\ntime-wise, is enough!
+255	message	I'm very busy, after all.
+256	message	(Was that not a trend\nat IS Academy?)
+257	message	(An all-girls school... I can't even imagine...)
+260	message	You and I.\nWe've been talking a lot lately.
+261	message	There are no men at IS Academy,\nso honestly, I was a little scared.
+262	message	I've spoken with adult men,\nbut not many my own age...
+263	message	But...\nyou were more... ordinary than I expected.
+264	message	Huh?
+265	message	...It's you, after all.\nBeing nervous was pointless.
+266	message	Th-that's... I'm a man too, you know?
+267	message	...When you think about it, that's true.\nOf course you're different from a woman, but\nnot enough for me to be conscious of it.
+268	message	For what it's worth, let me tell you this...
+269	message	I'm glad my comrade... is you.
+270	message	...That's all.
+271	message	Huh?\nUm... what do you mean by that?
+272	message	Exactly what I said.\nI don't get nervous around you,\nand I don't have to watch myself...
+273	message	It's anticlimactic, in the best way.
+274	message	...Anticlimactic... come on.
+277	message	What were you imagining...?
+278	message	Let's see.\n...Something I couldn't even imagine—ferocious,\nnever saying what it's thinking...
+279	message	...To put it in words,\nsomething like a gorilla.
+280	message	Th-that's... quite the extreme image...
+283	message	You're... just as you look...
+284	message	What do you mean by that?\nAre you referring to my visible elegance?
+285	message	...Let's go with that.\nAnd along with that, you're cute...
+286	message	M-my!\nYou say it so casually...
+287	message	I-I'm used to hearing it, so\nmy heart won't stir over that much!
+290	message	A-anyway!\nI came to express my gratitude!
+291	message	That's all I needed.\nWell then, excuse me.
+293	message	...Ah, thank you.
+294	message	(...Why would she do that?\nWell, she doesn't seem to hate me, so that's good...)
+295	message	(Anyway, that's fine.\nShe must care about me...)
+298	message	What are you spacing out for?\nHow rude, when I'm right here holding your hand.
+299	message	...Ah, sorry.\nWait, Cecilia-san? Where is this?\nAnd that outfit...
+300	message	What are you saying at this point?\nWe're almost there.
+301	message	Huh? Almost where...?
+304	message	Today, I said I'd treat you\nat the café.
+305	message	Did you forget?
+306	message	D-did you...?\nI don't remember...
+307	message	Honestly... forgetting what I said...
+308	message	Then you don't remember me putting on this outfit either?
+309	message	Well... but it suits you.\nYou look good in anything, Cecilia-san.
+310	message	Honestly!\nYou can't fool me with that!
+311	message	Anyway, you understand now, right?\nI'm treating you today, so ask for anything.
+312	message	...Since it's a café, is there a menu...?
+313	message	Of course! Here it is... wait.\nYou don't need it.
+314	message	I have a special menu for you!
+315	message	Just wait a moment.
+318	message	Here's your sandwich.
+319	message	.........
+320	message	What's wrong?\nWhy so quiet?
+321	message	...Phew...\nThis couldn't be... did you make this, Cecilia-san?
+322	message	Were you worried about that?\n...As if.
+323	message	Of course I made it.\nI said it was a special menu.
+324	message	Guh...
+325	message	Now, please.\nI'll even feed it to your mouth.
+326	message	(...Being fed 'ahh' by a woman doesn't happen\nevery day, but... her holding something dangerous\nin her hands happens even less)
+327	message	(...Here... I steel myself...)
+328	message	Nom...
+329	message	How is it?
+330	message	...Delicious?\nIt's really delicious, Cecilia-san!
+331	message	That's wonderful!\nI'll keep treating you until you're satisfied.
+332	message	Because... I want you to notice...\nmy feelings...
+333	message	Huh? That means... surely not...
+334	message	I can't say any more than that!\n...After that, I want to hear it from the gentleman.
+335	message	...Cecilia-san.
+338	message	...She's not waking up.\nSoon... with Blue Tears,\nby force...
+339	message	U-uhn...?
+340	message	Are you awake?
+341	message	...Huh? Where...?\nAnd Cecilia-san, did you change clothes?
+342	message	What are you talking about?\nMore importantly, this is for you.\nIt's special.
+343	message	...What is that stew in your hand?
+344	message	I made it.\nCan't you tell by looking?
+345	message	You told me\nto cut back,\nbut I have to cook sometimes.
+346	message	Now, dig in.
+347	message	The look of it... yeah, and the smell too—perfect.
+348	message	Naturally.\nI never slip up.
+349	message	But those other IS users\nran away from me.
+350	message	Something about having things to do...\nSo I brought it to you again.
+351	message	Of course... you'll eat it, won't you?
+352	message	...Thank you for the meal.\nNom.
+353	message	(...I wasn't expecting dream-level improvement...\nbut this...)
+354	message	...Gobaaah!?\n.........
+355	message	My, raising your voice like that...\nI'm glad you're so pleased.

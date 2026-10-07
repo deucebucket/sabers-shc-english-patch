@@ -1,0 +1,269 @@
+row	column	english
+4	message	This is sudden, but what kind of present\nwould make you happy to get?
+5	message	A present!?\nAre you giving me something?
+6	message	Huh? Ah, um, no, that's not it...
+7	message	I'm thinking about a present for Aoi-neesama.\nI just can't decide...
+8	message	For Aoi...\nI'm sure she'd be happy\nwith anything from you, Kurumi.
+9	message	Anything, huh...\nHaruka said the same thing.
+10	message	'Anything's fine' is the\nhardest answer to work with~~.
+11	message	Then why not make her something by hand?
+12	message	Handmade...?\nYeah, handmade.\nThat might be good!
+13	message	Yeah, going with that!
+14	message	Alright, let's get started right away!\nYou'll help me, right?
+15	message	Huh!?\nS-sure, but what are we making?
+16	message	Hmm... let's see...\nSomething Aoi-neesama would like...
+17	message	Let's see... something she can use every day.\nSomething neesama would be happy with...
+18	message	How about a pendant?
+19	message	A pendant sounds great!\nSo what should I help with?
+20	message	Let's see...\nThere's a lot to do, but...
+21	message	Could I ask you\nto go buy the materials?
+22	message	Um, the chain for the pendant...\nand...
+23	message	Clasps, wire, beads... okay.\nI wrote it all on this memo, so go for it!
+24	message	Uh, um...\nH-hey! This much!?
+25	message	I'll pick out the main gem myself.\nCome on, please!
+28	message	I can't carry all this.
+29	message	Huh, you can't...? Then take this!\nTake my specially-made shopping bag!
+30	message	With this bag,\nany amount stores compactly, and it\neven reduces the weight...
+33	message	Do you have enough money?
+34	message	It's fine.\nI calculated it all\nto fit within budget.
+35	message	And put in a little effort yourself\nfinding cheap shops.
+38	message	Anyway, I'm counting on you!
+39	message	I'll draw up the blueprints in the meantime.
+40	message	Can you hurry?\nThe longer I think about it, the more elaborate\nit gets, and we might run out of materials!
+41	message	O-okay...
+44	message	Materials are gathered, we're all set.
+45	message	With this much, we should be able\nto make something good.
+46	message	You're better at this than I thought!\nYou saved me.
+47	message	Th-thank you.
+48	message	Alright, let's get to work!
+49	message	H-hey.\nCome to think of it, aren't you making one for Haruka?
+50	message	Huh, Haruka? Th-that's...\nI don't owe Haruka any thanks or anything...
+51	message	If anything, SHE should thank ME!\nHonestly, she's always so clumsy...
+52	message	She causes trouble for Aoi-neesama too.\nShe really puts me through it!
+53	message	So it's fine! This time the present\nis for Aoi-neesama!
+54	message	But won't Haruka be sad if she's the only one left out?
+55	message	It's her own fault! If she wants one,\nshe'll have to put in the effort...
+56	message	Otherwise, even I...\nactually...
+57	message	Actually?
+58	message	Huh?\nN-nothing!!
+59	message	Anyway!!\nThis time I'm NOT giving Haruka one!!
+60	message	Is that how it is...
+62	message	You're persistent, you know! Fine,\nsince we've got the chance, I'll tell you everything about Haruka.
+63	message	First, she sleeps in every morning!\nHow can a high schooler\nnot get up in the morning?
+64	message	She barely avoids failing every test,\nshe's a ditz and always forgets things!
+65	message	A-and, she sneaks her striped panties into...\nmy change of clothes...
+67	message	(The way she keeps listing things,\nmaybe Kurumi actually likes Haruka)
+68	message	Ugh~, why does Haruka make me\nlook after her so much!?
+71	message	You're not very honest with yourself.
+72	message	W-what's that supposed to mean...
+73	message	I'm always honest!\nI only ever say true things!
+76	message	You know a lot about Haruka.
+77	message	I-it's not like I learned it because I like her...
+78	message	We're together every day, so\nof course I'd know this much, I mean, um...
+81	message	A-anyway, this conversation is over!\nThis time we're making it for Aoi-neesama!\nGot it!?
+82	message	Yeah, got it.\nSo what should I help with?
+83	message	Right, we're short on time, so\nwe need to get going right away!
+84	message	I made the blueprints, so\ncan you help while looking at these?
+85	message	(The blueprints are super detailed, but\nis there anything I can actually help with?)
+86	message	Hey, your hands stopped.\nHurry up!
+87	message	Y-yes!
+90	message	How'd the pendant turn out?
+91	message	Hmph, glad you asked.
+92	message	Look! It's perfect!
+93	message	Yeah, going with the cat pattern was the right call.\nAoi-neesama's sure to love it!
+94	message	Th-this is it?
+95	message	Yeah. Something wrong with it?
+96	message	Don't tell me you're a dog person.\nHah, I wonder which Aoi-neesama is...
+97	message	Come to think of it, I never asked.\nCareless of me...
+98	message	Ugh~~, if you noticed that,\nyou should've said so sooner!!
+99	message	N-no... that's not it.\nIsn't it a little... childish?
+100	message	Huh!? Childish...?
+101	message	Y-yeah, I thought so...
+102	message	It was bothering you.
+103	message	A little. Aoi-neesama and I have\ndifferent ages and tastes...
+104	message	That's why I thought getting you\nto help might be a good idea.
+105	message	I see, that's what it was.\nI wondered, since I figured you\ncould do it alone, Kurumi.
+106	message	Hmm, how can I make it\nbetter from here?
+109	message	How about changing the colors?
+110	message	Right. More grown-up colors\ncould really change the vibe.
+111	message	Okay! I'll try out\na few patterns.
+114	message	How about changing the pattern type?
+115	message	Cats are no good after all?
+116	message	Hmm... right. Even with cats,\nwhat about doing it as a silhouette?
+119	message	If we're making it, I want it perfect, so\nsorry, but will you help me till the end?
+120	message	Of course.
+121	message	Thanks!\nThen I'll have to redo\nthe blueprints from scratch.
+122	message	Um, so...
+123	message	Sorry, but could you go buy\nmore materials?
+124	message	I want to make several patterns this time,\nso it's a bit more than before...
+125	message	And the budget's running low.\nFind something cheap and good, will you.
+126	message	Be back before I finish the blueprints!\nUm, like, 5 minutes?
+127	message	Huh...
+128	message	Okay, I'm counting on you!!
+129	message	Okay...
+132	message	We're getting close to the final version.\nLet's build it all at once.
+133	message	Um... so,\ncan you cut that chain?
+134	message	Yeah, leave it to me.\nI've gotten pretty good at making these, right?
+135	message	Well, for this short a time,\nthat's impressive.
+136	message	Though I think my teaching\nbeing so good is part of it♪
+137	message	Anyway, this time it's perfect.\nI hope Aoi-neesama likes it...
+138	message	But man, you really went to\nall this trouble, Kurumi. Impressive.
+139	message	It's nothing. I like making things,\nit's fun.
+140	message	This much isn't nearly enough\nto show my gratitude to Aoi-neesama.
+141	message	As the ones who summon Twin Angel,\nthe responsibility is huge.
+142	message	Whatever form it takes, I want\nto support them.
+143	message	And believe it or not, I'm technically\nin the same grade as Haruka and the others. ...I skipped grades, though.
+144	message	R-right...
+145	message	What's with that face?\nSure, I'm younger than her in actual age, but\nI'm way more put-together than Haruka!
+146	message	That again?\nHaruka's kind, and she can understand everyone's feelings.
+147	message	That alone makes her qualified\nto summon Twin Angel, I think.
+148	message	I know that.\nI know Haruka's energy\nbrightens everyone up...
+149	message	But that's not enough.\nNot enough, or... it worries me...
+150	message	That recklessness is dangerous.\nAs Aoi-neesama's partner, I want her\nto be stronger, calm and collected.
+151	message	Don't you think you're overthinking it?
+152	message	What do you mean?
+155	message	Exactly what I said.
+156	message	I'm asking what\nthat MEANS!
+157	message	Am I really overthinking it?\nIt seems like common sense to me...
+160	message	That doesn't matter.
+161	message	You say that, but!\nWith her being so carefree, what'll happen from here on out...
+162	message	If something happened to those two, I...
+165	message	So I just want Haruka to get stronger.\nThat's all I'm saying...
+166	message	But there are all kinds of definitions of strength.
+167	message	Huh?
+168	message	Now, I'll go make some tea, and\nwe'll keep working after a breather.
+169	message	O-okay...
+172	message	Definitions of strength...
+175	message	Like this... and like this...\nDone!
+176	message	Yeah! This time it's not just cute,\nit's got a grown-up feel too.
+177	message	After everything,\nAoi-neesama's sure to...!
+178	message	I wasn't much help, but...\nI'm glad I could help out.
+179	message	No, that's not true.\nAbout the design — I never\nwould've noticed that on my own...
+180	message	You really saved me. Thanks!
+181	message	Huh, you can say thank you properly after all.
+182	message	Hey, what's that supposed to mean?
+183	message	Honestly, here I am thanking you,\nhow rude.
+184	message	Of course I can say thank you.\nNaturally!
+185	message	Then how about properly thanking\nHaruka for everything, too?
+186	message	Huh? Th-that's...
+187	message	That's different.\nThis time it's Aoi-neesama's present...
+188	message	Oh, I get it. The only person you're not\nhonest with is Haruka.
+189	message	W-w-w-what are you saying!?\nThat's not true at all!?
+190	message	Honestly, what basis do you even have\nfor saying that...
+191	message	But well, Aoi-neesama might\nworry, so making the same thing\nfor Haruka too, maybe...
+192	message	For Haruka, maybe the full-cat\ndesign like the first one...
+193	message	B-but, if I did that,\nHaruka might get a big head...
+196	message	What's there to hesitate about?
+197	message	I'm not hesitating.\nJust...
+198	message	When it comes to actually giving Haruka a present,\nwhat excuse should I give her, like...
+201	message	Let's make the present?
+202	message	R-right.\nIf I only give one to Aoi-neesama, neesama might\nfeel awkward about it...
+203	message	Yeah, that makes sense.\nI guess I could make one for Haruka too!
+206	message	How about being a little more honest?\nYou know your true feelings, right?
+207	message	...
+208	message	Well, whatever.\nAnyway, here you go.
+209	message	What's this...\nAh, materials...?
+210	message	Don't tell me, you bought all these materials\nwith that in mind...
+211	message	That's as far as I can help.\nThe rest is up to you, Kurumi.
+212	message	H-hey, wait!!\nHold on!!
+215	message	Geez! What am I supposed to do\nwith all these materials!!
+216	message	But... thanks.
+219	message	Ah! Perfect timing.\nWill you look at this?
+220	message	What're you spacing out for?\nCome on, how is it? It's lovely, right?
+221	message	A pendant in a different color than last time?\nDid you make Haruka's too?
+222	message	T-that's right. Only because YOU\nkept going on about it!
+223	message	Anyway, how's the workmanship?
+224	message	It might be a little childish, but\nfor Haruka this might be better...
+225	message	I made it red-based, to match\nHaruka's image, anyway.
+226	message	Haruka likes cats... and I\nadded a striped design too.
+227	message	She'll definitely love it!\nAnd now, a present from me to you, Kurumi.
+228	message	Huh, for me...?
+229	message	This is... huh?\nIt's just like the pendant I made...?
+230	message	Don't tell me YOU made this.\nWhen...?
+231	message	Kept it secret from you, Kurumi.\nIt'd be lonely to be the only one without one, right?
+232	message	Th-that's...\nyou idiot...
+233	message	Did it make you happy?
+234	message	W-well. The finishing's a bit rough\ncompared to mine, but...
+235	message	I'll give you a passing grade!!
+236	message	Hehe, presents are nice even\nwithout a reason.
+237	message	Somehow, you've made me realize\nall kinds of things. Thanks...
+240	message	I'm glad you approve.
+241	message	Don't get too cocky.
+242	message	Look closely!\nThe soldering here is a total mess...
+245	message	But I made it pretty well, right?
+246	message	Well, of course — you had\nmy blueprints!
+247	message	And look! The soldering here is sloppy.\nIt'll fall off right away!
+250	message	That's fine.\nJust seeing you be honest with yourself\nmakes me happy, Kurumi.
+251	message	You're a little\nlike Haruka...
+252	message	Anyway, I really appreciate\nwhat you did this time!
+253	message	I'll properly return the favor next time,\nso look forward to it!
+255	message	I wonder what she'll give me?\nCan't wait.
+258	message	Hey!
+259	message	What is it?
+260	message	The presents, obviously.
+261	message	I gave them to the two of them the other day.
+262	message	I tried the surprise from\nyour idea, too.
+263	message	I snuck them into\ntheir desk drawers...
+264	message	They were both so surprised.\nHaruka almost cried...
+265	message	Your kindness reached them.\nGiving the presents was worth it, right?
+266	message	Well, if I'd only given one\nto Aoi-neesama and not Haruka,\nshe'd probably have cried anyway...
+267	message	They were happy to have matching ones,\nso in the end I think it worked out.
+268	message	Yeah.
+269	message	W-why are you grinning?\nDid I say something weird?
+272	message	Nothing at all.
+273	message	With that face, that's completely\nunconvincing!
+274	message	Hmph, whatever.\nYou'll pay for that later.
+277	message	I just think it's funny.
+278	message	What's so funny?\nHow rude.
+279	message	If you say that,\nHaruka's face when she found\nthe present was way funnier!
+282	message	Anyway, I owe\nyou one this time.
+283	message	No no, I didn't do anything.\nIt's all thanks to your hard work, Kurumi.
+284	message	I-I didn't...
+285	message	I did work hard, sure.\nBut you're the one who pointed out\nwhat I didn't notice.
+286	message	You're really honest with everyone\nexcept Haruka.
+287	message	Shut up!!\nThat's not relevant right now!
+288	message	Honestly, here I am\ntrying to thank you...
+289	message	I don't need thanks, but\nhow about being more honest with Haruka?
+290	message	I said drop it!!\nLeave me alone!!
+291	message	Hmph! Bye!!
+293	message	I wonder why Kurumi got so mad...
+296	message	I did promise, after all...
+297	message	That outfit is the promise?
+298	message	It's the outfit I'm wearing for the\nacademy festival event. I designed it.
+299	message	I-I made it thinking about\nwhat you'd like...
+300	message	Come on, come over here!\nI can't thank you properly like this...
+303	message	No one's around. ...Okay.\nU-um...
+304	message	W-welcome home, Master.\nWhat would you like to order...?
+305	message	'Order'...? What's going on?
+306	message	I-I said it's my thank-you, didn't I!?\nJust decide what you want!
+307	message	No wait. Ugh...\nPlease decide, Master...
+308	message	T-then...\nIced coffee, please.
+309	message	Iced coffee, then.\nUnderstood...
+310	message	Th-then, with this gum syrup,\nI'll cast a spell~~!!
+311	message	Here I go~~~!!
+312	message	Become deliciouuus!\nKuru-Kuru Miracle~~!!
+313	message	Th-that Kurumi doing this...
+314	message	But... I wanted Master to be happy...
+315	message	Master, am I a bad maid?
+316	message	What can I do to make Master happy...?
+317	message	For Master, I'd do anything...
+318	message	Ah... my magical iced coffee is going to get cold...
+319	message	Huh, cold...? It's iced?\nW-well, whatever... *gulp gulp gulp*...
+320	message	Wow, Master, great drinking!\nNumber one in Japan!!
+321	message	Did my love taste good...?\nHehe...
+322	message	So, how about some food next?
+323	message	I tried making it for Master.\nMy special omurice...
+324	message	U-um, this time...
+325	message	Then I'll cast a spell on this one too...?
+326	message	Uh, um...\nis that spell really necessary?
+327	message	Yes... because it's a spell I'm casting on myself as well...
+328	message	K-Kurumi...?
+329	message	I want to be more honest...\nhere goes! Kuru-Kuru Miracle~~!!
+332	message	Wake up!!\nSeriously. How long are you going to sleep?
+333	message	U-uhh...\nKurumi, you're actually really hardworking, huh?
+334	message	Huh!? More importantly,\nyou put in the effort to wake up!
+335	message	You were calling my name in your sleep...\nHonestly, what were you dreaming about?
+336	message	Yeah, I guess.\nIt was just a dream...
+337	message	I even prepared something to thank you\nproperly...
+338	message	Huh? Did you just say something?
+339	message	Nothing!\nGo wash your face already!

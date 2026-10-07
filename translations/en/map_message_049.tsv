@@ -1,0 +1,335 @@
+row	column	english
+3	message	Is that the sound of higurashi...?\nEarly summer in Japan—\nthe season must be June, I wonder.
+4	message	For now, let's head out\nto the main road.
+5	message	// Background: Hinamizawa (day)
+6	message	Whoa, talk about the boonies!
+7	message	Mmm, delicious.\nYou can tell the air itself has flavor.
+8	message	!?
+9	message	Wait! Everyone stop!!
+10	message	What's wrong, Aria?
+11	message	Just do it! Rika! Where's Rika!?
+12	message	//
+13	message	Who's Rika?
+14	message	//
+15	message	What's wrong, Aria?\nThere's no one named Rika among us, you know?
+16	message	Uh... huh?
+17	message	Wasn't Usada's name Rika, nyo?
+18	message	It's Usada Hikaru!!\nI mean, call me Rabi~en~Rose!!
+19	message	Still, there's nothing here.
+20	message	The greenery's dazzling.
+21	message	Usada, Laura, Charlotte—\nyou're all here, right?
+22	message	What are you talking about?\nOf course we're here.
+23	message	Yeah... but isn't someone missing?
+24	message	Who do you mean, 'someone'?
+32	message	??
+36	message	???
+40	message	????
+42	message	What's wrong?
+43	message	What's wrong?\nYou're acting weird, Aria.
+44	message	(She's gone...\nsomeone's definitely missing...!)
+45	message	(Am I the only one feeling this wrongness?\nAnd I'm forgetting something too...\nI know something, and I'm forgetting something!)
+46	message	// Rika runs up
+47	message	Aria! Good, I made it in time.
+48	message	R-Rika? You're Rika, right?
+49	message	Aria? Even your memories\nare fading?
+50	message	Aria, what's wrong? Who's that?
+51	message	Rem, sorry!\nKeep everyone waiting a bit!\nI've got something important\nto discuss with her!
+52	message	...Fine.
+53	message	// Fade to black: passage of time\n// Background: forest (day)
+54	message	Huh... time rewound...!?
+55	message	Aria should remember.\nTomorrow is the day of the Watanagashi festival,\nand Aria has repeated this day several times.
+56	message	Yeah... now that you mention it,\nit's coming back to me bit by bit.
+57	message	I've died in this village of Hinamizawa before.\nAnd Rika and Satoko being killed too—\nugh...
+58	message	Aria did her best.\nI remember all of it.
+59	message	Rika, what are you?\nAnd what's happening in this village?
+60	message	Something very sad...\nhappens, again and again.
+61	message	That doesn't tell me anything!\nYou came back to do something about it, right?
+62	message	...I want you to save Rena.
+63	message	Rena?
+64	message	Rena's acting strange.\nAt this rate, Rena will probably...
+65	message	Die...?
+66	message	Aria, don't you remember?\nClawing at her own throat until she dies.
+67	message	Ah...!!
+68	message	It was me!\nDriven mad by fear and suspicion,\nlosing my mind... I died in Hinamizawa!\nAnd Rena's about to repeat it...?
+69	message	Mii... there's nothing I can do.\nAria, I want you to see Rena.
+70	message	Got it, where do I go?
+71	message	Rena's doing something\nat the Hinamizawa branch school.\nYou should find her if you go.
+72	message	The Hinamizawa branch school...\nyeah, I remember!
+73	message	I'll take everyone\nto meet Mii and Satoko.
+74	message	Hopefully that brings\neveryone's memories back.\nI'll leave that to you.
+75	message	There's no time until\nthe Watanagashi festival.\nDo your best, Aria.
+76	message	// Fade to black\n// Background: Hinamizawa (day)
+77	message	The road to the Hinamizawa branch school\nwas, if I remember...
+78	message	This way.
+79	message	!?
+80	message	// Rena was behind Aria.
+81	message	Rena!
+82	message	...?
+83	message	(Damn! She's suspicious\nthat I know her name...!\nAll right then!)
+84	message	You're Ryugu Rena, right?\nI'm Kanzaki H. Aria.\nDoes that name ring a bell?
+85	message	...Don't think so?\nI wonder~
+86	message	(Ugh... this feeling...!)
+87	message	What's wrong?\nI wonder~
+88	message	(Bad, she suspects me!\nIf my memory's right,\nsuspecting or being suspected is bad...\nthen!)
+89	message	Rika from the Furude shrine\nasked me to come.\nShe wanted me to meet you.
+90	message	Rika did?
+91	message	Yeah.\nShe thought you might be troubled\nabout something.
+92	message	...
+93	message	I'm a Butei—I take requests\nfrom civilians and solve\ncrimes and problems.
+94	message	Believe it or not, I'm a second-year\nin high school! Older than you!
+95	message	Huh, so that's why you've got\nswords and stuff?
+96	message	...You noticed when you stood behind me?
+97	message	Yeah. Two of them.
+98	message	Impressive.\nYou might not know me,\nbut the you I know is exactly like that.
+99	message	Careful, thinking hard about what things are,\ntrying to find the answer. Right?
+100	message	I'm surprised...\nwhy is that, when we just met?\nI wonder~
+101	message	I'll tell you the truth.\nYou and I aren't meeting for the first time.\nMaybe you'll remember eventually?
+102	message	I see...
+103	message	So? Something's troubling you, right?\nFeel like telling me?
+104	message	...Should we make a contract?\nI wonder~
+105	message	You're hiring me as a Butei.\nFine, let's do that.
+106	message	Butei Charter, Article Two:\nnever break a contract with a client.\nI will never betray you.
+107	message	Then, before the contract,\nI'll tell you the request.
+108	message	Quick to understand—that helps.\nThere are some requests I can't take,\nafter all.
+109	message	The request is...
+110	message	// Fade to black: passage of time\n// Background: Hinamizawa
+111	message	You're... serious about all of that?
+112	message	Yes. The curse of Oyashiro-sama—\n'Demoning Away'—is carried out\nby a fanatical faction to revive\nfaith in Oyashiro-sama.
+113	message	And the ringleader is the Sonozaki family—\nMion's family?
+114	message	Yes. 'Demoning Away' eliminates\ninconvenient people to hide\nOyashiro-sama's secret—its true nature.\nAnd they use it to strengthen the faith too.
+115	message	Hide Oyashiro-sama's true nature?\nYou know what it is, Rena?
+116	message	Oyashiro-sama...\nthe god enshrined in Hinamizawa.\nBut Oyashiro-sama's true nature isn't a god.
+117	message	The true nature of Oyashiro-sama's curse\nwas a parasite... a virus that welled up\nfrom Onigafuchi Swamp.
+118	message	A virus...?
+119	message	A strange parasite that makes\nthe infected violent.\nThe infected became demons\nand attacked people.
+120	message	And Oyashiro-sama was the one\nwho cured it by some means.
+121	message	So Oyashiro-sama was a doctor or something,\nwho became an object of faith?
+122	message	If what you're saying is true,\nand it were made public,\nfaith in Oyashiro-sama would collapse.
+123	message	That's why the fanatical faction carries out\n'Demoning Away' every year to strengthen\nfaith in Oyashiro-sama, eliminating\nthose in the way.
+124	message	(Eliminating those in the way...?\nReally...? Were Satoko and Rika in the way?\nAnd I wasn't murdered, I killed myself...?)
+125	message	Someone's been watching me\nfor the past few days.\nI think it's probably the Sonozaki family.
+126	message	The Sonozaki family...
+127	message	So I told the police about the three notebooks\nwith the truth written in them,\nand demanded a thorough search\nof the Sonozaki family.
+128	message	(The Sonozaki family...\nMion and Shion.\nI can't believe they'd be involved\nin 'Demoning Away')
+129	message	(Still, if they were driven mad\nby the parasite Rena talks about,\nthe atrocities would make sense...)
+130	message	(But something about what Rena just said\nfeels wrong. What it is...\nI don't know)
+131	message	Then, I'll give you your first job,\nMiss Butei.
+132	message	Sure, what should I do?
+133	message	First...
+134	message	// Fade to black\n// Background: Hinamizawa branch school (evening — match to battle map; night if evening unavailable)
+135	message	This is it!\nWhere Aria's barricaded herself!
+136	message	She's taken hostages\nand is holed up in that building, apparently.
+137	message	Honestly, what is Aria doing!!
+138	message	Can't we storm in?
+139	message	In there are Dejiko, Siesta,\nplus Hinamizawa's Rika, Satoko,\nMion, and Shion, held hostage.
+140	message	And Aria's accomplice is apparently\na girl named Rena Ryugu.
+141	message	Rena Ryugu is demanding the police\nforcibly search the Sonozaki family\nwithin 24 hours, threatening to blow up\nthe building if they don't.
+142	message	Same trick as a bank robber, nyu.
+143	message	I trust Aria, but I can't grasp\nthe situation at all—\nI don't know how to move...!
+144	message	Rika told me.\nThat Rena is a good girl.
+145	message	So surely Aria and Rena\nare doing something meaningful.\nThat's what I believe.
+146	message	Shirayuki, can you tell that kind of thing\nwith like, spiritual senses?
+147	message	No, it's less a special power and more...\nempathy between those who carry shrines,\nI guess? Sorry, you wouldn't get it.
+148	message	Hmm, that's deep.\nBut if you say so, Shirayuki,\nI'll believe it too!
+149	message	Thank you, Koto.
+150	message	Still, this is troubling~.\nHow can we get them\nto release the hostages?
+151	message	Based on Rena's petition, the police\nnegotiated directly with the Sonozaki family\nand concluded they're not behind\n'Demoning Away'.
+152	message	So the police won't act?
+153	message	That's how it is...
+154	message	// Battle map: Hinamizawa branch school (plains if unavailable?)\n// Rena and Aria barricade themselves with hostages Mion & Shion, Rika & Satoko, and Dejiko. Outdoors if no building.
+155	message	What are the police doing!\nWon't they raid the Sonozaki family!!
+156	message	Calm down, Rena!\nGetting worked up won't help.
+157	message	I'm out of time!
+158	message	Huh...
+159	message	There's something I haven't told you yet,\nAria. Let me tell you.
+160	message	The truth is,\nthe parasites are actually aliens.
+161	message	Aliens...!?
+162	message	They've controlled human bodies\nthrough parasitism.\nBut sharp humans noticed,\nand tried to expose the truth.
+163	message	They eliminate sharp humans\nand create copies, making it look\nlike they're still alive.
+164	message	(What is she saying...\nisn't this too much of a leap...?)
+165	message	I'm one of those sharp humans.\nSo the parasites will eliminate me.\nBy tonight I'll claw at my throat and die.
+166	message	!!
+167	message	(Just like me...!\nJust like that time, the first time I met Rena!\nDriven mad, clawing at her throat, dying!)
+168	message	Before then, I have to destroy\nOyashiro-sama's fanatics—\nthe Sonozaki family.\nYou understand, right?
+169	message	Our contract is for your protection, Rena!\nI can't help with anything beyond that!
+170	message	No, you'll help.\nOr I'll blow this place up with the hostages\nand die right now!
+171	message	(Tch... was it already too late?\nRika...!)
+172	message	Aria... this is...
+173	message	Rika, be quiet!\nHostages who don't stay quiet\nend up like Mii over there?
+174	message	...
+175	message	Rena... why are you doing this?
+176	message	Shut up! You Sonozaki!
+178	message	I mean, why am I captured, nyo~?
+179	message	Aria asked me to come to the school with her,\nand then Rena ended up like this...
+180	message	Can't you hear me telling you to shut up!\nI could tape your mouth shut, you know?\nIf being tied up isn't enough for you.
+181	message	If the police don't move, you die!\nJust wait quietly.\nHaah-ha-ha-ha!!
+182	message	(Rena's thinking is all over the place...!\nThe biggest problem right now is that Rena herself\nwill die soon because of the parasite...)
+183	message	(Rena herself is consumed by hatred\nfor the Sonozaki family and by exposing\nHinamizawa's secret, true or not)
+184	message	(What can I do... to save them?\nThe hostages... Rena...!)
+185	message	// Enemy grunts appear around Rena and Aria. The grunts are positioned facing outward, as if protecting Rena's group.
+186	message	Huh!? What are these!? Rena!!
+187	message	Haah-ha-ha-ha!!\nThese guys are on my side too?\nGreat! Come on, protect me!
+188	message	Rena! These guys are different!
+189	message	You're the odd one out, Aria...?
+190	message	Huh...
+191	message	We made a contract, right?\nYou'll protect me, right?\nYou won't betray me, right?
+192	message	...Yes. I always honor a contract\nwith a client.\nSo don't do anything rash, Rena.
+193	message	Obviously.\nIf I blow this place up, the police won't move.\nI need them to do their jobs!
+194	message	(At the very least, unless we eliminate\nthe enemy encirclement, we can't get\nthe hostages out...!\nEveryone, I'm counting on you!)
+195	message	// Player deployment
+196	message	To think they'd show up\nat a time like this!
+197	message	With those things around,\nwe can't save anyone!
+198	message	Leave what's inside to Aria—\nlet's give all the support we can!
+199	message	Something's coming...\nthose are Aria's friends, right?
+200	message	Yeah.\nLooks like they came to deal\nwith the nuisances.
+201	message	Those are protecting me, you know?
+202	message	With those around, the police won't move.\nIt's interference by someone who'd be troubled\nif the police acted!
+203	message	...Huh, I didn't call them,\nso maybe you're right.
+204	message	But if they try to get in my way\neven a little, you know what happens, right?
+205	message	I wish I could tell them that myself,\nbut there's no way to.
+206	message	(Something's bound to come up\nduring the battle.\nIf I can seize it...!)
+207	message	// Event when a set number of grunts are defeated
+208	message	Huh, Aria's friends are strong.
+209	message	You've fought alongside them before, Rena.\nDon't you remember?
+210	message	I don't know them.\nI have no memory of people like that\nin Hinamizawa.
+211	message	This isn't our first meeting here.\nYou went to Akihabara, as I recall.
+212	message	Akihabara? What's that?
+213	message	A town full of those.
+214	message	Nyo?
+215	message	Those... live there?
+216	message	Yeah, lots of cute ones.\nDon't you remember Dejiko?
+217	message	Dejiko... cute...?
+218	message	S-someone take me home\nfrom here, nyo...
+219	message	...
+220	message	(Rena... you're not completely\ndelirious yet...)
+221	message	(I need to find a way to fix this.\nFirst, securing the hostages' safety...)
+222	message	// Event when more grunts are defeated
+223	message	Aria's friends are amazing.\nBut... you're not asking them for help\nto get in my way, are you?
+224	message	I said I'd honor the contract.
+225	message	The contract is to protect me.\nYou're not thinking of stopping the bombing\nand calling that 'protection'?\nI wonder~
+226	message	I'm bad at deduction.\nA slick solution like that's beyond me.\nBut I don't want to die here with you either.
+227	message	Then what'll you do?
+228	message	I'm thinking about that right now.\nWhat would you do, Rena?
+229	message	Ah-ha-ha-ha!\nYou're asking the culprit\nto think of a solution?
+230	message	What are you talking about?\nRena's in my club,\nand she's one of my partners.
+231	message	Huh?
+232	message	She's under contract with me, too.\nShe's no culprit.
+233	message	Of course we'd figure out\nthe best move together.
+234	message	What do you mean, I wonder~?
+235	message	Listen, Rena — and Rika, you too.\nI've been thinking about what I've been doing wrong,\nand watching you like this, Rena… I think I finally get it.
+236	message	Huh…?
+237	message	Going it alone doesn't work.\nIt's my own personal issue too, but…\nyou can't shoulder your problems all by yourself.
+238	message	…!
+239	message	You understand, don't you, Rika?\nEver since I met you that second time,\nI've managed to stay mostly sane.
+240	message	Ah…!
+241	message	So, Rena. I'll stay by your side,\nright to the very end.\nI'm your ally, okay?
+242	message	…Aria.
+243	message	(I was right to choose Aria, after all.\nShe's getting closer to the right answer…\nlittle by little.)
+244	message	//Trigger the event by defeating more grunts
+245	message	Hey, Rena. Where did you plant the bombs?
+246	message	Bombs?
+247	message	This place is thick with vaporized gasoline.\nYou've probably got a lighter or something —\nsomething to set it off, right?
+248	message	But you'd have a backup plan, too.\nYou've planted a detonator somewhere, haven't you?\nRemote-controlled, or on a timer.
+249	message	As expected of a Butei. Right on the money.
+250	message	I'm no good at deductions,\nso I can't figure out where it is.
+251	message	Can't tell you.\nYou'd just go stop it, wouldn't you?
+252	message	I'll wait until the last possible moment.\nBut if you can't take it anymore, Rena,\nyou should at least let the hostages go.
+253	message	No!!
+254	message	Scared of being alone?\nDon't worry, I'm not running.\nI'll stay with you the whole time.
+255	message	That's a lie! Lies, lies, all lies!!
+256	message	Don't underestimate me!!
+257	message	!?
+258	message	You think I'd call myself your ally\nwith some half-baked resolve like that?
+259	message	Like I'd fall for that!
+260	message	Did you forget? Rika asked me to help you\nbecause you were in trouble,\nand that's why I contracted with you.
+261	message	I'll say it as many times as it takes.\nI'm here to save you, Rena.\nThat's my one and only reason.
+262	message	That's a lie!!
+263	message	Why can't you believe me?
+264	message	Uuugh!! M-my head…!!
+265	message	Rena!
+266	message	Stay back!
+267	message	AH-HAHAHAHA!! Trust a total stranger\nI met just today?\nWhat kind of idiot would do THAT!
+268	message	Calm down! Don't lose to some parasite\nor whatever it is!
+269	message	The police aren't going to move anyway!\nEnough — I'll end this myself!!
+270	message	//SE: lighter lid opening
+271	message	A lighter!?
+272	message	//Rika runs in and tackles her //SE: tackle
+273	message	Hiyah!!
+274	message	Guh!?
+275	message	//Rena collapses
+276	message	The lighter! Got it!!\nSatoko! Shion! Get Mion out of here!!
+279	message	Yes!
+280	message	Will she be all right,\nnyo?
+281	message	You go too, Aria!\nProtect everyone from the enemies outside!
+282	message	Rika! You…!
+283	message	This isn't the first time.\nLast time, if only I'd tried\na little harder…!\nSo this time—!!
+284	message	…Got it!
+285	message	//Shion & Mion, Satoko, Dejiko, and Aria relocate (hide once, re-place at destination; adjust if only one of Satoko/Rika's units is visually available)
+286	message	Aria's out! Looks like the hostages are with her!!
+287	message	Everyone! Get somewhere safe, quick!\nI have to go right back!
+288	message	And what are YOU gonna do!?
+289	message	There's still someone I have to save!
+290	message	That's so mean, Aria…\nYou said you'd stay by my side…
+291	message	Rika-chan's gonna get killed, you know?\nAngry Rena will definitely kill her!
+292	message	I'll play with you in Aria's place…\nCome here, cleaver girl…!
+293	message	//Aria returns inside the building at the start of the next turn
+295	message	The area around the building is clear!
+296	message	The rest is up to Aria…
+297	message	//Aria talks with Rena
+299	message	Rena…
+300	message	Why did you come back, Aria?
+301	message	I told you, didn't I…\nI'd stay by your side to the very end.
+302	message	You were fighting the aliens so desperately…\nIf humanity goes extinct now,\nit'll be all your fault.
+303	message	Aliens, huh… I've been through enough\nto believe that much, but your theory\nstill sounds fishy to me.
+304	message	Still, I'll believe you.\nThe club has its own special way\nof settling things like this, right?
+305	message	Hehe… the winner is justice, right!
+306	message	//Event art off
+307	message	Exactly! I'll see this through with you\nto the very end,\nso bring it on!!
+308	message	…!!
+309	message	//Aria vs Rena duel begins\n//Conversation event on the 1st clash
+310	message	If I win, you'd better brace yourself!
+311	message	If you win, what'll you do to me?
+312	message	You'll be my slave, of course!\nI'll put that keen eye and razor-sharp\ndeduction of yours to work 24/7!!
+313	message	Then we'll solve the mysteries of Hinamizawa —\nand every mystery in the world!\nTotal victory!
+314	message	AH-HAHAHAHA!!\nBig talk, huh!
+315	message	//Conversation event on the 2nd clash
+316	message	You probably don't remember,\nbut you and I once had\na legendary showdown in the club.
+317	message	Back then, I thought —\nI want a rematch like this someday!
+318	message	…That match… the one that ended\nin a draw…?
+319	message	Oh? You remember?\nTo me, that draw was as good as a loss!
+320	message	AH-HAHAHAHA!!\nDon't hold it against me if you lose this time!
+321	message	//Conversation event on the 3rd clash
+322	message	Let me confirm once more!\nIf I win, you're my slave,\nand you're solving every mystery there is!
+323	message	No way, boring stuff's out!\nAnd you'll have to get me cute clothes, too!
+324	message	I'll get you the finest!\n…Now, next — what happens if YOU win!
+325	message	Huh?
+326	message	I called the whole alien invasion thing\nfishy before, but I'll believe all of it —\nthat included.
+327	message	And even if you claw your own throat out and die,\nI'll watch over you to the very end.\nJust like I promised.
+328	message	…Somehow, even if I win,\nthat sounds no fun.
+329	message	W-what? After all that…!
+330	message	I want the same as you, Aria.\nTravel together, solve mysteries,\nlaugh with everyone, fight together, and then…
+331	message	Rena…!? Did you just say…\ntravel together…?
+332	message	I don't know. But that's what I want.
+333	message	I'll allow the change.\nBut we still have to settle this!
+334	message	Obviously!
+335	message	//Event when Aria defeats Rena
+336	message	…
+337	message	…Kill me. Settle this.
+338	message	It's already settled.\nI'm sorry it came to this.
+339	message	…Why… did it come to this?
+340	message	I did such awful things to everyone…!\nI love everyone, I know I do…!\nI believed in them, I know I did…!
+341	message	Rena…
+342	message	I remember… you, Aria.\nWe met so many times. At first I couldn't trust you,\nbut something changed, and we became friends.
+343	message	We traveled together, played together, fought together —\nand I forgot it all, and I…!
+344	message	It's okay. I was the same.\nIf I hadn't met Rika, I might have ended up\njust like you are now.
+345	message	You can't do it alone.\nYou can't see your own mistakes that way.
+346	message	…It doesn't suit me to say stuff like this, though.
+347	message	Aria…! BWAAAHHH!!
+348	message	(Rena… she remembered too.\nOne more soul heading out of\nthe never-ending June…)
+349	message	//SE: higurashi (cicada) cries\n//Fade to black\n//Background: black
+350	message	—And now, the next story.
+351	message	A large-scale disaster has struck\nthe village of Hinamizawa in Shishibone City.
+352	message	Details are still under investigation, but highly toxic\nvolcanic gas erupted from an undisclosed location\nin the Hinamizawa district, forming a gas flow\nthat struck Hinamizawa directly.
+353	message	All households appear to have been wiped out.\nOver a thousand casualties confirmed so far.
+354	message	The Self-Defense Forces are assessing the damage,\nand the death toll is expected to rise further.
+355	message	//END

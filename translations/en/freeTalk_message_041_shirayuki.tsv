@@ -1,0 +1,267 @@
+row	column	english
+4	message	Hm-hm-hm♪ ...Huh?\nWhat's wrong?
+5	message	I'm doing the dishes right now,\nso if you need something, could it wait?
+6	message	The dishes for that many people?
+7	message	Yes. Someone else cooked,\nso I figured I'd at least\ndo the dishes.
+8	message	Isn't that tough?
+9	message	Originally, at my family home... Hoshiga Shrine,\nthere were lots of family members.
+10	message	By the way, I'm the eldest\nof seven sisters.
+11	message	So this many dishes is\neveryday stuff for me. I'm used to it.\nJapanese food uses a lot of dishes, too.
+12	message	Should I help?
+13	message	...
+14	message	What's with the sudden offer?\nCould you have some ulterior motive...
+15	message	(Ugh, I finally worked up the motivation...)
+18	message	Th-that's not it at all!
+19	message	But your flustered reaction is suspicious...
+20	message	There's really nothing...
+23	message	I just purely wanted to help.
+24	message	I-I see...\nSorry for suspecting you...!
+27	message	I've been hearing things from everyone,\nso I got a little worried...
+28	message	Like you have no delicacy,\nor, um... peeping suspicions...
+29	message	I have no memory of that...
+30	message	Hah! I-I'm so sorry!\nHow rude of me...!
+31	message	No, it's fine...
+32	message	Then, could you wipe the rinsed dishes\nwith a cloth?
+33	message	This cloth is for the first wipe,\nand that one's for the finishing wipe.
+34	message	Understood.\nDo you always work this carefully?
+35	message	Carefully...?\nI've never really thought about it.
+36	message	When I think about doing it for someone,\nit just feels natural to do it this way.\nThat's what I think.
+37	message	And if they're happy,\nthat makes me very happy too.
+38	message	(She's a good person...\nShe's probably a kind big sister at home too.)
+39	message	Your hands have stopped, is something wrong?
+40	message	If you're not feeling well, you don't\nhave to force yourself to help.
+41	message	Ah, sorry. Just thinking...
+42	message	(She's a Butei too, but\nshe's nothing like Aria-san...\nI can't picture her swinging a gun around...)
+45	message	Out for a walk?
+46	message	Something like that.\n...You're not in uniform today.
+47	message	Yes, I thought I'd move my body a bit.\nI need to train now and then,\nor my skills will get rusty.
+48	message	Ah, if you'd like,\ncould you help me a little?
+49	message	If you could wrap these straw bundles around\nthis bamboo and hold them, it'd help.
+50	message	(One, two, three... so many of them,\nwhere was she keeping all these?)
+51	message	What's wrong?\nStaring at the straw and bamboo...\nIs it that unusual?
+52	message	Ah, you're wondering what I'm making.\nThese are materials for training makiwara.
+53	message	Combined, they're about as hard as a human body,\nmaking them great training targets.
+54	message	(That's not what I wanted to know...\nAlso, that was a casually scary thing to say...)
+55	message	They've used these since long ago\nfor iaijutsu and naginata training.
+56	message	(...Ah, she meant generally. Good...)
+57	message	Ah, that's right! Since you're here,\nwould you like to join me?
+60	message	I wouldn't want to intrude...
+61	message	N-no, not at all!\nBut thank you for your consideration.
+62	message	...Right, you don't really\nlike fighting, do you?
+65	message	It's not really my strong suit...
+66	message	I-I'm sorry!\nRight, you don't really\nlike fighting...
+69	message	Sorry for inviting you so forcefully...
+70	message	No, it's fine. Don't worry about it.
+71	message	Thank you.
+72	message	Now... in... out...
+73	message	Fufu... ufufu... hahahaha!
+74	message	Hm?
+75	message	Thief cats will be eliminated at once!!
+78	message	Wh-what!?
+79	message	Divine punishment! Divine punishment!!\nDivine punishmeent!!
+82	message	(Weird battle cry... kind of scary...)
+83	message	Not done yeeet!!
+86	message	Wh-what! A huge gun!?\nWhere did that come from...
+87	message	Ah, this gun?\nThis is a belt-fed machine gun.\nIt's very powerful.
+88	message	(That's not what I wanted to know!)
+89	message	Haaaaah!
+92	message	Eeeek!
+95	message	Phew! That felt great!\nWorked up a good sweat.
+96	message	Thank you for helping with the makiwara prep.
+97	message	N-no, no, don't mention it...
+98	message	(So Shirayuki-san is a Butei too...\nI should be careful not to anger her...)
+101	message	Will you help me with training\nagain?
+102	message	I'm sorry to ask.\nBut prepping makiwara alone is tough,\nso it really helps.
+103	message	No, I've just got free time. Don't worry about it.
+104	message	Still, thank you.
+107	message	Phew... I think that's about it.
+108	message	Thanks for your hard work.\nWell, I'll be going...
+109	message	Yes! Thank you,\nas always.
+110	message	Thanks to you, I can prep more makiwara\nthan I could alone,\nand training is going great!
+111	message	(Every time, I wonder\nhow she prepares these materials?)
+112	message	Well, see you later...
+113	message	Yes!
+116	message	Ah, maybe I should help clean up too.\nCleaning up those remains looks tough.\nYeah, let's do that.
+119	message	Shirayuki-san, I'll help with the cleanup...
+120	message	!? No!\nNot right now!?
+121	message	!? Y-you were changing...!\nI-I'm sorry...
+122	message	...been...
+123	message	Seen... by a man...\nAnd not even by someone I like...!\n...by someone other than the one in my dream...!
+124	message	Shirayuki...san...?
+125	message	...You saw, didn't you?
+126	message	That I, the model student council president,\nwas secretly wearing black panties...\n...You saw, didn't you?
+127	message	I-I didn't see...!
+128	message	(Th-this atmosphere...)
+129	message	I can't let you escape\nanymore...!
+130	message	But... you did help me...\nso I'll give you a choice.
+131	message	This machine gun or the kusarigama,\nwhich do you prefer?
+134	message	I-I'm sorry!\nI didn't mean anything by it...!
+135	message	...Apologizing honestly is\na very good thing...
+136	message	But it's too late...!
+139	message	If possible, I'd rather have neither...!
+140	message	Fufu... how selfish.\nFor someone so selfish, you'll get both!
+143	message	Now, prepaaare yourself!!
+146	message	Gyaaaaah!
+149	message	(I should've just gone home...)
+152	message	Wh-what is it!? Even if you say you came\nto apologize for last time,\nI can't believe you!!
+153	message	Just like everyone said,\nyou really are a pervert!
+154	message	You're probably thinking, if you're lucky,\nmaybe again... something lewd,\naren't you!
+155	message	(Terrible things to say... everyone else is terrible too...)
+156	message	Don't come near me!\nIf you come any closer...\nI'll scream!
+157	message	W-wait, Shirayuki-san!
+158	message	D-don't say my name!\nAnd don't come near me!
+159	message	I-it's over for me...\nI might as well bite my tongue while I'm still pure...!
+160	message	I really came to apologize!\nI came back to help clean up and it was coincidence...!
+161	message	Huh? R-really?\nB-but, you stared at my... my\nunderwear...!
+164	message	I-it was very beautiful!\nThe contrast of black underwear on white skin...
+165	message	C-contrast...!?
+166	message	So you did see...!\nThoroughly, with lewd eyes!
+167	message	(Oops, my compliment backfired...!)
+170	message	I-I didn't see!
+171	message	R-really...?
+172	message	Y-yes! I wasn't thinking about how little fabric there was!
+173	message	So you WERE looking!
+176	message	Th-then, before I'm the one taken out,\nI'll silence you after all...!
+177	message	Eep!\nSorry sorry sorry!\nSpare my life...!
+178	message	I-I wouldn't kill anyone!\nI may not look it, but I'm a Butei too!
+179	message	H-huh, but...
+180	message	I'll arrest you for a minor offense\nand detain you so you can't talk\nabout my underwear!
+181	message	My life is spared, but please spare me that too!
+182	message	N-no! I can't rest easy until\nI have proof you've reformed!
+183	message	I won't tell anyone, and I'll do anything,\nso please forgive me...!
+184	message	...
+185	message	Really...?\nYou really won't tell anyone?
+186	message	Yes! About the black underwear thing...
+187	message	…I'm still worried, though.
+188	message	I'll be keeping an eye on you for a while!\nIf you make any funny moves,\nI'll arrest you on the spot!
+189	message	Don't even think about running!\nI'll divine it with my miko fortune slips\nand hunt you down!
+190	message	(So fortune-telling can do that, too…)
+191	message	W-well, fine, then!
+192	message	Y-yes…!
+193	message	(I've gotten into something weird again…)
+196	message	N-no matter what you say,\nI'm not calling off the surveillance!
+197	message	So just give up!\nAnd don't come any closer than that!
+198	message	E-even so… I'll do anything,\nso can't you call off the surveillance?\nIt's causing me all sorts of trouble…
+199	message	N-no!\nYou peeked at a maiden's secret,\nso you'll just have to put up with it!
+200	message	Otherwise, I'm turning you over to the police!
+201	message	I really won't tell a soul…\nWhat do I have to do to make you believe me…?
+202	message	…If you could show me some sincerity—\nenough that I could trust you…
+203	message	M-money?
+204	message	N-no! I mean, show it through your actions!
+205	message	Like what, for example?
+206	message	Well… it comes down to whether\nyou can act for other people's sake.
+207	message	Um, off the top of my head…\nmaybe preparing everyone's meals,\nor something like that?
+210	message	I'll do it!
+211	message	…That was instant. I might have to rethink you a little.
+214	message	That's all it takes?\nOf course I'll do it, but…
+215	message	'That's all'?! Meals are important, you know!
+216	message	A balanced diet is essential\nfor staying healthy!
+217	message	And the iron rule for winning over the one you love\nis to capture their stomach first!\nMy slogan is: 'Feeding them takes patience!'
+218	message	(Something about the mood here…)
+221	message	Ahem… Well then, let's get started.\nPlease help with the meal prep.
+224	message	I'll peel the potatoes, so could you\ntake care of removing the eyes?
+225	message	They cause food poisoning,\nso make sure none are left behind.
+226	message	Yes.
+227	message	…Hm-hm-hmm~♪
+228	message	You look like you're having fun.
+229	message	Oh, was I being loud?\nSorry about that.
+230	message	I just started picturing how happy everyone will be\nwhen they see the finished dishes,\nand I got all excited…
+231	message	Everyone calls me their friend…
+232	message	Doing things for your friends being this much fun—\nI only learned that when I came along with everyone.
+233	message	So when I thought about doing this for them,\nI just couldn't help it…
+234	message	By the way, do I count as one of them?
+235	message	Peeping toms are still under review!
+236	message	Figured as much…
+239	message	'How long will this helping go on?'\nis that it?
+240	message	Like I said before—\nuntil I feel I can trust you.
+241	message	Well then, shall we start today's\ncooking prep?
+242	message	I'll fillet the fish, so please\npeel the vegetables.
+243	message	Yes.
+244	message	Oh, and especially with the potatoes…
+247	message	What was it again?
+248	message	The eyes are poisonous, so be careful\nnot to leave any behind.
+249	message	…I told you that last time,\nbut I guess you forgot.
+250	message	Sorry…
+253	message	Potato eyes are poisonous, so don't leave any.\nI've got it memorized now.
+254	message	You're a quick study. That helps a lot.
+257	message	……
+258	message	……
+259	message	Huh? This fish is a little tough…\nHeave… ho.
+260	message	Ow! Ugh… I cut my index finger…
+261	message	Are you okay? Heal!
+264	message	Th-thank you…
+265	message	But it's not a serious cut…\nyou didn't have to waste a Heal on me…
+266	message	Besides, if I wanted to,\nI could heal it myself…
+267	message	I heard using your shrine maiden powers tires you out.\nMine barely costs me anything.
+268	message	…You're not so bad after all.\nI might have to rethink you a little.
+271	message	Phew, looks like that's everything.\nGood work today.
+272	message	Good work.
+273	message	Also, there's one more thing.\nYour helping duties end today.
+274	message	I've realized you're not someone who'd hurt anyone\non purpose—you just lack attentiveness and tact.
+275	message	R-really?!
+276	message	But if you breathe a word of it…
+277	message	I-I know…
+278	message	(Looks like she's forgiven me…\nI feel like we're closer than before, too,\nso it all worked out in the end…)
+279	message	(But I'll make sure never to go near\nShirayuki-san while she's changing…)
+282	message	W-what's the matter?\nYou don't have to help out anymore!
+283	message	Actually, I'm in the middle of something,\nso could you please not come in…?
+284	message	S-sorry, while you're changing!\nI guess helping out just became a habit…
+285	message	Oh, no, that's not it…
+286	message	Then what are you doing?
+287	message	I'd rather you didn't see it, so to speak…\nWh-what—KYAAAH!!
+288	message	Don't peek in while I'm in the middle\nof saying that!
+289	message	Honestly! You have NO tact at all!
+290	message	I-I couldn't help it…\nAnyway, there's a lot of cloth here.\nAre you, like, making clothes?
+291	message	Th-this is…!
+294	message	Want me to help?
+295	message	That's kind of you, but the thought is enough…\nBesides, if there were something I could ask you\nto do, I'd have said so already…
+296	message	And stop staring so hard!\nEven I'm going to get mad at this rate!
+299	message	What are you making?
+300	message	That's exactly why I'm telling you not to look—\nI don't want to tell you!
+301	message	Even in a case like this, it's still a violation\nof the Minor Offenses Act, you know!
+304	message	S-sorry…\nBut I won't tell anyone, so don't worry.
+305	message	That's not even the point!
+306	message	I don't want this work seen!
+307	message	Ah! It's nothing!\nForget everything you just saw.
+308	message	I'll resume the work somewhere else,\nso don't get in my way next time…
+310	message	Ah, Shirayuki-san… she's gone.
+311	message	(The clothes she didn't want me to see…?\nWhat could they be, I wonder)
+312	message	(Could it be a thank-you for the Heal the other day?\nSurely not…)
+315	message	Huh? Where is this?\nLooks like a school, but one I've never seen.\nAnd it's so lively.
+316	message	…Th-this way!
+317	message	That voice—Shirayuki-san. Is this the classroom?\nThere's a sign… 'Café SHC'?
+320	message	Really, you mustn't be late.
+321	message	(White blouse and a tight skirt,\nblack-framed glasses… Th-there's a teacher!)
+322	message	If you're late again, you'll be standing\nin the hallway, understood?
+323	message	(She's really getting into the role…)
+324	message	Well? Your reply?
+325	message	Y-yes, Shirayuki-sensei…
+326	message	Yes, what a nice reply!
+327	message	(I see—the clothes she was making the other day\nwere for this…! Plain, but they really\nshow off her chest…)
+328	message	Eep! D-don't stare at me like that…!
+329	message	B-but! If you want to look…\nyou can look… as much as you like…!
+330	message	Wh-what?! N-no, the menu!\nShow me the menu, please!
+331	message	The menu is a special parfait,\ntea… and shortcake.
+332	message	Or maybe… me…?!
+333	message	—! Th-the parfait! Parfait, please!
+334	message	Coming right up…!
+337	message	Sorry to keep you waiting. One special parfait!
+338	message	I-it looks delicious. Thank you for the food.
+339	message	Wait. I'll… feed it to you!
+340	message	(No way…!)
+341	message	Here, say ahh! Ah!\nSorry, I spilled it.\nI have to wipe it off…
+342	message	(Th-the whipped cream's on her chest and skirt…)
+345	message	Oh, what a shame… the bell rang.
+346	message	But if you'd like to continue…\nwould you like to… extend…?
+347	message	E-extend, what…?!
+350	message	'Extend'? What on earth are you dreaming about?
+351	message	Huh? Where is this…?\nShirayuki-san's in uniform too…
+352	message	Huh? I have been all along…
+353	message	That's weird… cosplay Shirayuki-san\nwas saying 'the menu is me' or something…
+354	message	Ehh?! I never said that!\nStop having weird dreams!
+355	message	A-a dream? Then the clothes\nShirayuki-san was making the other day…
+356	message	Th-that was just me mending\neveryone else's clothes!
+357	message	Everyone said they don't want a peeping tom like you\nseeing their clothes or underwear…
+358	message	Besides, I told you to forget it,\ndidn't I?!
+359	message	I-I see… so that's why you didn't want\nme of all people to see it…
+360	message	(It was… all a dream…)

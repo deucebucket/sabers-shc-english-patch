@@ -1,0 +1,231 @@
+row	column	english
+3	message	They said nothing was turned in\nat the police box.
+4	message	Even filing a lost-property report\ndidn't help…
+5	message	A 'rock-throw' report?\nWhat's that got to do with lost stuff?
+6	message	It's 'ishitsubutsu,' Haruka.\nIt means lost property.
+7	message	Huh? Oh, right. Of course~!\nEhehe…
+8	message	I was hoping whoever picked it up\nwould turn it in…
+9	message	Whoever picked it up…
+10	message	Ah!!\nMaybe those girls picked it up!
+11	message	Those girls…?
+12	message	Just before I realized I'd dropped the Poketen,\nI met two girls in the park. They said\nthey came from Italy's pizza tower, or something…
+13	message	You mean the Leaning Tower of Pisa.\nIf they're from Italy,\nthey're not from Japan?
+14	message	Hmm, I dunno?\nTheir Japanese was really good, though.\nI wonder where they are now…
+15	message	You met them in the park, right?\nHave you searched that park already?
+16	message	I searched once, but maybe\nTesura and Nine will come again!\nLet's go!
+17	message	// Scene change\n// Background: the park
+18	message	Hmm, nobody…
+19	message	If only we knew how to contact them.
+20	message	Yeah… I was in a hurry,\nso we parted without exchanging anything.
+21	message	We promised to go to a café next time,\nbut I didn't even ask for their contact info…\nUgh, what a blunder~.
+22	message	They might not even live in this town…\nIt might be difficult…
+23	message	What do I do… if I can never\ntransform again…
+24	message	Haruka, don't be so down.\nThere's got to be some way.
+25	message	But if I can't transform,\nI can't call myself a Twin Angel~!
+26	message	…Do you know how many generations\nof Twin Angels there have been, counting us?
+27	message	Huh? Which generation…?
+28	message	Hmm, I don't really know, but\nit's been going on since long ago, right?\nThey were called Amanotsukai, or something.
+29	message	Yes. So how do you think\nthe Heaven's Messengers transformed back then?
+30	message	Huh… ah!?\nThe Poketen's a machine, so it didn't exist\nback then, right? How did they transform???
+31	message	Exactly. Not having the Poketen\ndoesn't mean you can't transform.
+32	message	Then if I practice transforming,\ncould I become a Twin Angel\nwithout the Poketen?
+33	message	It's possible. If you can transform,\nyou might even sense where the Poketen is…?
+34	message	Aoi! I'll do my best!\nI'll show you I can transform\nwithout the Poketen!
+35	message	Yes! …Still, not knowing where\nthe Poketen is remains a problem.\nWe have to find it somehow…
+36	message	R-right. It's something really important…
+37	message	Yes. Haruka, I'll practice with you.\nLet's do our best!
+38	message	Aoi… thank you…!
+39	message	// Tesura and Nine watching from the shadows
+40	message	They can transform without the Poketen…?\nThey can become Twin Angels\nwithout this…?
+41	message	Unexpected.
+42	message	If that's really true, holding on to this\nis meaningless… no, there may still\nbe a use for it…
+43	message	Sis…
+44	message	// Fade to black; time passes\n// Background: the park (night)
+45	message	Let's go, fever time!
+46	message	Lovely Angel!
+47	message	Teei!
+48	message	Haaah!
+49	message	Ugh, no good at all~.\nI'm not getting that surging-power feeling\nlike usual!
+50	message	Indeed…\nDoesn't feel like it'll work at all.\nMaybe there's a trick to it…
+51	message	A trick… I wonder what kind of trick?
+52	message	If we could figure out what's different\nfrom transforming with the Poketen's power…
+53	message	Right! Hmm, but what IS different?
+54	message	The power of the Heaven's Messengers—\nthe heart of justice—should be within us.\nIf we can awaken it, surely…
+55	message	// Kurumi comes looking for Haruka and Aoi
+56	message	Harukaaa! Aoi!
+57	message	Kurumi? What's wrong?
+58	message	Enemies! Tons of them showed up\nright in the middle of Akihabara!
+59	message	At a time like this…!
+60	message	Transform right away and let's go!
+61	message	Well, um… actually, right now\nwe can't transform.
+62	message	Huh? What do you mean?
+63	message	I dropped the Poketen somewhere,\nand so…
+64	message	Whaaat!? Honestly, what are you doing!\nLosing the Poketen is beyond lacking awareness!\nYou dummy dummy dummy!!
+65	message	Kurumi, we can't stand around.\nWe need to evacuate the townspeople, quickly!
+66	message	Tch, you're right.\nBut if you can't transform, what do we do…!
+67	message	Then I'll do Aoi's share\nand useless-Haruka's share too!!
+68	message	Don't overdo it.\nTsubasa and the others are here too…
+69	message	Right!
+70	message	// Kurumi runs off.\n// Kurumi transformation movie
+71	message	Here I go!\nWhite Angel, attivazione!
+72	message	// Battle map: Akihabara (night)\n// White Angel appears where the grunts are deployed. Only White Angel in the initial allied deployment.
+73	message	Come on, come at me from anywhere!
+74	message	I hope Kurumi'll be okay…
+75	message	Everyone should arrive soon.\nLet's believe in Kurumi…!
+76	message	Yeah.
+77	message	I have to hold it together…\nfulfill my duty as a Heaven's Messenger,\nas a Twin Angel!
+78	message	// Turn 2: the Black Twin Angels appear
+79	message	Chaha! Piece of cake!
+80	message	// Black Red Angel, Black Blue Angel, and Black White Angel appear near Kurumi
+81	message	Huh!? What!?
+82	message	Let it all break…
+83	message	I won't aim for the center…\nwho cares what I hit or where!
+84	message	No way… Aoi? Haruka?\nWhat ARE you people!!
+85	message	Fakes…!\nJust like with Shirayuki!\nThey're fakes of us!!
+86	message	Like the fakes of Tsubasa and Hibiki\nthat Chris fought? If that's what these are…!!
+87	message	Kurumi, run!! Those enemies are…!!
+88	message	Don't be stupid!\nIf I run here, who'll fight!
+89	message	They say those things have power\njust like ours! Fighting alone is dangerous!
+90	message	Power just like the Twin Angels'…?\nThen I definitely can't run!
+91	message	Why not!?
+92	message	If I leave them be,\nit'll look like the Twin Angels\ndid evil deeds!
+93	message	I absolutely won't allow that!!\nThe Twin Angels are guardians of justice!
+94	message	(Kurumi… you care about\nthe Twin Angels that much…!)
+95	message	Let's settle this, fakes!!\nNo way I'm losing to the likes of you!!
+96	message	// Battle resumes\n// Twin Angel transformation event when Kurumi's HP drops below a threshold, or next turn
+97	message	Ugh… they're better than I thought…!\nHonestly, I'm surprised…
+98	message	Kurumi!
+99	message	Kurumi! Fighting alone any more\nis dangerous!
+100	message	No! I'll definitely beat these fakes!
+101	message	Kurumi!
+102	message	No!! The Twin Angels never lose!\nI won't run from outlaws like these!
+103	message	You can't do it alone!!
+104	message	Impossible? I refuse to accept that!\nThe Twin Angels always win!! I believe it!!
+105	message	…!!
+108	message	Impossible…!
+109	message	// Kurumi is attacked. Battle animation skipped, no damage shown.
+110	message	Useless…!
+111	message	// Kurumi is attacked. Battle animation skipped, no damage shown.
+112	message	Uwaaaaaah!!
+113	message	Kurumi-san!!
+114	message	Ah......
+115	message	...!!
+116	message	...I get it. I finally get it...
+117	message	Haruka-san?
+118	message	Aoi-chan... I'm going to transform...!
+119	message	Huh...?
+120	message	I figured it out... it doesn't matter what form I take...\nThe moment I want to fight for someone else,\nI'm already a Twin Angel...!!
+121	message	!!
+122	message	It's not that I can't fight because I can't transform.\nWith Kurumi-chan hurting this badly,\nit's because I won't fight that I can't transform...!!
+123	message	I understand, Haruka-san... I can feel it.\nYour feelings are reaching me too...!
+124	message	Transform...! I will transform!!
+125	message	...!!
+126	message	TRAAANSFOOORM!!
+127	message	//The screen flashes.\n//Twin Angel transformation movie.\n//Red Angel and Blue Angel appear on the map.
+128	message	We did it!!
+129	message	We transformed!
+131	message	Honestly! If you could do it, you should've done it from the start!\nI'm the only one who took a beating for nothing...!
+132	message	Sorry, Kurumi-chan!
+133	message	Well, I'll give you credit for trying.\nAoi-oneesama! Haruka! Time for the usual routine!
+134	message	Yes! With love and courage, every shot hits its mark!
+135	message	We'll take back everyone's smiles!
+136	message	Phantom-Thief Angels!
+138	message	Twin Angel!!!
+139	message	Now... Angel Time begins!!
+140	message	//Battle resumes.\n//Enemy reinforcements arrive next turn: Black White Angel and grunts appear.
+141	message	Hmph... incompetent...!
+142	message	Whoa, it's a fake Kurumi-chan!
+143	message	Hmph! You're late!\nAnd a fake of me, of all things,\ndon't make me laugh!
+144	message	Their numbers have grown quite a bit.\nWe mustn't let our guard down...!
+145	message	//Allied reinforcements arrive.
+146	message	Ah! There are tons of Twin Angels!
+147	message	Huh? It says 'twin,' but there are three of them...\nno wait, even more than that?
+148	message	Explaining's a pain, so skip it!\nWe're taking down the black ones and their gang!
+149	message	Those are fakes... roger!
+150	message	There's zero chance of us losing now!\nLet's finish this quick!
+151	message	//Conversation event when Black Red Angel and Red Angel clash in battle.
+152	message	We might look alike, but we're nothing alike.
+154	message	The Twin Angels' strength...\nis way beyond that!
+155	message	//When Black Red Angel is defeated.
+156	message	That's enough. I'm leaving.
+157	message	//Black Red Angel withdraws.
+158	message	I'll never lose to bad kids like you!
+159	message	//Conversation event when Black Blue Angel and Blue Angel clash in battle.
+160	message	Even if our skills are equal,\nI won't lose to you!
+161	message	...
+162	message	The strength behind the arrows I loose\ndoesn't come from me alone!
+163	message	//When Black Blue Angel is defeated.
+164	message	Retreating...
+165	message	//Black Blue Angel withdraws.
+166	message	This is as far as you go.
+167	message	//Conversation event when Black White Angel and White Angel clash in battle.
+168	message	You're my fake, right?\nThen turn this losing battle around\nif you can! Go on, try!
+169	message	You're noisy... Silence.
+170	message	You can't even do that, yet you call yourself\na fake of ME...?\nYou're ten billion light-years too early!!
+171	message	//When Black White Angel is defeated.
+172	message	This wasn't supposed to happen...
+173	message	//Black White Angel withdraws.
+174	message	You're too slow coming AND going!\nJust where are you a fake of me, I wonder?\nYou're shoddy work, that's what!
+175	message	//All enemies defeated: stage clear.
+176	message	All right! That's about how it goes!
+177	message	But just who WERE those fakes?\nIt bothers me...
+178	message	I wonder if we'll end up fighting them again...
+179	message	//Battle ends.\n//Background: Akihabara
+180	message	Long time no see!
+181	message	Sorry for making you worry!\nI'm fine now!
+182	message	Thank you for looking after Aoi-san.\nAllow me to thank you as well.
+183	message	You're a precious friend.\nWe've got to help each other out.
+184	message	Incidentally, you call yourselves Twin Angel,\nyet why are there three of you?
+185	message	I've answered that question over a hundred times already,\nso sorry, but I'll be skipping it.
+186	message	No need to be stingy☆\nTell me, nyanmage?
+187	message	Explaining it so YOU'D be satisfied\nwould take half a day. That okay with you?
+188	message	Hmm, can't you make it a bit shorter?
+189	message	Then give it up!
+190	message	Aww, I'm sho~cked.
+191	message	//Fade to black.\n//Background: inside the Gamers store
+192	message	Nyo? There's a delivery package\nsitting here, nyo?
+193	message	(Right... left...! Nobody's watching, nyo.)
+194	message	//Event CG: Dejiko drooling
+195	message	Mufufu, it's gotta be food, nyo!
+196	message	Nobody's watching right now! I'll take it all, nyo!
+197	message	Melon, nyo? Cookies, nyo?
+198	message	If it's Tottori-grown broccoli,\nthat'd be the best, nyo~!!
+199	message	Okay, opening it, nyo!
+200	message	//Event CG off
+201	message	Hm? What's this, nyo?\nIt's not food, nyo.
+202	message	There's some lame-looking handheld game thingy\nand a letter inside, nyo.
+203	message	Let's see... 'This belongs to Minazuki Haruka-san.\nPlease return it to her. -Nine.'\nWhat's this about, nyo???
+204	message	//Fade to black.\n//Background: city (night)
+205	message	...I left the package.
+206	message	Thanks, Nacchan.
+207	message	If that device has nothing to do with transforming,\nholding onto it could be dangerous instead.\nIf it had a tracker or something, that'd be trouble.
+208	message	...Besides, it's surely\nsomething precious to Minazuki-san.
+209	message	Big sis...
+210	message	We may end up fighting the Twin Angels again\nin future missions, but\nthat's separate from this.
+211	message	(If anything, losing that device\nmay have made the Twin Angels\neven stronger...)
+212	message	//Fade to black.\n//Background: inside the Gamers store
+213	message	It's my Poketen! I knew Tesla-chan and\nNine-chan picked it up for me~!
+214	message	That's wonderful, Haruka-san.
+215	message	But I wonder why it got delivered\nto Gamers? I wonder?
+216	message	I wonder if they knew\nthat she's an acquaintance of Dejiko-chan?
+217	message	There's stuff I'm curious about too, but\nfirst off, I'm glad it came back!
+218	message	I want to thank those two, but\nthey didn't write any contact info...
+219	message	Suspicious...
+220	message	Tesla-chan and Nine-chan aren't\nsuspicious at all!\nThey even delivered my Poketen...
+221	message	Yeah, yeah... You'd say\neven a scarecrow or a mannequin was a good kid, Haruka.
+222	message	Ahaha! Haruka-san totally would say that!
+223	message	I can totally tell a good scarecrow-san\nfrom a mannequin-san!\n...Probably.
+224	message	To get through to Haruka-san,\nwouldn't you have to write 'bad scarecrow'\non their face? It'd be impossible otherwise.
+225	message	I think so too~.
+226	message	Aw~, even Rika-chan's being mean~.
+227	message	But maybe it's precisely because she's that kind of Minazuki\nthat the kid who found it returned the lost item.
+228	message	If you do good things,\ngood surely comes back to you, desu~!\nTurn disaster into wearing clothes! Desu~!
+229	message	[MERU], zero points!
+230	message	Hawa!?
+231	message	It's that whole karma thing!\n'When it rains, the umbrella shop profits,' right?
+232	message	[NOEL], zero points!
+233	message	Honyah!?
+234	message	No no, the proverb for times like this is,\n'A walking dog finds a bone!'\nRight, Aoi-chan!?
+235	message	Um... it's really heartwarming.\nI like it.
+236	message	Honestly, I don't even know\nwhere to start poking holes in that...
+237	message	//END

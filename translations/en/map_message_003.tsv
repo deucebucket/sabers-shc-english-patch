@@ -1,0 +1,171 @@
+row	column	english
+3	message	...Is this really the right place, desuu?
+4	message	The card's address says here...
+5	message	Uu... no matter how you look at it,\nit's a run-down apartment with no sunlight, desuu...
+6	message	But the nameplate says\nAyanokouji Detective Agency.\nAnd it reads 'Paranormal cases: all detective work accepted'...
+7	message	// Remu arrives.
+8	message	Oh? Already here? That was fast.
+9	message	Ah, Remu!
+10	message	Looks like fewer of you than before?
+11	message	Yes. [NOEL] and Tsubasa\nsaid they'd make a detour, so\njust we two came ahead, desuu.
+12	message	I see.
+13	message	What cute kitty and doggy.
+14	message	The cat's Alpha, the dog's Beta.\nCome on, you two, say hello?
+15	message	Meow.
+16	message	Woof!
+17	message	Good kids, desuu!\nNice to meet you, ehehe!
+18	message	Sorry we parted in a rush earlier.\nBut I got back to the office, contacted a detective I know,\nand got all sorts of info.
+19	message	You know a police detective!?\nAmazing, desuu! Just like a real detective, desuu!
+20	message	Um, didn't she say she WAS a detective...?
+21	message	According to my detective contact, besides the\n'sudden street-sleeping phenomenon' case I'm investigating,\ntons of strange cases are happening.
+22	message	Strange cases...? D-dangerous stuff?
+23	message	First, the 'spirited-away' cases where\npeople suddenly vanish...
+24	message	Tsubasa mentioned that too, desuu.\nScary, desuu...
+25	message	Um, that includes us, right?
+26	message	Yes. But there were still more.\nReaaally strange cases...
+27	message	I-I'm getting scared, desuu...
+28	message	First, the 'doppelganger phenomenon' cases where\na person looking exactly like you appears...
+29	message	A-a ghost, desuu...?
+30	message	Then the 'unknown lifeform attack' cases—\nclearly not lifeforms from Earth...
+31	message	A-aliens!? Like,\nwith dogs' heads splitting wide open!?
+32	message	And last, the cases of people\nclaiming 'I came from a world you don't know'\nappearing one after another...
+33	message	Mysterious, desuu~!
+34	message	Umm, so,\ndoesn't that include us...?
+35	message	All of this happened\nin just a few days.\nNot normal, right?
+36	message	Including the 'sudden street-sleeping phenomenon' case,\nI can't believe it's all coincidence.
+37	message	Us ending up in this world\ntoo, desuu?
+38	message	It's harder to think they're unrelated.\nWhich brings me to my proposal.
+39	message	Will you help with my investigation?
+40	message	Help, desuu?
+41	message	Working with you, the ones involved,\nI think the investigation will go faster.
+42	message	And I'll support you\nliving in this unfamiliar world.\nNot a bad deal, no?
+43	message	That'd really help, desuu!\nUu, I've been so anxious, desuu.
+44	message	Don't worry.\nI've got savings,\nand I can at least guarantee food, clothing, and shelter.
+45	message	If we crack a big case,\nthere might even be reward money?
+46	message	Understood, desuu! I'll do my best, desuu!
+47	message	Then, sorry to rush, but\nlet's head out investigating!
+48	message	Huh? Already, desuu!?
+49	message	We're going to the 'sudden street-sleeping phenomenon' scene.\nYou two ready to head out?
+50	message	S-so sudden...
+51	message	It's fine, I can go, desuu!!
+52	message	// Scene change\n// Background: town at night
+53	message	Here's another one, desuu!
+54	message	Good grief... that makes eight.
+55	message	Zzz... zzz...
+56	message	Suya... suya...
+57	message	They're really asleep, desuu.
+58	message	Eight people sleeping on the street\nby coincidence? Impossible.
+59	message	Hmm...
+60	message	Remu?\nDid you find something?
+61	message	...Today,\nit's not just sleeping people.
+63	message	Huh?
+64	message	Look, over there.
+65	message	There...?
+66	message	Hyaaaaaaaah!?
+68	message	N-n-n-no head...!!
+69	message	Poor thing... did the killer\ntake the head with them, I wonder...
+70	message	A brutal murder like this... I recall there was one in the past too...
+71	message	...!!
+72	message	Hawawah! Something came out, desuu!
+73	message	A dream demon!?
+74	message	Wh-when did it get here!?
+75	message	They just keep coming, desuu!
+76	message	We'll meet them head-on! But don't push yourself!
+77	message	// Switch to battle map
+79	message	D-do you think we'll manage...?
+80	message	Yes. If things keep going like this.
+81	message	Hm!?
+82	message	Who's there!? Come out!
+83	message	// Black Mion & Black Shion appear on the map
+84	message	...
+85	message	...
+86	message	A-awawawawa, s-same face!?\nIt's the doppelganger thing, desuu!
+87	message	Who are they...?\nThere are dream demons around—aren't they scared?
+88	message	Weeell...\nshall we start today's club activities...?
+89	message	I'll help, sis...
+90	message	...No matter how you look at it,\nthose aren't friendly faces.
+91	message	They're totally ready to kill, desuu!\nThat kind of vibe is NOT good, desuu~!!
+92	message	// Battle resumes
+94	message	Damn it...\nClub's over for today...
+95	message	Let's go, sis...
+96	message	// Black Mion & Black Shion vanish
+97	message	Ah! They got away, desuu!
+98	message	We can't chase them.\nThe sleepers' safety comes first right now.
+99	message	...Good grief, nothing but mysteries.
+100	message	// ■ After battle
+101	message	// Background: town at night
+102	message	Dream demons are handled for now.\nI wonder if there are any more sleepers?
+103	message	I'll do one more round, desuu!\nI'll borrow the wake-up alarm!
+104	message	// Meru leaves, off screen
+105	message	Are the dream demons the ones putting people to sleep?
+106	message	I don't think so.\nNot absolutely, but.
+107	message	One reason: that headless corpse.\nThat's not how dream demons attack people.
+108	message	Besides, if dream demons put people to sleep to attack them,\nnone of the sleepers would've gotten off unscathed.
+109	message	True... there were people\njust sleeping, after all...
+110	message	Still, too much is unknown.\nI'll leave questioning the sleepers\nto Inspector Sakaki...
+111	message	Remuuu!\nCome over here, desuu~!
+112	message	What is it?
+113	message	This girl\nlooks like she's really suffering, desuu!
+114	message	Uuu...
+115	message	Can't we do something, desuu?
+116	message	Maybe something's happening\nin this girl's dream world...
+117	message	But right now, I...
+118	message	O...
+119	message	Hm?
+121	message	I'm sooo huuungry...
+122	message	...Huh?
+123	message	F-food...
+124	message	Ah, so that's it...
+125	message	// Scene change\n// Background: somewhere they can eat.
+126	message	Puuhaaah!!\nThanks for the meeeal!!
+127	message	She ate like three times what I did, desuu...
+128	message	I could still eat more!!
+129	message	First time I've seen someone eat this much.\nYou must've been starving.
+130	message	Tahaha... ah, how embarrassing~.
+131	message	But this is the first time in my life\nfood ever tasted this good.\nKuu, I could cry~.
+132	message	Now, that's an exaggeration.
+133	message	Well, actually, for about three days now,\nI haven't eaten a thing...
+134	message	You really saved me!\nThank you so much!
+135	message	If you want to thank someone,\nthank [MERU].\nShe's the one who found you.
+136	message	Really!?\n[MERU]'s\nmy lifesaver~!
+137	message	N-no, I just...\nwas trying to wake you, desuu...
+138	message	No no!\nI nearly starved to death on the street!\nThank you SO much~!
+139	message	Auu...
+140	message	[MERU]'s\nshy with new people.\nGo easy on her.
+141	message	Oops, my bad...
+142	message	Th-that aside, what about YOU, desuu!\nWhy haven't you eaten\nin three days, desuu?
+143	message	Well, a lot happened.\nHonestly, I don't know where to start...
+144	message	Tell me anything.\nIt takes a lot to surprise me.
+145	message	Really?\nThen... please don't think I'm weird\nfor suddenly saying this, but...
+146	message	Actually, I'm not from this world!!
+147	message	Huh... so that's how it is.
+148	message	Huh? You're really not surprised?\nThen I'll continue.
+149	message	During a certain job—not\na part-time one, though—\nmy vision suddenly went white.
+150	message	When I came to, I was in a town I'd never seen.\nThis one, actually...
+151	message	I couldn't exactly ask at a police box,\nand while wandering aimlessly,\nI got so hungry I couldn't walk...
+152	message	I started thinking\nI might be cursed.
+153	message	I get the gist.
+154	message	You don't believe me, right?\nEven I think I'm saying\ncrazy things...
+155	message	Then we might be cursed too...
+156	message	Huh?
+157	message	When your vision went white,\ndid you see a strange light?
+158	message	Yes!\nHow did you know!?
+159	message	These two are from another world too.
+160	message	Whaaat!?
+161	message	That's right, desuu.
+162	message	A curse, I wonder...
+163	message	So\nI believe you.\nUm...?
+164	message	Ah! I haven't introduced myself!\nHibiki Tachibana! 15 years old!
+165	message	Birthday September 13th, blood type O!\nHobby: helping people...
+166	message	Ah, stop stop.\nThat's enough...
+167	message	Huh, really?
+168	message	Ah!? Don't tell me you're handing me to the police\nfor a thorough questioning over there!?
+169	message	I wouldn't do that.\nJust asking, but\nyou don't know how to get back, right?
+170	message	Yes, I... haven't a clue.
+171	message	I'm trying to find out why\nyou all came to this world.\nIt'd help if you cooperated—what do you say?
+172	message	Cooperation? I'll do cleaning, laundry,\nanything!\nI WILL repay you for the meal!
+173	message	No need to be so desperate.\nThis is fate, after all.
+174	message	Nice to meet you, Hibiki, desuu...
+175	message	Yes! Likewise! Let's be friends!
+176	message	Y-yes, desuu!
+177	message	// END

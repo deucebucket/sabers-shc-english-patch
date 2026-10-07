@@ -1,0 +1,204 @@
+row	column	english
+3	message	This place looks more decent than that last town.
+4	message	Does anyone recognize this scenery?\nI don't.
+5	message	Did Noel come here...?
+6	message	She might be around.\nLet's search!
+7	message	I wonder if [MERU] came here?\nI wonder...\nGeez, always making me worry!
+8	message	Hmm... dramatically speaking, being separated\nmight work for the film, but...
+9	message	But still, I hope\nthey make up soon...
+10	message	Is there a map somewhere... ah, shall we\nlook for a police box?
+11	message	That sounds good.\nI'll search along the road!
+12	message	No need for that!
+13	message	Oh, someone we know?\nThen we're safe!
+14	message	Wait, Haruka! That person is—!!
+15	message	Hey!
+16	message	It's you!!
+17	message	Wah!! The twintailed phantom thief!?
+18	message	Where did you pop out from!?
+19	message	Riko!?
+20	message	We caught up!!
+21	message	Howdy, Mikawaya at your service~☆
+22	message	Riko!!\nYou came here to get holes blown in you!?
+23	message	As if.\nI'm a good girl, y'know?
+24	message	Quit the lame puns\nand give me one good reason\nnot to shoot you, frog girl (Froggy)!
+25	message	On my great-grandpappy's name, take your best shot?\nLime girl (Limey)!
+26	message	...!
+28	message	W-wait, please!
+29	message	Move! You'll get holes in you too!
+30	message	B-but, Riko came here\nto talk about something, didn't she...?\nThen let's talk it out properly!
+31	message	Weell,\nsomeone here has sense.\nBig-chested girls really do have big hearts!
+33	message	Shut up, ugly! I'll turn you into Swiss cheese!
+34	message	Now now, Aria.\nAnd you — if you're serious about talking,\nstop provoking Aria.
+35	message	I only came\nto talk from the start.\nAnd of course, it's super-valuable intel!
+36	message	Like I can trust you! It's obviously a trap!
+37	message	No idiot would take this risk\njust to set a trap.
+38	message	She's got a point. So what do you want\nwith us, your enemies?
+39	message	Glad you asked!\nSo...
+40	message	Wanna pull a heist with me?
+41	message	Wh-what!?
+42	message	Don't screw with me!! Eat this!!
+43	message	Wah! W-wah! N-n-n-nooo!
+44	message	That's right —\nshoot a righteous thief and YOU\nbecome the villain. Kufufu!
+45	message	I'd appreciate it if you'd talk\na little more straight with us?
+46	message	Yep.\nUp ahead there's a place called IS Academy.\nOh — do you know what IS is?
+47	message	Eye-ess?
+48	message	Infinite Stratos.\nTake the initials: IS.\nLike super-strong powered suits.
+49	message	Could that be—!?
+50	message	The black unit\nTsubasa held off?
+51	message	Schwarzer Regen!\n(I nearly bit my tongue!)
+52	message	The one that eyepatch girl was wearing!\nLaura's, I think...!
+53	message	If you know the Schwarzer Regen,\nthis'll go fast.
+54	message	IS Academy has\ntons of those things, y'see.
+55	message	Now I understand your plan.\nYou're trying to get your hands on an IS, aren't you?
+56	message	Ding ding ding! Correct!\nAs your reward, I grant you the right\nto pull a heist with me!
+57	message	What right!? I'll throw that right back at you —\nwith bullets attached!
+58	message	No good, Aria's no good at all!\nYou have no idea\nhow dangerous IS are.
+59	message	The IS that made Tsubasa choose to sing the Superb Song...!
+60	message	And there are tons of those...
+61	message	Exactly.\nIS are super-dangerous weapons\nbuilt for world domination.
+62	message	IS Academy is a military base disguised as a school.\nI'm gonna have you infiltrate it. So?\nWanna take me up on it?
+63	message	No way!\nGo by yourself!
+64	message	Um, you don't have to refuse so quickly...
+65	message	It's all lies!\nIt's obviously all made up!\nBelieve her and you'll regret it!
+66	message	Believe it or not, that's up to you.\nBut I was super-elite in the Detective\nDepartment (Inquesta), y'know?
+67	message	Watch yourselves. There are 467 IS units\nin this world, and most of them\nare at IS Academy.
+68	message	Dawdle and you'll die, okay? Kufufu!
+71	message	Ah! Wait a sec!
+72	message	...
+73	message	Aria, shouldn't we chase her?
+74	message	So you're letting her off the leash for a while.
+75	message	Yeah. Riko always does what she says she'll do.\nSo let's use her.
+76	message	So Riko plans to infiltrate\nIS Academy?
+77	message	What'll we do?
+78	message	This doesn't look like it'll end quietly!
+79	message	We can't judge\nwithout accurate intel.\nWe need to learn what IS actually are.
+80	message	We're going to IS Academy.
+81	message	Isn't charging straight in dangerous...?
+82	message	If Riko says she's going, something will happen\nat IS Academy. Seeing it ourselves is\nthe most reliable intel.
+83	message	I agree.\nEven if we learned about IS as this world's common knowledge,\nwe couldn't judge if it's true.
+84	message	I think we should go to IS Academy too!\nI'm worried about Riko.
+85	message	Worried about HER!? What are you saying!?
+86	message	But we have to catch Riko and go back,\nright?
+87	message	Mmph... ugh, whatever! What a pain!\nSo annoying!!
+88	message	//Fade to black\n//Background: IS Academy arena\n//Houki and Cecilia are having a mock battle.
+89	message	*Hah... hah...*
+90	message	Look more delighted. Being granted the honor\nof facing ME, England's representative candidate —\nisn't that glorious?
+91	message	//Event CG: Houki, one-sidedly beaten in the mock battle with Cecilia. Equipped with Uchigane.
+92	message	To think the gap in our strength is this great...!\nBut...!!
+93	message	Now, dance!\nTo the waltz played by me, Cecilia Alcott,\nand Blue Tears!
+94	message	Don't mock me!! Hah!!
+95	message	//Event CG off
+96	message	Two minutes, seven seconds. You lasted well.\nI'll praise you for it.
+97	message	...
+98	message	Still, against a training unit like the Uchigane,\nit's not even a warm-up.
+99	message	Blue Tears is the cutting-edge third-generation IS,\nand with ME piloting it, there's no one\nwho could possibly match—
+100	message	//SE: Alarm sound\n//Red emergency lights flashing, if possible.
+101	message	What!?
+102	message	Observation room, is anyone there! Tell me\nthe situation— wha, comms cut!?\nWhat's happening!!
+103	message	//Fade to black\n//Background: IS Academy
+104	message	Security override, complete.\nI've done my homework, y'know.\nNow then...!
+105	message	//Background: IS Academy arena\n//SE: Barrier deactivating
+106	message	The arena's barrier is gone!?
+107	message	What's going on!? I don't understand\nthe situation at all!
+108	message	//Background: IS Academy exterior\n//Aria and the others are there\n//SE: Alarm sound
+109	message	The alarm is ringing!?
+110	message	It's Riko! No doubt about it!
+111	message	Wah! What do we do...!?
+112	message	We've got no choice but to go, right?
+113	message	Ugh... into a place full of IS!?
+114	message	When in doubt, charge ahead!! Right!!
+115	message	You all stay here.\nI'm going!
+118	message	Aria!?
+119	message	I'm going too!
+120	message	Aoi!
+121	message	Yes — to the Twin Angel...!
+122	message	I kinda thought it'd come to this, but...\nEveryone, let's go!
+123	message	//Battle map: IS Academy arena\n//Cecilia and Houki deployed as third force
+124	message	Observation room! Respond!
+125	message	If this kind of trouble had happened during\nour mock battle, it would've been terrible...
+126	message	//Enemy grunts appear
+127	message	What are those!?
+128	message	Targets for marksmanship training?
+129	message	//Enemy grunts move and attack Houki
+130	message	Wh—!? What are you doing!?
+131	message	Shinonono, stand back! I don't know if it's\na system malfunction or what, but I'll subdue\nthem with Blue Tears!
+132	message	Like hell — I can fight too!
+133	message	//Third force: Cecilia attacks and defeats the grunts\n//Riko appears
+134	message	Hmm, impressive.
+135	message	You're unarmed... it's dangerous here!
+136	message	Nice! Blue Tears!\nIt's pretty AND cool!\nI want it even more now!
+137	message	Whoever you are,\nno one but me can handle\nthis Blue Tears!
+138	message	Won't know till I try.\nSo — hand it over!
+139	message	I refuse!
+140	message	You're the one controlling these weird things!?
+141	message	Who knows?
+142	message	It's you!! But I won't be beaten\nby the likes of these!
+143	message	Right? But don't worry —\nsome stooong allies are coming soon!
+144	message	//Deploy allies
+145	message	There! Riko! This is as far as you go!
+146	message	Yoohoo! I've been waiting, everyone~!\nGotta have friends, right!
+147	message	Friends, my foot! You—!!
+148	message	Okay! Everyone!\nCapture that IS!\nWell, that's that! Byebyee!
+149	message	Huh!? What are you talking about!?
+150	message	//Riko vanishes.
+151	message	She vanished!?
+152	message	I see... so you're her allies!\nYou ruffians! I'll punish you!
+153	message	Wait, please! We're not\nsuspicious people—
+154	message	You look suspicious however I look at it!
+155	message	Who're you calling suspicious!?
+156	message	You're wearing the same clothes\nas that girl from before!
+157	message	Ah.
+158	message	Aw~, we got played...
+159	message	//Riko reappears and adds more grunts
+160	message	Yes yes! Here's a bonus!\nEveryone, hang in there!\nBlue Tears, getto da ze!
+161	message	//Riko vanishes
+162	message	Don't screw with me! Riiikooo!!
+163	message	So you ARE her allies!!
+164	message	Trespassing at IS Academy is a grave crime!\nPrepare yourselves!
+165	message	Eek!! What do we do!?
+166	message	Geez, can't be helped!\nShould we do it? Should we?
+167	message	We can't do that!\nWe have to prove we're not enemies...
+168	message	Let's take care of\neverything Riko left behind!\nThen let's talk again!
+169	message	That's our only option.\nEveryone, don't touch those two!\nTake out everything else!
+170	message	//Victory condition: wipe out all grunts\n//Battle start\n//Battle ends when condition is met
+171	message	We did it!
+172	message	Um! Excuse me!
+173	message	What!? We're in battle!
+174	message	W-wait, please!
+175	message	Wh—!? You're... wide open!?
+176	message	(Quite literally fearless...)
+177	message	We have no intention of resisting.\nAs you can see, all the enemies are defeated.\nNow we can talk calmly.
+178	message	Enemies?
+179	message	What we just beat were OUR enemies!\nWe'd like to talk with you first.
+180	message	If you wish to negotiate,\nI demand you disarm!
+181	message	Fine, we'll comply.\nSo please hear us out.
+182	message	//Battle end\n//Background: IS Academy arena
+183	message	I haven't the faintest idea\nwhat you're talking about!
+184	message	I'm telling you, we came to this world to catch\nthat Riko from before — how many times\ndo I have to say it!!
+185	message	What idiot would believe such nonsense!\nWhere did you come from, how?\nProve it!
+186	message	I wish we could prove it, but\nthat's proving rather difficult...
+187	message	I can't trust a single word!
+188	message	This is troubling...
+189	message	Hmm, how do we get them to believe us?
+190	message	U-um! We\nknow about IS!
+191	message	Um... black, Shubar#%&*, Regen...\nauu! It's so haaard...!
+192	message	Shuba-whatever-Regen? ...There are only 467 IS\nin the world, so one check and your lie\nwill be exposed!
+193	message	It was the Schwarzer Regen. Black, piloted by\na girl with an eyepatch. We encountered and fought\nit in a world different from this one.
+194	message	That's impossible.
+195	message	Either way,\nIS Academy will decide your fate.\nWe'll be taking you into custody.
+196	message	That's only natural.\nWe want to know about IS too,\nso I guess that's fine?
+197	message	...Huh?\nYou want me to ask that...?\nWhat do I do... f-fine. I'll ask, okay...
+198	message	Um, just one thing...
+199	message	What is it?
+200	message	Who came up with that outfit?
+201	message	Wh—!?
+202	message	D-don't look!! Don't look at me\nwith those pervert eyes!!
+203	message	//SE: Houki strikes Claude
+204	message	Gehah!?
+205	message	//Claude down
+206	message	Why would you say that NOW...
+207	message	Huh!? You said it on purpose to get punched!?\nWhat an advanced technique...!
+208	message	//Fade to black\n//Background: IS Academy exterior\n//Riko muttering about her failure
+209	message	I thought they'd wear each other down a bit more.\nShould I have egged them on more~?
+210	message	Well, whatever.
+211	message	//END

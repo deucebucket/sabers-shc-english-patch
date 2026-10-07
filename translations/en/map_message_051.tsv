@@ -1,0 +1,170 @@
+row	column	english
+3	message	Whoa, talk about the boonies!
+4	message	Mmm, lovely.\nYou can tell the air itself has flavor out here.
+5	message	…We're back here again.
+6	message	Aria! I remember!
+7	message	Shirayuki? You remember Rika and Rena?
+9	message	Aria!
+10	message	Shirayuki, do you remember me?
+11	message	Yeah! I've got the explanation for everyone\nall organized in my head!
+12	message	Let's hurry. The sooner we move,\nthe less time the enemy gets!
+13	message	It's true — there are people who know\nabout Rika-chama.
+14	message	I believe in Rika.\nThey must all be good people.
+15	message	Lots of cute girls, just sis's type.
+16	message	Mion, Satoko, and Shion too…
+17	message	I don't really know who you are,\nbut you're protecting Rika-chan, right?\nAs club president, I'll help out!
+18	message	Behold the exploits of Satoko Houjou,\nHinamizawa's trap master!
+19	message	I'll provide all the support I can.
+20	message	Everyone's such reliable friends.
+22	message	Everyone! Please listen!\nI have something important to tell you!
+23	message	//Fade to black; time passes
+24	message	Wow! So this is some mysterious world!?
+25	message	You believe it just like that…
+26	message	Rika and the others are surely in everyone's memories.\nYou'll remember in time.
+27	message	Please! Believe us!
+28	message	If it's Shirayuki saying it,\nthen I believe it.
+29	message	Me too!
+30	message	'Cause it's Shirayuki-san, after all.
+31	message	Thank you…
+32	message	Nipaa~☆
+33	message	So, what are our countermeasures\nagainst the enemy we're fighting?\nWhat should we do now, I wonder?
+34	message	About that — it seems the enemy\nisn't a single faction.
+35	message	Taking the Doctor Shinigami —\nRika-chan's killer — as confirmed,\nwho are those black versions of Rika-chan\nand Rena-chan, I wonder?
+36	message	We've encountered such people several times.\nThe Black Twin Angels appeared too.
+37	message	There was someone who looked like my double, too.\nAre they a different force from Riko's group?
+38	message	The black me said she'd use my power.\nAnd yet the Doctor Shinigami suddenly appeared\nand killed me.
+39	message	How awful…
+40	message	If that's true, they can't be working together.
+41	message	Then while we're fighting one enemy,\nanother faction could target us.\nThat'd be bad, no?
+42	message	How should we fight, I wonder?
+43	message	I think I should leave\nHinamizawa for a while.
+44	message	You mean go to another world?
+45	message	Now that we know I'm the enemy's target,\nif I'm not here, no incident should happen\nin Hinamizawa.
+46	message	It's only a temporary evacuation, but I think it's good.\nIn this world, some strange force is at work —\nwe can't avoid Rika dying.
+47	message	Better to take out enemies like Riko, Jeanne,\nand the Doctor Shinigami in another world first,\nthen come back here. That should give us the advantage.
+48	message	Agreed. No need to fight at a disadvantage.
+49	message	Then we'll head for where Polyal is.
+50	message	If they're after Rika-chan,\nthey're probably lying in ambush\nto stop us getting there.
+51	message	Going straight there, we'd definitely be targeted.\nWe have to avoid fighting on two fronts.
+52	message	So we should confuse the enemy?
+53	message	Then it's easy, nyo.\nWe'll use Usada as a decoy\nto lure the enemy, nyo.
+54	message	Why am I the decoy!?\nYou suggested it, Dejiko — YOU do it!
+55	message	No way, nyo~.
+57	message	But splitting into two groups is a good idea.\nThat'll force the enemy to split their forces too.
+58	message	Couldn't the enemy just wait\nat Polyal's location?
+59	message	With two factions, the scramble for Rika\nis first-come-first-served, right?\nIf they wait, they'll get beaten to her.
+60	message	I see! It'll be a game of tag!
+61	message	Tag instead of 'Demoning Away' —\nthat's a clever twist.
+62	message	How do we split the teams?
+63	message	How about a team of 5 IS units plus Rika, Satoko,\nLouise, Puchiko, and Kurumi? Carrying the little ones\nby IS gives us amazing mobility!
+64	message	But then it's obvious Rika's with that group!
+65	message	No — send the big team straight to Polyal's location,\nand have the IS team take a detour. That'll confuse them.
+66	message	They'd have to consider both possibilities.
+67	message	Let's go with that! The faster we move,\nthe more confused the enemy will be.
+68	message	Yes! Swift and magnificent, desuu!
+69	message	Sounds kinda wrong, but that sounds cool!
+70	message	Like they say — 'clear the dishes quick'!
+71	message	…'Strike while the iron is hot,' right!\nSomehow I feel like that's not wrong either.
+72	message	//Fade to black; time passes
+73	message	Now then — Rika and our splendid IS team,\nmove out!
+74	message	Shouldn't that be 'merry'?
+75	message	This is hardly a merry situation.
+76	message	Now, now — let's stay reasonably relaxed.
+77	message	Then, my bride, I'm off.
+78	message	Yes! Take care of Rika-chan and the others!
+79	message	Our decoy team moves out soon too!\nWe have to look like we'll reach Polyal first,\nor they'll figure out which one's the real team!
+80	message	And we have to hit the weakened enemy\nas hard as we can once they've split their forces!
+81	message	Exactly. We'll do it thoroughly!
+82	message	Leave it to me!
+83	message	I'll do my best too!
+84	message	Alright! Move out!!
+85	message	Yeah!!
+86	message	//Battle map: plains\n//Our forces: Houki, Cecilia, Rin, Charlotte, Laura, Louise, Puchiko, Satoko, Rika, Kurumi
+87	message	Enemy signatures detected! They're coming!
+88	message	To detect movement in stealth mode…\nthis enemy is…?
+89	message	They came to us! Let's do this!
+90	message	Rin, you mustn't let your guard down.
+91	message	I know… I remember what I did last time.
+92	message	Rin…
+93	message	This time I'll protect you, no matter what…!\nI won't let my guard down, no way!
+94	message	A Rin who doesn't let her guard down\nis strong as a hundred. Nipaa~☆
+95	message	Nipaa~☆
+96	message	Here they come!
+97	message	//Enemies appear. Black (Houki, Cecilia, Rin, Charlotte, Laura, Rika) and grunts.
+98	message	That…!? IS units!!
+99	message	They even have Akatsubaki…!?
+100	message	I know what you're thinking, Rika.\nYou won't escape…!
+101	message	Yes. Unfortunately for you,\nyou'll never win that way.
+102	message	I already understand.\nWhy you're after me —\nand why you can never win.
+103	message	Is that so, I wonder?
+104	message	From what we know, those black IS units\nshould match our abilities. Everyone, be careful!
+105	message	Fighting oneself is not pleasant.
+106	message	It's strangely unsettling.
+107	message	Protecting Rika and the others comes first, period.\nDon't get hung up on defeating them!
+108	message	Right — keep the offense-defense balance in mind.
+109	message	The plan: hold out until the other team\nsecures Polyal, then rush in all at once.\nSurvive until then, no matter what!
+110	message	Got it!
+111	message	Nyu.
+112	message	I absolutely won't lose!\nBig brother, watch over me!
+113	message	//Battle start
+115	message	I don't know what you're planning,\nbut your aim won't succeed.
+116	message	Do you think I'd act with no chance of winning?
+117	message	There's no proof you're me.
+118	message	I'll make you understand. Hehe!
+119	message	//Conversation event when Black Rika and Rin clash
+120	message	We meet again. Last time you outwitted me completely!\nNot this time!
+121	message	Oh? You remember?
+122	message	I'd forget if I could!\nBut carrying your regrets and living on —\nthat's what being human is!
+123	message	Maybe. That's why, if we could redo things,\nwe'd want to — that's what makes us human.
+124	message	//Conversation event when Black Houki clashes with someone
+125	message	…
+126	message	Silent, huh… Just who are you?
+127	message	//Conversation event when Black Cecilia clashes with someone
+128	message	…
+129	message	No greeting at all — how rude!
+130	message	//Conversation event when Black Rin clashes with someone
+131	message	…
+132	message	This one's got a bad attitude!\nWhat is this, harassment?
+133	message	//Conversation event when Black Charlotte clashes with someone
+134	message	…
+135	message	Trying not to show your hand?\nHard to fight when I can't tell what you're thinking…
+136	message	//Conversation event when Black Laura clashes with someone
+137	message	…
+138	message	Hmph, you could've at least come out\nin whiteface paint. How artless!
+139	message	//Conversation event when Black Houki clashes with someone
+140	message	…
+141	message	Akatsubaki was only just completed…!\nWhy — how can it be replicated!
+142	message	//Clear after a set number of turns
+143	message	It's about time! Let's go!
+144	message	Right!
+145	message	We'll break through…!
+146	message	…After them.
+147	message	//All units vanish from the map.\n//Battle ends\n//Background: plains
+148	message	Rika! Get on!
+149	message	Yes!
+151	message	Louise!
+152	message	Fly steady now!
+154	message	Satoko! Hold on!
+155	message	Please! Cecilia!
+157	message	Puchiko! Let's go!
+158	message	Don't you drop me, nyu.
+160	message	Angel, over here.
+161	message	I'll drop bombs on our pursuers, okay?
+162	message	If you're confident you won't fall.
+164	message	Alright, let's fly!!
+165	message	//
+166	message	At this speed, hitting us should be hard!
+167	message	We've shaken the black IS units!
+168	message	Good! Let's rendezvous as planned!
+169	message	Hm? Something's coming from behind!\nFast! It's catching up!
+170	message	What!?
+171	message	//SE: flight sound of something approaching
+173	message	Approaching target. Scan: no problems.
+174	message	What is that!?
+175	message	The European Devil!!
+176	message	Nothing else could close in at this speed!
+177	message	Intercept!
+178	message	No — keep running! Slowing down is dangerous!
+179	message	Please… make it in time!
+180	message	…Target acquired within range. Attack on standby.\nContinuing pursuit.
+181	message	//END

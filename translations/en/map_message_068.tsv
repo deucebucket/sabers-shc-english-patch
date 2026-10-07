@@ -1,0 +1,111 @@
+row	column	english
+3	message	It's been a while since I came back to the office.
+4	message	Nyaun.
+5	message	Woof woof!
+6	message	With my Dream Hunter power finally back,\nI can keep the "Paranormal-Case Detective"\nshingle up, I suppose.
+7	message	Still, I can't settle down\nat the Ayanokouji Detective Agency yet.
+8	message	Quite right, Rem.
+9	message	...To think you'd appear here.
+10	message	clear-all command
+12	message	How are you feeling?
+13	message	Should I say "thanks to you"?
+14	message	Fufufu... that spirited talk of yours\nonly works with your true power.
+15	message	What's your business?\nYou didn't come to turn yourself in?
+16	message	I've come to formally challenge you to a duel.
+17	message	Oh? Since when do you like fighting fair and square?
+18	message	Tomorrow at 14:00, I'll wait at Okugahara.\nI look forward to facing you.
+19	message	Fufufu... fufufufufu!
+20	message	//Doctor Shinigami vanishes.
+21	message	One-sided as always...
+22	message	But with everything arranged this far,\nI can't exactly refuse.
+23	message	Still, why does Doctor Shinigami want\nto fight me at full power\nso badly?
+24	message	He wasn't such a battle maniac...\nI don't get it...
+25	message	//Battle map: plains\n//Doctor Shinigami and Rem initially deployed.
+26	message	I've waited long for this moment.
+27	message	I've got plenty to say.
+28	message	First, I can't forgive\nall the incidents you've caused.\nI will defeat you!
+29	message	But I have to thank you\nfor restoring my power... complicated, though.
+30	message	No thanks needed.\nI didn't do this for you.\nIt's solely for fulfilling my grand wish.
+31	message	Grand wish?
+32	message	I wanted to try winning.\nAgainst Rem the Dream Hunter at full power.
+33	message	Sorry, but\nI can't let that dream come true.
+34	message	I'd be troubled if you held back.\nThat's why I deliberately told you my true intent now.
+35	message	Then, let's go! Rem the Dream Hunter!\nHyaahaa!
+37	message	Tch...
+38	message	Come on, Rem. Get serious already!
+39	message	As you wish — I'll beat you at full power!
+40	message	//Rem transforms.
+41	message	Return to the depths of hell!
+43	message	Ooh... dream power overflowing enough\nto transform in the real world... good,\nit must be so!
+44	message	//Battle start.\n//Event after 2 turns, or when Doctor Shinigami's HP drops below a set amount.
+45	message	Not bad!
+46	message	That's my line.\nYour power and skill haven't dulled.
+47	message	//Mii appears.
+48	message	There you are! Yeeay!
+49	message	!!
+50	message	How rude... What do you want?
+51	message	Obviously! I came to play!\nLet Mii join in!
+52	message	//Mii sends out grunts too.
+53	message	She's really going to wreck it!
+54	message	What a brazen child...!
+55	message	//Player units deploy.
+56	message	Rem! Leave them to us!
+57	message	Is ruining a duel fun?
+58	message	It's fun! Because when I butt in,\neveryone gets really mad!\nEven kids who never get mad get mad!
+59	message	This is what "I'd like to see your parents' faces" means.
+60	message	Ahahahaha! No way~♪\nEveryone'll get beaten by Mii!
+61	message	I won't let the old man get away either!\nKei-chan's furious\nabout Dark Rem being ruined!
+62	message	Not my concern.\nRem, shall we continue?
+63	message	Gladly!\nEveryone, babysitting duty please!
+64	message	//Battle resumes.\n//Mii is too strong to defeat. Clear when Rem defeats Doctor Shinigami.
+65	message	Nuooh... defeated by Rem again!\nWhy can't I win? What was my downfall!?
+66	message	...It's over! Doctor Shinigami!
+67	message	Aww, you lost already?\nHow old-man of you...
+68	message	Then Mii's the star from here!
+69	message	//Kei appears.
+70	message	Mii, please return at once.
+71	message	Kei...!
+72	message	No! It's just getting fun!
+73	message	Dark Rem's ego has fully awakened.\nShe has escaped.
+74	message	Huh? She went somewhere?
+75	message	Hmm, what should I do~?
+76	message	I await your instructions.
+77	message	Jeez, Kei-chan,\nyou're really bad at this stuff.\nCan't be helped~.
+78	message	//Mii vanishes. All grunts vanish too.
+79	message	Withdrawing.
+80	message	//Kei vanishes too.\n//Battle end.\n//Background: plains
+81	message	Fufu... should I be grateful\nto end quietly, undisturbed by rude intruders...
+82	message	To hear the word "gratitude"\nfrom your mouth.
+83	message	//Event CG: Doctor Shinigami's end
+84	message	Rem, you wouldn't know.\nWhy I sought this kind of duel\nrather than enjoying slaughter's pleasure hidden in darkness.
+85	message	Why is that?
+86	message	To break the perfect plan\nand escape the wheel of fate.
+87	message	The perfect plan...?
+88	message	No one rules me!\nI achieved that... I have no regrets.\nRem, can you do the same?
+89	message	What do you mean?
+90	message	Fufufu... this is the end I wished for...!\nRem, stay strong.\n...Dream Hunter... Rem...
+91	message	//Event CG off.
+92	message	...
+93	message	You got him?
+94	message	Yes.
+95	message	We won, but\nI can't quite celebrate honestly.
+96	message	Even the way he lost was obnoxious!
+97	message	I'm worried whether he really won't revive, desu~...
+98	message	He's undying, right?\nWon't he come back again?
+99	message	Should be fine for a while.\nAnd with this power of mine,\nI can protect us.
+100	message	Then I'm relieved.
+101	message	One tough enemy down —\ncan't you celebrate a little more?
+102	message	Dejiko thinks so too, nyo!
+103	message	Then let's have a victory party!
+104	message	Doubling as Rem-san's recovery celebration.
+105	message	At times like this, eat good food\nand restore your spirits!
+106	message	Sounds good. I'm in!
+107	message	Rem, you're really strong.
+108	message	Fufu, I went from a normal girl\nback to a not-normal girl!
+109	message	//fade to black\n//Background: abandoned building or some shady place
+110	message	...
+111	message	Made into a hiding place for dream power, huh...
+112	message	But I can't just end up\nbeing used like this.
+113	message	Rem, you too shall lose everything,\ntaste despair, and die...
+114	message	Just like me...!
+115	message	//END

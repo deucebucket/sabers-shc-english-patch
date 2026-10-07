@@ -1,0 +1,175 @@
+row	column	english
+3	message	Minding the shop on a weekday afternoon is boring, nyo~♪
+4	message	...Dejiko.
+5	message	Hm? Nine coming here is rare, nyo.
+6	message	I'm here too~.\nI brought a guest.
+7	message	A guest, nyo?
+8	message	Good day.
+9	message	Nyo!?
+10	message	I won't eat you or anything.\nI've come to talk.
+11	message	Talk about what, nyo?
+12	message	About Koto, of course.
+13	message	Yase-douji has no hostile intent either,\nso I brought her along thinking\nwe should negotiate properly.
+14	message	...Talking matters.
+15	message	//fade to black\n//inside Gamers
+16	message	Huh, so Tesla-san and Nine-san\nknow Yase?
+17	message	Sort of.
+18	message	Still, why did you\nattack us?\nYou could've just negotiated from the start.
+19	message	About one person — an idiot who charged in\nall fired up for nothing, nyu.
+20	message	Who's that, nyo?
+21	message	You, nyu!!
+22	message	Yase's a really important person in Kagami.\nOf all people, meeting Dejiko first —\nno wonder it got messy.
+23	message	I didn't understand the situation then.\nForgive my rudeness, nyo.
+24	message	I was a bit too misanthropic myself.\nI still don't like humans, but\nI don't dislike a child who can apologize properly.
+25	message	So, Yase, what did you come to talk about?
+26	message	About taking you back to Kagami, of course.
+27	message	I'm not going back.\nWe're fighting some pretty bad guys right now.\nEveryone's still fighting — I don't want to go home alone.
+28	message	You're precious to Kagami.\nIf anything happened to you, it'd be a disaster.
+29	message	That's not just me.\nEveryone's precious.
+30	message	Koto...!
+31	message	Yes. From what I've seen, Koto-san\ndoesn't seem to be just playing around.
+32	message	I'm worried about Koto.
+33	message	Then I just have to prove\nthere's nothing to worry about, right?
+34	message	Prove it how?
+35	message	Match me!\nIf Yase wins, I'll go back.
+36	message	If I lose, you won't go back?
+37	message	Right. Win or lose, no hard feelings!
+38	message	Fine. Simple is good.
+39	message	Should've done that\nfrom the start, nyo...
+40	message	The one who made a mess of things, be quiet, nyu.
+41	message	Eh, whatever!\nComplicated stuff is best solved simply!
+42	message	//Battle map: forest (night)\n//Initially deployed: Yase and Koto only.
+43	message	How about it? One-on-one?
+44	message	That's no fun.\nCan we do teams?
+45	message	Anything's fine. I'll just win.
+46	message	Me too! Okay, everyone come out!
+47	message	//Player deployment.
+48	message	Do your best, desu~!
+49	message	You got it! I'm totally gonna win!
+50	message	Koto-chan!\nA victory feast with extra rice awaits!
+51	message	Hehe, tell Siesta-san\nto make it two extra-large servings!
+52	message	(That lady Yase is lovely.\nA different elegance from Cecilia-san.)
+53	message	(She's scary though...)
+54	message	(A woman is best\nwith a claw or two hidden.\nNo spice at all is troubling too.)
+55	message	(Is that how it is...)
+56	message	I won't hold back either!
+57	message	//Yase sends out her youkai army too.
+58	message	All right, let's go!
+59	message	I can't lose to a child!
+60	message	//Battle start.\n//Talk event when Koto and Yase engage.
+61	message	Yase! This hurts when it hits!
+62	message	You haven't forgotten who I am, have you?\nWorrying about me is ten years too early!
+63	message	//Conversation after Koto and Yase engage.
+64	message	Hehe, this is fun too!
+65	message	Honestly, you're such a tomboy!
+66	message	Those two look like they're having fun, nyo?
+67	message	Ufufu, they're really good friends, I'm sure.
+68	message	High-level\nskinship, you could say.
+69	message	A-awawa... th-that's so intense,\nI'm a little worried...!
+70	message	A match is more fun the more even it is.\nThat's how it goes.
+71	message	Go Koto-chan!!
+72	message	//Event when Yase's HP drops below a set amount or after several turns: Black Koto and Black Yase appear.
+73	message	You're quite persistent.
+74	message	You too, Yase!
+75	message	Come on!
+76	message	Teeryaaah!!
+77	message	//Black Koto and Black Yase appear.
+78	message	Uooooooh!!\nSmaaash!!
+79	message	...Die.
+80	message	Ah!
+81	message	Wh-what are those?
+82	message	//Black Koto attacks Yase; Black Yase attacks Koto.
+83	message	Whoa!
+84	message	Hey! We were in the middle of something!
+85	message	I'll break you too, you too!
+86	message	Every last one of you, die!
+87	message	//Event CG: Yase uses sorcery.
+88	message	How annoying!!\nAre you trying to anger me!?
+89	message	Scary!!
+90	message	Scary, nyo...
+91	message	"Smash"? "Die"? Are you stupid!\nI'll show you\nsomething far worse!
+92	message	I'll torment you in a prison of never-ending suffering\nwith a daily-changing menu!
+93	message	//Event CG off.
+94	message	Hmph!
+95	message	Hey, Yase...
+96	message	Hah, trying to compete with me and Koto —\nwhat fools.
+97	message	Match paused. Decided. Ready...!
+98	message	Don't get in our way!
+100	message	//Victory condition changes from defeating Yase to defeating Black Koto and Black Yase.
+102	message	Smash!
+103	message	Smash what!?
+104	message	//Talk event when Koto and Black Yase engage.
+105	message	Die!
+106	message	Did I do something to earn your grudge?\nSorry, don't remember!
+107	message	//Talk event when Yase and Black Koto engage.
+108	message	You'll be the first to break!
+109	message	I don't know what you're angry about, but\nfighting you wouldn't be fun.
+110	message	//Talk event when Yase and Black Yase engage.
+111	message	I'll kill you while I can.
+112	message	First, stop talking down to me.\nIt'll be embarrassing if you lose.
+113	message	//Clear upon defeating both Black Koto and Black Yase.
+114	message	All cleaned up.
+115	message	What now? Continue?
+116	message	I'm not in the mood anymore.
+117	message	Yeah!
+118	message	//Battle end.\n//Background: forest (night)
+119	message	Huh? I win?
+120	message	You weren't beaten by me, so Koto wins.\nI acknowledge you have that much strength.
+121	message	Really!?
+122	message	But don't forget this.\nYou're absolutely needed to celebrate Koto-sama's birthday\nand revive Mama.
+123	message	Yeah, once I finish what I'm doing now,\nI promise I'll come back to Kagami.\nSo wait just a little!
+124	message	Fine, do as you wish, Koto.
+125	message	Thank you! I love you, Yase!
+126	message	Fufu, going at it flashily isn't bad, but\nthis is better.
+127	message	//If Yase joins:
+128	message	Since I'm here, maybe I'll help\nso Koto can return to Kagami sooner.
+129	message	Really! That makes me happy, Yase!
+130	message	That being the case,\nyou — arrange my food, clothing, and shelter.
+131	message	Nyo!? Dejiko has to do it, nyo!?
+132	message	You're wearing a maid outfit, so obviously.
+133	message	Siesta does better work\nthan Dejiko, nyo!
+134	message	I'll put up with you.\nDo it properly.
+136	message	(I preferred her as an enemy, nyo...)
+137	message	I can hear you, you know?
+138	message	Damn, nyo! She's got demon ears, nyo!!
+139	message	Wahahaha!
+140	message	//If Yase doesn't join:
+141	message	Well, I'll be waiting, Koto.\nDo your best.
+142	message	Okay!
+143	message	What a good answer!\nEveryone else, take care of Koto.
+144	message	Okay! Leave it to us!
+145	message	Leave it to me too!
+146	message	I'll take good care of her too!
+147	message	Kagami took care of me too.\nLet me repay that debt.
+148	message	Good friends, Koto.
+149	message	Yeah!
+150	message	//Chris quietly steps away from the group.\n//fade to black\n//Event CG: Chris looking up at the night sky
+151	message	...
+152	message	Papa... Mama...
+153	message	You know, understanding each other is a good thing.
+154	message	I'm clumsy, so\nI might not do it well, but\nI want a peaceful world where everyone understands each other.
+155	message	I'll make it happen\nwith the power of this song Papa and Mama gave me...!
+156	message	//Event CG off.\n//fade to black\n//Background: abandoned building or some enemy-ish place\n//The blacks are gathering.
+157	message	Dammit! Let me smash more!
+158	message	More death! Death to fools!
+159	message	//Black Rem walks in.
+160	message	Welcome. Glad you came.
+161	message	You're the one who called us?
+162	message	First, let's hear your proposal.
+163	message	We must unite.\nOr we'll lose.
+164	message	Blunt, aren't you.
+165	message	Yes, it's clear.\nThat uniting means victory.
+166	message	Is that true?
+167	message	The plan is already in motion.\nHey, come here.
+168	message	//Black Rika and Black Louise walk in.
+169	message	Hey.
+170	message	I'll kill Louise\nand meet Gandalfr...
+171	message	These two and I will lead.
+172	message	Counter numbers with numbers.
+173	message	This world exists for us.
+174	message	...
+175	message	...
+176	message	Come to me.\nAnd fulfill your desires to your heart's content.
+177	message	What's your desire?
+178	message	The destruction... of this twisted world!
+179	message	//END

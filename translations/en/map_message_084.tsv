@@ -1,0 +1,197 @@
+row	column	english
+3	message	...How is it, sniper?\nHow's [MERU] doing?
+4	message	...How is it, sniper?\nHow's [NOEL] doing?
+5	message	Target confirmed. No movement.
+6	message	You can see that well from this distance\nwith no scope...?
+7	message	Target confirmed here too. No movement.
+8	message	Any other intel?
+9	message	No signs of activity from the target.\nNo energy detected.\nNo sign she's noticed us.
+10	message	So at this distance, we're safe?
+11	message	To run right away if something happens,\nwe need to stay near Polyal.
+12	message	This is surveillance only — watch,\nno fighting planned.
+13	message	But why is she\njust standing still...?\nCould she be tired...?
+14	message	I wonder if she eats?
+15	message	You're always worried about food, Koto.\nBut word is her energy is\nlimitless, so she probably doesn't eat.
+16	message	Not even able to eat... poor thing.
+17	message	Yeah!\n[MERU] must be\nso hungry.
+18	message	Yeah!\n[NOEL] must be\nso hungry.
+19	message	In the first place, in that state,\nis she even conscious, I wonder?
+20	message	If she is, it's painful; if she isn't, it's painful...
+21	message	When Eve fell,\nshe seemed lost to rage.
+22	message	I understand.\nMy power went wild once too, and I lost myself,\nrampaged... and I was so sad then.
+23	message	I think that's proof you're still sane.\nIf you're really broken, you don't feel sadness\nno matter how much violence you dish out.
+24	message	I still haven't given up on saving her.
+25	message	Of course, I won't give up either.\nBig or small, I owe my life\nto Hibiki, her, and everyone.
+26	message	But Hibiki, that doesn't mean\nyou can put our comrades in danger.\nUnderstood?
+27	message	Of course!
+28	message	As long as she's in observation range, the IS can\nrecord the Goddess of Destruction's state.\nHopefully that turns up a countermeasure.
+29	message	Even with the IS, we can't\njust approach her.
+30	message	Now it's about what Mie and Kei do.
+31	message	Come to think of it, Mie and Kei\ngot beat but didn't disappear, right?
+32	message	That's just how strong those two are.
+33	message	They're THAT strong?
+34	message	Yeah, no doubt.
+35	message	Will they appear again?
+36	message	If Mie or Kei shows up,\nwe'll have to fight.
+37	message	Wouldn't running be better?
+38	message	I heard she awakens when\nshe learns the truth of the world, but...
+39	message	Hasn't she already awakened, nyu?
+40	message	Maybe her current state isn't\na complete awakening.
+41	message	Aoi, what do you mean?
+42	message	The fact that she's stopped moving like this —\ncould it be because the awakening is incomplete...?
+43	message	I see — that's probably related to how\nshe took that form without meeting\nthe 'learn the truth of the world' condition.
+44	message	Hibiki, what do you think?
+45	message	She might really be incomplete.
+46	message	When truly outrageous power awakens,\nyou can't just stand still quietly like that.\nYou'd definitely go on a rampage.
+47	message	Maybe... she'd be overwhelmed\nby the overflowing power.
+48	message	Just standing still like that,\nshe couldn't possibly destroy all the worlds —\nit's more natural to think she's still incomplete!
+49	message	I agree.
+50	message	Even so, what do we do?
+51	message	We can't go poking her right now...
+53	message	Something's coming!
+54	message	Right on cue, huh!\nWho the hell is it?
+55	message	One person on foot, it seems!\nThis movement pattern is...!
+58	message	Found it! A new toooy!\nAhaha! Let's plaaay!!
+59	message	What are you here for!
+60	message	I came to play, obviouslyyy!\nC'mon, look, look!
+61	message	Don't do anything stupid! Go home!
+62	message	YOU go home.\nIsn't it dangerous for you~?
+63	message	You're the one in danger!\nI'll stop you no matter what!
+64	message	Ahaha! Funny joke!\nEveryone's weaker than Mii —\ncan you really stop me~?
+65	message	No matter how strong you are,\nthere are ways to deal with you!
+66	message	Hmm, you really don't want Mii\ngetting close to that black monster?
+67	message	She's not a monster!\nThat's [MERU]!
+68	message	She's not a monster!\nThat's [NOEL]!
+69	message	Is that really true~?\nI've gotta get close and test\nall sorts of things to check! Ahaha!
+70	message	Ngh! How nasty...!
+71	message	No one can stop Mii!\nGo go go! Charge, charge!
+73	message	Wah! The population density!?
+74	message	They're not people, so it's not population density, but...\nthis is no time for that.\nWe need to thin their numbers!
+75	message	Strike first, strike hard — take them all down!
+77	message	Hee, not bad.
+78	message	Heave-ho!
+80	message	Huh!?
+81	message	Fancy trick, huh...!
+82	message	Ehem! That was nothing.\nI'm a king, after all! Ahaha!!
+84	message	You're bored, right?\nHeheh, wanna play with your uncle here?
+85	message	Officer! This is the guy!
+86	message	Know the game cops-and-robbers?\nIt's pretty fun, y'know?
+87	message	Mii wins at every normal game.\nBut if you throw in that black monster too, deal!
+88	message	That's out of the question!
+90	message	Even like that,\nI still believe she can be saved!\nPlease, don't get in the way!
+91	message	Nooope.
+92	message	Why!?\nAt this rate the whole world is in danger!
+93	message	Mii's not in danger.\nNeither's Kei-chan.
+94	message	A king who only thinks of himself\nis a naked king!
+95	message	Ahaha! Good one!\nOne zabuton for you!\nMii doesn't mind being naked, though. Mii doesn't!
+97	message	Stop! Don't come any closer!
+98	message	Even if you say stoooop~♪\nI just can't help it! Tehepero!
+99	message	(Twitch.)
+100	message	(Wh-what is this...\nabnormally irritating feeling...!)
+102	message	Playing with you guys is low on thrills.\nMii likes THIS better!
+103	message	Oh no!!
+105	message	Energy reaction detected!\nIt's moving!
+106	message	That bastard!! She did it!
+107	message	Everyone, prepare to retreat!! Don't get close!
+108	message	...
+109	message	...
+110	message	Gooood morning!\nA wake-up call!! Ya-hoo!
+113	message	Mikyuu...
+114	message	...
+115	message	...
+116	message	Damn... goofy bastard, but\nshe took down THAT Mie in one hit...!
+117	message	Impossible! This is hopeless!
+118	message	Nighty-night...
+120	message	Stirring up trouble and running off!\nShe never does anything decent!
+121	message	Ah, she's looking this way...!
+122	message	...
+123	message	...
+124	message	Bad!
+125	message	What do we do!?
+126	message	I'll draw a defense line with the IS!\nEveryone else fall back!\nGet as many as you can to Polyal!
+127	message	I'm staying too!
+128	message	You saw that, right? There's no reasoning with her.
+129	message	I know!\nBut I don't want [MERU]\nto kill anyone!
+130	message	I know!\nBut I don't want [NOEL]\nto kill anyone!
+131	message	...I see. Fine!\nWe'll protect everyone!
+132	message	Yeah!
+135	message	...
+136	message	...
+137	message	...
+138	message	...
+139	message	...
+140	message	...
+143	message	It stopped moving!?
+145	message	GYAAAAAAAH!\nAAAAAAH!
+146	message	GYAAAAAAAH!\nAAAAAAH!
+148	message	Eep!
+149	message	Wh-what!?
+151	message	D-did it... run away?
+152	message	No idea why! But we're running too!
+155	message	I always strive to be elegant,\nbut to be honest,\nI was scared out of my wits...
+156	message	Anyone would feel that way.\nIf anything, it's proof you're a normal human.
+157	message	A terror on a whole different level from horror movies or mysteries —\nlike having your life scraped out from the roots...\nis that how I'd put it...?
+158	message	Not a living thing, not a machine —\nsomething more dangerous, something untouchable...\nThat's what it felt like.
+159	message	Even I could feel\nit wasn't human.
+160	message	The fact that Mie took that thing's attack head-on\nand didn't die instantly —\nshe's seriously strong.
+161	message	Nothing but trouble, all of 'em.\nThe weird duo, the black-clad folks...
+162	message	Houki, any idea where she went?
+163	message	No, lost her.\nNo readings within sensor range.
+164	message	Why did she run off halfway?
+165	message	[MERU]...\nI couldn't do anything for her...
+166	message	[NOEL]...\nI couldn't do anything for her...
+167	message	Nothing for you to regret.\nAnd nothing's over yet.
+168	message	Right. The team headed to Eve's lab\nwill surely find a way to save her.\nLet's believe.
+169	message	//
+170	message	(U-um...!)
+171	message	I think it'll be okay!
+172	message	Soniko...?
+173	message	//
+174	message	Um... I can't really put it into words, but...\nif this world is a story...
+175	message	you're all super heroines!\nSo if it's you... I just somehow\nbelieve it'll definitely be okay.
+176	message	Hm...
+177	message	And...\n[MERU]'s fighting too,\nright now, I'm sure!
+178	message	She's hanging in there, refusing to lose!
+179	message	And...\n[NOEL]'s fighting too,\nright now, I'm sure!
+180	message	She's hanging in there, refusing to lose!
+181	message	[MERU]'s fighting too...?\nYeah! Yeah, that's right!
+182	message	[NOEL]'s fighting too...?\nYeah! Yeah, that's right!
+183	message	In that state, she still has reason...?
+184	message	After trying so hard\nall this time,\n[MERU]...
+185	message	No way she'd give up!
+186	message	After trying so hard\nall this time,\n[NOEL]...
+187	message	No way she'd give up!
+188	message	Soniko's right!\nWe'll all try our best! If that fails,\nwe try even harder! That's all there is!
+189	message	Yes. If we don't stay strong,\nwe won't manage even what we could.
+190	message	Overthinking everything\nand going negative —\nthat's the most dangerous thing.
+191	message	I see~ — wait,\nisn't it about mealtime?
+192	message	Honestly, I know nothing more accurate\nthan Koto's stomach clock...
+193	message	Well, with neither Siesta nor Rin here,\nI shall offer my home cooking...
+194	message	Whaaat!?
+195	message	Alright, Cecilia's cooking this time.
+196	message	Wait, why would you suggest something so terrifying?
+197	message	If we survive one round of Cecilia's cooking here,\nit'll strengthen our will to live until\nwe get a decent meal!
+198	message	And what is THAT supposed to mean!?
+199	message	Hahaha!!
+202	message	Hah! Yah!
+203	message	...
+205	message	...
+206	message	...
+207	message	...I can't settle down.
+208	message	I understand.
+209	message	I can't settle either, unless I'm listening to the wind.
+210	message	Yeah...
+212	message	Nacchan...
+213	message	Oh my, jealous?\nQuite the siscon, huh?
+214	message	Wh-what's that supposed to mean. I was just\nchecking whether Nacchan\nwas feeling anxious...
+215	message	Well, whatever.\nAren't you anxious too, Tesla?
+216	message	...I'd be lying if I said I wasn't anxious.\nI'm the type who always thinks\nof the worst-case scenario.
+217	message	Yeah. Maybe that's just how big sisters are.
+218	message	You've got Shion, don't you, Mion?\nHow can you stay so calm\nin this situation~.
+219	message	I'm used to it.\nAs head of the Sonozaki family, steeling my resolve\nis something I've been trained in.
+220	message	'Used to it'...
+221	message	Honestly, I'm scared.\nBut there are positions where\nyou're not allowed to be scared, y'know? That's it.
+222	message	...I think I get now\nwhy you have so much charisma\nat your age~.
+223	message	Charisma!?\nNo way — I'm just the club prez!\nI'm nothing that impressive!
+224	message	Fufu!
+225	message	//END

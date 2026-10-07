@@ -1,0 +1,299 @@
+row	column	english
+3	message	How'd it go on your end, Aria?
+4	message	Too much happened —\nI don't know where to start.\nYour end?
+5	message	Same here.\nThe satellite cannon "Gustav"\nis no longer an immediate threat.
+6	message	W-wow, new faces...\nUm, hello!\nI'm Super Sonico!
+7	message	Jeanne d'Arc the 30th.\nCircumstances led me to join you.\nPleased to meet you.
+8	message	P-pleased to meet you!\nUm, you're so talented and beautiful...\nI mean... you're super cute!
+9	message	Wh-!? I'm a witch! Be afraid!
+10	message	Scary? With that face,\nRena'll come swooping in!
+11	message	//Rena carries Jeanne off.
+12	message	I'm taking you hooome!!
+13	message	Whoa!?
+14	message	What the hell! Twice the people\nand ten times the noise!
+15	message	Ah! You're Hibiki-chan's friend,\nChris-chan? Um,\nI'm Super Sonico!
+16	message	Super Sonico? Weird name.\nWhat do you want with me?
+17	message	Um... well,\nI'd love it if we could be friends!
+18	message	Huh? This carefree toward someone\nwho was an enemy until recently!?\nYou'd fall for scams easy, wouldn't you!
+19	message	A-awawa! P-people tell me that a lot,\nbut that's not true~!\nB-but thank you for worrying about me!
+20	message	This lack of distance... hey, Hibiki!
+21	message	What's up, Chris-chan?\nWant a snack?
+22	message	Ah♪ Ehehe~, I just happen\nto have macarons♪
+23	message	Chris-chan, do you like macarons?
+24	message	Would you like one~♪
+25	message	Just as I thought... you two are the same breed...
+28	message	Huh?
+29	message	Reki! You're coming too?
+30	message	Yes. My contract isn't complete yet.
+31	message	Contract?
+32	message	Supporting the Twin Phantom.
+33	message	Ugh, you took their contract?
+34	message	A Butei contracts with anyone.\nNothing strange about it.
+35	message	Still, the Twin Phantom's got an eye\nto have picked you, Reki.
+36	message	//fade to black: time passes\n//Location unchanged
+37	message	We're starting to see\nMii and Kei's movements a bit.
+38	message	Kei seems interested in mysterious powers.
+39	message	And not just obtaining them —\nshe seemed focused on confirming\nand verifying how the power manifests.
+40	message	Kei didn't seem to enjoy\ndestruction, that's true.
+41	message	Mii was the worst!\nShe's truly awful!\nLaughing at people's precious things!
+42	message	It was Mii who tried to fire Gustav too.\nJust for kicks.\nKei didn't seem keen.
+43	message	So Mii's the problem child!
+44	message	Uncalculated cruelty is\ntroublesome.\nHard to predict what she'll do.
+45	message	Even now, we don't know\nwhat Mii will do next.
+46	message	Frustrating, but we wait for their move.\nAlso, the black fakes have\nbeen getting active.
+47	message	The black IS, even a black Symphogear appeared —\none crisis after another.
+48	message	I think we pulled through well, and\nthis battle helped us grow.
+49	message	On our end, black Louise-san, black Rem-san,\nthe black Twin Angel,\nand even black Soniko-san showed up!
+50	message	So what ARE those things?
+51	message	I don't know... but I feel like just calling them\ncheap fakes of us\ndoesn't explain it...
+52	message	The black me I met in Hinamizawa\ntried to use\nmy Oyashiro-sama's power.
+53	message	So the black Rika-chan doesn't have that power?
+54	message	My black one knew\nabout something erased from my own memory:\nGandalfr.
+55	message	My black one, opposite of Rika-chan's case,\nwas using the dream power I've lost.\nThe cases are all over the place.
+56	message	So they're not\njust degraded copies.
+57	message	They don't seem disguised or transformed either.\nI want to pin down their true identity somehow.
+58	message	//fade to black\n//Background: wherever Mii and the others are (something suitable)
+59	message	What should we do now?\nKei-chan, anything you wanna do?
+60	message	First, I believe we should dispose of Doctor Shinigami.
+61	message	Ehh? Why?\nThat old man's fun!
+62	message	Overseeing Hinamizawa and such, he's cooperative\non the surface, but his actions are gradually\nslipping beyond our control.
+63	message	I heard he went and interfered\nwith Dark Rem on his own?
+64	message	In Hinamizawa too, without our orders,\nhe killed Rika Furude once.
+65	message	The biggest problem is that Doctor Shinigami\ndoes not fear us.
+66	message	What's wrong with that?\nIt's not a test of courage.
+67	message	His "dream power" is certainly a threat.\nIt easily produces unanalyzable phenomena.\nRecognized as extremely dangerous.
+68	message	It cannot compare to\nsomething controllable like Gustav.
+69	message	So what'll we do?
+70	message	As for Doctor Shinigami,\nleave him to me.
+71	message	Okay! I'm looking forward\nto what you'll do, Kei-chan!\nThat old man's in for it♪
+72	message	//fade to black\n//Background: city (night)\n//Doctor Shinigami's monologue
+73	message	The black Rem... the one who used the "dream power"\nis surely what I've long sought.
+74	message	So it was hidden\nby them, as I thought.
+75	message	But who'd have thought the hiding place was there.\n...Now, this is getting interesting.\nFufufu...!
+76	message	//fade to black\n//Background: inside Gamers
+77	message	Well then, today's work is done, nyo!\nI'll head out first, nyo~.
+78	message	Huh? Dejiko, going somewhere?
+79	message	Dejiko's taking a break for a while, nyo!\nEveryone, do your best, nyo~.
+80	message	A sudden break — what's that about!?
+81	message	I'm not saying no, but\nat least give us a reason.
+82	message	Are you tired, perhaps...?\nIs there anything I can do?
+83	message	Actually, Dejiko has to do\nthe most important job in the world, nyo!
+84	message	The most important job?
+85	message	What's that? If it's that important,\nlet us help!
+86	message	Huh? You'll help, nyo?
+87	message	Of course! We're comrades!
+88	message	Hiding such an important job until now\nbothers me, but\nif it's critical, we have to help.
+89	message	Yes! With this many of us,\nwe can do anything!
+90	message	Thanks, everyone, nyo!\nThen I'll gladly\naccept your help, nyo!
+91	message	What's Dejiko-chan's important job?
+92	message	Making my new doujinshi for the doujin convention, nyo!
+93	message	Huh?
+94	message	Huh?
+95	message	Um...
+99	message	What's that?
+100	message	Nyo? You'll help, nyo?
+101	message	//fade to black\n//Background: outside Gamers
+102	message	Honestly, what's Dejiko thinking!?\nStarting a doujinshi — was it?\nAt a time like this!?
+103	message	I never imagined she'd call something like that\nthe most important thing in the world.
+104	message	B-but... is it really okay\nnot to help...?
+105	message	It's fine, it's fine!\nIt's her hobby — let her do it alone!
+106	message	She even enjoys writhing\nagainst the deadline, nyu.\nLeave her alone for a while, nyu.
+107	message	//Dejiko comes running.
+108	message	Nyonyonyo————!!
+109	message	Huh!? Dejiko!?\nYou're back?
+110	message	Where's that black one, nyo!?\nI'll smash her, nyo!!
+111	message	Black one? What do you mean?
+112	message	Look at this, nyo! This!!
+113	message	What, it's just the convention catalog.
+114	message	Look at this circle cut, nyo!\nDejiko's cut\nbecame a different cut, nyo!
+115	message	Ehh, this drawing isn't Dejiko.\nIt's got a mean face, though.
+116	message	It's not a drawing Dejiko drew, nyo!\nAnd the doujinshi manuscript I submitted\nto the printer got swapped for something else, nyo!
+117	message	That's just a printer mix-up.
+118	message	No, that's 100% impossible, nyo!\nUsada, come here a sec, nyo.
+119	message	What? What's up?
+120	message	Calm down and look at this closely, nyo...
+121	message	What's with this thin book?
+122	message	Wh—!? Hey!? What's this!?\nThe cover art is me!!
+123	message	That's right, nyo!\nI was making a BL book, but\nan Usada book came out instead, nyo!
+124	message	Why!?
+125	message	I can't show you the inside for various reasons, nyo.
+126	message	What!? Now I'm curious!\nShow me!
+127	message	No, nyo!\nThe hurdle's still too high for Usada, nyo!
+128	message	It's got me in it, right!\nCome on! Hand it over!
+129	message	Aaah!! You can't look, nyo!!
+130	message	(flip)
+131	message	//SE: dun!
+132	message	!?
+133	message	//SE: dun!
+135	message	//SE: dun!
+136	message	!!!!!!!!!!!!
+137	message	//SE: a "ding" sound.
+138	message	...
+139	message	I told you not to,\nyou reckless thing, nyo...
+140	message	Is it that intense, I wonder?
+141	message	There are worlds better left unknown...
+142	message	Dejiko! Where's the one who drew this!?
+143	message	That's why I came back, nyo!
+144	message	I'll find them, no matter what! No matter what!
+145	message	Bringing conflict to the sacred convention —\neven if God forgives it, Dejiko-sama and\nall convention attendees won't, nyo!
+146	message	I'll find them before the convention\nand punish them, nyo!
+147	message	Could this be black Dejiko's doing, I wonder?
+148	message	No other doujin artist\nknows about Usada, nyo!\nShe's clearly picking a fight, nyo!
+149	message	True, I guess.
+150	message	Emergency meeting! Gather everyone!
+151	message	Let's do it, nyo!
+152	message	//fade to black\n//Background: inside Gamers
+153	message	—Several days later
+154	message	No good, nyo~. Can't find the culprit, nyo~.
+155	message	Five IS units, plus field investigations\nby Rem, Aria, and Shirayuki, and not a single clue!?\nWhat's going on!?
+156	message	I investigated the printer where the manuscript\nwas likely swapped, but no clues.\nWhat method did they even use?
+157	message	She's Dejiko's fake, so of course she's clever, nyo!
+158	message	...Wait, if she's as smart as Dejiko,\nwouldn't luring her out be easier than searching?
+159	message	Um, just an idea...\nHow about holding an event,\nlike the one for me?
+160	message	I see, that's reasonable, nyo.
+161	message	An event? What would we do?
+162	message	Hmm, nyo~...
+163	message	//fade to black\n//Background: outside Gamers
+164	message	Hey!!\nWhy are we doing a photo shoot of me!?
+165	message	This is the best plan, nyo.
+166	message	If black Dejiko hears about a photo shoot,\nshe'll see right through such an obvious trap!
+167	message	Naive! So naive, nyo!
+168	message	Eep!?
+169	message	She drew an Usada doujinshi, nyo!\nIf she's a Dejiko at heart,\nshe wouldn't draw anything without love, nyo!
+170	message	So if I'm the bait,\nshe'll just come waltzing out?
+171	message	If black Dejiko has a doujin artist's pride,\nit's guaranteed, nyo.
+172	message	Pride... do those black ones\neven have that, I wonder?
+173	message	Just get ready, nyo!\nThe ads are already out, nyo!
+174	message	Fine, I get it!\nI'll do it, okay! I'll do it!
+175	message	//fade to black
+176	message	Umm, I'm Rabi~en~Rose.\nYikes, I'm not a celebrity, but\nI'm doing a photo shoot?
+177	message	P-please support me... though\nwhat kind of support, I wonder... haha...
+178	message	Usada-chan, you're lovely~
+179	message	Go Usada-chan!
+180	message	Hauu! So cuuute!
+181	message	Don't call me Usada~!!
+182	message	[CLAUDE], at a time like this,\nstand out properly as a plant!
+183	message	Y-yes... Usada-saan,\nlook this way!
+184	message	Wh-, you're really taking photos!?\nAnd don't call me "Usada"!!
+185	message	Eyes this way, please.
+186	message	L-like... this?
+187	message	Yeah, the plant's adding good flavor.\nIt's shaping up decently.
+188	message	That B-list idol vibe of almost-but-not-quite making it\nis irresistibly wonderful, desu~!\nJust [MERU]'s type of idol, desu~!
+189	message	I can't tell if that's\npraise or an insult!
+190	message	The amateurishness is off the charts, but\nyou could call it fresh.
+191	message	Um, I was taught at work that\nan unadorned natural smile\nis super charming!
+192	message	Ugh, this is embarrassing...
+193	message	//Black Dejiko appears.
+194	message	I heard about Usada-chan's photo shoot, nyo.
+195	message	She showed up, nyo!!
+196	message	She's here!! Youuu!!
+197	message	//Battle map: Akihabara (daytime)\n//Rin, Dejiko, and Black Dejiko initially deployed.
+198	message	Let me take lots of photos\nfor my creative work, nyo!
+199	message	Refused!\nI mean, what did you even draw!?
+200	message	It's fan activity, nyo.
+201	message	You're saying you're my fan?
+202	message	I don't draw things I don't love, nyo~.
+203	message	Ugh... don't casually say you love me\nto my face!\nEspecially coming from a Dejiko!
+204	message	More importantly, swapping my circle cut\nand my manuscript\ndeserves ten thousand deaths, nyo!
+205	message	Even if the courts forgive you,\ndoujin artists nationwide won't, nyo!!
+206	message	Whoa, Dejiko's seriously angry!
+207	message	She did say it was\nthe most important thing...
+208	message	She's surprisingly righteous.
+209	message	She is of royal blood, after all, nyu.
+210	message	While I'm at it, I'll photograph\nevery possible Usada, nyo.
+211	message	//Many grunts deployed.
+212	message	What!? For a fan,\nyou sure resort to force!\nI can't accept that!
+213	message	A doujin artist settles it with doujinshi, nyo!\nIf you won't do that, you're out of the question, nyo!!
+214	message	//Player deployment.\n//Battle start.\n//Event after several turns or defeating several grunts: Black Legion summoned.
+215	message	My help should arrive soon, nyo.
+216	message	What? You've got allies?
+217	message	//Black Puchiko and Black Usada appear.
+218	message	Nyu.
+219	message	Ohohohoho!
+220	message	They're here, nyo!\n...They don't look that strong, nyo.
+221	message	(irritated!)
+222	message	(ticked off!)
+223	message	Dejiko!\nDon't provoke them with careless remarks!
+224	message	We're beating them anyway, so it's fine, nyo!\nI mean, if there's a black Usada,\ndraw a black Usada doujinshi, nyo!!
+225	message	That's still me, though!!
+226	message	//Defeating Black Puchiko and Black Usada brings further reinforcements: Black Koto and Black Chris appear.
+227	message	...
+229	message	...
+231	message	...Smash!
+232	message	Everything! Everything! Everything! Everything! Everything!\nI'll deny it all!!
+233	message	More showed up, nyo!!\nFor a black one, she's got\nsome political pull, nyo!
+234	message	Call it popularity, nyo.
+235	message	Drawing that stuff, what popularity!?\nImpossible!
+236	message	Hey, that's my black self! I wanna take her on!
+237	message	A black rival!?\nThat bastard's probably up to no good\nin my form! Unforgivable!
+238	message	//Talk event when Black Koto and Koto engage.
+239	message	Come on, let's compare strength!
+240	message	I'll smash that grin too!
+241	message	Hmm?\nIsn't your motivation pointed the wrong way?
+242	message	Just come at me.\nDon't chicken out.
+243	message	Bring it!
+244	message	//Talk event upon defeating Black Koto.
+245	message	Tch, they're calling me back! See ya!
+246	message	//Black Koto vanishes.
+247	message	Back where?\nThose guys never make sense.
+248	message	//Talk event when Black Chris and Chris engage.
+249	message	Uoooooooh!!
+250	message	Oraaaaaah!!
+251	message	//Another talk event after Black Chris and Chris engage in battle.
+252	message	Tch! You're the worst!\nThat smash-everything power is the same as mine,\nand YOU'RE the one wielding it!
+253	message	So what? Own it!\nAnd smash even more!
+254	message	Shut up! I already quit that!\nI won't go wrong anymore!
+255	message	//Talk event upon defeating Black Chris.
+256	message	What? Go back? Tch, fine!
+257	message	//Black Chris vanishes.
+258	message	She ran? That bastard!\nNo wait, I've got to stay calm here,\nor I'll go wrong again...
+259	message	//Talk event when Black Dejiko and Dejiko engage.
+260	message	Eye beams!
+261	message	Eye beams!
+262	message	What, nyo!? My preemptive strike failed, nyo!
+263	message	Looks like we think alike, nyo.
+264	message	Silence, nyo! What would someone who brings\nneedless conflict to the Earth's treasure that is\nthe doujin convention say, nyo!? We can't be the same, nyo!
+265	message	Then wipe out those fools\nin the all-night line right now, nyo.
+266	message	That's heartless, nyo! They're not even fools, nyo!
+267	message	What are they even talking about...
+268	message	Some things are better not known.
+269	message	There are scumbags everywhere, nyu.
+270	message	//Talk event upon defeating Black Dejiko.
+271	message	You got me, nyo...
+272	message	Any last words, nyo?
+273	message	I'm not dead yet, nyo!!
+274	message	//Battle end.\n//Background: outside Gamers
+275	message	I'll ask one last thing.\nDid you really draw that\nbecause you love me?
+276	message	Actually, I've... about Usada...
+277	message	!!!!
+278	message	Beeeeep de beep de beeeep, so\nI thought if I made a beep character do beeeep,\nit'd be beeeep, nyo!
+279	message	Restrain yourseeeeeeeeeeeeeeelf\noooooooooooooooooooo\nooooooooooooooooo!!
+280	message	//Black Dejiko is blasted off, becoming a star.\n//SE: dokaan! A huge bang.\n//Black Dejiko disappears into the distance.
+281	message	The ultimate reward, nyo~
+282	message	Phew, all's well that ends well, nyo.
+283	message	So, will Dejiko's\nnew book make the submission deadline, nyu?
+284	message	Nyo?
+285	message	I forgot, nyo...
+286	message	//fade to black\n//Background: inside Gamers
+287	message	So why do WE have to\nhelp make\nDejiko's doujinshi!?
+288	message	Sorry, nyo... printing won't make it,\nso I've got to make a copy-book, nyo...
+289	message	I can help with handwork, you know~.
+290	message	This much is easy even for me!
+291	message	A book being made is kind of exciting!
+292	message	Helping together with everyone is fun♪
+293	message	Isn't it way faster and handier\nthan Halkeginia's bookbinding?
+294	message	Indeed.
+295	message	I still can't forgive that black one, nyo!\nUntil I crush them completely,\nI can't even go to the convention in peace, nyo!
+296	message	It's do or die now —\nI'll see it through, nyo!!
+297	message	Still, those black ones aren't\njust evil —\nthey've got weird fixations.
+298	message	A human touch, I guess?\nThat's what I feel from them.
+299	message	The Twin Angel fakes didn't\nshow much emotion, though...
+300	message	My fake was taciturn too.\nMaybe it varies by person?
+301	message	Personalities are similar or not, depends.
+302	message	Jeanne, how much do Mii and Kei know\nabout those black ones?
+303	message	Unknown. Most likely the black ones only\nbecame active recently, and\nthey paid them no mind before.
+304	message	We were like "what are those?"\ntoo.
+305	message	Things are changing, kana? Kana?
+306	message	The situation... yes, I feel it changing.
+307	message	(The one least able to keep up with the change\nis me, right now...)
+308	message	//END

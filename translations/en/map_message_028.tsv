@@ -1,0 +1,176 @@
+row	column	english
+3	message	Is that the cry of the higurashi...?\nEarly summer in Japan — the season must be June, I wonder.
+4	message	For now, let's head out to the main road.
+5	message	...
+6	message	Wh—what's wrong, Aria?\nYou're white as a sheet!
+7	message	I don't know... I feel sick...
+8	message	I'm worried. Aria-chan, you rest.\nWe'll go gather info around here.
+9	message	...Sorry.\nI'll do that.
+10	message	[Fade to black, time passes]
+11	message	What's wrong with me...?\nIt's not just feeling sick — strange dreams,\nterrifying dreams are burned into my mind...
+12	message	They happened here in Hinamizawa... huh?\nDid I just say 'Hinamizawa'?\nI shouldn't even know where this place is...?
+13	message	What's going on? I don't understand...
+14	message	[Rika appears]
+15	message	Hello, nanodesu.
+16	message	You... have I seen you before...?
+17	message	Won't you take a little walk with me, nanodesu?\nI think I can tell you something\nthat'll cheer Aria up, nanodesu.
+18	message	Huh... how do you know my name!?
+19	message	Nipah☆\nLet's go, nanodesu.
+20	message	[BG: Hinamizawa branch school (day)]
+21	message	The school... nobody's here.
+22	message	Today's a day off, nanodesu.\nEveryone's preparing for the festival, nanodesu.
+23	message	I see...
+24	message	Aria, don't you\nrecognize this school, nanodesu?
+25	message	I... feel like I do.
+26	message	...
+27	message	Aria, there are no such things\nas memories that never happened, nanodesu.
+28	message	If you remember it, Aria,\nthen it really happened, nanodesu.
+29	message	It really... happened...?
+30	message	If not here, then in another world...
+31	message	Aria, please listen carefully\nto what I'm about to tell you.
+32	message	[Fade to black, time passes]
+33	message	'Demoning Away.' 'The dam incident.' 'Inside the Saiguden.'\n'Clawing at throats.' 'Sonozaki Mion and Shion.'\n'Satoko's abuse.' The 'Watanagashi' festival.
+34	message	Aria, do you remember\nwhat I just told you, nanodesu?
+35	message	...I feel like I do.\nBut this is my first time here,\nyet I remember all of it like I saw it in a dream.
+36	message	Just as I thought, nanodesu.
+37	message	Why are you smiling?\nNone of that was anything to smile about.
+38	message	Right now in Hinamizawa, a change\nthat never happened before is\noccurring, nanodesu. Even Oyashiro-sama is surprised, nanodesu.
+39	message	Oyashiro-sama — the one behind the curse?
+40	message	Oyashiro-sama isn't scary, nanodesu.\nThe shrine maiden of Furude Shrine says so,\nso it's true, nanodesu.
+41	message	Rika was a shrine maiden.\nI've seen plenty of strange things myself,\nbut Oyashiro-sama...
+42	message	Mii~, you can't believe it, nanodesu.\n...True, maybe something is still missing\nto bring about a decisive change, nanodesu.
+43	message	Honestly, I can't believe\neverything you say either.
+44	message	Like Rika just said,\nI have memories of witnessing terrible things\nin this Hinamizawa.
+45	message	Mii~...
+47	message	But that's not all.\nThere are people who saved me,\nand people I wanted to save.
+48	message	So tell me. What should I do?\nYou know, don't you, Rika?
+49	message	I don't know that yet, nanodesu.\nMaybe I'll never know...
+50	message	The three words I hate are\n'impossible,' 'tired,' and 'too much trouble.'\nDon't deny the possibilities — act!
+51	message	Not... deny the possibilities...?
+52	message	I don't trust people who can't do that,\nand I won't work with them.
+53	message	...Understood.\nPlease lend me your strength, nanodesu.
+54	message	Okay. So what should I do?
+55	message	There's a place I've thought was suspicious\nfor a while, nanodesu. But it's dangerous,\nand I can't go near it alone, nanodesu.
+56	message	I want you to go there\nand find out what's there, nanodesu.
+57	message	If that's all, it's a piece of cake. Leave it to me!
+58	message	I'll tell everyone and head right over!
+59	message	[Battle map: plains]
+61	message	Whoa! The lovelies I recognize\nare crawling all over the place-uu!
+62	message	Whoa, the creepy ones I've seen before\nare swarming everywhere!
+63	message	Dream demons too. This presence...\nDoctor Shinigami is definitely lurking here.\nDon't let your guard down!
+64	message	Aria, nice find.\nAs expected of a Butei, I suppose!
+65	message	I'm not the one who found it.\nAnyway, there's something here.\nWe're going to expose it!
+66	message	[Battle starts / Riko appears after a set number of turns or enemies defeated]
+67	message	Haaah, I'm sooo bored!\nWhy does Riko have to guard\nsuch a boring backwater?
+68	message	Riko!?
+69	message	Huh?\nWhy is the whole Ormes gang here?\nYou shouldn't have been able to find this place in a million years?
+70	message	True, nobody'd come to the backwater\nyou got demoted to for slacking off\nwithout some crazy coincidence.
+71	message	...I've been bored this whole time.\nLet's make this a big one, Ormes!!
+72	message	[A horde of grunts appears]
+73	message	Uwaaah, what a crowd...
+74	message	In other words, there's something\nthat valuable here!
+75	message	Now that we know, we can't back down!\n...But these numbers are a bit of a problem.
+76	message	[Battle resumes / more grunts next turn]
+77	message	C'mon, c'mon! Do your best, Ormes!
+78	message	There's more...?
+79	message	Why are there so many!?
+80	message	Sorry, but I'm in no position to slack off either.\nI'll overwhelm you with numbers!
+81	message	Tch...!!
+82	message	[Rena, Mion, Shion, Rika, and Satoko arrive as reinforcements]
+83	message	O-ho-ho-ho-ho!!\nO-ho-ho-ho-ho-ho!!
+84	message	How naive!\nYou're so half-baked you'd make a 3 o'clock snack!
+85	message	Who!?
+86	message	Aria!!
+87	message	We came to help!!
+88	message	You guys!?
+89	message	Are those the enemies lurking in Hinamizawa\nthat Rika-chama mentioned?
+90	message	That's right, nanodesu.
+91	message	You noticed!?\nI didn't sense a thing...!
+92	message	Of course you must do everything\nwithout being found out.\nIt's written on the first page of the Art of War, you know!
+93	message	Rika-chan gets the credit, though.
+94	message	No, it's thanks to everyone, nanodesu~.\nNipah☆
+95	message	By the way, can you guys fight?
+96	message	Don't underestimate the club members\nled by Sonozaki Mion, the next head of the Sonozaki family!
+97	message	We'll show you the fruits of our daily club activities!
+98	message	The tables have turned, I wonder?\nEveryone, push them back!!
+99	message	[Battle resumes]
+101	message	How do you like that!
+102	message	This match is ours!
+103	message	Is that so?
+104	message	That voice!?
+105	message	[Doctor Shinigami and dream demons, Yase and youkai appear]
+106	message	You wouldn't say you've forgotten about me, would you?
+107	message	So you've shown yourself, Doctor Shinigami!
+108	message	...What, Koto's not here.\nThat's not what I was told!
+109	message	Just capture them\nand make them spit out her whereabouts.
+110	message	...Fine!
+112	message	What are YOU doing here! I didn't hear about this!!
+115	message	Shut up.
+116	message	Tch!
+118	message	What do we do? Fight them head-on like this?
+119	message	We can't retreat here!
+120	message	Mii~, everyone... to survive,\nwe can't run, nanodesu...!
+121	message	I know!\nWe can't just leave these guys be!\nTime to dig in, everyone!
+122	message	I don't wanna lose, kana!
+123	message	[Battle resumes]
+125	message	You're reaching your limit, no...?
+126	message	Limit? I fed that to the fish\nalong with the breadcrumbs!
+127	message	Even so, at this rate...!
+128	message	[A mysterious light appears]
+129	message	Unya?
+130	message	Honya?
+131	message	Don't tell me, what they were guarding was...!?
+132	message	The gears... are turning...?
+133	message	[Enveloped in light, the allies vanish. / Battle ends]
+136	message	I-is everyone okay?
+137	message	I'm fine... but what just happened?
+138	message	This isn't Hinamizawa, kana? kana?
+139	message	What about the enemies? Are they not coming after us?
+140	message	I think we're safe here for now.\nCan't say for sure, though.
+141	message	...
+142	message	I thought I told Rika?\nThat we came from another world.
+143	message	Yes... but it's still surprising, nanodesu.
+144	message	Hey, after telling me all that\ncrazy stuff,\nyou didn't believe MY story?
+145	message	No, that's not it, nanodesu.\nThe fact that *I* would leave Hinamizawa\nis what's so surprising, nanodesu.
+146	message	Come to think of it, what happened to\nthe Watanagashi festival, I wonder?
+147	message	With Rika-chan gone,\nthey're probably in a huge uproar right now, kana? kana?
+148	message	I might get more than just a scolding from Granny... but\nwhat's done is done.
+149	message	Could you explain the situation?
+150	message	Uhh, um... you wimp over there!\nI'm leaving it to you!
+151	message	H-h-huh, me?
+152	message	[Fade to black, time passes]
+153	message	Hmm, you've been wandering\nthrough world after world...
+154	message	It's like a fairy tale, sis.
+155	message	Well, we've got no choice but to believe it.\nThis isn't Hinamizawa, after all.
+156	message	Is it okay to be so carefree?
+157	message	Ahaha, this old man's no good at studying~.
+158	message	How do we get back, kana? kana?
+159	message	That's what we're trying to figure out right now.\nSo I think it'd be good for everyone from Hinamizawa\nto come along with us.
+160	message	And I want to thank you for the help!
+161	message	...
+162	message	Hauu, Rika-chan\nlooks really happy somehow.\nDid something good happen, kana? kana?
+163	message	Yes, nanodesu.
+164	message	(Though it's not all good)
+165	message	So, what kind of bad guys\nwere the ones we just fought?
+166	message	Were they hiding in Hinamizawa,\nplotting something evil?
+167	message	Looks like they're definitely\nenemies of our club!
+168	message	We also need to solve the mystery\nof how this happened.
+169	message	Mion-san,\nI propose we bolster the club's membership!
+170	message	Adopted! So,\nI'd like to add everyone here as new members\nof the club — what do you say?
+171	message	...Huh?
+175	message	Aye!
+177	message	Club???
+178	message	Uwaah! It's like school-uu!
+179	message	Nice! Nice~! Sounds like fun!
+180	message	Shii joins too, nanodesu~.
+181	message	Me too?
+182	message	Club, huh... sounds kind of nostalgic!
+183	message	(Just how old ARE you...)
+184	message	(I feel it... something Hinamizawa never had —\na power that pushes forward...\nSomething that creates change... this is fine for now)
+185	message	Hey, Rika... was this okay?
+186	message	Hm?
+187	message	Nipah☆
+188	message	[Fade to black / BG: Hinamizawa (night)]
+189	message	Rem... I thought luring her to Hinamizawa\nwould bring about change. Then what to do...
+190	message	It seems I need to change my methods a bit.
+191	message	[END]

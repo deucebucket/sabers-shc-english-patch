@@ -1,0 +1,125 @@
+row	column	english
+3	message	...Kufufu.\nTwin Angel, huh.
+4	message	Still just little kids\nplaying heroine, I'd say?
+5	message	Riko'll show you what a real phantom thief is.
+6	message	The St. Cherinu Academy's secret treasure,\nthe 'Tears of the Angel'—I'll be taking it.
+7	message	While they're busy falling for the diversion!
+8	message	//Event art off.
+10	message	//Screen shake, etc.
+11	message	Aaah! Those robots are rampaging again!
+12	message	Thanks to the quick report,\nthe damage still isn't too bad!
+13	message	But they're not attacking people—\nthey're targeting buildings?
+14	message	Mr. Robot!\nYou mustn't do that~!
+15	message	...Haruka-san!
+16	message	Yeah!
+17	message	Everyone, we'll go\nfetch Twin Angel!
+18	message	Roger. Leave it to us till then!
+19	message	All right, you're dealing with ME!\nMy teacher said doing bad things\nis a no-no!
+20	message	I-I may not be much help, but\nI'll do my best!
+21	message	Um, Sonico-san,\nmaybe you should run instead of pushing yourself...
+22	message	//To the battle map.
+23	message	//Twin Angel arrive where Tsubasa and the others are.
+24	message	Sorry to keep you waiting~!\nTwin Angel, here!
+25	message	Let's do our best, everyone!
+26	message	Yes!
+27	message	Wow! Powerful backup arrives!\nHmm, at this rate my role\nmight get overshadowed...?
+28	message	We'll beat every last one of those\ntown-wrecking robots!
+29	message	(Phantom Thief Twintail-san isn't here...?\nShe should be the one\ncommanding these robots...?)
+30	message	What's wrong?
+31	message	Ah, no, I was just wondering\nwhat the point of this attack is...
+32	message	The point? Hmm... but either way,\nwe can't let them wreck the town!
+33	message	Right!
+34	message	//Battle start.
+35	message	//After the condition is met (defeat a set number of enemies).
+36	message	Phew, we've cleaned up quite a bit!
+37	message	Keep it up! Keep it up!
+38	message	(Phantom Thief Twintail still hasn't shown up?\nWhich means...?)
+39	message	What's wrong?\n...Ah, there's someone over there!
+40	message	//Black Aria appears.
+41	message	I'll ventilate... you.
+42	message	That black figure again...!
+43	message	Different from the Black Fund's\nmen in black, maybe?
+44	message	But she's so small and cute...
+45	message	Who said what's tiny!? I'll freakin' kill you!
+46	message	Awawa!? I-I'm sorry!\nThat's not what I meant!
+47	message	Watch out! She's targeting Niko-chan!!
+48	message	To bare her hostility this openly...!
+49	message	//Battle resumes.
+51	message	Ngh...!
+52	message	//Retreat.
+53	message	Ah, she got away!?\nAt least stop these robots first~!
+54	message	From watching her movements,\nshe seems unrelated to the robots.
+55	message	//Battle resumes.
+56	message	//Battle end (all enemies wiped out).
+57	message	All done!
+58	message	So it was just unmanned weapons running wild...\nHey, do incidents like this\nhappen often in this world?
+59	message	No—usual incidents are art theft\nor smuggling; destructive rampages in broad daylight\nare almost unheard of.
+60	message	...Which means—ah!!
+61	message	This is a diversion...!!
+62	message	//Battle end.
+64	message	//Background: Cherinu Academy.
+65	message	As I suspected... it was stolen.
+66	message	N-no... the 'Tears of the Angel'...
+67	message	What exactly is the 'Tears of the Angel'?
+68	message	...Understood.\nI'll tell you all.
+69	message	In this world there are treasures\ncalled 'Holy Grail fragments'\nthat hold great power.
+70	message	The most powerful of them\nis the necklace called the 'Tears of the Angel',\nkept here at this academy.
+71	message	That treasure got stolen!?\nThe one who makes impossible missions possible is\nEtha... no, that can't be...
+72	message	Twin Angel and I are\nAmanotsukai—guardians of\nthe 'Holy Grail fragments'...
+73	message	And yet\nwe couldn't protect the 'Tears of the Angel'.\nUgh, what a huge failure...
+74	message	But few people know\nthe 'Tears of the Angel' is here.
+75	message	The academy's security is solid.\nIt shouldn't be easy to break through...
+76	message	Could it be that Phantom Thief Twintail, I wonder?
+77	message	But wasn't there any clue at the scene?
+78	message	Unfortunately, no...
+79	message	I thought this was an action shoot,\nbut there's a mystery element too...!
+80	message	What do we do, Aoi-chan, what do we do?
+81	message	It's all right, Haruka-san.\nHalf of the 'Tears of the Angel' is still safe.
+82	message	Hm? Half is safe? What do you mean?
+83	message	Because the 'Tears of the Angel' was stored\nsplit in two.
+84	message	Ehhh!? Really!?
+85	message	Actually, after meeting Phantom Thief Twintail-san the other day\nI had a bad feeling, so\nI asked my grandmother to arrange it.
+86	message	So because it was changed so recently,\nthe thief didn't notice.
+87	message	Amazing!!\nSpecial crisis-management skills activated!!
+88	message	So Aoi-chan plays the great detective!\nAoi-chan, how did you know\nthe 'Tears of the Angel' was being targeted...?
+89	message	Because those robots were\nattacking town buildings indiscriminately.
+90	message	Destruction with no discernible motive\nsuggested some kind of diversion.
+91	message	That thief popped up briefly in the last fight\nand vanished right away—what was that about?
+92	message	That was likely to make us aware\nof Phantom Thief Twintail's existence.
+93	message	Ugh... I don't get it~.
+94	message	In other words, it was to make us believe\nthat if those robots showed up again,\nPhantom Thief Twintail would be with them.
+95	message	So we were lured out, hook, line, and sinker.
+96	message	But why did Phantom Thief Twintail-san\nintroduce herself in a way that\nimmediately gives away she's a thief...?
+97	message	Because she's a phantom thief?\nStealing in silence, no one'd notice.\nMaybe she was confident in her skills?
+98	message	Thanks to that, the worst was avoided.\nThe 'Tears of the Angel' only shows its power\nwhen both halves are together.
+99	message	What if both halves of the 'Tears of the Angel' had been stolen?
+100	message	They'd gain power\nbeyond human handling.
+101	message	And Twin Angel protects it.
+102	message	Yes.
+103	message	This remaining half of the 'Tears of the Angel'\nwill be in my keeping.\n...I'll just tuck it away here.
+104	message	Awawa!
+105	message	...
+106	message	(Wah, she's gonna put it THERE?\nEek~)
+107	message	But this makes you a target.
+108	message	The Kannazuki family too\nis fated to guard the Holy Grail fragments.\n...Don't worry.
+109	message	B-but... it's dangerous.
+110	message	I'm prepared.\nBesides, we must take back\nthe stolen half of the Tears of the Angel.
+111	message	Phantom Thief Twintail will likely\ncome after the 'Tears of the Angel' again.
+112	message	Lure her out and reel her in instead—nice plan!
+113	message	Yes. Though it won't be easy.
+114	message	You've got me and Twin Angel on your side—\nit'll be fine!
+115	message	All right!\nWe're already in your debt,\nso we'll help with everything we've got!!
+116	message	Thank you, everyone.
+117	message	//Background: town at night.\n//Riko talking on the phone with Nine, the client's agent.
+118	message	A fake!? No way!\nWhat I sent was the 'Tears of the Angel'!
+120	message	Unfortunately, this 'Tears of the Angel'\ndoesn't show any power.
+121	message	That's ridiculous...!!
+122	message	The client is displeased.
+123	message	Fine! Then Riko'll just go again...!
+124	message	That won't be necessary.\nYou will receive\nfurther instructions from the client.
+125	message	Why!? You're not even giving me a chance to make up for it!?
+126	message	I'm merely relaying the decision.\nMine Riko Lupin IV.
+127	message	I'm Riko! Drop the 'IV'!
+128	message	That is all.\nDisconnecting.
+130	message	Don't screw with me! Twin Angel, I'll pay you back for this, I swear...!
+131	message	//END

@@ -1,0 +1,164 @@
+row	column	english
+3	message	It's so slow, nyo...\nEvery now and then there are times\nwith no customers, nyo~.
+4	message	If I strung all these short slow stretches together into one day,\nI could really get my doujinshi work done, nyo.
+5	message	Still, I can't slack off on shop duty, nyo.
+6	message	To keep from getting sleepy,\nI'll do a patrol of the store, nyo.\nStarting with the gal-game corner, nyo.
+7	message	[Event art: Dejiko with sparkling eyes — "Buy something, nyo!"]
+8	message	Hellooo, nyo.\nLooking for something, nyo?
+9	message	You sure got a lot of games here.\nWhich one's fun?
+10	message	Whether it's fun is up to you, nyo.\nDejiko believes anyone who can enjoy any game\nis a true gamer, nyo!
+11	message	Huh, the clerk says funny stuff!\nSo, so.\nYou got a game where a phantom thief beats a detective?
+12	message	Hoho, the reverse of the usual, nyo.\nDejiko would like to try a game like that too, nyo!
+13	message	Right? So, got anything like that?
+14	message	I believe we had games like Paroon the Third\nor Phantom Thief Kido, nyo.
+15	message	Don't need the Third one.\nThe Phantom Thief Kido game sounds interesting, though.
+16	message	Just buy something, anything, nyo!!
+17	message	[Event art off / BG: inside the Gamers store]
+18	message	Also, where are the limited editions\nand rare stuff?\nNot on these shelves, right?
+19	message	That's on the 5th floor, nyo.
+20	message	Like, super-rare stuff you can't even put a price on...?
+21	message	Gamers' selection is the best in the universe, nyo.\nBut we can't sell items like that, nyo.
+22	message	Ehh, you won't sell it to me?\nThen never mind.
+25	message	Huh?\nYou asked all those questions and you're not buying anything, nyo!?
+26	message	Just window-shopping, nyo!\nGive me back my precious time, nyo!
+27	message	...Well, at least she wasn't shoplifting.\nI'll count that as a win, nyo.
+28	message	Lately, there seem to be more and more\ntroublemakers in Akihabara, nyo!\nThey can't fool Dejiko's eyes, nyo!!
+29	message	I've got evil-heart-detecting sensors\nset up in this store, so\nif they react, it's instant eye-beams, nyo!!
+30	message	Anyway, Akihabara—with yours truly Dejiko at the top—\nmust be a town of youngsters and middle-aged youngsters\nwho buy things, nyo.
+31	message	Phew, I'm tired from passionately speechifying\nin an empty store, nyo.\nBack to zoning out, nyo~.
+33	message	Dejiko, it's terrible, nyu.
+34	message	Oh, it's Puchiko, nyo~.\nHere to switch shop duty, nyo~?
+35	message	We just switched a minute ago, nyu.\nMore importantly, it's bad outside, nyu.
+36	message	What's wrong, nyo~.\nIs that manga-loving ex-prime minister\ngiving a speech or something, nyo?
+37	message	It's an enemy attack, nyu.
+38	message	Enemy attack?\nIs some giant game store or anime store\nhanding out sale flyers, nyo?
+39	message	Just come, nyu!!
+40	message	Fine, fine, I'm bored anyway, so I'll take a look, nyo~.
+41	message	[BG: Akihabara streets (day)]
+42	message	*murmur...*
+43	message	*murmur... murmur...*
+44	message	Wh-what is that, nyo!?\nNo matter how you look at it, there's a swarm of something not-human, nyo!
+45	message	The town's under attack, nyu.
+46	message	Hoho... so that's a challenge\nissued to Dejiko, nyo?
+47	message	You do something about it, nyu.
+48	message	You don't even have to ask, nyo!\nAkihabara is Dejiko-sama's turf, nyo!\nI won't let outsiders act all big-shot here, nyo!
+51	message	Good luck, nyu.
+53	message	Puchiko's coming too, nyo!
+54	message	You said you'd handle it on your own, nyu.
+55	message	Don't say that, come with me, nyo!\nIt's lonely going alone, nyo...
+56	message	Can't be helped, nyu.
+57	message	[Switch to battle map / after units are placed]
+58	message	Oooh, there's quite a lot of them, nyo...
+59	message	If you're gonna chicken out, don't act tough, nyu.
+60	message	There are times a man must do what he must, nyo!\nWhether it's a giant game store or a giant anime store,\nI won't forgive interference with business, nyo!!
+61	message	Your mouth is the interference with business, nyu.\nAlso, since when are you a man, nyu.
+62	message	Details don't matter, nyo!!\nCommencing armed intervention, nyo!!
+63	message	[Battle starts / Yase appears after defeating a set number of enemies]
+64	message	Hm? What is this place?\nSo tacky, and the air's awful... what a nasty place.
+65	message	Something came out, nyo!
+66	message	You there, who are you?\nTell me in ten seconds.
+67	message	I'm Dejiko, nyo!\nMy real name's Chocolat, nyo!
+68	message	But I ended up with the name De Ji Charat, nyo.\nSo just call me Dejiko, nyo.
+69	message	Puchiko, nyu.\nMy real name's Cappuccino, nyu.
+70	message	They also call me Petit Charat, nyu.\nBut Puchiko's fine, nyu.
+71	message	How's that, nyo? H-how many seconds did that take, nyo!?
+72	message	Oh my, sorry.\nI wasn't counting.
+73	message	Then don't give me a time limit, nyo!!
+74	message	Useless, nyu.
+75	message	I'm looking for someone.\nHer name's Koto — know her?
+76	message	Koto, nyo?\nNone of Dejiko's acquaintances, nyo.
+77	message	You just answered without thinking, didn't you?\nAre you making fun of me, by any chance?
+78	message	That's not it at all, nyo.
+79	message	(Ugh, I got tangled up with a real pain, nyo...)
+80	message	I can hear you, you know. Who's a pain?
+81	message	Nyo!? You've got the ears of a demon, nyo!!
+82	message	Fine. I'll just capture you\nand take my time asking.
+83	message	[Yase summons a horde of youkai]
+84	message	A whole bunch of somethings came out, nyo!?
+85	message	It's your fault, nyu.
+86	message	[Battle resumes / event during battle with Yase]
+87	message	My, my... how amusing.
+88	message	Nyo-nyo!?\nShe's too strong, nyo! This is cheating, nyo!
+89	message	Because you charged in recklessly, nyu.
+90	message	Giving up...?
+91	message	(This is bad, this is bad, nyo...!)
+92	message	[Light appears; the party arrives]
+93	message	What is it this time, nyo!?
+94	message	Where in the world is this? It looks like a city, though?
+95	message	Wah, it's Akihabara!\nI can see the Gamers store...!
+96	message	Akihabara? Weird name.\nAnd what's with this place? Building towers all over\nsuch a cramped place. Are they stupid?
+97	message	Halkeginia was nice and spacious, after all.
+98	message	You people...!?
+99	message	It's our chance, nyo!!
+100	message	Chance for what, nyu?
+101	message	To run away, nyo!!
+102	message	[Dejiko flees. To the edge of the screen.]
+103	message	Sheesh, I thought you weren't gonna\nlet them act all big-shot, nyu.
+104	message	This is not defeat! It's a strategic retreat, nyo!
+105	message	[Dejiko vanishes. / Puchiko follows, vanishing too.]
+106	message	So uncool, nyu.
+108	message	...What was that thing that just ran off?
+109	message	Anyway, the one here\nis the youkai from Kyou-to, right?
+110	message	You know Kyou-to?\nThen you know Koto, don't you?
+111	message	Yes, I do.\nBut she's not here...
+112	message	It won't do you any good to hide her, you know?
+113	message	You're picking a fight!?
+114	message	What IS this thing? Some kind of monster?
+115	message	Is the little one over there\na hick who never learned\nhow to speak politely, I wonder?
+116	message	What did you say!?\nHow dare you speak to a noble like that!!
+117	message	U-um, fighting is...
+118	message	I hate humans.
+119	message	I'll make you suffer plenty!
+120	message	[Battle resumes]
+122	message	...With this much flash,\nKoto would've happily come jumping out by now.\nShe really doesn't seem to be here.
+123	message	...Tch, it was a bum tip...!
+124	message	[Yase vanishes]
+125	message	...What is going on?\nAttacking out of nowhere, then vanishing on her own.
+126	message	Is she an acquaintance of Koto-chan?\nShe was really beautiful~!
+127	message	More importantly, is Tiffa here?\nI forgot to ask that one earlier.
+128	message	For now, why don't we calm down and think?
+129	message	[Battle ends]
+131	message	Hmm, it's a peaceful town, at least on the surface.
+132	message	Yes! There are so many people,\nsometimes I feel like I'll get swept away...\n...ehehe.
+133	message	Still, nothing but strange buildings.\nThey're too thick to be towers...
+134	message	These are buildings!
+135	message	Biru? Who's that!?\nWhy does it have a name?
+136	message	Um, 'biru' is short for\n'building'...
+137	message	Hmph, how confusing.
+138	message	It's like an English lesson♪\nTeacher Aoi-chan♪
+139	message	When we went to Louise-chan's world,\nwe were surprised by all kinds of things like this too.
+140	message	I see, so it's the reverse this time.
+141	message	It's full of fresh surprises.
+142	message	But it still hasn't clicked for me.\nWhat this world, this town is like.
+143	message	In that case... how about we go to\nthe store called Gamers?\nI'll show you the way!
+144	message	Gamers?
+145	message	Yes! I thought it might help you\nunderstand what Akihabara is like...
+146	message	Before that, may I have a moment!
+147	message	Wah, Hibiki-chan? Is something wrong?
+148	message	Something's been bugging me for a while,\njust for a bit is fine,\nwon't you come over there with me?
+149	message	Over there?
+150	message	[Scene change / Event art: Hibiki takes on the UFO catcher (and sucks at it)]
+151	message	Damn it... didn't get it again.
+152	message	Is it this doll you want?
+153	message	Yeah... I've been away for so long,\nif I don't bring back at least a souvenir,\nmy roommate'll kill me.
+154	message	Just one more time, I'll try again!
+155	message	What is this thing?\nIf you want it, just buy it.
+156	message	This is a game where you grab a doll.\nThe grabbing part is the important part.
+157	message	It's actually pretty hard... ahh!\n...It went to the back.
+158	message	If I used magic, this'd be easy...
+159	message	Louise-san, winning it with your own strength\nis where the joy lies.
+160	message	Unyuu, but it doesn't look winnable-uu.\nIf you just stabbed the arm\ninto the doll, you'd definitely get it-uu.
+161	message	Um, that idea scares me...
+162	message	That arm lacks power!
+163	message	And it lacks the guts\nto never let go once it grabs its target!\nHonestly!! It needs more training.
+164	message	Um, if it's too strong,\nthe doll will get torn to shreds...
+165	message	Aaah! Failed again!!
+166	message	[Event art off / BG: Akihabara]
+167	message	Uu, I'm sorry, Sonico-san...\nI'll pay you back someday, I promise.
+168	message	Aww, don't worry about it!\nIf you had fun, that's what matters most♪
+169	message	You really sucked at that.\nPlaying that much and not winning a single one.
+170	message	I... might be cursed...
+171	message	If we go to Gamers,\nI'm sure you'll find a souvenir!
+172	message	Really!?
+173	message	Yes♪\nThey've got lots of cute and fun stuff♪
+174	message	[END]

@@ -1,0 +1,156 @@
+row	column	english
+3	message	Now, what kind of world is this, I wonder?
+4	message	Meow.
+5	message	Woof, woof!
+6	message	Hm? You feel nostalgic, you say?\nAlpha and Beta's noses are reliable, but...
+7	message	Hmm, so this is Rem's world?
+8	message	Rem should just call\nsomeone she knows.
+9	message	Right. Let's find a phone booth.
+10	message	I've been wondering, Rem —\ndon't you have a cell phone?
+11	message	We don't have small phones\nlike in your worlds, Aria-chan, Rinin-chan.\nWe do have big radio-like things, though.
+12	message	A radio... so no cell phones...
+13	message	Cell phone? What's that?
+14	message	Is a cell phone some kind of special weapon?
+15	message	Hmm, I don't really know either...?
+16	message	You guys don't know either?\nComplicated!
+19	message	Strange...
+20	message	Yeah, not a soul around.\nIt's a main street but dead silent — creepy.
+21	message	It's like, like a ghost town...
+22	message	Uhyah — this is what they call\na ghost town, right?
+23	message	Bad vibes.
+24	message	Speaking of, Aria —\nyou're the dual-blade, dual-gun wielder,\n'Aria the Quadra,' right?
+25	message	So what? Got a problem with that?
+26	message	Then I'd be 'Rinin of Twin Blades and Twin Cannons'!\nKouryuu has the Soutengagetsu and Ryuuhou on both shoulders,\nso that works, right?
+27	message	Wow! Rinin-san sounds strong too!
+28	message	Rejected. I'll allow twin blades, but\nthe cannons are just stuck on there —\nyou don't wield them by hand.
+29	message	Why not!?\nDoes it have to be by hand?
+30	message	If that counts, what about Cecilia?
+31	message	Bits can't be used at the same time as melee weapons!
+32	message	Now now, let's call it even on both sides\nand make up.
+35	message	How does calling it even make us make up!?
+37	message	Epithets like that are nice!\n'Hand Power,' 'Escape King,'\n'The Legendary Spoon-Bender'!
+38	message	What IS that naming sense...
+39	message	If I gave out epithets,\nAria-san'd be 'the Tiny Terror,' and\nRinin-san... 'the Koshi-an-Colored Typhoon'!
+42	message	Rejected!!
+44	message	I got in touch with Inspector Sakaki.\nThis looks like the world I was in.
+45	message	So we made it back, huh.
+46	message	That's good, but\nthings look pretty bad.
+47	message	Come to think of it,\nall kinds of incidents were happening, right?
+48	message	Yeah, incidents galore.\n'Spirited-away' cases, the 'Doppelganger Phenomenon,'\n'Unknown Creature Attacks,' one after another.
+49	message	The police can't keep up, apparently.
+50	message	We came back\nat a terrible time...
+51	message	Wrong! It's the opposite!\nTimes like these are when\nyou can gain the most!
+52	message	Right, catch shrimp using a sea bream!
+53	message	That's not how it goes...\nI think the sea bream and shrimp are reversed...
+54	message	Right, high risk, high return!\nWhere there's a chance, there's peril!
+55	message	There shouldn't BE peril...
+56	message	What's youth? Never giving up!\nSo we're going\non the offensive too.
+57	message	You've got a plan?
+58	message	Yes. The victims of the 'Sudden Street Sleep' incident —\nthe one that got you too, Aria-chan —\nkeep increasing.
+59	message	So there's a Doctor Shinigami guy\nwho tried to kill me!
+60	message	Right. But like you saw, Aria-chan,\ndealing with Doctor Shinigami\nis dangerous and difficult.
+61	message	I know.\nEven after I put a hole through him, he didn't die.
+62	message	He doesn't die... no way!
+63	message	He really doesn't die.
+64	message	W-w-we really saw it!
+65	message	Wasn't it some kind of trick?\nIf you make people believe he's immortal,\nyou gain the edge in the mind games.
+66	message	From my perspective, Rinin-chan's Kouryuu\nis unbelievable too.
+67	message	But go to another world and it exists\nlike it's the most normal thing.\nIf you're trapped by common sense, you'll never solve the mystery.
+68	message	Got it. Gotta keep an open mind.
+69	message	So, do you have a countermeasure for Doctor Shinigami?
+70	message	Yes. According to the police,\nthey've more or less pinpointed\nDoctor Shinigami's hiding place.
+71	message	They're evacuating nearby residents\nand setting up a caution zone, apparently.
+72	message	Then we just storm the place!
+73	message	Only after the evacuation's done.\nFighting without countering the Sudden Street Sleep\nwould be bad.
+74	message	After Doctor Shinigami appeared,\nI was put to sleep in seconds.\nGo in with no plan and we'll be put to sleep easy.
+75	message	IS units deploy barriers for space activity,\nso I'm fine!
+76	message	We can take measures, but\nthe problem is if anyone besides us has fallen asleep —\nthat'd be bad.
+77	message	Doctor Shinigami can enter people's dreams.\nSo as long as someone's asleep somewhere,\nhe can flee into dreams freely.
+78	message	What!? That's beyond cheating!
+79	message	See how dangerous he is?\nUnless there are no people around,\nwe can't fight him.
+80	message	Right. That's the minimum condition.\nRem, when's the evacuation done?
+81	message	Tomorrow at the earliest, I think.\nLet's wait at my office until then.
+83	message	Huh, so Rem really was a detective.
+84	message	First-time clients always stare\nwhen they see me,\nso I'm used to that reaction.
+85	message	So you run a detective agency as your job?\nHow old are you, Rem...?
+86	message	You mustn't ask a lady that.
+87	message	But you look younger than me —\nyou and Aria both.
+88	message	I'm a second-year in high school!
+89	message	Awww, I'm younger.
+90	message	Nice! Age-appropriate!
+91	message	Huh, I'm younger too!
+92	message	That's weird!\nWhy are you so developed!!
+93	message	([CLAUDE],\nwhat's your preferred age?)
+94	message	'How old' — what?
+95	message	Quit that weird muttering!\nIt's seriously creepy.
+96	message	S-sorry!\nI'll go make some tea...
+98	message	Anyway Rem, tell me what you know\nabout this Doctor Shinigami guy.
+99	message	Okay... first, hear this knowing\nthere's a lot we don't know —\nDoctor Shinigami is a villain of unknown identity.
+100	message	He's probably not a normal human.\nI've dealt him the finishing blow three times,\nbut he keeps coming back.
+101	message	You're seriously saying that?\nAnd the dream-entering stuff earlier —\noutrageous.
+102	message	Both are fact.
+103	message	He got into my dreams.\nAnd I shot him point-blank, but\nhe vanished laughing — seems he's alive.
+104	message	That's straight out of a horror movie...
+105	message	Didn't you know yet, Rinin-chan?\nDoctor Shinigami is a repeat offender —\na serial grotesque-murderer who specializes in beautiful girls.
+106	message	Hey, you're not just making up crazy stuff\nto scare me, are you!?
+107	message	Unfortunately, it's fact.
+108	message	I-it's terrifying...
+109	message	He's one of those villains.\nHe uses stuff more like sorcery\nthan magic.
+110	message	How do you catch a guy like that?
+111	message	Honestly, capturing him is hard.\nDoctor Shinigami isn't something\nhuman law can judge.
+112	message	So we have to beat him?
+113	message	If we can.
+114	message	You've beaten him a few times, right, Rem?
+115	message	Yes.\nBut I can't let my guard down.
+116	message	(If anything, I'm not sure I can win as I am now...)
+117	message	For now, we'll take anti-hypnosis measures.\nOther than that: never show an opening, no matter what.\nNever miss a chance to take him down. Got it?
+118	message	Confirming:\nwe don't have to arrest him?
+119	message	Unfortunately, a prison he can't break out of\nhasn't been invented yet.
+120	message	Roger.
+121	message	Even if I split his skull with the Soutengagetsu,\nwould he still live, I wonder...
+122	message	Even if you think you've beaten him, don't let your guard down.
+124	message	Doctor Shinigami's hideout\nis somewhere in this district.
+125	message	The evacuation is done per police instructions.\nNow we just find Doctor Shinigami.
+126	message	Unyuu, where could he be?
+127	message	Mou, it's pretty big —\nhow do we search it?
+128	message	Don't think you can escape\nKouryuu's hyper-sensor!
+129	message	What's that...?
+130	message	The hyper-sensor is\nan IS sight-and-hearing enhancement.
+131	message	With Kouryuu deployed,\nfrom the top of a building I can see\nsplit ends on people's eyelashes on the ground!
+132	message	Amazing! Like an African's eyesight!
+133	message	Hey, isn't that comparison weird?
+134	message	So, with that hyper-sensor thing,\nwere you tracking him?
+135	message	Huh?
+137	message	I've been waiting... fufufu.
+138	message	Ehh!? Where were you hiding!?
+139	message	Sight is the easiest sense to fool.\nParalyzing animals' sense of smell\ntakes far more care.
+140	message	Mnyau!?
+141	message	Wau!?
+142	message	Alpha and Beta didn't notice at all.\nDoctor Shinigami... you are...!
+143	message	Rem, you haven't forgotten\nwhat my power is, have you?
+144	message	The power of... dreams...!!
+145	message	Yes. Before the power of dreams, guns and swords are powerless.\nShall we test it?
+146	message	Of course!\nI've got lots to ask you.\nLike your connection to Mine Riko!
+147	message	You've taken so many girls' lives!\nI can't forgive someone like you!!
+148	message	Don't get heated!\nCarefully, surely corner him!
+149	message	Try it. The power of dreams...\nI'll remind you, Rem!
+150	message	Let me say this first: don't you run!\nIf you're not afraid of me, settle this here!
+151	message	...Very well. I'll show you I'm superior\neven outside the dream world!
+154	message	Wow! A lovey one appeared!
+155	message	Ugeeh, more nasty-feeling ones!
+156	message	Seconds are free. Hahaha!!
+158	message	How does it feel, fighting a battle you can't win?
+159	message	You won't know till you try!
+160	message	You know. You must know\nhow vast the gap between us is.\nFufufu...
+161	message	Don't laugh!
+163	message	Hou... I didn't expect this much!
+164	message	Give it up, Doctor Shinigami!
+165	message	It can't be helped... I'll withdraw for now.
+166	message	You're running!? Like hell I'll let you!
+167	message	You can never capture me.\nBecause I have a 'hideout.' If I just get there...\nfarewell!
+169	message	That light!?
+170	message	Like hell! Charging!!
+171	message	You're not getting away!!
+172	message	Yeah!
+173	message	Charging in!!
+175	message	//END

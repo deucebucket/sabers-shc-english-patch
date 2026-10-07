@@ -1,0 +1,306 @@
+row	column	english
+3	message	「Heeey, what should we play?」
+4	message	「Now, are you ready~?」
+5	message	「I won't hold back!」
+6	message	「Mie's goin' in—!」
+7	message	「You better play with Mie properly!」
+8	message	「It's fine, it'll all be over soon! Kyahaha.」
+9	message	「Kyahaha!\nThis is the game called war, right!」
+10	message	「I can just beat you up quick, right?」
+11	message	「Mie's gonna do her best—!」
+12	message	「Gotta continue our game.」
+13	message	「This time you'll play with me?」
+14	message	「What Mother says is absolute!」
+15	message	「If you're told you can't play,\nof course it's no fun.」
+16	message	「But if I kill you, it's no fun!」
+17	message	「I'll finish this quick!」
+18	message	「I can't afford to lose anymore!」
+19	message	「Making such a scary face—what's wrong?」
+20	message	「Revenge? Huh, that game sounds fun too!」
+21	message	「Heeey, what should we play?」
+22	message	「Now, are you ready~?」
+23	message	「I won't hold back!」
+24	message	「Mie's goin' in—!」
+25	message	「You better play with Mie properly!」
+26	message	「Hmm~, isn't your character kinda overlapping mine?\nDon't copy me!」
+27	message	「It's fine, it'll all be over soon! Kyahaha.」
+28	message	「Kyahaha!\nThis is the game called war, right!」
+29	message	「I can just beat you up quick, right?」
+30	message	「Mie's gonna do her best—!」
+31	message	「Kyahaha!\nThis is the game called war, right!」
+32	message	「What a weird getup~!\nYou can play in that? Kyahaha.」
+33	message	「Heeey, what should we play?」
+34	message	「Now, are you ready~?」
+35	message	「I won't hold back!」
+36	message	「Mie's goin' in—!」
+37	message	「You better play with Mie properly!」
+38	message	「Humans need to wear stuff like that\nto fly?」
+39	message	「It's fine, it'll all be over soon! Kyahaha.」
+40	message	「Kyahaha!\nThis is the game called war, right!」
+41	message	「I can just beat you up quick, right?」
+42	message	「Mie's gonna do her best—!」
+43	message	「Kyahaha!\nThis is the game called war, right!」
+44	message	「Sooorry! I'm just too strong!」
+45	message	「Kyahahaha, the killing game is over, I guess!」
+46	message	「It's all over—!」
+47	message	「Sheesh. How boring!」
+48	message	「Ending like this... it's still boring!」
+49	message	「If they matter that much,\nI'll send you right after them!」
+50	message	「Sooorry! I'm just too strong!」
+51	message	「Kyahahaha, the killing game is over, I guess!」
+52	message	「It's all over—!」
+53	message	「Sheesh. How boring!」
+54	message	「Geez, still hanging on? Gross.」
+55	message	「So persistent... sheesh!」
+56	message	「Knowing when to quit is the key to games.」
+57	message	「Still going? You try hard!」
+58	message	「I want to get this over with quickly...」
+59	message	「Would you just... die already!」
+60	message	「Here we go, go, go!」
+61	message	「You wanna beat Mie up! ...Can you?」
+62	message	「Geez, still hanging on? Gross.」
+63	message	「So persistent... sheesh!」
+64	message	「Knowing when to quit is the key to games.」
+65	message	「Still going? You try hard!」
+66	message	「Kyahaha, this is what you get\nfor coming out all cocky.」
+67	message	「Let's play again—oh, impossible now, kyahaha.」
+68	message	「Mie wins! Kyahahaha.」
+69	message	「Winning was only natural? I mean, Mie's strong~♪」
+70	message	「This is what you get for coming out—kyahaha!」
+71	message	「Of course... this isn't a game, after all.」
+72	message	「Gotta wrap this up quick!」
+73	message	「This is Mie getting serious!」
+74	message	「Kyahahaha, you failed! Too bad~」
+75	message	「Kyahaha, this is what you get\nfor coming out all cocky.」
+76	message	「Let's play again—oh, impossible now, kyahaha.」
+77	message	「Mie wins! Kyahahaha.」
+78	message	「Winning was only natural? I mean, Mie's strong~♪」
+79	message	「This is what you get for coming out—kyahaha!」
+80	message	「I can see everything!」
+81	message	「It didn't hiiit...」
+82	message	「Where are you aiming?」
+83	message	「Put more spirit into it!」
+84	message	「Not that way!」
+85	message	「If it can't hit me, it's no big deal!」
+86	message	「Come on! It's no fun if you don't take it seriously!」
+87	message	「Sheesh! Can't this end already~?」
+88	message	「Not yet—Mie won't lose to something like this!」
+89	message	「It's no fun playing if it's one-sided.」
+90	message	「Don't underestimate Mie's power!」
+91	message	「I-I'll pay you back double!」
+92	message	「Gotta end this quick...」
+93	message	「Tch... so persistent!」
+94	message	「You're trying hard... I guess that means you're serious—\nkyahaha!」
+95	message	「Getting all desperate—how silly!」
+96	message	「Mie... losing...?」
+97	message	「H-huh... I lost...」
+98	message	「Wh-why couldn't I win...」
+99	message	「Huh, Mie... what did I do wrong...」
+100	message	「Tch... as I thought, this is no... fun...」
+101	message	「Even going all-out... I couldn't win...」
+102	message	「Tch... why this power... this is...」
+103	message	「Here I gooo.」
+104	message	「Ready?」
+105	message	「Go!」
+106	message	「Odango All-Range Attack!」
+107	message	「Well then...」
+108	message	「Ready?」
+109	message	「Kyahaha! Everyone...」
+110	message	「Disappear—!」
+111	message	「One, two, three!」
+112	message	「Eeeeii!」
+113	message	「Ehehe, this is how everyone plays, right?」
+113	short	「Byyyye!」
+114	message	「And lastly, like this—...」
+115	message	「It's kick-'em-flying!」
+116	message	「Or maybe not—kyahaha!」
+117	message	「Alrighty, here I go!」
+118	message	「Jump rope...」
+119	message	「Attaaack!」
+120	message	「Welcomeee!」
+121	message	「And so, bye-bye!」
+122	message	「Sensei'll get mad if I use it like this, but—\nkyahaha!」
+123	message	「Now.」
+124	message	「Lock-on!」
+125	message	「Can you dodge it?」
+126	message	「Even so...」
+127	message	「Take this!」
+128	message	「Next up is this!」
+129	message	「What'll it be? What'll it be?」
+130	message	「Ta-daa!」
+131	message	「Here I gooo!」
+132	message	「Teryaaaaa!」
+133	message	「Hey, the firepower's way too high!」
+134	message	「Here I go!」
+135	message	「Bakkyuun!」
+136	message	「First...」
+137	message	「It's a tiny missile!」
+138	message	「Hiiit!」
+139	message	「It's not over yet!」
+140	message	「This time it's a BIG missile!」
+141	message	「This is Mie's...」
+142	message	「Ultra Ultimate」
+143	message	「Hyper Dogyaaan!」
+144	message	「So, cool, right?」
+145	message	「Now.」
+146	message	「I'll finish it with this!」
+147	message	「Special!\nJustice Burning Super Brilliant Gyu-gu...\nI bit my tongue...!」
+148	message	「Um... a-anyway, here I go!」
+149	message	「Terya!」
+150	message	「Eeei!」
+151	message	「Not yet!」
+152	message	「Hawa!」
+153	message	「Ow...」
+154	message	「G-get a grip...」
+155	message	「Sword-fight playtime!」
+156	message	「Here I gooo!」
+157	message	「Teryaryaryaaa!」
+158	message	「Spin arooound!」
+159	message	「Gyubaaaan!」
+160	message	「That landed!」
+161	message	「W-whoa!」
+162	message	「Ugh, it didn't land...」
+163	message	「Now.」
+164	message	「I'll finish it with this!」
+165	message	「Special! Um... special?\nWhat was it again... huh?」
+166	message	「Um... a-anyway, here I go!」
+167	message	「Terya!」
+168	message	「Eeei!」
+169	message	「Not yet!」
+170	message	「Hawa!」
+171	message	「Ow...」
+172	message	「G-get a grip...」
+173	message	「Sword-fight playtime!」
+174	message	「Here I gooo!」
+175	message	「Teryaryaryaaa!」
+176	message	「Spin arooound!」
+177	message	「Gyubaaaan!」
+178	message	「That landed!」
+179	message	「W-whoa!」
+180	message	「Ugh, it didn't land...」
+181	message	「Now.」
+182	message	「I'll finish it with this!」
+183	message	「Special! Justice Burning Super Brilliant...\nsomething!」
+184	message	「Um... a-anyway, here I go!」
+185	message	「Terya!」
+186	message	「Eeei!」
+187	message	「Not yet!」
+188	message	「Hawa!」
+189	message	「Ow...」
+190	message	「G-get a grip...」
+191	message	「Sword-fight playtime!」
+192	message	「Here I gooo!」
+193	message	「Teryaryaryaaa!」
+194	message	「Spin arooound!」
+195	message	「Gyubaaaan!」
+196	message	「That landed!」
+197	message	「W-whoa!」
+198	message	「Ugh, it didn't land...」
+199	message	「Now.」
+200	message	「I'll finish it with this!」
+201	message	「Special! Justice Burning Super Brilliant...\nUgh, too long!」
+202	message	「Um... a-anyway, here I go!」
+203	message	「Terya!」
+204	message	「Eeei!」
+205	message	「Not yet!」
+206	message	「Hawa!」
+207	message	「Ow...」
+208	message	「G-get a grip...」
+209	message	「Sword-fight playtime!」
+210	message	「Here I gooo!」
+211	message	「Teryaryaryaaa!」
+212	message	「Spin arooound!」
+213	message	「Gyubaaaan!」
+214	message	「That landed!」
+215	message	「W-whoa!」
+216	message	「Ugh, it didn't land...」
+217	message	「Now.」
+218	message	「I'll finish it with this!」
+219	message	「Special! ...Etcetera!\n...Sorry, I'll take this seriously.」
+220	message	「Um... a-anyway, here I go!」
+221	message	「Terya!」
+222	message	「Eeei!」
+223	message	「Not yet!」
+224	message	「Hawa!」
+225	message	「Ow...」
+226	message	「G-get a grip...」
+227	message	「Sword-fight playtime!」
+228	message	「Here I gooo!」
+229	message	「Teryaryaryaaa!」
+230	message	「Spin arooound!」
+231	message	「Gyubaaaan!」
+232	message	「That landed!」
+233	message	「W-whoa!」
+234	message	「Ugh, it didn't land...」
+235	message	「Now.」
+236	message	「I'll finish it with this!」
+237	message	「Everyone shout it for Mie!\n...Hmm, maybe not after all...」
+238	message	「Um... a-anyway, here I go!」
+239	message	「Terya!」
+240	message	「Eeei!」
+241	message	「Not yet!」
+242	message	「Hawa!」
+243	message	「Ow...」
+244	message	「G-get a grip...」
+245	message	「Sword-fight playtime!」
+246	message	「Here I gooo!」
+247	message	「Teryaryaryaaa!」
+248	message	「Spin arooound!」
+249	message	「Gyubaaaan!」
+250	message	「That landed!」
+251	message	「W-whoa!」
+252	message	「Ugh, it didn't land...」
+253	message	「With this...」
+254	message	「This is the end!」
+255	message	「Special!\nJustice Burning Super Brilliant Gyu-Baan!」
+256	message	「Here I gooo!」
+257	message	「There!」
+258	message	「Skewer-siii!」
+259	message	「Not letting you escape!」
+260	message	「Toh! ...W-whoa!」
+261	message	「I did it again...」
+262	message	「Mie's not crying!」
+263	message	「Rea-dy...!」
+264	message	「Shing!」
+265	message	「Deeei!」
+266	message	「Teyaaaaaa!」
+267	message	「Boooom!」
+268	message	「How's that?!」
+269	message	「W-whoa!」
+270	message	「Ukyu~」
+271	message	「With this...」
+272	message	「This is the end!」
+273	message	「Remember how to read Mie's special move!\nThe 'Super' kanji reads 'chou'!」
+274	message	「Here I gooo!」
+275	message	「There!」
+276	message	「Skewer-siii!」
+277	message	「Not letting you escape!」
+278	message	「Toh! ...W-whoa!」
+279	message	「I did it again...」
+280	message	「Mie's not crying!」
+281	message	「Rea-dy...!」
+282	message	「Shing!」
+283	message	「Deeei!」
+284	message	「Teyaaaaaa!」
+285	message	「Boooom!」
+286	message	「How's that?!」
+287	message	「W-whoa!」
+288	message	「Ukyu~」
+289	message	「With this...」
+290	message	「This is the end!」
+291	message	「Everyone together... ready...!」
+292	message	「Here I gooo!」
+293	message	「There!」
+294	message	「Skewer-siii!」
+295	message	「Not letting you escape!」
+296	message	「Toh! ...W-whoa!」
+297	message	「I did it again...」
+298	message	「Mie's not crying!」
+299	message	「Rea-dy...!」
+300	message	「Shing!」
+301	message	「Deeei!」
+302	message	「Teyaaaaaa!」
+303	message	「Boooom!」
+304	message	「How's that?!」
+305	message	「W-whoa!」
+306	message	「Ukyu~」

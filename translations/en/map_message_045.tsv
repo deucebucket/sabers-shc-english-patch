@@ -1,0 +1,194 @@
+row	column	english
+3	message	We'll rendezvous with the other group soon.
+4	message	Feels long and short at the same time.
+5	message	After a hot-spring trip, you can't say it was short.
+6	message	True. Well, lots happened, but\nI thought we'd sum up our group's findings and questions\nbefore the rendezvous.
+7	message	Can we talk about that here?\nIsn't this classroom under Butei High surveillance?
+8	message	Let's start with what needs no hiding.\nWhat I'd list as a finding is\nhow suspiciously fast the enemy moves.
+9	message	Jeanne showing up right after we reached Butei High,\ngetting attacked in the hot-spring cave, that stuff.
+10	message	It's way too fast.\nLike our movements are constantly\nbeing tracked on radar.
+11	message	More a problem than a finding.
+12	message	But then, that Yase showed up, right?\nShe came thinking Koto was here\neven though she isn't. Weird, no?
+13	message	True, if they're tracking our movements\nyet Yase came here by mistake,\ndoes that mean their intel isn't accurate?
+14	message	Seems like Riko tricked her, though.
+15	message	Maybe we've been lumping them together\nas 'the enemy,' but\nwhat if they're not united over there?
+16	message	Hmm, can't say either way.\nJeanne and Riko seem to be allies, though...
+17	message	Jeanne and Riko are members of I-U.\nLaura was acting on German military orders, but\nI doubt she's connected to I-U.
+18	message	I just can't see how they connect~.
+19	message	Figuring out the enemy factions' relationships\nlooks like a future task.
+20	message	And the reason for the enemy's speed, too.
+21	message	About that, I have an idea.
+22	message	Oh? What's that?
+23	message	Actually, before we set out, Laura-chan and I...
+24	message	//Scene change: inside Butei High.\n//A different room from where the three are. The group prepares for the rendezvous.
+25	message	Whoa, that's a ton of luggage~?
+26	message	'Be prepared and have no worries!'\nI'm packing it full and taking it all!
+27	message	Hoshitoga Shrine still hasn't caught on?
+28	message	Butei High is cooperating too.\nButei Charter, Article One:\n'Trust your comrades, help your comrades.'
+29	message	Because Aria's here, huh.
+30	message	To me, all of you are comrades.
+31	message	...I see.
+32	message	It's the first time I've seen that face on you, Houki-san!\nThe effect of girl talk, I wonder?
+33	message	H-how should I know! That stuff...
+34	message	What's girl talk?\nDid you do something?
+35	message	That's a secret...
+36	message	We're rendezvousing with the others soon, right?\nI hope they won't be afraid of me...
+37	message	No need to worry.\nThey're not much different from us over there.
+38	message	It's fine, Tiffania.\nOver there there's someone who clings to you\nso much it's annoying.
+39	message	Still, I'm nervous, so\nI prepared souvenirs for everyone over there!
+40	message	How about this?
+41	message	//Tiffania shows them hot-spring manju.
+42	message	...Hot-spring manju?
+43	message	Yes! They were so delicious!\nIf this helps us get along...
+44	message	Better than hot-spring manju,\nthere's an even nicer pair of buns right here~?
+45	message	//SFX: boing boing.
+46	message	Kyaa!?
+47	message	With these, you can become friends\nwith any human, I tell ya.\nC'mere c'mere c'mere!
+48	message	Ah... Mion-san. Stop...
+49	message	What's so great about those... they're just big...\nLike the big sweets they sell at tourist spots...!
+50	message	What could possibly be good about those, I wonder.\nI don't get it at all!\nYou can't even eat them!
+51	message	Exactly! Hurray for hot-spring manju!
+52	message	Hot-spring manju is the best!!
+53	message	Mmm, really nice.\nI wanna let the folks over there touch them soon.
+54	message	Ehh!?
+55	message	...Big sis. How long are you going to keep this up?
+56	message	Ah, sorry. Really sorry.
+57	message	If you were a man, you'd be beaten\nnot just to mincemeat but\nto powder.
+58	message	(Keeping on hitting like that\nis basically love coming full circle.)
+59	message	(N-no... powder is a bit...)
+60	message	//Eve appears.
+61	message	Hey hey,\nhave you seen [MERU]-chan?
+62	message	Hey hey,\nhave you seen [NOEL]-chan?
+63	message	Hm? She's gone?\nMaybe she went to buy souvenirs?
+64	message	//[MERU] ([NOEL]) comes running.
+65	message	It's terrible, Remu-san!\nLots of pedestrians in the city fell asleep, desu~!
+66	message	Remu-san, it's bad!\nPeople walking in the city suddenly fell asleep!
+67	message	Huh? What's that about?
+68	message	'Sudden street-sleeping phenomenon'!\nNo way... Dr. Shinigami!?
+69	message	That pervy cosplay-cape geezer showed up!?\nHim... I won't let him get away this time!
+70	message	That weird old man from Hinamizawa?\nCan't overlook that!
+71	message	Let's go!\nI won't forgive the enemy of women, no, the enemy of humanity!
+72	message	//Scene change.\n//Battle map: city (night).\n//Dr. Shinigami has already deployed grunt units.
+73	message	So, you've come...
+74	message	You showed yourself! Dr. Shinigami!
+75	message	Glad to see you again, Remu.
+76	message	I'm not glad at all!\nI'd like you to kick the bucket already!
+77	message	I take orders from no one.\nNot even hell can hold me.
+78	message	All this just for your own desires...!
+79	message	Yes... I wish for it.\nI can't stop wishing for it, Remu.
+80	message	What I want to kill is, yes...
+81	message	Beautiful girls, you're gonna say!?\nYou pervy cape!
+82	message	Feisty, the young lady from before.
+83	message	I'm no young lady!\nI'm Butei Kanzaki H. Aria!\nAnd I'm the one who's arresting you!
+84	message	Try it.\nIf there's a prison I can't escape.
+85	message	Underestimate the Butei and you'll regret it!
+86	message	Fufufu. I'd like to see that.\nFools who know no fear.
+88	message	Now, the nightmare begins.\nA daydream isn't so bad either, no?
+89	message	//Battle start.\n//Event when Dr. Shinigami and Remu clash.
+90	message	Prepare yourself!
+91	message	Hahaha! Prepare?\nPrepare for what?
+92	message	Don't get cocky, Remu.\nI'll say it as many times as it takes.\nYou can't defeat me as you are now.
+93	message	You think that'll scare me?\nDon't be ridiculous!
+94	message	//Event when Dr. Shinigami and Aria clash.
+95	message	Meeting you here is a hundred years of fate!\nPrepare yourself!
+96	message	Driving a brave, beautiful girl to despair\nand making her play a symphony of screams is truly delightful.\nYou'll surely ring out a fine tone.
+97	message	The height of bad taste!\nI won't forgive you for toying with people's lives!!
+98	message	I'd say I have good taste.\nI choose my things carefully, after all.
+99	message	I feel zero guilt about putting holes in you!\nI'll unload everything I've got!!
+100	message	//Event when Dr. Shinigami and Rin clash.
+101	message	There are all kinds of people, but\nyou're the one face I never want to see!\nI seriously want you gone!
+102	message	Thank you. The highest compliment...
+103	message	I'll crack your skull open!!
+104	message	Very well. Go ahead and try.
+105	message	Don't mock me!!
+106	message	//Event when Dr. Shinigami is defeated.
+107	message	Uwoooohhh!!!
+108	message	We did it!! I did it!!
+109	message	Not yet! Remu!!
+110	message	This is the finishing blow!!
+112	message	Guh!?
+113	message	//Dr. Shinigami vanishes after taking Remu's silver bullet.
+114	message	What was that?
+115	message	A silver bullet that destroys demons.\nEven this should do it...
+116	message	I hope so...
+117	message	//Battle end.\n//Background: city at night
+118	message	I thought only fairy-tale monsters\ncouldn't be beaten with normal weapons.
+119	message	I couldn't believe it either.\nBut I saw it with my own eyes.
+120	message	...
+121	message	Hm? What's wrong, Remu?
+122	message	You felt it too, Remu-san, this presence...!
+123	message	Yeah... you're there, aren't you? Come out!!
+126	message	Huh!?
+128	message	//Dr. Shinigami appears.
+129	message	...
+130	message	That's impossible...!!
+131	message	It must be a clone or something!\nThere's no way he's alive after that!!
+132	message	Sadly, he's neither a clone nor a twin.\nDr. Shinigami has 'that kind of power'...\nThat's why he revives...!
+133	message	An immortal monster... you mean he's undead?
+134	message	To speak of me in the same breath as such lowly beings:\nthe height of rudeness, Louise the Zero.
+135	message	And Remu, don't disappoint me.\nThinking you can face me with toy-like weapons\nis beyond presumptuous.
+136	message	Tch...
+137	message	Farewell, Ayanokouji Remu.\nI look forward to meeting again,\nDream Hunter Remu... fufufu!
+138	message	//Dr. Shinigami vanishes.
+139	message	He vanished...?
+140	message	That was different from the others\nvanishing in a flash of light, wasn't it?
+141	message	Teach, what was that, desu~?
+142	message	Teach, what do you think?
+143	message	Hmm, duuunno☆\nBut I think that was an ability\nthat gentleman always had.
+144	message	Yeah, I think so too.
+145	message	What's going on!?\nWhy won't that guy die!?
+146	message	It's the power of dreams.
+147	message	The power of dreams?
+148	message	Yes, the power to travel freely between dreams and reality.\nAs long as he has that power,\nno ordinary gun or sword can defeat Dr. Shinigami.
+149	message	Going back and forth through the world of dreams\nsounds like a fairy tale, and yet...
+150	message	I can't stand the thought of that repulsive man\nappearing in my dreams!\nUgh, but I bet he will...
+151	message	(That's right. Dr. Shinigami could even\nattack me inside my dreams...)
+152	message	(Having lost the power of dreams, I can't even\nfight Dr. Shinigami in the world of dreams now.\nSo why doesn't he appear in the dream world?)
+153	message	(If the power of dreams came back to me, I could fight back!)
+154	message	...Remu-san. Are you okay?
+155	message	...Yeah, sorry.\nI was just lost in thought.
+156	message	Dr. Shinigami is\nsomething I have to deal with myself.
+157	message	I know you're all worried, but\nleave the doctor to me,\nand think about the other enemies and mysteries.
+158	message	That's fine, but tell me one thing.\nWhat's a Dream Hunter?
+159	message	A Dream Hunter, that is...
+160	message	My true calling.
+161	message	//Fade to black.\n//Background: Butei High classroom
+162	message	Everyone here?\nTime to head out!
+163	message	Rendezvous at IS Academy.\nI hope the other group's okay.
+164	message	We've got souvenirs too; I can't wait to see them!
+165	message	Ah, about that,\nwe're not going to IS Academy.
+166	message	Huh? But we decided\nthe rendezvous was IS Academy!
+167	message	We're heading to\nLydian Private Music Academy now.
+168	message	Lydian Private Music Academy? Where's that?
+169	message	If I recall, Tsubasa-san and Hibiki-chan's school\nhad that name.
+170	message	Right. So,\nabout why we're changing the destination.
+171	message	Actually, before we split into two groups,\nLaura-chan and I decided it.
+172	message	To keep it secret from everyone,\nwe'd change the rendezvous spot at the last minute.
+173	message	Why?
+174	message	It's been bugging me.\nWhy the enemy shows up at our destinations\nso precisely.
+175	message	Laura-chan also never understood\nhow they knew our destinations,\neven back when she was acting on German military orders.
+176	message	So what does that mean?
+177	message	Information might be leaking from somewhere.\nI don't want to suspect our comrades, though.
+178	message	What...?
+179	message	I can't believe it.\nCould that really be?
+180	message	That's why we're testing it.\nIf the enemy shows up right away\nat the changed rendezvous point...
+181	message	That means our info's completely leaked to the enemy.
+182	message	So we gotta hunt for a spy?\nThat's no fun.
+183	message	Then let's move right away.\nEveryone's here, right?
+184	message	Um, huh? Feels like someone's missing...
+185	message	Hanya? Teach isn't here, desu~!
+186	message	Huh, where's Teach?
+187	message	//Eve appears.
+188	message	Hey now☆\nForgetting your teacher gets you a boo, y'know?
+189	message	...Where were you?
+190	message	Umm, that is...
+191	message	//Event CG: the master's secret.
+192	message	Se-cre-t☆
+193	message	Stop striking poses for everything!
+194	message	Poses are a mu-st☆
+195	message	I question that way of talking...
+196	message	//Event CG off.
+197	message	Okay okay. Anyway, everyone's here now.\nLet's head to where the Porial is.
+198	message	(There's no way the destination\ncould be leaked this time...)
+199	message	(If the enemy is lying in wait even so,\nthen...!)
+200	message	//END

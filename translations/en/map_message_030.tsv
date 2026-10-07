@@ -1,0 +1,198 @@
+row	column	english
+3	message	Things have gotten bad, nyo...\nBut I won't let them have Gamers, nyo!\nI'm ready to go scorched-earth if I have to, nyo!!
+4	message	I don't think the shoplifting-prevention interception system\nwill do the trick, nyu.
+5	message	Better than nothing, nyo!
+6	message	The group that was fighting the blonde monster\nwas an outrageous bunch of brawlers too, nyo...
+7	message	If things like that attack, we're in trouble, nyo...\nBut I'll protect the treasure goods in this store\nto the bitter end, nyo!!
+8	message	Is that really what you should be protecting, nyu.
+9	message	[Battle map: Gamers 1F]
+11	message	Nyo!? They're here, nyo!!
+12	message	Lucky there are no customers, nyu.
+13	message	[Deploy allies]
+14	message	The brawler gang's here too, nyo!!
+15	message	Huh? Something seems a little... off?
+16	message	Hawa, hawawa, so many\nlovely customers-uu!!
+17	message	Ugeh, calling THOSE\ncustomers is\nkind of a stretch...
+18	message	Aren't those enemies, I wonder?
+19	message	How else could you see it!
+20	message	Are they being attacked?
+21	message	They seem to be heading for the upper floors.
+22	message	Let's beat them without damaging the store\nas much as possible!
+23	message	Ehh! No-damage is impossible, impossible!\nSorry to the store, but let's just\ndo it like always!
+24	message	Hmm, I'm not sure about that either...
+25	message	[Battle starts / event when reaching the escalator (stairs?) on the floor]
+26	message	We can get to the upper floor from here.
+27	message	There may be enemies that went up ahead!
+28	message	Let's hurry up!
+29	message	How many floors are there?
+30	message	Um, the 5th floor is the top!
+31	message	Stairs to the 5th floor... I see,\nlet's proceed carefully!
+32	message	I agree with Blue Angel-san-uu!\nWe don't know what's up there-uu.
+33	message	I feel like charging right through\nis better for stuff like this, though.
+34	message	Stairs are tou— uh, I mean, I'd feel bad\ntrashing the store too much!
+35	message	If they tell us to pay for damages,\nthat'd be bad...\nbut it can't be helped.
+36	message	[Battle ends /]
+38	message	Lots on this floor too!
+39	message	They noticed us! Here they come!
+40	message	I'll take point!
+41	message	Me too-uu!
+42	message	Me too! Me too!! Cover me, okay!
+43	message	[Battle starts / event when reaching the escalator (stairs?) on the floor]
+44	message	Next is the 3rd floor!
+45	message	Easy!
+46	message	Let's keep going!
+47	message	[Battle ends / can save]
+49	message	3rd floor, we're halfway.
+50	message	I'm still full of energy!
+51	message	No letting our guard down — steadily!
+52	message	[Battle starts / event when reaching the escalator (stairs?) on the floor]
+53	message	We go up to the next floor from here.
+54	message	Is someone on the top floor...!\nThen we have to hurry and help!
+56	message	[Battle ends / can save]
+58	message	4th floor. One more above this.
+59	message	Let's move, quickly!
+60	message	Louise-san, are you okay on magic-uu?
+61	message	I'm fine. I'm holding back well!
+62	message	Louise-san, aren't you tired?
+63	message	Surprisingly, I'm not tired.\nDon't know why, but I feel great!
+64	message	Then, battle start!
+65	message	[Battle starts / event when reaching the escalator (stairs?) on the floor]
+66	message	The top floor at last!
+67	message	If we take the floor above,\nthat'll mean we've wiped out the enemy.
+68	message	T-take!? A-awawa, that's violent!
+69	message	Um... this is a store,\nSonico-san...
+70	message	[Battle ends / can save]
+72	message	The top floor!
+73	message	[Dejiko addresses them.]
+74	message	Well done climbing up here, you brawler gang, nyo!
+75	message	Brawler gang? Us?
+76	message	You, nyo!!\nThe monitors on every floor showed you going wild, nyo!
+77	message	Ara, you were watching...
+78	message	Oh? Aren't you the one who\nran away from the battle outside...?
+79	message	Gamers clerk —\nbut my true identity is the ruler of Akihabara,\nDejiko, nyo!
+80	message	Outlaws who trample into sacred Gamers with shoes on\nand ravage Akihabara!\nWill be punished by Dejiko-sama, nyo!!
+81	message	Um... I thought it was fine to wear shoes\ninside Gamers...?
+82	message	You there! No nitpicking, nyo!
+83	message	Anyone with complaints, bring it, nyo!!\nI'll treat you to a beam of justice, nyo!!
+84	message	That girl... she's kinda lovely-uu!\nThat slightly bad-girl face\nis irresistible-uu!!
+85	message	C-calm down...\nBetter not approach carelessly...
+86	message	What are you saying-uu!\nShe wouldn't sell as the orthodox type,\nbut she'll definitely break out in some form-uu!
+87	message	She's my kind of idol-uu!!
+88	message	Ahh... her eyes are serious...
+89	message	I don't hate that fighting spirit!\nLow energy is boring!
+90	message	I'll get serious just this once, nyo!!
+91	message	[Battle starts / event when engaging Dejiko / Puchiko appears near Dejiko]
+92	message	They took the bait, nyu.
+93	message	Something appeared!
+94	message	Another little one showed up.
+95	message	I'll grow more than you, nyu.
+96	message	What did you say!?
+97	message	Puchiko! Pincer attack, nyo!
+98	message	Treat me to rare steak later, nyu.
+99	message	[Event when Dejiko is defeated; battle ends]
+100	message	Nyo... you're ridiculously strong, nyo...
+101	message	With that strength,\nyou sure talked big?\nI'm almost impressed...
+102	message	...How frustrating, nyo.\nI couldn't protect Gamers, nyo.
+103	message	Protect...?\nUm, a bit late, but we're\nnot your enemies.
+104	message	Nyo?
+105	message	Sonico brought us to this store\nbecause she knows this town well.
+106	message	But the store was in big trouble,\nso if anyone was here, we had to help!\nThat's what I thought...
+107	message	You didn't come here to trash the place too, nyo?
+108	message	Um, you were watching us fight\non the monitors, right?
+109	message	Weren't you fighting over\nwho gets to take over Gamers, nyo?
+110	message	A shop for commoners like this\ndoesn't suit me at all!
+111	message	I agree with that.\nIt looks interesting, but\nI don't want it for myself.
+112	message	...You could've\nsaid that earlier, nyo~.
+113	message	[Battle ends / BG: inside Gamers]
+114	message	Sheesh, I went through hell, nyo.
+115	message	Sorry, Dejiko-chan.
+116	message	That's just Dejiko's act, nyu.\nDon't worry about it, nyu.
+117	message	Wah!? You're so little,\nbut you're a comedian!?
+118	message	Not a comedian, nyo!\nDejiko is an actress, nyo!
+119	message	Wow, an actress! Then for this\nshoot, you're my senior! Um,\nI'm Super Sonico!
+120	message	Dejiko, nyo!\nShowbiz has a strict hierarchy,\nso serve your senior well, nyo.
+121	message	Yes! Dejiko-senpai!\nPlease take care of me!
+122	message	Someone's being fooled, nyu.
+123	message	As expected! Showbiz would never\nleave Dejiko-san alone-uu!
+124	message	I think there's about one\ngenuine fan here...
+125	message	There are all kinds of idiots, nyu.
+126	message	By the way, why was\nthis store attacked?
+127	message	Other places weren't attacked, nyo?
+128	message	Yes, everywhere else is perfectly peaceful?
+129	message	So it IS the giant game store or\ngiant anime store's doing, nyo!?
+130	message	Stop spreading defamation, nyu.
+131	message	Sheesh, even coming here,\nI still have no idea\nwhat this town is like!
+132	message	Wanna know about Akihabara, nyo?\nThen let me show you a good place\nand take a break too, nyo.
+133	message	This won't turn into another brawl, will it?
+134	message	It's fine, nyo. Let's go, nyo~!
+135	message	[Event art: Siesta's full-fledged maid technique]
+136	message	Welcome, master.\nAllow me to show you in.
+137	message	Wah~! It's a maid café~!
+138	message	When you say Akihabara, you say maid cafés, nyo.\n...Or I'd like to say, but\nwhy is that girl working instead of having tea, nyo?
+139	message	You there,\nstraighten your back when you walk, it's unsightly.\nAnd you there, smaller steps!
+140	message	Siesta's a first-class maid even the princess acknowledges.\nShe just can't stay quiet, can she?
+141	message	The customers in the store\nare all watching Siesta-san too.
+142	message	The maids look\na little troubled, though...
+143	message	Siesta-san,
+144	message	More tea, I presume?\nHere you are.
+145	message	My!\nHow did you know what I was about to say?
+146	message	If you put yourself in the customer's shoes,\nyou can tell what's wanted\ntwo steps ahead.
+147	message	And by shortening the wait,\nthey can have a more pleasant time.\nThat's Maid Basics.
+148	message	Siesta-san's amazing-uu!\nShe's too dazzling-uu!
+149	message	She's got the air of a master!\nGreat posture, and s-so cool! It gives me chills! I admire her!
+150	message	Fufu, I'm honored.
+151	message	[Event art off]
+153	message	The maid café was fun.\nI did good work.
+154	message	In just one hour,\nyou'd become the most popular one.
+155	message	On the way out, the manager was\nbegging you, 'Please work for us!'
+156	message	Of course, with Siesta's skill.
+157	message	Beautiful conduct alone\ncan move people.
+158	message	She's like a teacher from Saint Mont Blanc Academy's\nMagical Maid Department-uu
+159	message	Why not take an apprentice and raise one?\nA single successor — a legendary maid!\nHow cool would that be? Ahaha
+160	message	Feels like the wrong way to use a maid café,\nnyo...\nbut if she's satisfied, fine, nyo.
+161	message	Gonna hit the bathroom, nyu.
+162	message	[Puchiko leaves]
+163	message	By the way, Dejiko-san,\nif enemies attacked this store,\nwasn't there a reason it was targeted?
+164	message	For example, something precious stored here\nthat they came for.
+165	message	Like that time someone was after\nthe 'Angel's Tear' that Aoi-san has?
+166	message	Things worth stealing...\njust my hidden treasure goods, nyo?
+167	message	You've got valuables?
+168	message	There's a vault on the top floor, nyo.\nLet me check if anything's missing, nyo.
+169	message	[BG: inside the warehouse (something appropriate)]
+170	message	Nyo-nyo?\nA few limited-edition games\nare gone, nyo?
+171	message	So a thief broke in?
+172	message	Isn't that a big problem?
+173	message	They're not that valuable, nyo.
+174	message	What IS this vault?\nIt's full of even more nonsensical stuff\nthan the Tristain Academy of Magic's treasury!
+175	message	Naked dolls, suspicious runes,\nshiny clothes, and is this a replica sword?
+176	message	Limited-edition figures and voice actor autographs,\nan idol voice actress's stage costume,\nand the greatsword used at an event, nyo.
+177	message	All priceless items, nyo~.
+178	message	But those weren't stolen.\nWhat was the culprit after, I wonder?
+179	message	Also, this box was empty, nyo.
+180	message	What was in that box?
+181	message	Forgot, nyo.\nIt was a box I just tossed stuff into,\nso it's probably nothing important, nyo.
+182	message	Really?
+183	message	It wasn't even sealed, and the stuff inside\nwas covered in dust, so it's junk, nyo.\nScrap or something, nyo.
+184	message	Isn't this a place where only\nimportant things are stored?
+185	message	Yeah, but I secretly\nstashed some of my own stuff here too, nyo.\nMight've been related to that, nyo~?
+186	message	I hope it wasn't anything important...
+187	message	Nyo? Did someone point a flashlight this way, nyo?\nIt's bright, nyo!!
+188	message	[Light appears]
+189	message	No! This light!!
+190	message	Nyo-nyo!?
+191	message	No way, here!?
+192	message	[Everyone vanishes / Puchiko arrives.]
+193	message	Dejiko, what was that light, nyu?
+194	message	...
+195	message	[Event art: Puchiko tilting her head slightly, like "nyu?"]
+196	message	Nyu?
+197	message	Why is nobody here, nyu?
+198	message	Nyu? This empty box is...
+199	message	[Event art off / scene change / BG: Akihabara]
+200	message	I stole limited-edition games and sketchy gadgets\nfrom the Gamers warehouse, but\nno clue if any of this is actually useful.
+201	message	This gadget that keeps my backlog pile from toppling\nseems handy, though.
+202	message	Then there's the device that turns you into a creepy snail,\nthe device that prays you win doujin event lotteries,\nthe alarm that rings when you doze off... don't need it!
+203	message	And a device that tells you when you accidentally buy\na doujinshi you already own,\nand a device that turns you into low-poly CG, apparently.
+204	message	No idea what any of this is good for... hmm?\nWhat's this little one...?
+205	message	A lie detector, it says.\nHuh, smaller than a lighter —\nthis could be useful for something!
+206	message	[END]

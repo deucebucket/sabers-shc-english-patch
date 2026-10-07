@@ -1,0 +1,46 @@
+row	column	english
+3	message	Enemies incoming! Everyone, be careful!
+4	message	Scatter! Follow orders.
+5	message	All right, let's go!
+7	message	//fade to black after line
+8	message	First one's mine!
+9	message	Hiyah!
+11	message	//explosion SFX
+12	message	Now, Lingyin-san, that's MY prey!
+13	message	Fufun, first come, first served!
+14	message	Wh—! If that's how it is,\nI won't lose either!
+16	message	//explosion SFX
+17	message	You two there, don't break formation!\nYou're pushing too far ahead!
+18	message	What, don't sweat the small stuff!
+19	message	Indeed! First strike wins!
+20	message	What do you think strategy is for, you lot!
+21	message	If you're scared, you can hang back, y'know?
+22	message	Indeed, the weak may\nhide behind me!
+23	message	Oh... big talk...\nI'll show you which of us is weak!
+25	message	//explosion SFX
+26	message	*sigh*...
+27	message	Why are they so energetic...
+28	message	Ahaha... business as usual.
+29	message	Or maybe... everyone's anxious...
+30	message	Anxious? Them?
+31	message	Yeah... in this situation,\nsaying you're not anxious at all\nwould be a lie, I think.
+32	message	Even I get scared\nthinking about what happens next...
+33	message	Charles...
+34	message	But we have the power to fight —\nIS. We can't run away first, so\nmaybe that's why they're charging ahead like that...
+35	message	Yeah...
+36	message	I doubt they're thinking that far ahead...
+37	message	Ahaha, maybe.
+38	message	But still, being able to act like always —\nthat's our strength.
+39	message	Yeah... maybe...
+40	message	Uh, oh no... this looks bad...\nwe're totally surrounded.
+41	message	Huh?
+43	message	//explosion SFX; fade to black
+44	message	Hey! Ganging up on us is cowardly!
+45	message	Persistent jerks! W-woah!
+46	message	Tch! What are you doing!\nThat's why I said don't charge ahead...
+48	message	//explosion SFX; fade to black
+49	message	Wh-what are they doing...!
+50	message	Houki, let's go help them!
+51	message	Yeah, on my way!
+53	message	(We have the power to fight...\nthe power to end this chaos...\nto protect everyone's future...)
+54	message	//

@@ -1,0 +1,359 @@
+row	column	english
+4	message	Oh.\nYou've come at just the right time. Come here a moment.
+5	message	Do you need something from me?
+6	message	Yes. Make me some tea.
+7	message	Huh?
+8	message	My favorite cup is the floral one\non the top shelf.\nDon't you dare get it wrong.
+9	message	And for the sweets to go with the tea,\nI'll leave it to your taste.
+10	message	Taste. Understand?\nThat's the important part.\nThink it through carefully.
+11	message	Well then, I'll leave it to you. Fufu.
+12	message	...Oh my, what's wrong?\nOnly five minutes left until tea time.\nWhy aren't you moving?
+13	message	Um... why do I have to\nmake the tea?
+14	message	...?
+15	message	I'm sorry.\nI don't understand what you're saying.
+16	message	I mean, tea time is almost here, right?\nIf nobody makes the tea,\nI won't get to drink any, will I?
+17	message	That's what I mean... why does that someone have to be me?
+18	message	Four minutes left.
+19	message	Huh?
+20	message	Say.\nIs there something you make sure to do\nat the same time every day?
+23	message	Well, sort of.
+24	message	See? Of course there is.\nHabits are such an important thing.
+27	message	I can't think of one, actually.
+28	message	Oh, really?\nYou should pick one.\nIt gives your life structure.
+31	message	In my case, I drink tea\nat the same time every day.\nIt's a time I hold very dear.
+32	message	And now, that precious tea time\nis approaching, moment by moment.
+33	message	And yet you're not hurrying at all.\nMy, you must be impressive.
+34	message	You can make tea really fast, right?\nConfidence is a wonderful thing.\nI can't wait to see how fast.
+35	message	Um...
+36	message	Could it possibly be,\nthough I can't imagine\nsuch a thing...
+37	message	That right now, you have\nno intention of making the tea?
+38	message	If that made me miss\nmy usual tea time,\nsuch a ridiculous situation...
+39	message	You know what would happen, don't you?
+40	message	U-uh...
+41	message	Three minutes left.
+42	message	U-um! The floral cup, right!?
+43	message	Yes. The one with the pink rim.\nIt's my favorite, so don't get it wrong.
+44	message	Y-yes! I'll make it right away!
+45	message	(Ugh. That smile scares me.\nIt feels like I have no idea what she'll do!)
+46	message	My, what a diligent worker. Good boy.\nYou'd make a fine servant. Fufu.
+49	message	Say, look.\nThe flowers are wilting.
+50	message	Poor things.\nIf someone would water them,\nthat'd be nice...
+51	message	Ah, water for the flowers.\nI'll do that right after I refill the tea...
+52	message	Say.\nDon't you think it's a lovely day today?
+53	message	The sun is so wonderful.\nBut the sunlight might be a bit strong...
+54	message	Ah, the parasol. I'll fetch it right away.\nUm, where was it...
+55	message	Say.\nDon't get mad, just hear me out.
+56	message	That tea refill I asked for feels\njust a tiny bit late.\nI hate being kept waiting...
+57	message	A-ah, sorry!\nHere you go!
+58	message	Fufu. Thank you.
+59	message	Mmm, delicious.\nYou're learning my favorite temperature?\nGood boy. So good, I love you.
+60	message	Oh? You look like you want to say something.\nWhat is it?
+63	message	...May I really say it?
+64	message	Of course you may.\nThey say bottling things up\nisn't good for you, right?
+67	message	...No, it's nothing.
+68	message	What are you holding back for?\nThat's not good, you know.\nIt's rude to me, too.
+71	message	Come on. Say whatever you want.
+72	message	Then I'll say it...\nAm I your servant, Yase-san?
+73	message	...?
+74	message	I'm sorry.\nI don't understand what you're saying.
+75	message	I mean, that's a strange question, isn't it?\nWhether you're my servant or not\nisn't for me to decide.
+76	message	That's for you to decide.\nI'm not forcing you to do anything.
+77	message	If you want to look after me, do.\nIf you don't, you don't have to.
+78	message	Oh, I see.\nThen I'll be going home...
+79	message	But.\nBefore you go, hear me out on one thing.
+80	message	You are my favorite.
+81	message	Liking something is my right, yes?\nIt's my personal feeling, after all.\nYou'll allow me that much, won't you?
+82	message	Uh, well...
+83	message	I've always been like this:\nI take very good care of my favorites.
+84	message	Cups, clothes.\nAccessories, and my youkai subordinates too.
+85	message	And here's the important part...\nsometimes a favorite goes missing,\nor wanders off somewhere.
+86	message	When that happens, I get so sad.\nNo. Not just sad.
+87	message	How should I put it...\nI can't find the right words, but\nif I had to say...
+88	message	It pisses me off. A lot.
+89	message	(S-scary...)
+90	message	And when I'm pissed off, I rampage.
+91	message	(Scary!)
+92	message	But that has nothing to do with you.\nDon't worry about a thing.
+93	message	Now, do as you like.\nIf you want to go home, go ahead?
+94	message	(After hearing that, there's no way I can go home...)
+95	message	...Oh? You're not going?\nThen I have another request.
+96	message	I'm getting a craving for sweets.\nMay I ask you?
+97	message	(I have to do something...\nI'll be her servant forever at this rate.)
+98	message	Weeeell?
+99	message	Ah, yes! Sweets, right?\nI'll bring them right away!
+100	message	Thank you. Fufu.
+103	message	Perfect timing.\nCould you come over here?
+104	message	Ah, it's not tea.\nToday I want you to do this with me.
+105	message	The things spread out on this table?\nWhat is this?
+106	message	Sugoroku. I brought it from the Mirror Capital,\nbut I ran out of people to play with.
+107	message	I used to play with my youkai subordinates,\nbut one of them was very ill-mannered.
+108	message	That one went off somewhere,\nso now there's an empty seat.
+109	message	Went off somewhere...
+110	message	Hm? What is it?
+111	message	(Th-there it is. The scary laugh.\nBetter not press this further...)
+112	message	Anyway, I was getting bored\nplaying with the same people.
+113	message	I thought playing with a human might be fun.\nYou'll play, right? You wouldn't refuse, would you?
+116	message	...I can't refuse anyway, can I?
+117	message	My, what rude phrasing.\nIt's like I'm forcing you.\nYou don't have to play if you don't want to?
+118	message	It's just that I'll get grumpy.\nFufufu.
+121	message	It does look kind of fun, actually.
+122	message	Oh, you're getting into it.\nGood. I like that about you.
+123	message	That attitude is admirable.\nFufufu.
+126	message	Alright. I'll play.\nBut let me set one condition.
+127	message	...A condition?
+128	message	Yes. If I win this match,\nstop treating me like a servant!
+129	message	...Hm.
+130	message	Fufufufu.\nYou say the funniest things, little boy.
+131	message	I don't recall ever making you my servant,\nbut fine. I accept.\nI'll take you on.
+132	message	If you win, you're free.\nYou'll never have to make tea again.
+133	message	...Really?
+134	message	Oni don't lie.\nUnlike humans.
+135	message	Shall we begin, then?\nA sugoroku match with your freedom at stake...
+138	message	Hup! Dice, roll-roll-roll~♪
+139	message	One, two, three... done, I finished! ♪
+140	message	Ahahaha!\nI did it, I reached the goal!\nGoal, goal! ♪
+141	message	Oh? Where are you, I wonder?\nAh, that's right.
+142	message	You got sent to the youkai farm,\nin the middle of a thousand years of labor.\nNo coming back from there~
+143	message	U-uuuhhh...
+144	message	Fufufufu.\nFrustrated? Hey, are you frustrated?\nHow does it feel? Come on~
+145	message	Oh? You look dissatisfied.\nI'll hear your complaints if you have any?
+146	message	Th-that's cheating!\nIt's my first time, I don't know the rules...
+147	message	Stop whining, it's unsightly.\nWhat an uncool kid you are, little boy.
+148	message	Fufufu. But you know,\nI've taken a liking to your frustrated face.
+149	message	Say.\nHow about this?
+150	message	You lost this time because\nyou didn't know this sugoroku, right?
+151	message	Then next time, you pick the game.\nBring something of yours,\nand I'll play you at it.
+152	message	R-really?
+153	message	Of course.\nBring whatever you like.
+154	message	I'll beat you senseless\nand enjoy watching you cry.
+155	message	Pl-please, a rematch...\nI'll bring a different game...
+156	message	But before that,\nthere's something you need to do, right?
+157	message	A tea refill, please?
+158	message	...Yes.
+161	message	Yase-san! I've come for our match!
+162	message	My. You really came.\nFufu. I'm a little excited.
+163	message	So, what game did you bring?
+164	message	This... is it!
+165	message	Oh, playing cards?\nYou brought something easy to understand.
+166	message	Well, that's fine. This way, when you lose,\nyou can't blame the game, right?
+167	message	So, what'll we play?\nYou get to choose?
+168	message	Old Maid, please!
+169	message	Hmm. Another\neasy-to-understand pick.
+170	message	But are you sure?\nIt's a game you can't win if you're bad at lying.
+171	message	Do you have confidence?
+174	message	Of course!
+175	message	Fufufu. Good.\nIt wouldn't be fun otherwise.
+176	message	I wonder what your confident face\nwill look like when you lose...\nMm, I can't wait.
+179	message	I'm not actually that confident...
+180	message	Oh, come on.\nWhat's with that attitude before we even start?
+181	message	Beating someone like that would be boring.\nHave more pride.
+184	message	Well then, shall we begin?\nWin or lose, no hard feelings. Okay?
+187	message	...It's gotten close.\nI have one card left, you have two.
+188	message	If I draw anything but the old maid here, I win.\nHmm, what should I do?
+189	message	Say, which one's the old maid?\nThe right? Or the left?
+190	message	I-I'm not telling you that!
+191	message	I know~\nI just want to enjoy the mind games.
+192	message	This one? Or this one?\nWhich is your old maid~?
+193	message	...
+194	message	Oh? You keep a straight face better than I thought.\nFufu. Now I'm in trouble.
+195	message	But I have to decide.\nOkay! I'll draw the right one!
+196	message	(Yes! The right one IS the old maid!\nThis gives me another chance!)
+197	message	It's fine if I draw the right one, right?
+198	message	Like I said, I'm not telling you...
+199	message	It's fine if I draw the right one, right?
+200	message	H-huh...?
+201	message	Hm? Well?\nI'm going to draw it. Is that okay?
+202	message	U-um... I might\nnot recommend it...
+203	message	Oh, is that so.\nThen I'll draw the left one. Here I go!
+204	message	Aha! ♪ They matched!\nThat makes me the winner~
+205	message	Uuuuh... that's cheating!\nThat was basically a threat at the end!
+206	message	Whatever do you mean?\nI was just asking normally.\nIt's within the bounds of mind games.
+207	message	What's normal about that...\nUgh, I was so close...
+208	message	Fufufufu. Frustrated?\nYou lost again, are you frustrated?\nCome on, tell me~
+209	message	I really do love that face of yours.\nYou'll show it to me again, right?
+210	message	I'll be waiting, looking forward to it.\nCome anytime. Fufufu.
+213	message	Yase-san. This time, poker, please.
+214	message	Back to lose again?\nYou really never learn, little boy.
+215	message	Th-this time I'll win!\nYou can't threaten me in poker!
+216	message	I never did any such thing.\nHow rude.
+217	message	Say, before our match,\nmay I make a suggestion?
+218	message	I've been thinking I might\ngive you a handicap.
+219	message	A handicap...?
+220	message	Yes. Losing every time you come,\nyou look so pitiful and unsightly,\nit's too sad to watch.
+221	message	So I'll make the terms easier for you to win.\nThe game is poker, right?
+222	message	Let's say you only need to win once.
+223	message	You can play as many rounds as you like.\nIf just once your cards are stronger than mine,\nyou win.
+224	message	Really!?
+225	message	But there are two conditions.
+226	message	First, it only counts if I call\nand accept the match with you.\nThat's obvious for poker, right?
+227	message	And the second one is...
+228	message	Ask me nicely. ♪
+229	message	Huh?
+230	message	'Please give me a handicap, Yase-san.'\nTry asking. Then I'll consider it.\nFufufu.
+233	message	Guh... gnnnn...
+234	message	Ahaha! You don't want to say it?\nIt hurts your pride to bow your head?
+235	message	That's how it should be~\nI want to see that face of yours!
+236	message	As a reward I'll give you the handicap!\nDo your very best~
+239	message	Give me a handicap, Yase-san!
+240	message	...My. You said it so easily.\nThat was a bit anticlimactic.
+241	message	I wanted to see you more frustrated,\nwith a face like you might cry.
+242	message	Well, fine. A promise is a promise.\nI'll give you the handicap properly.
+245	message	Now then, the poker match.\nShall we begin?
+248	message	(Come on, come on, come on, come on...)
+249	message	(It's here! Four kings!\nWith this I absolutely win!)
+250	message	Fufu.\nYour smile is showing, you know?
+251	message	Well, you seem to have a good hand,\nbut I have a pretty good hand too.
+252	message	What should I do?\nWould calling be dangerous?
+253	message	(Please call!\nWith this hand I absolutely win!)
+254	message	Let me think a moment.\nHmm...
+255	message	...Okay. I've decided.\nI'll call!
+256	message	Since you have such a good hand,\nit'd be a shame if I folded, right?
+257	message	You'll regret that confidence.\nI have four kings!
+258	message	My, amazing!\nYou really did have a good hand!
+259	message	Ah, hold your celebration.\nWait until you see my hand?
+260	message	Here. I have four aces.
+261	message	Wh-what!?
+262	message	Ufufufu! That makes it my 30th straight win!\nFrustrated? Come on, are you frustrated?
+263	message	Oh? You look like you want to say something.\nWhat's wrong?
+264	message	Um... during our matches,\nsometimes I sense a presence behind me...
+265	message	That's not one of your youkai subordinates, is it?
+266	message	Whatever do you mean?\nI have no idea what you're talking about.
+267	message	(She's definitely peeking...\nThere's no way I can win like this...)
+268	message	Shall we call it a day?\nThen maybe I'll have you do some weeding.
+269	message	Today and tomorrow,\nyou're my servant again. Ufufu.
+272	message	Say, excuse me?
+273	message	Whoa! Y-Yase-san!?
+274	message	What? Startled by my face?\nHow rude.
+275	message	B-but you coming to visit me\nis unthinkable...
+276	message	I was in the neighborhood shopping.\nMe visiting a human is normally\nunthinkable, of course.
+277	message	But there's something I just\nhad to say to you alone.
+278	message	...Why haven't you come to play lately?
+279	message	H-huh...?
+280	message	I was finally getting a nice way to kill time,\nand I was looking forward to your visits...
+281	message	But no matter how long I wait,\nyou never show up!\nWhat is this!?
+282	message	If there's a reason, say it.\nWere you sick or something?
+285	message	Yes. I caught a bit of a cold.
+286	message	Don't lie!
+287	message	Why tell such an obvious lie!?\nDon't think you can fool me!
+288	message	I-I'm sorry...
+291	message	My health was fine, actually...
+292	message	...Hmph. Good for not lying.\nI'll give you credit for that.
+293	message	But I can't forgive you for stopping!\nIt's like you stole my fun!
+296	message	Say it honestly.\nWhy did you stop coming?
+297	message	Because... I never win, no matter what.
+298	message	...I'm appalled. That's your reason?
+299	message	If you can't win,\nthen put in the effort to win!
+300	message	But you do nothing and just run away...\nUgh, so uncool. Humans, honestly.
+301	message	That's a harsh way to put it...
+302	message	But it's true, right?\nYou're scared, aren't you?
+303	message	Thinking only about losing before you even play.\nCoward's spirit. So like you.
+304	message	You can say that because\nyou never lose...
+305	message	Obviously.\nThere's no way I'd lose.
+306	message	If I lost, I'd do\nanything you say.
+307	message	Any...thing?
+308	message	Yes, of course.\nWhatever you order, I'll obey.
+309	message	Is that true?
+310	message	Don't be tedious! Oni don't lie!
+311	message	...Understood.\nIn that case, let's play once more!
+312	message	Oh, really?
+313	message	Ahaha! I'm so happy~\nI get to see your frustrated face again!\nI'm getting excited~
+314	message	You won't be so relaxed\nfor much longer!
+315	message	Fufu. You're cute when you're spirited.\nThat's how it should be?
+316	message	Come again soon.\nI'll be looking forward to it.
+319	message	...You've come.
+320	message	Coming back for another match without running—\nI'll praise you for that. Fufu.
+321	message	But quite some time has passed\nsince our last match, hasn't it?
+322	message	I plan to make up for all that missed\nlosing-face in one go today.
+323	message	I'd like to see at least a half-crying face.\nMind if I reserve one?
+326	message	Today I'll wipe that confidence right off you!
+327	message	My! How spirited.\nGood, good. That's how it should be.
+328	message	I want to see that confident face crumble.\nYou know exactly what I like~
+331	message	Don't talk nonsense.
+332	message	What? No fun at all.\nKeep that attitude and I won't hold back?
+333	message	I really will make you cry.\nBe prepared.
+336	message	So, what are we playing today?
+337	message	Concentration today.\nNo threats or peeking possible with this.
+338	message	I told you I never did any such thing.\nHow rude.
+339	message	But Concentration?\nIsn't that the worst possible pick for you?
+340	message	I mean, it's a memory game, right?\nAre you sure? With your bird-sized brain?
+341	message	Say what you want.\nToday's me is different from before.
+342	message	(Today, I put in the effort to win!)
+343	message	You're fired up.\nI wonder what that face will look like\nin a few minutes?
+344	message	Tearful with frustration,\ntrembling and shaking?
+345	message	Oh, I can hardly wait.\nUfufufu...
+348	message	Uuuuhhh...
+349	message	This card just appeared for the first time, but\n...I bet it's here!?
+350	message	Ahh! Correct again!?
+351	message	Why, why!?\nThis is definitely wrong!
+352	message	You've been getting them\non the first try this whole time!
+353	message	It's coincidence. You're rude, Yase-san.
+354	message	C-coincidence? Really a coincidence?\nUgh, there are barely any cards left...
+355	message	A-at this rate I'll lose...\nUuuuh...
+356	message	(She's weak when the cheating is done to her.\nShe hasn't noticed at all that these are\nthe marked cards I borrowed from Mion-san...)
+357	message	Um, this card is probably...\n...here, I bet!?
+358	message	Ahh! No!\nDon't take any more!
+359	message	I'm telling you not to take it!\nNo, nooo!
+360	message	Even if you say no, those are the rules.\nYes. Got it.
+361	message	Ahh...\nIf you take that card, then...
+362	message	Even if I take all the rest, it's hopeless...\nNo comeback possible...
+363	message	...I... I lost.
+364	message	Well, sorry for the total victory.\nHm? Didn't we have some kind of promise?
+365	message	Ugh...
+366	message	F-fine. I understand.\nI won't treat you like a servant anymore.
+367	message	Huh? Was that the whole promise?
+368	message	Guhhh...
+369	message	Ugh! I know!\nI'll do whatever you say, okay!?
+370	message	Yes, yes. That's it.\nThat's the important part.
+371	message	...Wh-what are you planning to make me do?
+372	message	You've treated me like a servant all this time.\nI'll think of something fitting by next time.\nLook forward to it!
+373	message	Gggh.\nGetting cocky... you mere human...
+376	message	Um... where exactly am I?\nAh, Yase-san.
+377	message	...
+378	message	...What are you spacing out for?\nCome on, let's go already.
+379	message	Go where? What are we doing?
+380	message	...Are you joking?
+381	message	You're the one who ordered it!\nYou called it the loser's punishment game!
+382	message	I can't believe you thought of that...\nYou're truly an unbelievable man...
+383	message	...What are you staring blankly for?\nGet in the room already.
+384	message	Don't tell me you mean to do it\nright here!?\nI won't allow that!
+385	message	Um, I have no idea what's going on...\nbut anyway, I should go in this room?
+388	message	...
+389	message	...W-well then,\nI'll get ready, so wait.
+391	message	(What did I order, again?\nMy memory is kind of fuzzy...)
+392	message	...I'm ready.
+393	message	Kh... I-I'm embarrassed.
+396	message	I-I'm Yase-douji, ruler of all the youkai of the Mirror Capital!\nWhy do I have to do this...
+397	message	...Wh-what is that outfit?
+398	message	I really will get mad!\nYou're the one who said it!
+399	message	You told me to work as your servant!
+400	message	R-right, I guess.\nIt's starting to come back to me.
+401	message	It pains me, but I'll keep my promise.\nI lost the match, so it can't be helped...
+402	message	Here. I made you tea.\nDrink as much as you like, okay?
+403	message	...What's with that look?\nAre you saying I should act more like a servant?
+404	message	Kh...
+405	message	Y-your tea is ready, Master.
+406	message	(Th-this is great.\nAll my grudges are melting away!)
+407	message	Kh... Why does someone like me\nhave to serve a human...
+408	message	...So, what should I do next?
+409	message	Um, then... maybe feed me some sweets...
+410	message	Y-you mere human!\nDon't get too carried away!
+411	message	Wh-what! It's your fault for losing!?\nI fought fair and square!
+412	message	...Y-you're right.
+413	message	I did lose...\nSo it can't be helped...
+414	message	If that match really was\nfair and square... that is...
+415	message	H-huh?\nHer voice is getting distant...
+418	message	...Good morning.
+419	message	You were sleeping so soundly.\nI've been wondering what to do\nwith that sleeping face.
+420	message	(I was asleep... so all of that was a dream!?)
+421	message	Sorry to bother you right after waking,\nbut could you look at something interesting?
+422	message	See, these cards.\nEach back has a scratch on it.
+423	message	Th-that's!?
+424	message	With these, you can tell what's where\njust by looking at the backs.\nWhat a ridiculous thing, right?
+425	message	Say.\nLet me hear your opinion.
+426	message	What do you think should happen to\na ridiculous person who uses such a ridiculous thing?
+427	message	Y-you were cheating too!\nI wasn't the only one!
+428	message	Oh? So you were cheating.\nThat's interesting to hear.
+429	message	N-no, um...
+430	message	Bad children like that need...
+431	message	A punishment!
+432	message	Gyaaaaah!!

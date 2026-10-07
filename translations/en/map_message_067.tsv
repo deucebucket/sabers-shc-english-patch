@@ -1,0 +1,194 @@
+row	column	english
+3	message	Nyonyonyo~♪ Cleaning's done, nyo~♪
+4	message	Hm? Who left a letter at the register, nyo?\nDid I win a telephone card from a contest, nyo?
+5	message	Hmm? It's for Rem, nyo?\nDoes Rem enter contests too, nyo?
+6	message	What's up, Dejiko-chan?\nWin a telephone card in a contest?
+7	message	Telephone cards are still normal, nyo...\nThis industry, where Rem's era's telephone-card culture\nstill survives, is secretly amazing, nyo...
+8	message	Oh? A letter for me?
+9	message	It arrived at the register, nyo.\nWanna read it, nyo?
+10	message	Let's see, what what?
+11	message	...Huh, this is...!!
+12	message	Who's it from, nyo?
+13	message	...From Doctor Shinigami.
+14	message	Ah, that... wait!? Really, nyo!?
+15	message	//fade to black\n//Background: inside Gamers\n//Rem gathers everyone and speaks.
+16	message	A duel with Doctor Shinigami!?
+17	message	Yes. Doctor Shinigami specified\nthe place and time in a letter.
+18	message	But Rem-san, you said yourself\nthere's no way to beat Doctor Shinigami now...
+19	message	I heard that too.
+20	message	That's right. There's no way to beat him.
+21	message	Then why duel him?\nYou're not going there to lose, are you?
+22	message	Two reasons.\nOne: if I don't go,\nDoctor Shinigami will attack innocent people.
+23	message	He'd definitely do it.
+24	message	And the real reason:\nthis head-on approach\nisn't like Doctor Shinigami.
+25	message	So it might be a fake?
+26	message	With the black ones around, it's suspicious.
+27	message	Doctor Shinigami appeared before me\nseveral times before, but\nfor some reason he never tried to kill me.
+28	message	True... given his history\nof losing to Rem, he should've tried\nto kill Rem first...
+29	message	And now he's specifying a place and time.\nI want to know why.
+30	message	Isn't Rem-san afraid of Doctor Shinigami, desu~?
+31	message	Rem-san fears nothing.\nI've never seen her scared.
+32	message	You see... I have no dreams.
+33	message	No dreams? What do you mean?
+34	message	By the time I was aware of the world,\nmy dreams had already been stolen.\nThe last dream I had is beyond distant memory...
+35	message	But instead, I was granted\nthe power to enter people's dreams.
+36	message	That's the same as Doctor Shinigami...?
+37	message	Yes, the "dream power."\nI don't know how it was given\nto me or Doctor Shinigami.
+38	message	But I wanted to use the "dream power"\nto help people plagued by nightmares,\nwhile Doctor Shinigami wanted to use it for his desires.
+39	message	Sworn enemies, then.
+40	message	I fought Doctor Shinigami many times and beat him.\nThe "dream power" was necessary for that.
+41	message	But the current Rem-san doesn't have\nthe "dream power," right?
+42	message	Rem, is that true!?
+43	message	I told Shirayuki-chan and Rika-chan\na bit ago, but yes.\nMy "dream power" is lost.
+44	message	That's why Doctor Shinigami said\n"I can't be beaten."
+45	message	Even dueling, I can't win.\nBut actually, it's always been that way.\nHe could've killed me anytime.
+46	message	But he didn't...
+47	message	I want to know why.\nIt might have something to do\nwith me losing the "dream power."
+48	message	If that's the case, it's decided!
+49	message	Yeah! I'm going with you, Rem-chan!
+50	message	You're not going to say you'll go alone now, are you?
+51	message	But... is it okay?
+52	message	This is a mystery you have to solve.\nWe'll watch over you.
+53	message	We can't beat Doctor Shinigami\nany other way.
+54	message	Let's go. There's nowhere to run anyway.
+55	message	No backing out\njust because I got here!
+56	message	//fade to black\n//Background: streets of Rem's world (night)
+57	message	This is the place... Come out! Doctor Shinigami!
+58	message	There's no sign of people around...
+59	message	Even the hyper sensor\ncan't detect humans.
+60	message	So the stage is set...!
+61	message	So you've come.
+62	message	Show yourself! Doctor Shinigami!
+63	message	No need to rush.\nI neither flee nor hide.
+64	message	There he is!
+65	message	Let's settle this!
+66	message	Wait. The cast isn't assembled yet.
+67	message	Cast?
+68	message	Well. Let's move somewhere\nwe won't be disturbed.
+69	message	Isn't this the final stage?
+70	message	Hah! No way!
+72	message	Too late. Now, let's go to the dream world.\nFufufu...!
+73	message	Sleeping gas...! Ugh...
+74	message	.........
+75	message	//Battle map: dream world\n//Initially deployed: Doctor Shinigami, Rem
+76	message	So this is where we'll do it...!
+77	message	Shall we warm up a little?\nThe cast will assemble soon.
+78	message	//Doctor Shinigami sends out nightmare demons.
+79	message	This won't even warm me up!
+80	message	//Player deployment.
+81	message	Rem!
+82	message	Nightmare demons — leave them to us!
+83	message	Rem-chan, take Doctor Shinigami!
+84	message	Got it! Everyone, I'm counting on you!
+85	message	//Battle start.\n//Event when Rem engages Doctor Shinigami.
+86	message	Prepare yourself!
+87	message	Rem, you are brave.\nEven in a battle with not one chance in ten thousand,\nyou feel not a shred of fear.
+88	message	I've fought all kinds of things!\nI've been torn apart more than once or twice!
+89	message	And yet a believing heart, strong feelings,\nhave always led me to victory!
+90	message	With power or without, that won't change!
+91	message	//Talk event after Doctor Shinigami and Rem engage.
+92	message	Fufufu, Rem... that's my nemesis,\nRem the Dream Hunter.\nNoble, strong, and beautiful...
+93	message	Praise from you doesn't make me happy!
+94	message	But Rem, had it been otherwise, I would have\nkilled you long ago.
+95	message	...!
+96	message	Let me tell you why\nI've kept you alive until now.
+97	message	Now, the cast assembles...
+98	message	//Black Rem appears.
+99	message	...
+100	message	That's!?
+101	message	Black Rem-san...!?
+102	message	She shows up here!? Unbelievable!
+103	message	Now what will you do?\nShow me courage... open a way out.
+104	message	You don't have to tell me!\nI'll fight! And I'll win!\nI'll protect people's dreams and happiness!
+105	message	//Battle resumes. Doctor Shinigami and Black Rem revive even when defeated.
+106	message	//Event triggers upon defeating Doctor Shinigami.
+107	message	Hmm... you still haven't learned.
+108	message	//Doctor Shinigami fully revives. His graphic changes here to a crumbled-face Doctor Shinigami.
+109	message	He really won't go down...!
+110	message	I'll say it as many times as needed.\nYou cannot defeat me.\nI'd like you to remember that.
+111	message	//Event triggers upon defeating Black Rem.
+112	message	...
+113	message	//Black Rem is enveloped in REM-sleep waves and fully revives.
+114	message	Same as when we fought before... REM-sleep waves\nare protecting my black self!
+115	message	At this rate...!
+116	message	Fufufu, as I thought.\nThen...!
+117	message	//Doctor Shinigami moves near Black Rem.
+118	message	Rem, do you remember?\nWhen we fought, I used\na device that erases REM-sleep waves!
+119	message	I remember... huh!? No way!!
+120	message	What happens if I use this, I wonder?
+121	message	//Doctor Shinigami uses the device that erases REM-sleep waves.
+122	message	...?
+123	message	With this, the REM-sleep waves\nprotecting her are gone.
+124	message	Rem, what you seek\nis right there.\nGo on and take it!
+125	message	//Doctor Shinigami vanishes.
+126	message	What...?
+127	message	If his words are true, this is our chance!
+128	message	I don't really get it, but this is the moment!
+129	message	I sense... a mighty power!
+130	message	Rem, fight, you know~!
+131	message	Yeah... I'll try!
+132	message	//Talk event when Black Rem and Rem engage.
+133	message	You, who hold the same power as me... let me\nconfirm the source of that power!
+134	message	...!
+135	message	//Event triggers when Black Rem's HP is reduced by 30%.
+136	message	Ugh...!?
+137	message	//Black Rem's and Rem's bodies glow.\n//SE: keeen, a resonance sound.
+138	message	This is... I can feel it!\nPower — dream power — flowing into me!
+139	message	What...? What have I been...?
+140	message	Huh? She's acting strange!
+141	message	Who are you...?
+142	message	I'm Rem. And who are you?
+143	message	I see, so that's how it is...
+144	message	What do you know?
+145	message	I'll understand if we fight, is that it!
+146	message	Tch, you really want to fight?\nThen so be it!
+147	message	//Event when Black Rem's HP is reduced to 50%.
+148	message	Ugh! My will... it's coming back...!
+149	message	//Black Rem's and Rem's bodies glow brighter.\n//SE: keeen, a resonance sound.
+150	message	Dream power is filling me...!\nWith this, I can do it!!
+151	message	Dream power!! Haaaaah!!
+152	message	//Rem transforms into her Dream Hunter form.\n//Event CG: Dream Hunter Rem revived.
+153	message	...!
+154	message	Rem-san...!
+155	message	She transformed...!
+156	message	([CLAUDE], this is amazing!\nWatch closely!)
+157	message	(Y-yes...!)
+158	message	Is that the real Rem-san...?
+159	message	Yes! I am Rem the Dream Hunter!\nEnder of nightmares, protector of beautiful dreams!
+160	message	//Event CG off.
+161	message	Tch... so that's it...!\nHow dare you use my body\nfor something like that!
+162	message	Used? What are you talking about!
+163	message	I was made into a vessel\nto seal your power!
+164	message	My power?
+165	message	Oh well, now I'm free too.\nMight as well test my power!
+166	message	You still want to fight!?
+167	message	We're just getting started!
+168	message	//Battle resumes.\n//Clear upon defeating Black Rem.
+169	message	This is enough for now.\nIt seems I need a little more time.\nLet's meet again, Rem.
+170	message	//Black Rem vanishes. Remaining grunts vanish too.
+171	message	She's gone... Even with the REM-sleep waves gone,\nthe dream power isn't gone.
+172	message	Rem-san!
+173	message	Rem, can you get us out of here?
+174	message	Of course, easy!
+175	message	//Battle end.\n//Background: city (night)
+176	message	Okay, good work, everyone.
+177	message	W-wow, your outfit...!
+178	message	My dream power's back.\nBut I'll catch a cold in winter.
+179	message	Your dream power's back?
+180	message	Yes. It was sealed inside my black self.\nWho did that,\nI still don't know.
+181	message	Can you beat Doctor Shinigami now?
+182	message	At least I can fight him evenly.\nAs fellow wielders of dream power.
+183	message	That's good news.\nMii and Kei were problems, but\nDoctor Shinigami was the worst.
+184	message	The undying fiend who appears in dreams to kill pretty girls —\nwe can finally exterminate him.
+185	message	So where'd that old man go?
+186	message	He has no intention of fighting here and now.
+187	message	No idea what he wants.
+188	message	Dejiko understands, nyo.\nHe's asking what meaning there'd be in beating\na pathetic humanoid mobile armor, nyo!
+189	message	(Showing off by aiding your enemy and losing\nis nonsense too, nyu.)
+190	message	Setting aside Doctor Shinigami's true motives,\nI feel much better now.\nI think I'll sleep well tonight!
+191	message	That's wonderful.\nGood sleep is important.
+192	message	Come to think of it, Cecilia-san,\nstill carrying your own pillow around?
+193	message	Fufufu, prepare to be amazed!\nI can now sleep well\non a normal pillow!
+194	message	Wow! Cecilia-san,\ncongratulations♪
+195	message	(Cecilia-san\nstill has nightmares sometimes,\nbut I'll keep that to myself.)
+196	message	//END

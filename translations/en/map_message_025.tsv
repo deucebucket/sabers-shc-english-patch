@@ -1,0 +1,214 @@
+row	column	english
+3	message	Those are higurashi cicadas…?\nEarly summer in Japan—June, I wonder.
+4	message	For now, let's head out to the main road.
+5	message	…
+6	message	Hey, Aria? What's wrong?\nYou look pale.
+7	message	N-nothing.
+9	message	Whoa, talk about the sticks!
+10	message	Mmm, wonderful.\nYou can really taste the air here.
+11	message	…!
+12	message	Aria?
+13	message	It's nothing!\n…Just to be sure,\nthis is our first time here, right?
+14	message	Obviously! I don't know a backwater like this.\nWe were trying to catch Dr. Shinigami in Rem's world,\nand that's how we ended up here.
+15	message	Right! I know… I know.\nBut…
+16	message	(What is this dread I'm feeling,\nthis fear… this revulsion…?\nAnd this inexplicable sadness…)
+18	message	First we need to gather information\nabout this land.
+19	message	There's a place name on the sign.\nUm… Hi-na-mi-za-wa?
+20	message	Sorry, Rem! I feel bad, but\nlet me go solo.
+21	message	Huh? What do you mean?
+22	message	What are you suddenly talking about?\nIsn't splitting up a bad idea?
+23	message	Please. Trust my instincts!\nNo, it's not just instinct.\nIt's closer to certainty—a flash of insight!
+24	message	…I see. If Aria-chan says so,\nI think we should.
+25	message	Are you sure?
+26	message	Aria Kanzaki Holmes.\nDescendant of the great detective Sherlock Holmes—\nI believe in her intuition.
+27	message	Thanks, Rem.\nI'll contact you if anything happens. Later!
+30	message	Are we still not trusted\nas partners, indeed?
+31	message	Isn't it the opposite?\nIt's because she trusts us that she can act separately.\nThat's what I think.
+32	message	She's already gone.\nSuch drive—I might lose to it!
+33	message	That's what geniuses are like.\nThey have a sensibility that catches\nwhat ordinary people can't. Probably.
+35	message	Hello.
+37	message	Everyone's dressed strangely…\nYou're not from Hinamizawa, are you?\nTravelers? Maybe? Maybe?
+38	message	Yes, we just arrived.\nAre you from this village?
+39	message	Yes. I'm Rena, Rena Ryugu.
+41	message	Yo, Rena.\nWhat's up?
+42	message	Ah, Mii-chan!
+43	message	Heya. Rena's best friend,\nMion Sonozaki.\nThanks for taking care of our girl~
+44	message	Our girl?
+45	message	Oh, I'm the club president…
+47	message	Rem and the others left…
+48	message	Rena Ryugu, Mion Sonozaki…\nI feel like I know those names.
+49	message	She said she'd show us the sights,\nbut I feel like I know where that is.\nWhat is this…? I have to check…!
+51	message	This is the Furude Shrine.\nProbably the place with the best view?
+52	message	Wow, nice view!
+53	message	Mion-chan, what's with that luggage?
+54	message	We're all having lunch here!!\nBut it's not just any lunch!
+56	message	Right… here… this shrine…
+57	message	But why do I know?\nThis is definitely my first time here.\nWhy…
+58	message	I don't understand…
+60	message	Are you friends with Rem and the others too?
+61	message	!?
+62	message	(When did this kid…!?\nI shouldn't have let my guard down…)
+64	message	Nipa~☆
+65	message	(I feel like I've met this kid too?)
+66	message	Why are you hiding?\nI'd like you to come out.
+67	message	Huh…?
+68	message	Mii and Rena are both good kids.\nI'd like you to be friends with them.
+70	message	…
+71	message	I'm Rika Furude.\nDoes this name ring a bell?
+72	message	No… but I feel like I know it…
+73	message	Mii~.\nYou may be\njust a little different.
+74	message	Different? How?
+75	message	Even I don't know that.
+76	message	I see… listen,\nI want to keep going solo.\nCan you keep our meeting here a secret?
+77	message	Understood.
+78	message	Just one more time… Mii and Rena\nare very good kids.\nPlease don't forget that.
+79	message	…Got it.
+80	message	Well, I'll head back to everyone.\nNipa~☆
+83	message	Huh, Rika-chan? Where'd you go?
+84	message	I was talking with a cute kitty~
+85	message	Hauu! Where's the cute kitty?
+86	message	It already left.
+88	message	Rem's group is fine for now. Next…
+89	message	Hm! Someone's there…?
+92	message	…
+93	message	(That's Mion Sonozaki!?\nNo, wait. Mion was with Rem's group.\nThat is… that is… who…!)
+94	message	Oh, whatever!
+95	message	…Is someone there?
+97	message	I won't say I'm not suspicious.\nBut I'd like to talk with you a bit, okay?
+98	message	You're not from Hinamizawa, are you?
+99	message	Right. You're not Mion Sonozaki, are you?
+100	message	You know Mion?
+101	message	I met her just now.\nYou look exactly like Mion, but you're not her.\nWho are you?
+102	message	I'm Shion Sonozaki.\nMion is my older sister.
+103	message	Shion… I see. You look so alike,\nI couldn't help but wonder.\nSo, what are you doing here?
+104	message	…Now it's my turn to ask.\nYou're interested in the Furude Shrine's ritual storehouse,\naren't you?
+105	message	The Furude Shrine's ritual storehouse…?
+106	message	(Storehouse… it rings a bell… what was it?\nI'll just play along.)
+107	message	Close, if not quite right?\nIf there's anything in this direction,\nit'd be the storehouse.
+108	message	True. You're interested in the storehouse too, Shion?
+109	message	(I might be able to use her. In that case…!)
+110	message	You came to see the Watanagashi festival, right?\nWouldn't you like to hear\nan interesting story about Watanagashi?
+112	message	"Onikakushi"…?
+113	message	Yes. Every year at this time, one person dies,\none vanishes… "Onikakushi" happens\nbecause of Oyashiro-sama's curse.
+114	message	(I feel like I've heard that word too.\nBut it's not clear… ugh, come on!)
+115	message	Why tell ME that story?
+116	message	Don't you want to know the truth about "Onikakushi"\nthat's inside the storehouse?
+117	message	…You're planning to break in?
+118	message	Yes. I have to know.\nTo save Satoko-chan.
+119	message	Satoko!? Satoko, you mean that…?
+120	message	If you know Mion, then you know?\nSatoko's uncle is a thug\nwho makes a living through threats and fraud.
+121	message	He'd been living apart for a while,\nbut he suddenly came back, and now he's violent\ntoward Satoko-chan every day…
+122	message	What a disgusting story…!\nWhy not just beat the crap out of him!
+123	message	Satoko-chan believes that if she endures\nher uncle's abuse, her brother will return.\nShe thinks enduring is a trial…
+124	message	So we outsiders\ncan't do a thing about it.
+125	message	Only her real brother, Satoshi-kun, can save her.\nBut Satoshi-kun was made to vanish\nby the "Onikakushi"…
+126	message	I see, so you're investigating the storehouse\nto find the secret of "Onikakushi".
+127	message	Satoshi-kun asked me to look after Satoko-chan…\nI can't afford to be picky about methods.
+128	message	You sure told a total stranger\nquite the story.
+129	message	If you told the people of Hinamizawa what I'm doing,\nI'd be done for.
+130	message	You're trying to win me over with sincerity, huh.\n…Fine, I'm in.
+131	message	…Good.
+134	message	We figured out how to open the storehouse lock, right?
+135	message	Yes.
+136	message	Then do the breaking in alone.\nDuring tomorrow's festival,\nI'll go to Satoko's house.
+137	message	Satoko's uncle might go out.
+138	message	I'll slip into the house then and snoop around.
+139	message	Be careful.
+140	message	(Good grief, this got weird.\nBut something's nagging at me…\nI don't know what, though.)
+144	message	Someone's at Satoko's house…\nSatoko's at the Watanagashi festival,\nso it must be her uncle.
+145	message	(Now, what to do.\nI can't just brute-force it\nand call it a day…)
+147	message	//That lazy good-for-nothing! Off playing instead of working!
+148	message	That voice… a real lowlife, by the sound of it.\nIf only he'd come out…
+150	message	//Satokooo… when you come home, I'll love you real good…!
+151	message	(Scumbag!\nHow can I flush him out of the house…)
+152	message	//But first…
+153	message	//I'll have some fun with the kitten in hiding first.
+156	message	I know you're there. Come out.
+157	message	Wh!? Why are YOU here!?
+159	message	You disguised yourself as her uncle\nand abused Satoko!?\nWhat for!?
+160	message	Hehehe… this village is a touch dull, you see.
+161	message	Don't mess with me!\nNow that you've shown yourself, prepare yourself!!
+164	message	Alone, you can do nothing, can you?\nThis place is far from the festival grounds.\nNo help will come.
+165	message	Tch…!
+167	message	That's a little naive, don't you think~?
+168	message	Aria-san!
+169	message	Shion! And Mion?
+170	message	Shion told me everything.\nYou helped out for Satoko's sake, huh?\nAs club president, let me thank you!
+171	message	Onee is reliable at times like this!
+172	message	(Can I trust these two…?\nUgh, but right now!!)
+173	message	Who the hell is that!?
+174	message	Did you hear from Rem?\nThis is the criminal we've been chasing!\nHe was impersonating Satoko's uncle!
+175	message	Oh? Lurking in Hinamizawa without greeting\nthe next head of the Sonozaki family—bold!\nI'll teach you how things are done!
+176	message	You did that to Satoko-chan… I'll never forgive you!!
+177	message	Beautiful sisters, I'll play with you too.\nCome at me.
+178	message	Be careful! That guy, Dr. Shinigami—\nthere's no telling what he'll do!
+179	message	I won't push my luck against an unknown enemy.\nA reckless hothead couldn't run\nthis club!
+181	message	…About time.\nThis killing of time has gone on long enough.
+184	message	You're running!? I won't let you!
+187	message	Tch, they're trying to stall us!!
+189	message	Aria-chan, I was looking for you!
+190	message	Rem! Dr. Shinigami was here!\nLet's split up and search!
+191	message	Really?
+192	message	First we gotta take these guys out.\nNot a single one escapes!
+193	message	Mou! Bad kids get punished, indeed!
+194	message	No time, but\nat this point I'll show you\nmy special magic show!
+197	message	Let's search for Dr. Shinigami!
+198	message	Shion and I will check\nthat Rika-chan and Satoko are safe!
+199	message	Aria-san, let's regroup later!
+201	message	Not here… not here either, huh.
+202	message	Strange, where could he be hiding?
+204	message	How about your side?
+205	message	No sign of him.
+206	message	Rika-chama and Satoko-chan were safe.\nBut we're in trouble.
+207	message	Without knowledge of the area,\nfurther searching will be hard…
+208	message	The Watanagashi festival will be over soon.\nHe might make a move,\nso tonight let's prioritize guarding the festival grounds.
+209	message	(Damn it, I let the culprit get away…!)
+213	message	(In the end, nothing happened last night…)
+215	message	Everyone!
+216	message	Shion, what happened?
+217	message	Rika-chama… Rika-chama…
+218	message	Rika this time!?\nWhat happened?
+219	message	Rika-chama was… murdered…
+220	message	What…?
+221	message	Her body was found at the shrine…\nwith her belly torn open…
+222	message	No…!!
+224	message	Behind the offertory box, Rika-chama…
+225	message	(This is the gut-spilling…)
+226	message	(Oyashiro-sama's curse…?\nBut why would the Furude Shrine's shrine maiden be cursed?\nThis really must be someone's doing…?)
+227	message	This is… why…
+228	message	It's Onikakushi.
+229	message	Huh?
+230	message	Rika died, and Satoko's uncle disappeared.\nOne died, one vanished.\nCan't we call this Onikakushi?
+231	message	But Rika-chama being killed…\nOyashiro-sama couldn't want that…
+233	message	Rika, are you there…?
+234	message	Satoko-chan!? Don't come here!
+235	message	Wh-what is this…
+236	message	Rika!?
+237	message	Noooo!!
+240	message	Satoko-chan!
+243	message	W-we have to follow her too!
+246	message	She died… again…
+247	message	(Huh… 'again'?\nDid I just say 'again'…?)
+249	message	Ha, ha…
+250	message	Haa, haa… cough cough.\nUgh, my throat…
+251	message	No… it can't be true, Rika…
+252	message	I can't take this anymore…
+254	message	Satoko-chan, I finally caught up!
+255	message	Ha… wh-who…?
+256	message	It's okay, I won't do anything,\nplease calm down…
+257	message	Nii-nii… is that you…?
+258	message	Nii-nii?\nI-I'm…
+259	message	…No…
+260	message	You're not Nii-nii!\nDrop dead!
+261	message	Drop dead…!!
+264	message	S-Satoko-chan…!?
+266	message	U… u…
+267	message	Cough!\n…gah…
+268	message	Satoko-cha… ngh!?
+269	message	I-it hurts… I can't… breathe…
+270	message	Uu… Nii-nii… Nii-nii…
+271	message	Why… why…
+275	message	//…Early this morning, a large-scale disaster occurred\nin Hinamizawa Village, Shishibone City.
+276	message	//Details are still unclear, but\ndeadly volcanic gas erupted from somewhere in Hinamizawa Village,\nand the gas flow seems to have hit all of Hinamizawa.
+277	message	//The extent of the damage is being confirmed;\nas soon as more details are available…
+278	message	//END

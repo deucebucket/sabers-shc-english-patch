@@ -1,0 +1,266 @@
+row	column	english
+4	message	Oh?
+5	message	Tesla!?\nActually, something bad happened~.
+6	message	Ahaha, I heard~?\nYou lost to Minazuki at a game,\ndidn't you~?
+7	message	And now you're helping her\nwith homework?
+8	message	Y-yeah...\nNot homework exactly, more like finding\nmaterials for it... it's tougher than I thought.
+9	message	Oh, was it~?\nWould you like a little help?
+10	message	You're always\nhelping me out, so\nthe least I can do is this~.
+11	message	Still, that's a lot of materials~.\nMinazuki must've let her homework\npile up quite a bit.
+12	message	Um, history books and the assigned books\nfor the book report... well, this much\nI can gather right away, I think.
+13	message	All of this!?
+14	message	(Wow... Tesla can do\nanything)
+17	message	Okay, gathered them.\nThis is all of it, right?
+18	message	It was a bit much, but\nthe library had it all, so\nit was easier than I thought~.
+19	message	Ah, right.\nWhile I was there, I got you this book...
+20	message	This is...?\nA physics reference book...?
+21	message	It's by a scientist I admire.\nIt's really interesting, so please, if you'd like.
+22	message	Ah, did I\noverstep?
+25	message	No, not at all.\nI'm actually thrilled and grateful.
+26	message	Really? That's good.
+27	message	I heard you were struggling with studying,\nso I hoped it'd make it a little more fun...
+30	message	Don't apologize.\nIt just makes me feel guilty instead.
+31	message	Then that's good.\nI'm sometimes told\nI meddle too much, so...
+32	message	But I'm glad if you're happy.
+35	message	Well, I'm bad at the humanities myself,\nso I have to work hard too.
+36	message	Anyway, you shouldn't let homework pile up\nlike a certain someone~.
+37	message	Being in a place where you can focus on\nstudying is a happy thing, I think.
+38	message	To make your future dreams come true,\nyou have to work hard at school, right~.
+39	message	Sorry, that got\na bit preachy~.\nI should get going~.
+40	message	Ah, let me thank you.\nHow about some tea?\nMy treat, of course.
+41	message	Thanks~. But sorry,\nI promised to meet\nNacchan after this.
+42	message	And don't worry about thanking me.\nIt's just my daily gratitude...
+43	message	Well then, if anything comes up,\njust ask me~.
+45	message	She's so kind to me,\nasking nothing in return...
+46	message	She's like a goddess~~~~!!
+49	message	Tesla, um...\nthanks for the other day.
+50	message	Oh, it's nothing~.\nI'm glad I could help~.
+51	message	Plus, it was a good way to kill time\nuntil I met up with Nacchan~.
+52	message	But... I didn't know you\nwere that kind, Tesla. Ah, I don't\nmean that in a bad way...
+53	message	Fufu, it's fine.\nI'm often told\nI'm hard to approach...
+54	message	So, how was\nthat book?
+55	message	I'd be happy if it got you even\na little interested in physics.
+56	message	Oh, right. If you'd like,\nwhy don't we study together sometime~?
+57	message	I'm sure homework goes faster\nwith two people.
+58	message	(Studying with Tesla...\nI'm not good at studying, but with Tesla...)
+59	message	Ah... watch out, watch out!
+60	message	Kyaaa!\nWatch out!!
+61	message	Huh? Ehhh!?\nWahhhh!!
+64	message	O-oh, I'm drowning~.
+65	message	Hang on!\nI'll save you right now.
+68	message	Are you okay?\nCalm down, stay with me!!
+69	message	Don't struggle, just hold on to me.
+70	message	O-okay...
+73	message	Phew... you saved me.\nThank you, Tesla.
+74	message	You're welcome.\nGlad you're safe and not hurt.
+75	message	Still, what were you thinking about?
+76	message	You have to watch where you're going,\nor it's dangerous~?
+77	message	Ye~s...\nStill, Tesla, you're athletic too.
+78	message	Hehe, really?\nI'm a pretty good swimmer~.
+81	message	You can do anything.
+82	message	That's not true.\nThere's no such thing as a perfect person.
+83	message	I fail all the time.\nIn all sorts of ways.
+86	message	Is there anything you're bad at?
+87	message	Something I'm bad at...?\nAh, static electricity is terrible.
+88	message	In winter it's especially bad.\nIf I carelessly touch someone,\nit bothers them.
+91	message	Anyway, what matters is you're safe.
+92	message	(Smart AND athletic — maybe\nshe really is a goddess...)
+93	message	...?\nIs something wrong?
+94	message	N-no, nothing~.\nAhaha...
+97	message	Are you feeling better now?
+98	message	Yeah, thanks to you, Tesla,\nno real injuries, I'm fine!
+99	message	That's good.\nBut...
+100	message	My dorm was close by, so\nI could take a bath right away, but\nyou went straight home like that, right?
+101	message	I was worried you might\ncatch a cold.
+102	message	I should've dried\nyour clothes at the dorm.\nSorry for not thinking of it.
+105	message	Idiots don't catch colds.
+106	message	Don't call yourself an idiot...\nyou shouldn't say that about yourself.
+107	message	And studying — if you work at it,\nI'm sure you'll get better.
+110	message	You're worried about me...\nthank you.
+111	message	No, I'm just glad you're well.
+112	message	If you'd gotten sick,\nI would've regretted it.
+115	message	But like the other day, walking\nwithout looking where you're going\nis really dangerous.
+116	message	You're lucky it was just falling in a river.\nIt could've been a real accident...
+117	message	You're so considerate, Tesla — you're like\nthe poster girl for perfect women.
+118	message	Perfect woman...?\nNot at all.
+119	message	I'm just a worrier.\nFlip it around... you could say\nI'm bad at trusting people.
+120	message	Like Minazuki and Kannazuki,\nwho can trust people with their\nbrightness and kindness...
+121	message	I think THOSE are the kinds of people\ncalled perfect women.
+122	message	Minazuki may look\nfar from perfect, though~?\nFufu...
+123	message	To me, you're plenty wonderful too, Tesla~.\nAh, but you're nothing like Nine, are you.
+124	message	...Huh? What did you just say?\nSo you're saying Nacchan ISN'T wonderful...?
+125	message	You wouldn't say that, right~?\nSo which is it...?
+126	message	Eep!
+127	message	Ah, sorry~.\nI hope I misheard~.
+128	message	People do say Nacchan and I don't look\nor act alike~.
+129	message	Nacchan is really wonderful too.\nShe's my pride and joy of a little sister!
+130	message	Y-yeah... ahaha.
+131	message	Well then.\nNo more walking while distracted, okay?
+133	message	I think I stepped on a landmine.\nI feel like I saw a different side of Tesla...
+136	message	I heard you came from Italy, Tesla?
+137	message	Yeah, my dad's job took us\nto lots of different countries.
+138	message	People often say they're jealous that\nI traveled the world, but...
+139	message	Changing schools all the time\nis pretty rough, actually.
+140	message	Just when I'd get used to the food and language,\nit'd be time to move to the next country...
+141	message	I always felt unsettled.\nBut having Nacchan\nwith me is what got me through it.
+142	message	I see...\nCome to think of it, does Nine like animals?
+143	message	Yeah. She always\ngoes into the forest\nto play with the animals.
+144	message	That time is her favorite\npart of the day.
+145	message	Watching Nacchan\nplay so happily\nputs me in a happy mood too.
+146	message	But when she's with Minazuki\nit's fine, going alone\nworries me a little...
+147	message	Nacchan tends to wander off\nreally far without\nrealizing it.
+148	message	Come to think of it, how do YOU\nknow about that?
+151	message	I happened to see her in the forest...
+152	message	Coincidence...?\nThe forest Nacchan goes to shouldn't\nhave many people around...
+153	message	Ending up in that forest by chance —\nyou're a strange one~...?
+156	message	When I talked to her the other day...
+157	message	Oh, I see~~.\nYou talked with Nacchan~~.
+158	message	That's... unexpected. Nacchan talking\nalone with a boy...
+161	message	It was the first time I'd seen Nine laugh\nlike that. Her smile was really cute...
+162	message	A smile... hmm, so Nacchan\nsmiled. I see...
+163	message	Nacchan's smile really is cute\nlike an angel, isn't it~~?
+164	message	Ah, but no good~?\nNo matter how cute Nacchan is,\ndon't go getting any funny ideas...
+165	message	Hah! Surely you haven't\nalready done something... right...?
+166	message	If anything like that ever happened...\nyou know what would happen to you... right...?
+167	message	Eep! Eee~.
+168	message	Hah! S-sorry.\nI-I just...
+169	message	Well... I suppose it's natural to think that.
+170	message	Anyone would be drawn in\nby Nacchan's smile...
+171	message	But don't get serious about it, okay~?\nShe's still in high school, you know...
+172	message	(Gulp...)
+173	message	If you see Nacchan in the forest again,\nlet me know too.
+174	message	I'd love to play together.\nThe three of us... hehe...
+175	message	Y-yes... understood.
+177	message	Tesla's love for Nine is\nintense...
+178	message	...But maybe a little scary.
+181	message	Good at studying, good at sports, beautiful.\nAnd she dotes on her little sister Nine — or rather...\nthat seems a bit over the top...
+182	message	Oh, lunch~?
+183	message	Eating alone is so lonely~.\nMind if I join you?
+184	message	What's wrong?\nThat surprised face...
+185	message	Ahaha, you've got rice on your cheek?
+186	message	Huh!? W-where?
+187	message	Fufu, just kidding.\n...Actually, I overheard you talking to yourself.
+188	message	Sorry.\nI didn't mean to listen.
+189	message	Is Nacchan really\non your mind that much?
+190	message	N-no... s-so it seems?\nYou heard that?
+191	message	No, don't apologize.\nI'm aware of it myself...
+192	message	It's natural to be curious.
+193	message	When it comes to Nacchan,\nI get a little too intense...
+194	message	I might be able to tell you\nabout it.
+195	message	Actually, we lost our parents\nin an accident when we were little.
+196	message	After that, a certain person took us in\nand raised us, but...
+197	message	Well, a lot happened.\nWe were always in danger.
+198	message	So as her big sister,\nI had to do whatever it took\nto protect Nacchan.
+199	message	Before I knew it, I couldn't\ncontrol myself anymore...
+200	message	And I think that will\nnever change...
+203	message	Are you satisfied with a life like that?
+204	message	...I wonder.\nWhen I think about whether that's\nwhat Nacchan wants...
+205	message	But if I can live for Nacchan,\nthat's enough for me.
+208	message	Then are YOU happy, Tesla?
+209	message	Nacchan's happiness is\nmy happiness.
+210	message	When I say that, Nacchan always\nlooks a little dissatisfied, though.
+213	message	...Maybe this can't\ngo on like this...
+214	message	Tesla...
+215	message	But for now...\nI want to stay like this.
+216	message	Someday, a day might come when I live\nfor myself too...
+217	message	But for that, we still have\nthings we need to do.
+218	message	Things to do...?
+219	message	I-I'm sorry.\nThat was a weird thing to talk about.\nPlease forget all of it.
+220	message	Sorry.\nReally...
+222	message	Don't carry all that responsibility alone —\nI want you to be happy, Tesla.
+225	message	Tesla!\nI finally found you.
+226	message	Oh?\nWhat's with that big box?
+227	message	Actually, I brought something good.
+228	message	Something good...?
+229	message	What is it...?\nCan I open it right away?
+230	message	Wow, a delicious-looking cake.\nWhere'd you get this?
+231	message	Did you know I like cake\nand...?
+232	message	Haruka was making some, and\nshe shared it with me.
+233	message	Oh, is that right~.\nCould this be... for me~?
+234	message	Going out of your way for such a big cake...\nthank you.
+235	message	Nacchan will be happy too.\nWe'll eat it together later.
+236	message	If possible, I'd like only you to eat it, Tesla.
+237	message	Huh? W-why...?
+240	message	Don't hold back, just eat it.
+241	message	It's not that I'm holding back...
+242	message	A cake this big\nis just too much\nfor one person.
+245	message	If you won't eat it, I won't give it to you.
+246	message	O-oh, come on...
+247	message	I don't really get it, but\nif you say so, I guess I have no choice...
+250	message	S-such a sad face... sorry.
+251	message	You can share the leftovers with Nine, so\nI'd like you to eat it now, Tesla.
+252	message	I-is that so...?\nThen I'll help myself...
+253	message	...Itadakimasu.\nNom.
+254	message	This is... yes, delicious!\nA rich cheesecake.
+255	message	It seems the meringue was deliberately left unwhipped,\nso the batter holds fine bubbles.
+256	message	That gives it a delicate,\npowder-snow-like texture.\nMinazuki, impressive~.
+257	message	You can make that kind of face on your own too, see?
+258	message	Huh? ...Oh.\nI-is that right...?
+259	message	...Thank you.\nI made you worry about me.
+260	message	Tesla, don't you think you could live a little more freely?
+261	message	Maybe.\nBut even when I'm having fun,\nI want to be with Nacchan...
+262	message	Tesla...
+265	message	Thank you for the other day.
+266	message	Did you like it?\nHonestly, I worried I was\nmeddling a bit.
+267	message	No, not at all.\nIf anything, I'm grateful.
+268	message	I've been thinking about it since then.\nMaybe I wasn't being honest with myself...
+269	message	I was probably always\na little too tense...
+270	message	But when I ate that cake,\nI could be happy without thinking about anything.
+271	message	Maybe that's why\nI love cake.
+272	message	I wish I could handle things\na little more gracefully...
+273	message	That's fine.\nJust take a breather like that now and then.
+274	message	Fufu, right.\nStill...
+275	message	I never thought you cared\nso much about me.
+276	message	I'm not really used to\npeople being kind to me...
+277	message	You're a little bit like\nMinazuki, maybe.
+278	message	Sorry for saying all kinds of weird things.\nWould you like to talk, just the two of us,\nsometime?
+279	message	Huh!? Just the two of us, like, now...?
+280	message	Yes. I'm getting a little\ncurious about you~.
+283	message	Obviously I'm in!
+284	message	Ahaha, good.
+285	message	I know lots of shops with\ngreat cake and tea~.
+288	message	Nine won't be there, right?
+289	message	Huh? Why would you\nask that...?
+290	message	But well, yes.\nIt's just the two of us~.
+293	message	I'll buy a special cake, so\nlook forward to it~.
+294	message	Hmm, which kind should I get.\nChoosing for someone else is tricky~.
+295	message	Anything's fine by me.
+296	message	The special Mont Blanc, then...?\nAh, I have to check the limited-time ones too...
+297	message	But the deluxe shortcake is\ntoo good to pass up... fufu, hehe...
+298	message	I-I'll skip meals from now and\nkeep my stomach empty.
+299	message	Yes, I'll get plenty, so\nlook forward to it~.
+301	message	Tesla inviting ME...\nSuch a sudden turn... could it be!?
+302	message	...I imagined it, but...\nno way... right.
+305	message	I've been waiting for you.
+306	message	Tesla...?\nThat outfit...?
+307	message	Minazuki insisted on it\nand talked me into it...
+308	message	They call it cosplay, right? This.\nHow is it? Does it suit me?
+311	message	Y-you look amazing!
+312	message	Really?\nFufu, glad I let Minazuki pick it out.
+313	message	Ah! I completely forgot about the cake~.
+314	message	I actually lined up from early morning to buy it.
+315	message	Today's cake is from a three-star shop.\nI love that shop, but the lines are always insane...
+316	message	I really went for it today. And this is my top recommendation,\nthe 'Deluxe Shortcake, Everything-On-It Style'!
+317	message	I brewed tea too, so please\nhave some with me.
+318	message	Ah, thank you, *munch munch munch*.
+319	message	How is it?\nDoes it suit your taste?
+320	message	N-no... more than that, Tesla in cosplay\nis so stunning the flavor got overshadowed...
+321	message	Huh, is that a roundabout way of saying\nthe cake wasn't good?
+322	message	Ah, was it too sweet for your taste~?
+323	message	Sorry. I hear it all the time.\nThat I've got too much of a sweet tooth...
+324	message	N-no! You're as stunning\nas the amazing cake is!!
+325	message	Huh? R-really? Being praised that much is making me blush...\nhuh? Looking closer, this is... see-through!?
+328	message	Gyaaaah!!
+331	message	...Hm? Hmm... huh?
+332	message	Oh, good morning~.
+333	message	You were sleeping with a very happy look.
+334	message	What were you dreaming about~?
+335	message	Tesla in cosplay...\nmufufu...
+336	message	Cosplay...?
+337	message	Yeah, it really suited you.
+338	message	H-huh... thanks...
+339	message	But you've got a strangely\nlewd look on your face...?
+340	message	Hah! Surely you didn't dream about\nNacchan in a naughty cosplay outfit...!?\nThat must be it...?
+341	message	No! Absolutely not!
+342	message	Unforgivable!! Show me too!!\nCome on, hurry!!
+345	message	Ugyaaaa!!\nN-no... *collapse*...

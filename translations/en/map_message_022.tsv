@@ -1,0 +1,370 @@
+row	column	english
+3	message	Is that the cry of the higurashi...?\nEarly summer in Japan — June, I wonder.
+4	message	For now, let's head out to the main road.
+5	message	//BG: Hinamizawa (day)
+6	message	Whoa, talk about the boonies!
+7	message	Mmm, delicious.\nYou can really tell the air itself has flavor.
+8	message	Doctor Death's hideout is in a place like this?\nKinda hard to believe.
+9	message	A mysterious figure in a secluded Western-style mansion —\nthat's a classic setup.
+10	message	Doesn't even look like there's a mansion here!\nLike, "Doctor Death is hiding in that watermill" —\nthat's a joke, right?!
+11	message	But there's no mistaking that Doctor Death came here.\nHe's gotta be somewhere.
+12	message	True. For now we need to gather\ninformation about this land.
+13	message	There's a place name on the sign.\nLet's see... Hi-na-mi-za-wa?
+15	message	Hello.
+17	message	Everyone's wearing weird clothes...\nYou're not from the village, right?\nTraveling, kana? Kana?
+18	message	Yes, we just arrived.\nAre you from this village?
+19	message	Yes. I'm Rena — Ryugu Rena.
+20	message	...!!
+22	message	Hm? What's wrong, kana? Kana?
+23	message	Nothing... it's nothing. Nothing at all.
+24	message	Huh? Rena, who're these people? Friends?
+25	message	Ah, Mii-chan!
+26	message	Howdy. Rena's bosom friend,\nSonozaki Mion, at your service.\nThank you for looking after our girl~.
+27	message	Our girl?
+28	message	Yeah, I'm the club president, you see.\nClub member Rena is like my own child!\n...Though it'd hurt if she got in my eye.
+29	message	They said they came traveling.
+30	message	Ah, it's that season, huh.
+31	message	Say, since we're at it, how about\nwe show you around Hinamizawa?\nThe "Watanagashi" festival is tomorrow anyway.
+32	message	The "Watanagashi" festival?
+33	message	Huh? You came traveling, so\nyou came to see tomorrow's "Watanagashi," right?
+34	message	We are...
+35	message	Yes! That's what we came to see!
+36	message	Aria-chan?
+37	message	(Just play along with me!)
+38	message	Right? The stalls aren't out today yet,\nso you must be bored. That's why\nwe'll show you Hinamizawa's famous spots.
+39	message	Hauu!! That sounds great!\nI'm taking all of you home!!
+40	message	Dunno what's going on, but sure, why not?
+41	message	Sure. Let's take the tour.
+42	message	Leave it to meee!
+43	message	Let's go! Let's go!
+44	message	//Rena and Mion go off-screen.
+45	message	(Aria-chan,\nwe didn't come here to play...)
+46	message	(I know.\nJust leave it to me for now)
+47	message	(That's fine, but...)
+48	message	//BG: Hinamizawa branch school (day)
+49	message	This is the Hinamizawa branch school we attend.\nThe only school in the village.
+50	message	It's tiny!?
+51	message	It's tiny!?
+52	message	Then let me introduce my classmates.\nHeey, Rika-chan, Satoko!
+53	message	What is it, Mion-san?
+54	message	Mii~?
+55	message	Aren't they cute~?\nRika-chan and Satoko-chan.\nThey're precious club members too.
+56	message	Classmates!?\nThey clearly aren't your age!
+57	message	(Coming from Aria-san, that's not convincing...)
+58	message	Ah, it's a small school so\nall students are in the same class.\nThere's only one teacher, too.
+59	message	Wow, schools like this exist!
+60	message	And who might you be?
+61	message	They're here to see the "Watanagashi" festival.\nBy a twist of fate, we're showing them\naround the village's famous spots.
+62	message	This school is a famous spot?
+63	message	It's unusual for city folks, you know. Nipa~.
+64	message	True. This small, it is unusual.
+65	message	Right?\nWell, now that the club members are all here,\nlet's do club!
+66	message	Club?
+67	message	Our club, you see,\nto cope with an increasingly complex society\nunder various conditions...
+68	message	It's a club where everyone plays games together.
+69	message	Hey, Rika-chan, that summary was too fast!
+70	message	A super chill club, huh.
+71	message	Wrong! Club rule number one: aim for first place only!\nSloppy play like "it's just for fun" is not allowed!
+72	message	Club rule number two!\nTo that end, putting in every effort\nis mandatory.
+73	message	Well, slacking off wouldn't be fun, right?
+74	message	The punishment games are mercilessly harsh too.
+75	message	So what do you do in this club?
+76	message	You'll see soon!
+77	message	//BG: in front of Furude Shrine (day)
+78	message	This is called Furude Shrine.\nProbably the place with the best view, kana?
+79	message	Furude Shrine, so that means...
+80	message	Mii~. I'm the shrine maiden here, you know.
+81	message	Tomorrow's "Watanagashi" festival star is\nRika-chan, performing the dedication dance\nas the shrine maiden.
+82	message	What a cute shrine maiden!
+83	message	Hauu! I wanna take her home!!
+84	message	No way!\nMore importantly, it's club time here!
+85	message	What are we doing?
+86	message	We're all eating lunch together!!\nBut it's not just any lunch!
+87	message	//Event CG: Mion feeding Aria lunch with an "ahhn." A suspiciously nice smile (obviously a viciously bitter trap)
+88	message	Aria, do you like tamagoyaki?
+89	message	I don't hate it, particularly?
+90	message	I see, I see.\nThen, here, ahhn.
+91	message	Huh?\nWh-wh-why?
+92	message	It's ritual, ritual!\nThis is how we deepen our friendship!
+93	message	Ugh... a-ahhn.
+94	message	Nmu... mugu mugu.\nBuhah!???
+95	message	Aria-chan!?
+96	message	Oh my?\nTo draw the super-spicy Russian tamagoyaki\non the first try — what luck!
+97	message	Mugugu, water, water!
+98	message	Here, water, you know~.
+99	message	Gok, gok!
+100	message	Buhaaa, spiiicy!!
+101	message	O~hohohohoho!\nYou fell for it, Aria-san!
+102	message	Fell for it or not,\nyou just shoved it in my mouth!
+103	message	Wrong! If you chow down with zero caution,\nyou can't survive this harsh modern society!
+104	message	Indeed! If Aria-san were a fish,\nshe'd be the first caught\nand turned into sashimi!
+105	message	Sheesh, that's too much.\nAria-chan's a guest, you know.
+106	message	It's fine. Better than only remembering\nthis as a boring backwater with nothing in it!
+107	message	Please don't be mad at me, Aria.
+108	message	I lost even the will to be mad, it was so spicy!\nWhere in this land did you get\nsuper-spicy spices!?
+109	message	Right, you'd think at most you'd get\nmustard paste or chili oil, no?
+110	message	Fufufu, that carelessness is what gets you killed.
+111	message	You dig a pitfall where you'd least expect one —\nthe basics and essence of traps.
+112	message	Traps?
+113	message	Satoko's a trap master, you know~.
+114	message	An elementary schooler, and traps...
+115	message	I told you!\nWe do club to cope with\nan increasingly complex modern society.
+116	message	Mion-san and Rena-san show no mercy\nto me or Rika, either.\nIt's wisdom and technique for survival!
+117	message	Haha... being told that by an elementary schooler,\neven Aria can't stay mad...
+118	message	(Ugh... so frustrating!)
+119	message	//Event CG off
+120	message	Man, this is fun!\nIt's been a while since I laughed from the bottom of my belly.\nSay, why don't you just live in Hinamizawa?
+121	message	Ahaha! That sounds fun!
+122	message	Come to think of it,\nhow long are you Aria-people staying in Hinamizawa?
+123	message	...About that,\nwe're actually not traveling.
+124	message	Huh?
+125	message	(Aria-chan...?)
+126	message	We came to this Hinamizawa\nchasing a criminal from Tokyo.
+127	message	...
+128	message	...
+129	message	If I didn't say it,\nit'd be like I lied.\nThis is the truth.
+130	message	Mii~.
+131	message	Has anything changed in this village lately?\nLike seeing a suspicious person.
+132	message	Nothing.
+133	message	Nothing in particular, kana? Kana?
+134	message	...Even if not recently, then?
+135	message	Nope.
+136	message	I-I see...?
+137	message	Then that's fine!\nSorry for asking weird stuff!
+138	message	Yeah, don't worry about it!\nWe've never been asked stuff like that,\nso we're surprised too.
+139	message	Say! Won't you stay at my place tonight?\nAs the finale of the famous-spot tour,\nI'll invite you to the Sonozaki house.
+140	message	Mion's house?\nBut there's this many of us...
+141	message	Mii-chan's house is one of the Three Families of Hinamizawa —\na grand estate of a distinguished family.
+142	message	It's what you'd call an old traditional house —\na different flavor from modern buildings, I think?\nYou could call it a famous spot, I'd say.
+143	message	Okay, then we'll take you up on it.
+144	message	You're welcome.\nNow that we've finished lunch,\nlet's go!
+145	message	(Aria-chan, is it okay to decide that fast?)
+146	message	(I haven't let my guard down, leave it to me...)
+147	message	//Fade to black, to the next day
+150	message	Wow, what an amazing house!\nIt's wooden but looks sturdy —\nlooks like it'll last another hundred years easy!
+151	message	True.
+152	message	Rin-chan, nothing unusual happened\nduring our stay at the Sonozaki house, right?
+153	message	Just people working on festival preparations,\nnothing else.
+154	message	I see... well, that's fine.
+155	message	//SE: higurashi cicadas crying
+156	message	People are gathering.\nLooks like it's almost festival time.
+157	message	Oh, villagers are streaming along.\nIs it festival time soon?
+158	message	Well, from here on.
+159	message	We have to stay on guard\nfor whether Doctor Death shows up...
+160	message	Everyone go to the festival with Rena and them.\nI'll act alone.
+161	message	What's that? What are you planning?
+162	message	You have something in mind?
+163	message	Sorry,\nall I can say right now is it's my gut.\nBut I feel like I have to.
+164	message	Fine, but\nif it gets dangerous, shoot right away, okay?\nThen I'll find you.
+165	message	Got it.\nYou be careful too.
+166	message	//BG: woods (night)
+167	message	Rika's dedication dance is almost time...
+168	message	I made a round, and\nall the villagers gathered at the festival —\nnobody anywhere else...
+169	message	//SE: sound of walking through bushes with a rustle
+170	message	...
+171	message	...Hm? Is someone there?
+172	message	(Seems to be sneaking off somewhere.\nI'll tail them...)
+173	message	//Fade to black\n//BG: woods (night)\n//SE: sound of walking through bushes with a rustle
+174	message	(Hm... they should be near here, but...?)
+176	message	...Who are you?
+177	message	Mion!?
+178	message	Why are you in a place like this?
+179	message	That's my line!\nI heard footsteps,\nso I wondered where you were going...
+180	message	No way!? N-n-night crawling...?
+181	message	Um, you seem to be\nmisunderstanding a lot of things, but...
+182	message	Hmm... well, whatever.
+183	message	Wanna come along?\nI'll show you something interesting.
+184	message	//BG: in front of the ritual storehouse (night)
+185	message	Is this the Furude Shrine's storehouse?
+186	message	It's the never-opened ritual storehouse.\nOnly the Furude family and a handful of people\nare allowed inside.
+187	message	It's a forbidden sanctuary, because anyone\nbut the Furude family would bring in impurity, they say.
+188	message	Sounds interesting, right?\nWanna go in?
+189	message	...Why are you inviting me?
+190	message	Don't tell me you're not interested.\nWandering around instead of joining\nthe "Watanagashi" festival means that's what it's about, right?
+191	message	Mgh...
+192	message	//Event CG: Shion sneaking into the ritual storehouse
+193	message	I'm a Sonozaki, after all.\nI can pretty much guess\nwhat's in here.
+194	message	Hey, can you open this padlock?
+195	message	Why are you asking me?
+196	message	I figured you'd be\nfaster than me.
+197	message	...Fine.
+198	message	//SE: sound of the lock being removed
+199	message	That was fast! Well, shall we go in!
+200	message	//SE: footsteps opening the door and going in\n//BG: black background
+201	message	Wh-what is this...
+202	message	That's Hinamizawa's guardian deity,\nOyashiro-sama.
+203	message	Oyashiro-sama...?
+204	message	Say, do you know what\n"Watanagashi" means?
+205	message	Huh...
+206	message	Haha... they say the people living in this village\nhave half-demon blood flowing in them.
+207	message	Occasionally that man-eating demon blood awakens,\nand they'd go down to the village and "demon away" people.
+208	message	Onikakushi...?
+209	message	It means abducting sacrifices.\nAnd to deliciously devour the poor victims,\nthe "Watanagashi" ritual was performed.
+210	message	See, don't they say "wata"? For innards.
+211	message	"Wata" as in, guts?
+212	message	Exactly.\nThe hoe Rika-chan holds in the ritual\nis for prying open human bellies.
+213	message	Here, look around.
+214	message	...!
+215	message	(This ritual storehouse is full of nothing but dissection tools...!)
+216	message	I'd heard the stories too, but\nthis is the first time seeing the real thing.\nThey really were all used, huh.
+217	message	Just asking to be sure,\nthat's a story from long ago, right?
+218	message	Some people think Oyashiro-sama's curse\nstill exists...
+219	message	Oyashiro-sama's curse?
+220	message	"Onikakushi." After the Watanagashi festival,\none person dies, and one person vanishes.
+221	message	A curse… You think someone's actually doing this?
+222	message	…You think so too?
+224	message	We should head back soon.\nRika-chan's ceremonial dance will be over by now,\nand everyone's down at the river floating cotton.
+225	message	So, keep tonight a secret for me, okay?\nIf they find out we snuck in,\nwe won't get off easy.
+226	message	Got it.
+227	message	The ritual storehouse is sacred ground,\nso bringing impurity in there…\nOyashiro-sama might curse us, y'know?
+228	message	Still… what WAS that noise?
+229	message	Huh? Noise… what noise?
+230	message	The noise! That whole clatter-bang racket—\nyou heard how loud it was, right?
+231	message	Huh? I didn't hear any noise.\nInside the storehouse it was\ncreepily quiet, wasn't it?
+232	message	You're kidding me, right!?
+233	message	No way… you're lying… no…
+234	message	Hehe, hahaha! Bwahahaha!!\nGotcha! It was all a lie!!
+235	message	Hey!! You little—!!
+236	message	Na-na-na-na-na! You fell for it!
+238	message	What WAS that all about…
+241	message	Fwaah… that post-festival hangover thing.\nThis tiredness just won't go away…
+243	message	Aria, mooorning!
+244	message	…Oh, Mion.\nMorning.
+245	message	Mind if I ask you something?
+246	message	What?
+247	message	Last night… you didn't run into Shion, did you?
+248	message	Huh…? Who's Shion?
+249	message	Shion's my twin sister.\nYou didn't see her yesterday?
+250	message	(A twin!? So the one I thought was Mion\nlast night… was her twin sister…!?)
+251	message	That face says you did meet her, doesn't it?
+252	message	N-no…
+253	message	The ritual storehouse's lock was jimmied…\nLooks like somebody broke in.
+254	message	…
+255	message	You know about Oyashiro-sama's curse, right?\nSo you know what that means… right?
+256	message	…!
+257	message	Yeah… that's all. Later.
+260	message	…
+262	message	…I think I've got the gist of it.
+263	message	This village is way more messed up than I imagined…
+264	message	"Onikakushi"—one disappears, one dies…\nI'm betting it's human work.
+265	message	So someone's using the legends and customs\nto commit murders and kidnappings?
+266	message	And the whole village might be\ncovering it up…
+267	message	So it looks like Oyashiro-sama's curse targets\npeople like me.
+268	message	And Mion-chan's little sister, Shion-chan.
+269	message	Like hell I'm getting done in\nby some phony trick like that!
+270	message	I'll go in alone as bait\nand lure the culprit out. The rest…
+271	message	Leave it to me. I'll stick to you as your bodyguard.
+272	message	I'm counting on you.\nI'm NOT dying in a place like this!
+273	message	Obviously!
+274	message	(Still… I wonder if Dr. Shinigami is involved in this.\nI can't sense any movement from him at all… it's unnerving…)
+276	message	Aria went toward the shrine, indeed.\nWe should follow her, indeed.
+277	message	Looks like Aria headed for the shrine.\nAlright, we should—
+278	message	Oh my, everyone's together.\nWhere are you all off to?
+279	message	Mion-chan!?
+280	message	Before that, there's something\nI'd like to ask you about…
+281	message	…If you're standing in our way,\nthen you're involved in the Onikakushi, aren't you?
+282	message	It's Oyashiro-sama's curse.
+283	message	That's why I'm saying maybe YOU guys\nare the ones doing it!
+284	message	Wouldn't know.
+286	message	Oyashiro-sama's curse…\nThey can't move easily by day…\nIf something happens, it'll be at night.
+287	message	Come to think of it, what happened to Shion, I wonder?\nShe hasn't already…?
+289	message	Aria-chan!
+290	message	Rena!?
+291	message	Please, help!
+292	message	What!
+293	message	Rika-chan and Satoko-chan are going to be killed!!
+294	message	What did you say!?
+296	message	Satoko Houjou… the cursed child\nstruck by Oyashiro-sama's curse…
+297	message	The Houjou family was swallowed by a fate of death,\nyet you alone get forgiven…!
+298	message	Unforgivable, unforgivable, unforgivable,\nunforgivable, UNFORGIVABLE…!
+299	message	Wh-whatever do you mean…?\nWhatever is the matter with you, Mion-san…!?
+300	message	Mii, come back to your senses!
+301	message	You're next, Rika… The Three Families all die!!
+302	message	…!
+303	message	But if I kill you here,\nI'd miss out on the fun of torturing you…
+304	message	I'll invite you down to the basement torture room—\nso much fun, fun, fun!
+306	message	Rika! Satoko!!
+307	message	Aria-san!?
+308	message	I came to help!
+309	message	Rena, what happened to Mii?
+310	message	I don't know… maybe Oyashiro-sama's…
+311	message	Rena, stop thinking like that!\nWhen people do something, there's always a motive!\nI'll grab Mion and make her confess—get ready!
+312	message	No way! Why don't YOU\nstop scurrying around and drop dead!\nBy Oyashiro-sama's curse!!
+313	message	Rena, did you know Mion\nwas like that?
+314	message	No! Mii-chan isn't like that!\nShe's kind, and caring,\nand she treasures her friends!
+315	message	You think too highly of her!\nMion Sonozaki is… a demon!
+317	message	What's the matter? Is that okay?\nRika-chan and Satoko will die any moment now.
+318	message	Mion, release Rika and Satoko right now\nand surrender!
+319	message	Don't you dare spout such convenient crap!\nJust be a good girl and die by Oyashiro-sama's curse!
+320	message	Rika-chan, Satoko-chan, hang in there!\nI'm coming!
+321	message	I will NOT lose!
+322	message	Just believe in the two of us—
+325	message	Sorry I'm late!
+326	message	Rena? Rika and Satoko are here too!?
+327	message	Details later!\nSave Rika-chan and Satoko-chan!
+328	message	Roger!!
+329	message	Rem, what've you been doing all this time!
+330	message	Mion-chan was holding me up… Huh?\nWhy is Mion-chan here!?
+331	message	Hmm, I wonder why~
+332	message	Now that the audience is gathered,\nlet's end this game.
+334	message	This is!? A dream demon!!
+335	message	Mion! You and Dr. Shinigami…!!
+336	message	It's Oyashiro-sama's curse!\nThose who must die, die!\nAh-hahahahaha!!!!
+337	message	She's lost it…!
+339	message	Hang in there, Rika-chan! Satoko!
+340	message	We refuse to lose!\nNot to the likes of you! Not like this!\nWe will never, ever lose!
+341	message	Mii, doing this is pointless.
+342	message	Oh is that right!\nWhether you lose, whether it's pointless—\nI'll show you myself!!
+344	message	!?
+345	message	Mii…!
+346	message	There… got you…!
+347	message	Stop!!
+348	message	Stop it, Mii-chan!
+349	message	Goodbye.\nYou lot—keep THEM busy!!
+351	message	Rika-chan! Satoko-chan!!
+352	message	After her! No matter what!!
+356	message	Now then, fun fun torture time!\nWhich one of you wants to die first?
+357	message	Urgh…!
+358	message	Let go of Satoko!
+359	message	Shut up, you brat!
+361	message	Urgh!?
+362	message	Rika!!
+363	message	…Sa…to…
+365	message	What? You died already?\nThe Furude family just isn't satisfying!!\nEntertain me a little longer…
+366	message	No, Rika… Rika… sob!
+367	message	Satokoo~!\nYou're not gonna die right away, are you?\nYou'll let me hear plenty of screaming, won't you?
+368	message	Nii-nii…
+369	message	Shut UP!! If you'd just died sooner!\nSatoshi-kun wouldn't have had to suffer!!
+371	message	I knew… Because of me,\nNii-nii has always…
+372	message	Oh? So you knew? Surprising.
+374	message	Guh…!! That's why I became strong—\nso I can show Nii-nii when he comes home\nthat I'm fine without his help!
+376	message	He's never coming back!!\nSatoshi-kun—YOU killed him!!\nALL OF YOU killed him!!
+377	message	I believe he will!! That's why!!
+379	message	I won't cry! I won't call for help!\nLike I'd ever lose to someone like you!!\nNever!! Never!! Never!!
+380	message	HYEAAAH-HA!!!!
+382	message	!!\n…\n…\n…
+384	message	Rika!! Satoko— huh!
+386	message	Fufu, fu…
+387	message	Ahaha, ahahahaha!!\nAh-hahahahaha!!!!
+388	message	I won, I won…!\nI beat the ones who killed Satoshi-kun!!
+389	message	Rika…? Satoko…?
+390	message	…
+391	message	…
+392	message	Th-they're dead…!?
+394	message	Fufufu… ah-hahahaha…!
+397	message	A… ah…
+399	message	Aria-chan…
+400	message	How awful… awful…\nYou said you'd save them…
+401	message	U… ah… no, I…
+402	message	Why… why did it come to this…!
+403	message	Why Rika-chan and Satoko-chan!
+404	message	Why…?
+405	message	I-I…!!\nIt's not me…!\nI…!! No!! Ngh!!
+406	message	M-my throat…!! Haa, haa!!\nUuuuugh!! Aaaaah!!!
+409	message	…
+410	message	…ngh…
+411	message	Finally awake?
+412	message	…Mion?
+413	message	That's right~\nI was thinking of letting you live…
+414	message	Changed my mind!
+416	message	//END

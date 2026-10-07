@@ -1,0 +1,299 @@
+row	column	english
+3	message	Hey hey, [CLAUDE]-kun,\nhow'd it go?
+4	message	Uuuugh, sorry,\nwith only 'blonde twintails' to go on\nI couldn't find any leads...
+5	message	Yeah yeah,\nbut this kind of steady legwork matters!\nIntel is earned on foot—that's investigation basics!
+6	message	I'm...\nnot a cop or a detective, though...
+7	message	...
+8	message	Ah...\nTsubasa-chan, is something wrong?
+9	message	Huh? Ah, a little.\nI was thinking about my missing partner.
+10	message	You want to find your vanished partner, right.\nSo what's your partner like,\nanyway?
+11	message	Let's see... the person in the whole world\nleast suited to fighting, I wonder.
+12	message	Huh? But she's a Symphogear wielder\nlike you, right?
+13	message	Yes. Which is why she's strong—and dangerous.\nShe strikes others with her heart, not her fists.\nShe fights on a different level, I suppose...
+14	message	Hmm... I don't really get it.
+15	message	I don't think I fully understand either.\nI made myself a blade to fight,\nwhile Tachibana Hibiki was my complete opposite.
+16	message	Hibiki-chan, huh!\nI'd love to meet her someday...
+17	message	You'll get along, I'm sure.\nThere's no one who can't get along\nwith Tachibana.
+18	message	(She must be my total opposite~)
+19	message	Wait, what am I thinking.\nJust because she's nice doesn't mean\nshe'd never get mad at anything...
+20	message	[CLAUDE]?
+21	message	N-n-nothing,\ndon't mind me.\nUm, yes, I'm fine...
+22	message	Sometimes [CLAUDE]-kun just mutters\nto himself... (creepy~)
+23	message	Anyway, putting that aside,\nwe need to gather intel on Phantom Thief Twintail!
+24	message	(Come to think of it, I also set out on a journey to find my teacher...\nthough I can't search without returning to my own world.)
+25	message	(I wonder how [MERU]'s doing?\nNo point dwelling on it in this situation...)
+26	message	//Fade to black.\n//Background: in front of Cherinu Academy.
+28	message	Phantom Thief Twintail still hasn't shown up.
+29	message	That means she doesn't know\nthe Tears of the Angel's new hiding place.\nIf only things would stay quiet...
+30	message	Just waiting around is so frustrating~.\nAt this point, why not round up\nevery blonde twintail girl~... no good?
+31	message	That's a bit... apparently the security cameras\ndidn't catch anyone like that—\nthe culprit may be good at disguises.
+32	message	Hauu~ we can't find the culprit like this~.
+33	message	//Tsubasa and the others appear.
+34	message	True, tracking her down ourselves will be hard.
+35	message	Tsubasa-chan! And everyone too!
+36	message	I asked around town, but no good~.\nNot a single promising lead!
+37	message	Luring her out and capturing her\nmay be the best plan after all.
+38	message	I see...
+39	message	Um, I was thinking...\ncould Phantom Thief Twintail be from a different world,\nlike us...?
+40	message	Huh? Why do you think that?
+41	message	Phantom Thief-san didn't seem surprised\nto see Tsubasa-chan fighting while singing...
+42	message	Oh, now that you mention it...!
+43	message	So she knew about me from before...?
+44	message	That's possible.
+45	message	You're amazing, Sonico-chan!\nA great detective! A regular Supa-daichi Soni-suke!
+46	message	Ehehe~, thank you!
+47	message	If the thief came from another world,\nthere might be a clue at the place where\nSonico-san and the others first arrived in this world.
+48	message	Come to think of it, we haven't checked there yet, right?
+49	message	Yes, worth a look.
+50	message	//Switch to the battle map.
+52	message	Um, I think it was around here.
+53	message	A warehouse district.\nNo sign of people~.
+54	message	Let me warn you first:\ngoing by past examples, a light could suddenly appear here\nand fling us to another world.
+55	message	Twin Angel, be careful not\nto get caught up in it.
+56	message	Got it!
+57	message	I'll be careful.
+58	message	//Minor enemies appear; surrounded.
+59	message	Wawah, something came out!?
+60	message	Wow!\nSo we hit the jackpot!
+61	message	I wonder if Phantom Thief Twintail's here?
+62	message	She may be lurking somewhere!\nStay alert!
+63	message	//Battle start.
+65	message	Something's flying this way!!
+66	message	That speed... could it be!?
+67	message	//Laura appears.
+68	message	...
+69	message	Laura Bodewig!!
+70	message	Long time no see, Kazeshiro Tsubasa.\nBut I have no business with you this time.
+71	message	What?
+72	message	I'll be blunt.\nHand over the 'Tears of the Angel'.
+73	message	Who are you!?\nPhantom Thief Twintail's friend...?
+75	message	We can't just hand over\nthe 'Tears of the Angel'!
+77	message	...So you're Twin Angel.
+78	message	What is that outfit?\nAre you mistaking combat\nfor a fashion show or something?
+79	message	Um, forgive my forwardness, but\nI think that could be said\nof your outfit too...
+80	message	The IS pursues functionality;\nthat's why this equipment looks like this.\nIt's nothing like frilly clothes.
+81	message	Let me be clear: I don't play at phantom thievery.\nIf you won't swallow our demands,\nI'll simply take it by force.
+82	message	Handing over the 'Tears of the Angel' quickly\nwould be healthier for you, no?
+83	message	Mrrgh! Don't you mock the Angel Suit~!\nI absolutely refuse!
+84	message	As Amanotsukai who guard the Holy Grail fragments,\nwe cannot accept your demands!
+85	message	Then step forward, those who don't value their lives.\nYou'll regret it soon enough.
+86	message	...
+87	message	...Tsubasa-chan? Is something wrong?
+88	message	No, it's nothing.
+89	message	(Laura is strong... even Twin Angel\ncan't face her head-on...!)
+90	message	//Battle resumes.
+92	message	Hmph, is that all.\nI had some expectations of\nthe so-called Amanotsukai's power.
+93	message	S-so strong...!
+94	message	I can't find an opening...!
+95	message	You're still green as warriors.\nNo match for me, a born warrior,\nand Schwarzer Regen.
+96	message	N-no...\nTwin Angel is...
+97	message	...We can't afford to lose!
+98	message	Can't you understand the difference in power,\nor do you plan to ignore it and die gloriously?
+99	message	Kazeshiro Tsubasa, you must understand.\nWhat will you do?\nAt this rate there'll be two corpses.
+100	message	...
+101	message	We won't let that happen!\nThen we'll all attack at once!!
+102	message	That won't be necessary.
+103	message	...Tsubasa-chan?
+104	message	Laura Bodewig, I ask you.\nNo intention of retreating?\nAt this rate there'll be two corpses.
+105	message	...What are you saying?
+106	message	I'm warning you to retreat while you can.
+107	message	Are you mocking me? On the battlefield, power is everything! That is law and truth!\nIf you want me to retreat, force me with power!
+108	message	Impossible with your rusted sword, though...!
+109	message	I see... then I shall show you.\nThe resolve of a defender who forged her body into a blade...!
+110	message	What!?
+111	message	Everyone, fall back!\nLeave this to me!
+112	message	Tsubasa-chan...?
+113	message	She'll never retreat until she has\nthe 'Tears of the Angel'.\nThere's only one way to stop her...
+114	message	And that is...?
+115	message	Believe in me. Please!
+116	message	...OK!
+117	message	I believe in Tsubasa-san too.\nEveryone, follow Tsubasa-san's orders!
+118	message	//Victory condition changed; battle resumes.
+120	message	Everyone's fallen back!
+121	message	...Thank you.
+122	message	Planning to die in vain to buy time?\nPointless... I'll dispose of you,\nthen the rest of them.
+123	message	Come out!
+124	message	//Many small fry appear near the withdrawn allies. Positionally: the fry behind Tsubasa (who faces Laura), our forces behind them—splitting Tsubasa from our forces.
+125	message	Wah! Ah...! S-so many...!\nAre they... extras...?
+126	message	Ehhh, there's still this many!?
+127	message	These should at least slow you down.\nDon't let the Twin Angels escape.
+128	message	...
+129	message	...May I ask one thing?\nBehind your power, behind your fighting—what is there?
+130	message	Behind fighting? A pointless question.\nPower is me itself, fighting is proof of existence—\nI care nothing for what's behind!
+131	message	I see... then all the more reason...\na half-baked warrior cannot afford to lose.
+132	message	Half-baked?\nSays the rusted sword!
+133	message	I was once the same...\nNo matter how you hone the blade,\na heartless sword can protect nothing...!
+134	message	Hmph, unfortunately I have nothing to protect!
+135	message	//Deal a set amount of damage to Laura with Tsubasa, or a set number of turns pass.
+136	message	This is all you've got, then.\nDon't disappoint me too much, samurai.
+137	message	I am no samurai...!\nKnow this: Kazeshiro Tsubasa's song is not only for the battlefield!
+138	message	//Bound by Shadow Stitch, unable to move.
+139	message	What do you mean... hm?\nWhat!? My body won't move!?\nMachine trouble? No, it's MY body that won't move!
+140	message	What did you do!?
+141	message	I've bound your shadow.
+142	message	Impossible...!!
+143	message	Listen! And sear it into your heart!\nKazeshiro Tsubasa's—defender's resolve!
+144	message	//Event art: Tsubasa singing the Superb Song.
+146	message	Wh-what is this...!?
+148	message	//Event art off. Whiteout and explosion sound.
+149	message	Uwaaaaaah!!
+150	message	//All small fry on the map wiped out. Laura's HP drops to 10; she flees to another world in a flash of light. Tsubasa incapacitated.
+151	message	...Wh-what in the world...
+152	message	Wh-what WAS that huge explosion!?
+153	message	Tsubasa-san!
+154	message	Tsubasa-chan!!
+155	message	Hawawa, what do I do, what do I do!?
+156	message	//A mysterious light appears.
+157	message	Huh!?
+158	message	No way!? You're kidding!?
+161	message	Tsubasaaaaaaaaaan!!
+162	message	//Everyone except Tsubasa vanishes from the map.
+165	message	This is... Dokoka Town!?
+166	message	Forget that—where's Tsubasa-san!?
+167	message	N-nowhere...!
+168	message	So she got left behind!?\nTh-that's terrible!!
+169	message	Um...
+170	message	Huh? Aoi-chan!?\nWhy are you here!?
+171	message	Um, I came to check on things\nand got caught up in it...
+172	message	Huh? Who's this place? Where am I??
+173	message	A place called Dokoka Town...
+174	message	What an amazing set... though it doesn't\nlook like a studio...
+175	message	Tsubasa-chan... and Red Angel-san\nand Blue Angel-san too...\nI can't see them anywhere...
+176	message	Um, I think Twin Angel will\ncome if we call them again.\nRight, Haruka-san?
+177	message	Huh? Twin Angel always comes\nto the rescue in a pinch, but... m-more importantly,\nTsubasa-chan!?
+178	message	I don't know.\nShe doesn't seem to be here...
+179	message	No!? What do we do!?\nThis is bad, Aoi-chan! What do we do!?
+180	message	Calm down, Haruka-san.\nPanicking won't help at a time like this.\nDeep breaths—come on, suu, haa.
+181	message	Suu, haa, suu, haa... phew,\nI'm calming down...
+182	message	Sonico-san and the others seem to know\nthis place, so first, let's have them\ntell us what happened.
+183	message	O-okay, got it!\nMmm, Aoi-chan's\nsooo reliable~!
+184	message	Not really.\nMy heart's been pounding this whole time...
+185	message	Big trouble, big trouble!!\nSomeone's coming from over there~.
+186	message	Hyaa!?
+187	message	//Aoi hides behind Haruka, startled, if possible.
+188	message	Ahaha, sorry sorry, did I startle you?
+189	message	No, more importantly—what's the 'something'?
+190	message	All right, let's go check it out!
+191	message	//Fade to black.\n//Background: Dokoka Town.
+192	message	Aah! [MERU]!
+193	message	Is that [NOEL]~?
+194	message	Geez, where've you been!!
+195	message	You're the one who never came to Remu-san's office, after all~!
+196	message	Ah, look Aoi-chan!\nLooks like there are lots of people!
+197	message	Indeed.\nThey seem to be [NOEL]-san's\nacquaintances, but...
+198	message	...Ah! G-good work!\nUm, are you a fellow cast member!?
+199	message	Looks like [NOEL]-chan's group\ngrew too.
+200	message	Remu-san! You're here too!?
+201	message	Yes—the strange transfers seem connected\nto the case in my world too.\nSo I took the plunge and came!
+202	message	Got it—when lost, push forward! Right!
+203	message	[NOEL],\nwhere's Tsubasa-san~?
+204	message	Tsubasa-san!? Tsubasa-san's here!?
+205	message	You know Tsubasa-san?
+206	message	Yes! I'm with the same Special Disaster Response Task Force\nas Tsubasa-san—Tachibana Hibiki!\nI serve as Tsubasa-san's partner!
+207	message	Uuuuu, so you're the one...
+208	message	So, where's Tsubasa-san?
+209	message	//Fade to black: time passes.
+210	message	Huh... Tsubasa-san used the Superb Song...
+211	message	It was incredible power.\nBut if Tsubasa-san hadn't done it,\nwhere would we be now...
+212	message	Knowing Tsubasa-san,\nI think she had no choice.
+213	message	What happens when you use that Superb Song?
+214	message	It depends on Tsubasa-san's condition.\nAt worst, it could kill her, but\nI want to believe Tsubasa-san'll be fine.
+215	message	...Tsubasa-san too, but\nyou're strong as well.
+216	message	No, I've still got a long way to go.\nAria-san's been teaching me all sorts of things.
+217	message	Hibiki, do you know these people?
+218	message	They're [MERU]-chan's\nacquaintances, apparently.
+219	message	They're not enemies,\nso no need to be on guard, Aria-san.
+220	message	Not enemies, more like a weird bunch.\nOut of place, y'know?
+221	message	We can't really say that about ourselves...
+222	message	We should all\nexchange a bit more info.
+223	message	//Fade to black: time passes.
+224	message	Wow! Hibiki-chan transforms\nlike Tsubasa-chan too?
+225	message	Yes! Did you hear Tsubasa-san's song?
+226	message	Yeah! It was sooo cool!!
+227	message	Ah, but...
+228	message	Um, Tsubasa-san'll definitely be fine!\nTsubasa-san has the resolve to fight with her life on the line,\nbut she'd never treat life lightly!
+229	message	I know that best of all—\nI've fought alongside her!
+230	message	Hibiki-chan...
+231	message	Trusting each other is what makes\npartners, right?
+232	message	Yes!
+233	message	But it's also true that Tsubasa-san used\nthat power to keep the enemy from stealing\nthe 'Tears of the Angel' we must protect.
+234	message	Please let me thank her for that.\nShe saved us.
+235	message	Tell her that yourself!\nI'm sure we'll meet again!
+236	message	You've got no basis, yet you say that\nso confidently.
+237	message	Because I believe in Tsubasa-san.
+238	message	That's how much you've fought together.
+239	message	Hibiki and Tsubasa are such a great pair...\nI wish we could be like that too...
+240	message	Hehe, that's right, Haruka.
+241	message	(A partner, huh...)
+242	message	You're Aria, right?\nI hear you're looking for\nsomeone worthy of being your partner?
+243	message	There's no way someone fit to be my partner\nis just lying around out there.
+244	message	That's why right now ALL of us are\nyour partners, Aria!\nRight, Ariaaa?
+245	message	Can't be helped!\nIf there's no one perfect person,\nwe'll just fill the gap with sheer numbers!
+246	message	(Whoa... she seems kinda hard to approach...)
+247	message	What do you want? You've been avoiding\neye contact with me this whole time.\nWhat's your deal?
+248	message	Huh? No, sorry,\nI didn't mean anything by it...
+249	message	Suspicious... Okay, decided!\nYou — you're gonna be my\nslave-in-training!
+250	message	Huh? A slave... trainee?\nWhat's that supposed to be?
+251	message	Exactly what it sounds like. A slave-in-training.\nThink of it as a probationary period.
+252	message	You need training to become a slave?
+253	message	Got a problem with that?
+254	message	N-no...\nSorry, sorry.
+255	message	Good. Lucky for you —\nyou were about a second away from getting holes\nblown through your forehead and your gut.
+256	message	Eep...
+257	message	...Well, among everyone who's joined up,\nthere's nobody who could cut it\nas my partner.
+258	message	Speaking of partners,\nwhere are [MERU] and\n[NOEL]?
+259	message	Oh, those two? They went off\nthat way, all lively and chatty!
+260	message	//Fade to black\n//Background: Forest
+261	message	Geez! I told you not to do anything reckless!\nWe should've just gone to Remu's office!\nNow you've dragged more people into this — even Tsubasa...
+262	message	Hey!! You have no idea what happened over here!!
+263	message	I can guess well enough!
+264	message	You just charged in on the spur of the moment\nand this is what happened, [NOEL]!
+265	message	Th-that's not true! Well, what about YOU then!
+266	message	From what I've heard,\n[MERU] hasn't done a single thing!
+267	message	You just followed everyone around saying\n"desuu~, desuu~" and nothing else!
+268	message	Th-that's not true...!\nI did too...
+269	message	I can tell just by looking at your face.
+270	message	[MERU], you're always dithering like that,\nand in the end you just follow someone else around!
+271	message	That's not true!!\nI searched properly for the teacher!\nWhat about you, [NOEL]!?
+272	message	We've got to get back to our own world\nbefore we can even search for the teacher!
+273	message	Did it ever occur to you\nthat the teacher might have gone to another world too?
+274	message	Oh...
+275	message	[NOEL] really is an idiot!!
+276	message	What do you think we set out on this journey for!?\nYou've forgotten even that — what ARE you doing!!\nI don't care anymore!!
+277	message	//Meru runs off.
+278	message	[MERU]!? Where are you going!?
+279	message	I'll search for the teacher all by myself!!
+280	message	H-hey... what are you even saying...
+281	message	//Claude arrives.
+282	message	Um, shouldn't you go after her?
+283	message	She doesn't have the guts\nto go off somewhere alone. Don't worry about it!
+284	message	//Background: Dokoka Town\n//Polial (stone) is present.
+285	message	Uuuuugh,\nif I don't go now...!\nI just can't take it anymore!!
+286	message	//Light flares and Meru vanishes.\n//Fade to black\n//Background: Dokoka Town — shop
+287	message	Huh!?\n[MERU] really left!?
+288	message	Yup! She's gone!\nShe's not in this town anymore!
+289	message	No way... she can't...\nThere's no way she could do something like that...!!
+290	message	Oof...\nDid I make her totally mad...?
+291	message	//Background: Dokoka Town\n//Everyone gathers to discuss what to do next.
+292	message	[MERU]\nwent off on her own?
+293	message	We've got to go after her!
+294	message	Go after her how? We can't even chase her anywhere.
+295	message	That's the problem.\nRight now, if we leave Dokoka Town,\nwe have no idea where we'd end up.
+296	message	Then perhaps it'd be better\nto wait for [MERU] to\ncome back here.
+297	message	Then I'm heading on ahead.\nSitting around waiting\nisn't going to make Riko show up here.
+298	message	Isn't splitting up a bad idea?
+299	message	I'm not getting stuck in place\nover someone who wandered off on her own!\nNo way!
+300	message	Aria's right!\nDon't worry about [MERU],\nshe'll be fine.
+301	message	Aren't you worried, [NOEL]?
+302	message	It's partly my fault [MERU] left,\nso I can't go making trouble\nfor everyone else because of it.
+303	message	[MERU]'s a magical yo-yo user too,\nso she should be able\nto handle most problems on her own.
+304	message	You think she'll be okay alone?
+305	message	Unlike me, [MERU]'s smart\nand quick on her feet — and above all,\ncareful and skilled. I think she'll be fine!
+306	message	Th-this is a new development!\nWhen those two meet again,\nwhat on earth will happen...!
+307	message	You're weirdly carefree, huh?
+308	message	(Aria, Sonico is a rookie gravure model\nwho thinks all of this\nis a movie shoot...)
+309	message	(Thinks it's a shoot, huh...\nWell, she'd probably be happier\ngoing back to her world none the wiser...)
+310	message	So for now, we all act as one —\ndoes that sound alright, I wonder?
+313	message	Yeees.
+314	message	(Riko, I'll catch you for sure...!\nWait for me, Mama...)
+315	message	//END

@@ -1,0 +1,276 @@
+row	column	english
+4	message	.........
+5	message	Tiffania...?\nWhat are you doing?
+6	message	...Um, nothing in particular...
+7	message	But you were looking around...
+8	message	Huh!? Was I?\n...Was I doing that...
+9	message	Actually, something's been bothering me...
+10	message	Lately I feel like someone's watching me.
+11	message	Someone... you mean like a stalker?
+12	message	Stalker...?\nWhat does that mean?
+13	message	Um... it means someone's interested in you\nand secretly follows you around...
+14	message	Interested...?\nI don't really understand, but...\nI don't think it's like that.
+15	message	It's more like... the way other people\nlook at me bothers me a little.
+16	message	Is something wrong with me?\nOr did I do something strange?
+17	message	No, I don't think anything's wrong,\nor that you did anything...
+18	message	Then... what could possibly\nbe the cause...
+19	message	Maybe I did something\nto offend someone.
+20	message	Hmm, really...?\nCouldn't it just be your imagination?
+21	message	I hope so...\nBut I'm worried...
+22	message	I haven't really\ninteracted with many people...
+25	message	Maybe it's because you're beautiful, Tiffania...
+26	message	N-no.\nMe... there are plenty of\nbeautiful people here.
+27	message	No need to be so modest...\nIf not, it's probably a misunderstanding.
+30	message	The more you worry, the more you'll notice.\nYour attention just goes there...
+31	message	Is that... how it is...
+34	message	There's really nothing to worry about.\nJust be yourself, like always.
+35	message	Is... that so?
+36	message	Okay.\nI'll try not to worry.
+37	message	Thank you for hearing me out.
+38	message	But if you notice anything,\nanything at all, please\ntell me.
+39	message	I want to be friends with everyone.
+40	message	That feeling alone... is enough.\nEveryone feels the same way.
+41	message	Yes, I pray\nthat's true.
+44	message	.........
+45	message	...Tiffania?\nAre you feeling down?
+46	message	...Yes.
+47	message	It's about what I mentioned before-\nbeing watched by someone.
+48	message	It turns out I was the cause after all.\nI was too scared to say it then...
+49	message	The cause?
+52	message	Did you do something bad?
+53	message	Nothing bad, but in a way...\nmaybe it is bad.
+56	message	Being beautiful...?
+57	message	Huh? N-no!\nI'm not beautiful!\nIt's not that...
+60	message	I'm a half-elf.\nThat's probably what's\nmaking everyone uneasy.
+61	message	Since long ago, half-elves and humans\nhave fought.
+62	message	Humans saw half-elves as a threat,\nand half-elves saw humans the same way.
+63	message	I think that deeply rooted belief\nis making them see me as an enemy.
+64	message	At this point, accepting a half-elf like me\nmust be difficult.
+65	message	...Hmm.\nI don't think that's true, though...
+66	message	I-it's not?\nBut...
+67	message	It's true I made friends\nat the Tristain Academy of Magic.
+68	message	But to everyone I met on this journey,\nI'm just a half-elf.
+69	message	Accepting me... must be hard.\nI was prepared for that...
+70	message	I see, so that's how it is in your world.\nBut in my world it's different.
+71	message	Different?\nLike a world where humans\nand elves get along?
+72	message	Who knows?\nI don't know the details, but\nthere are worlds with no elves at all.
+73	message	I doubt many people think of\nhalf-elves as enemies.\nProbably...
+74	message	Huh? Really?\nWas I jumping to conclusions...
+75	message	I thought elves and humans fought\neverywhere and hated each other...
+76	message	You're right.\nDifferent worlds, different ideas.\nMy common sense doesn't apply here.
+77	message	...I doubted everyone\nbased on my own assumptions...
+78	message	Being anxious is... natural.\nBy the way, do you dislike\nhalf-elves, Tiffania?
+79	message	No, not at all...\nI'm glad to be who I am.\nThat's how I feel.
+80	message	Then you should be proud\nof being a half-elf.\nOtherwise it'd be sad.
+81	message	...Yes!\nThank you!
+82	message	(I'm not confident myself, but...\nI'm saying weirdly positive things...)
+83	message	Be proud of being\na half-elf... got it!
+84	message	I'll try!\nAnd also...
+85	message	Just knowing everyone doesn't see\nhalf-elves as enemies\nmade me happy.
+86	message	Can I come to you with my worries\nagain sometime?
+87	message	Yes... of course.
+88	message	Thank you.\nI'm so happy!
+90	message	(Well, half-elves are probably rare\nin any world...)
+91	message	(They might just be staring\nout of simple curiosity...)
+94	message	...Hmm...
+95	message	Um... could you\nhear me out?
+96	message	S-sure... I'm listening.\nDid something happen?
+97	message	Nobody will look\nme in the eye.
+98	message	I thought it was my imagination again,\nbut I can't convince myself it is...
+99	message	They look away right away,\nso I can't help but wonder...
+100	message	Huh. Why, I wonder?
+101	message	(Still...)
+102	message	...You're the same.
+103	message	Guh-... w-what!?
+104	message	Everyone looks down the same way.\nAt my chest, for some reason.
+105	message	Does that mean they don't want\nto meet my eyes?
+106	message	It's hard to ask them directly...\nI wanted to confirm with you,\n...and you're the same.
+107	message	N-no, it's not that...\nIt's just, your chest... um...\nit's big, so it catches my eye.
+108	message	N-no way...!\nUm... this is embarrassing.\nStop looking over here so much!!
+109	message	Louise looks at my chest too...\nand sometimes makes a really\ndisgusted face...
+110	message	...Is something wrong?\nWith my...?
+111	message	No, nothing's wrong.\nIt's just big... and.
+114	message	Louise's case is... probably different.\nI don't think she dislikes you or anything.
+115	message	But... I'm pretty sure\nshe looks at my chest.
+118	message	That's part of what makes you you, Tiffa.\nNobody's denying that.
+121	message	...Ugh...\nIt's still embarrassing...
+122	message	But... actually, not everyone\nreacts the same way.
+123	message	Some people look at my chest\nand seem really angry...
+124	message	I don't know what to do...
+125	message	...Ah, that's...\nprobably jealousy...\nSame as Louise earlier.
+126	message	Jealousy...?\nWhy would anyone be jealous...
+127	message	It's like wanting what you don't have...\nor chasing an ideal...
+128	message	Huh? Um, I don't really get it...
+129	message	You mean my big chest\nmakes someone jealous?
+130	message	Why would that happen?\nIs it because I'm a half-elf after all...
+131	message	That's... unrelated.\nIt's purely admiration and wanting\nwhat you don't have, creating friction...
+132	message	Hah...\nIs that how it is?
+133	message	I see...\nThough I don't really understand.
+134	message	(She's tilting her head a lot...\nI might've confused her...)
+137	message	Hah... hah... ngh...
+138	message	Tiffania? You're breathing hard.
+139	message	I-I'm fine!
+140	message	I'm just... trying\nin my own way.
+141	message	So don't worry...\nI'm perfectly fine.
+142	message	But... your clothes look different somehow,\nor no, they're the same, but...
+143	message	Is the extra room around your chest... the same thing?
+144	message	Geez, i-it's embarrassing,\nso stop looking!!
+145	message	Right now... I have to endure.
+146	message	Because I want to be friends with everyone.\nHah... hah...
+147	message	I want to do\neverything I can.
+150	message	You're making a troubled face...\nMaybe you shouldn't do that...
+151	message	But I don't know what else I can do.
+154	message	Um, the direction of your effort...\nis going the wrong way, I think.
+155	message	I don't think there's another way.\nBecause I'm the cause.
+158	message	Even so, you're straining so hard,\nyou're leaning forward.
+159	message	I'm fine! I can stand up straight!\nSee...
+162	message	Ah!?
+163	message	Your chest got bigger...?\nNo, it just went back to normal...\nThe slack in your clothes is gone...
+164	message	...This is embarrassing...
+165	message	I went through the trouble of wrapping\nbandages... Failure.
+166	message	Bandages?\n...Are you hurt?
+167	message	N-no,\nsomeone told me.
+168	message	There's something called sarashi\nthat's good for binding your chest.
+169	message	But I don't have sarashi,\nso I tried wrapping bandages.
+170	message	Hoping it'd look even a little smaller...
+171	message	I-I see...\nBut you don't have to force yourself to hide it...
+172	message	It's embarrassing,\nso don't look!
+174	message	If it's that embarrassing, why do it...
+175	message	But I guess... that's not an option,\nis it? For you, Tiffa...
+178	message	...Tiffania.\nYou're not binding this time, huh.
+179	message	...Right.
+180	message	No need to look so down.\nYou don't have to force yourself.
+181	message	I want to be like everyone else.
+182	message	I don't want people looking at me weirdly-\nI want to spend time as friends.
+183	message	Then I think you've already done that.
+184	message	But my chest is weird, right?\nThat's why everyone stares, right?
+185	message	So I thought I'd hide\nthe weird part.
+186	message	It didn't work, though...
+187	message	Pfft... hee.
+188	message	W-what's so funny!
+189	message	Guh... hee hee hee...!
+190	message	That's... mean, laughing at me.\nI'm seriously worried here.
+191	message	You don't understand how sad I feel.
+192	message	Otherwise you wouldn't laugh\nso loudly.
+193	message	S-sorry... I didn't mean to laugh...\nBut I thought that earnest side of you\nis part of what makes you Tiffania.
+194	message	Huh? What do you mean?
+197	message	You have a very... kind side.
+198	message	That's not true.\nI'm just desperate about a lot of things.
+201	message	And a very... hasty side.
+202	message	Really?\nI think things through in my own way...
+205	message	Y-your b-b-big chest is... one of your charms, I think.\nBut what have you been thinking about lately, Tiffania?
+206	message	Well, because I want to get along with everyone,\nI've tried talking to people,\nand fixing my weird parts.
+207	message	I've tried not\nto do anything offensive.
+208	message	And when I still thought\nI might have some fault,\nI looked for it.
+209	message	Basically, I looked for things\nabout myself I could fix.
+210	message	But everyone's so charming,\nso I have to make an effort to be friends with them…….
+211	message	It's okay. Everyone feels the same way.\nNobody's going to hate Tiffania-san for trying that hard.
+212	message	Eh?
+213	message	Try looking at everyone properly, a little more.\nAnd at yourself, too.
+214	message	……I wasn't really\nlistening to what other people were saying.
+215	message	'They hate me,' 'I'm weird'……\nI was deciding all of that on my own.
+216	message	Even though maybe nobody\nreally thought that.
+217	message	So…… you don't need to worry about it.
+218	message	Ah, um… thank you so much!\nI'll really try talking with everyone!
+219	message	I'm glad to see Tiffania-san\nseems to have cheered up.
+222	message	It's nothing big, but\nthere's something I wanted to ask…….
+223	message	Hmm?　What is it?\nIf it's something I'd know…….
+224	message	Um…… you once told me\nnot to worry about it.
+225	message	But if I'm not weird, then\nwhat are my good points?
+226	message	……What's with that question?
+227	message	Please think of it\nlike a survey of sorts.
+228	message	It's not like I want to ask anything weird.\nI just want to have a little more confidence in myself, sort of.
+229	message	So that's what this is.\nPlease, will you tell me?
+232	message	That you're very kind……\nYour thoughtfulness is wonderful.
+233	message	Hee hee.\nThank you.
+234	message	You always compliment me for being kind.
+237	message	That being a half-elf is cool…….
+238	message	Huh?　That's a bit of an unexpected answer.\nCool…… really?
+241	message	Hm!?　I feel someone's eyes on me……\nUm, are you looking at my chest?
+242	message	Huh?　No, I never said that.\nYour chest, I mean—no.
+243	message	Huh?　But I saw you glance,\nso I thought maybe…….
+244	message	Just a little curious, then?
+245	message	It's fine.\nI used to worry about it until recently, though…….
+246	message	But now it's turning\ninto a bit of confidence.
+247	message	I-is that so.
+248	message	Then, among everyone else,\nwho do you like?
+249	message	Huh!?　L-like……!?
+250	message	Everyone's so charming,\nI'd like to use them as reference.
+251	message	What kind of person a man is interested in…….
+252	message	E-everyone's charming……\nI couldn't choose…… not me.
+253	message	I see…… of course.\nUnderstood. Thank you.
+254	message	I'll take that as reference.
+256	message	……That was a direct question.
+257	message	What are you after, asking questions like that?\nNot like you'd tell me if I asked.
+260	message	……Um, er…… how do…… I look?
+261	message	I did some studying.\nOn attractive women.
+262	message	Um……\nYou look like the usual Tiffania-san to me.
+263	message	This!\nI incorporated an item.
+264	message	A riding crop!
+265	message	Why would you have something like that?\nI'm…… not following at all…….
+266	message	I wanted to learn from Louise-san,\nso I borrowed this.
+267	message	I asked Louise-san, as an attractive woman,\nand she said she has something like this.
+268	message	Louise-san's older sister supposedly has a whip too,\nthough a different kind.
+269	message	S-so, how is it?
+270	message	Even if you ask me 'how'……\nthis is a tough one…….
+271	message	I-is it no good?
+272	message	Carrying a riding crop around…… isn't normal.
+273	message	So you're saying I have to actually use it?
+274	message	That's true……\nJust holding a whip would be weird.\nA tool has to be used.
+275	message	Th-then!　I'll use it!
+278	message	Ow!?
+279	message	Huh?　A-are you okay!?\nIt does hurt, right?
+282	message	……It hurts…….
+283	message	O-of course!\nBut a whip's whole purpose\nis hitting things, so…….
+286	message	……Well, this has its own appeal…….
+287	message	Um…… it doesn't hurt……?\nEven though you're being whipped…….
+290	message	Ugh……\nIs this what 'good' is?
+291	message	I've never whipped anyone,\nso…….
+292	message	It makes me feel like\nI'm doing something bad…….
+293	message	I think you've got it wrong……\nWhipping people isn't\nLouise-san's good point…….
+294	message	Huh!?　It's not!?\nI-I…… I was wrong again, wasn't I.
+295	message	I thought something felt off.\nPeople don't normally do this.
+296	message	But Louise-san carried a whip along with her wand,\nso I thought that was normal…….
+297	message	I'm sorry……\nfor troubling you……\nI'll go study some more.
+299	message	Tiffania-san!　W-wait!\n……And she's gone…….
+300	message	At this rate she's going to keep\nheading in the wrong direction…….
+301	message	I have to properly stop Tiffania-san,\nor she might really go off in a strange direction…….
+304	message	Sorry to keep you waiting.
+305	message	Tiffania-san?　What's it this time?\n……Huh!?
+306	message	Come, no point standing around here.\nLet's go.
+307	message	Go…… where?
+310	message	……So?　Is it weird?\nI tried wearing different clothes than usual?
+311	message	Um…… I think it suits you.\nBut why here?
+312	message	Last time I tried learning from Louise-san,\nbut that didn't seem right…….
+313	message	This time I tried learning from Siesta-san.
+314	message	Siesta-san takes care of nobles,\nright?
+315	message	So today I became a café waitress\nto try something similar.
+316	message	I'm not used to it…… I don't really get it.\nBut I'll do my best.
+317	message	Then, allow me to serve you.
+318	message	Serve?
+319	message	Yes. Siesta-san taught me.
+320	message	That maids serve.
+321	message	I see…….
+322	message	………….
+323	message	………….
+324	message	…………?
+325	message	Tiffania-san?　What are you going to do for me?
+326	message	S-service!
+327	message	But what am I supposed to do for 'service'?\nWhen it comes down to it…… I don't know…….
+328	message	*Pff*, that's right!
+329	message	Ugh…… don't laugh.\nIt's my first time, so…….
+330	message	Siesta-san never told me what it actually involves…….
+331	message	Ahaha…… sorry, it's just a little funny……\nThen, shall we just talk together?
+332	message	Just talk?　That's no different from usual, though?
+333	message	I don't think what Siesta-san does\nis that kind of thing?
+334	message	I think that counts, too.
+335	message	Haa…… that's service too…… I don't get it.
+336	message	……But talking is fun, so\nif that's okay…….
+337	message	Hey, I…….
+340	message	Um~?　You'll catch a cold sleeping in a place like this.
+341	message	Nn…… Tefa-san……?\n……Pff…… hehe.
+342	message	Huh?　Why are you laughing at my face?\nWas something funny?
+343	message	No.\nI just thought, Tiffania-san is Tiffania-san even in my dreams.
+344	message	What do you mean?\nMe in a dream……?
+345	message	……N-n-nothing at all.\nLet's keep getting along.\nTiffania-san.
+346	message	Y-yes!\nI don't quite get it, but……\nLet's!

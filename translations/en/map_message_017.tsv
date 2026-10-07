@@ -1,0 +1,216 @@
+row	column	english
+3	message	There it is! Every time, but it's just an instant.
+4	message	Wow, this isn't Kyouto!\nI thought we'd go back, but\nit's somewhere else!
+5	message	It feels similar to my world,\nbut also not.
+6	message	Maybe similar to the world me and Aoi-chan were in?\nCan't tell if it's the same, though.
+7	message	Um... this building looks familiar.
+8	message	It's Butei High!\nThe school Aria-san goes to!
+9	message	Aria's?
+10	message	Umm, Aria's school!\nA name like... 'Beauty High'...?
+11	message	Um, I think it's Butei High...
+12	message	Right right! That's it! That!!
+13	message	You know this place?\nThen we can relax a little.
+14	message	I have some bad memories of it, though...
+16	message	Huh... you all are...?
+17	message	Hauuu, Shirayuki-san! Long time no see!
+18	message	Ahaha... long time no see, Shirayuki-san.
+20	message	...I see.\nThe mystery still isn't solved.
+21	message	We still don't know the cause.\nSo we split into 3 groups...
+22	message	Aria-san's in another group,\nso she probably didn't\ncome to this world.
+23	message	Aria's in another group,\nso she probably went somewhere else.
+24	message	Ah, but don't worry!\nAria-chan was super energetic!
+25	message	Yes, Aria will be fine\nwherever she goes.
+26	message	Rather, it's this side that's...
+27	message	This side?
+28	message	No, it's nothing.
+29	message	Hm? Something troubling you?
+30	message	Butei High always\nhas troubles,\nso don't worry about it.
+31	message	The room you used before\nis still kept ready,\nso please use it freely.
+32	message	That helps!\nWe didn't really have\nanywhere to go.
+33	message	Thanks! Super helpful!\nSomehow... Shirayuki-san, you seem\nused to this stuff!
+35	message	Hmm, so this is the room you got to use.
+36	message	...I didn't so much 'use' it as...\nI was kept under Aria-san's watch\nhere the whole time.
+37	message	A warrior needs half a mat to sit and one mat to sleep.\nThere should be a shower, and if it's free I can't complain...\nwait, huh?
+38	message	No way you were sleeping in this same room\ntoo, were you!?
+39	message	S-s-sorry,\nI was sleeping here too...
+40	message	Shameless! Sit right there!\n'At seven, boys and girls don't share a bed' — that's common sense!
+41	message	Uuuuh,\neven if you tell ME that...!
+43	message	Huh? Whatcha doing?\nSparring?
+44	message	No!
+45	message	Forget that, it's terrible, Houki-chan!
+46	message	What happened?
+47	message	Shirayuki-chan's being targeted by a kidnapper demon!
+48	message	Kidnapping?
+49	message	There's a kidnapper called the Demon Sword (Durandal)\nthat only targets Chou-tei, apparently.
+50	message	Oh, Chou-tei are Butei who use psychic powers,\nand Shirayuki-san's special even among them.
+51	message	If she's targeted\nby this Demon Sword (Durandal),\nwhy was Shirayuki out walking alone?
+52	message	Umm, I don't really get it, but...\nmaybe the Demon Sword (Durandal)\ndoesn't really exist.
+53	message	Doesn't exist?\nLike a school ghost story or urban legend?
+54	message	Nobody's ever seen it, apparently.\nDoes it exist or not — mystery.
+55	message	So the rumor that Shirayuki's targeted\nis spreading with no basis at all.\nIs that what you're saying?
+56	message	Shirayuki-chan\nwas probably brooding over that.
+57	message	Hey, can't we do something\nfor Shirayuki-chan?
+58	message	Even so, we're outsiders.\nIf we act carelessly\nand complicate things, that'd be bad.
+59	message	Anyway, was it okay to just wander the school\nasking around!?
+60	message	Don't be so stiff!
+61	message	Last time too, Aria-san sent me to buy\n'momoman' and stuff —\ncoming and going was pretty free.
+62	message	'Free,' or... I had to go\nor it'd be instant 'ventilation'...
+63	message	Right, this is a school where all students are armed.\nNo need for monitoring — as if it didn't exist.
+64	message	Thinking about it, 'kidnapping Shirayuki'\nsounds like a silly story,\neven so.
+65	message	There's nowhere safer than here.
+66	message	Nowhere scarier,\neither...
+67	message	But the dorms are off-campus.\nCommuting could be a bit dangerous.
+68	message	Are the dorms on campus?
+69	message	Um, I believe...\nthey're off-campus.
+70	message	Then let's go see her\non her way home!
+72	message	Ah, there she is!\nHey, Shirayuki-chaan!
+73	message	Oh, Haruka-san.\nAnd everyone.
+74	message	Huh, you wear shrine maiden clothes?\nSuits you!
+75	message	Going home in that outfit — did something happen?
+76	message	No, after afternoon training,\nI was heading back to change.\nAnyway, what's up? Going out?
+77	message	No.\nWe just heard the Demon Sword (Durandal) rumor,\nand it got me worried...
+78	message	Ah... it's reached\nyour ears too.
+79	message	What do you think of the rumor, Shirayuki-san?
+80	message	Well... I think the rumors have gotten\na bit too big. There's no way\nsomeone like me would be targeted.
+81	message	But I heard Shirayuki-chan's special?
+82	message	That's probably because I'm student council president.
+83	message	The academic affairs teacher says to get a bodyguard...\noverprotective, right?
+84	message	Bodyguard?
+85	message	Yes, since going alone is dangerous.\nI don't think the Demon Sword (Durandal)\nreally exists, though...
+86	message	That's it! I got an idea!
+87	message	Huh?
+88	message	We'll be Shirayuki-chan's\nbodyguards!
+89	message	All of you?
+90	message	Haruka... what are you starting now...!
+91	message	Listen, Houki-chan! I got an idea!
+93	message	Hey! Too close!
+94	message	Listen, Shirayuki-chan.\nThis world might have someones from other worlds\nlike us, right?
+95	message	Bad-looking folks came too, right?
+96	message	That's right...\nthere's someone super dangerous.\nDoctor Shinigami...
+97	message	So the one targeting Shirayuki-chan\nmight be a bad guy from another world!
+98	message	Hmm... so it wasn't\njust a random thought.
+99	message	If so, it might not be\nunrelated to us either.
+100	message	Then that means...\nit's our turn?
+101	message	...
+102	message	Uh, wh-what's wrong?\nScary face...?
+104	message	Careful! Hostility... approaching!
+105	message	What!?
+106	message	...!!
+107	message	!!
+108	message	Enemies everywhere\nbefore we knew it!
+109	message	Shirayuki-san's popular!\nMaybe not the fun kind of popular, though.
+110	message	I'll go call Red Angel!
+111	message	Hurry, Haruka!\nKoto, guard Shirayuki!
+112	message	You got it!
+113	message	I appreciate the concern,\nbut don't worry.
+114	message	Hm?
+116	message	I can protect myself too.
+117	message	Haha, as expected of a Butei!
+118	message	Mm, no openings...!\nShe's highly trained...
+119	message	Hoshiga Shirayuki, going in!!
+121	message	Sorry to keep you waiting, everyone!
+122	message	Alright, let's do this!!
+124	message	What's the enemy after?
+125	message	Dunno? Shirayuki-san\nor us — which?
+126	message	Could be both.
+127	message	Haha, simple enough!
+128	message	We just beat 'em all!
+129	message	I'll take point! Everyone else...
+130	message	Ah, none of that!\nWe're all strong!
+131	message	Except for about one person.
+132	message	Sorry, sorry...\nI'll try not to drag you down...\nI'll be careful...
+134	message	Wh-who's that?
+135	message	...I wonder?
+136	message	Look! What's in her hand!
+137	message	That's the demon sword!?\nThen you're the Demon Sword (Durandal)!
+138	message	You won't lay a finger\non Shirayuki-chan!
+139	message	...
+140	message	Wait, from the name, shouldn't the Demon Sword (Durandal)\nbe a Western blade?
+141	message	Huh...?
+142	message	That's less a sword and more a hatchet.
+143	message	Aren't swords and hatchets pretty much the same?
+144	message	No! Totally different!
+145	message	Well, it sure doesn't feel\nlike a Durandal.
+146	message	Honestly... the sword is a warrior's soul.
+147	message	...Are we done chatting?
+148	message	Whoa, here she comes!
+149	message	Roger!
+150	message	Shirayuki-chan, be careful too.
+151	message	Yes!
+153	message	Did we get her...?
+154	message	...
+156	message	Ah, she ran...
+157	message	What was that... creepy person...
+160	message	Phew...
+161	message	...
+162	message	Um... is something...?
+163	message	No,\nI just thought you fought quite normally.
+164	message	Huh...
+165	message	I'd heard Chou-tei use psychic powers,\nbut you fought without them — that caught my eye.
+166	message	My power isn't much.\nThere's no way the Demon Sword (Durandal)\nwould target me.
+167	message	Is that so?
+168	message	Yes...
+169	message	...Then, was that creep's target\nus?
+170	message	Shirayuki-san, while we were gone,\ndid things like that show up?
+171	message	After Aria-san and the others vanished from this world,\ndid things like that appear?
+172	message	No, not as far as I know.
+173	message	So we were the targets after all...
+174	message	That would\nmake more sense.
+175	message	Shirayuki-chan?
+176	message	There's no way I'd be targeted.\nSo please, don't worry\nabout me.
+177	message	The rumors and the academic office teachers\nare all exaggerating.
+178	message	I'm fine on my own.
+179	message	But just in case, a bodyguard...
+180	message	No.\nI appreciate the thought, but\nI refuse.
+181	message	What! Why!?
+182	message	I'm Hoshiga Shirayuki.\nA shrine maiden of Hoshiga Shrine,\nwith over two thousand years of history.
+183	message	Normally, I'm not even allowed to leave the shrine grounds...\nI'm ordained to avoid contact\nwith people and the outside world as much as possible.
+184	message	Huh...
+185	message	Even entering Butei High\nwas barely permitted,\nwith many restrictions.
+186	message	Not leaving Butei High's grounds without permission,\nnot appearing before crowds.\nAnd...
+187	message	I know it myself.\nIt's better not to get deeply involved with people.
+189	message	...That's not okay!!
+190	message	Huh?
+191	message	Saying you want to be alone...\nanyone would be lonely!!
+192	message	Haruka-san? What's gotten into you?
+193	message	I'll be Shirayuki-chan's friend!\nOkay? Don't say things like that.
+194	message	...
+195	message	Your feelings alone are enough.\nAs a shrine maiden of Hoshiga Shrine,\nI can't break the taboo.
+196	message	Shirayuki-chan...!
+197	message	Excuse me.
+200	message	...
+201	message	Haruka-san...\ndon't be so down.
+202	message	Hearts don't always connect.\nSometimes they just don't.\nInstant combos never work out, y'know?
+203	message	Good grief, Haruka has\nno restraint with people.
+204	message	...
+205	message	Mm... th-that is!\nI'm not saying Haruka's wrong!
+206	message	We're outsiders to this world.\nEven trying to get deeply involved,\nthere are limits, right?
+207	message	Yeah, but still...!
+208	message	Haruka-san, why are you so desperate?\nYou're surprising me.
+209	message	Being alone... hurts.\nI know, because I was alone too.
+210	message	Haruka...
+211	message	But... I had Aoi-chan...
+212	message	No matter how much I pushed her away,\nAoi-chan never gave up calling out to me...\nShe caught my heart.
+213	message	I don't know if I can do it\nlike Aoi-chan.\nBut I don't want to give up...
+214	message	Even if they call me nosy,\neven if they call me a bother,\nI'll be Shirayuki-chan's friend!
+215	message	Haruka... you really are...
+216	message	Huh, nice!\nThat's so Haruka-san!
+217	message	Ehehe, sorry.
+218	message	No need to apologize.\n(When she uses that voice... I can't help\nremembering my sister... mm...)
+219	message	Either way, we must find out whether this\nDemon Sword (Durandal) really exists and what it is.\nWe don't know if it's unrelated to us yet.
+220	message	Speaking of, Hoshiga Shrine, was it?\nIf it's that amazing a shrine,\nmaybe we should go pray there!
+221	message	'I wish I become friends\nwith Shirayuki-san!' — like that!
+223	message	And also,\nmay I meet delicious food!\nMay I discover legendary delicacies!
+224	message	And defeat! The Demon Sword (Durandal),\ndon't let me get a stomachache from overeating,\nand, and...!
+225	message	Too many wishes!
+226	message	Ahaha, so Koto-chan!
+227	message	Hehe!
+229	message	One after another...\nhow much offering money do you plan to throw!
+230	message	Any god swayed by the amount of offering money is a fake!
+231	message	Ahaha! Koto-chan!
+232	message	Well, we shouldn't\ntake our eyes off Shirayuki.
+233	message	But Haruka, don't rush too much.\nYou don't want to be hated, right?
+234	message	Yeah. I know it won't be easy\nand it'll take time.
+235	message	Well, for now, let's do lunch time!
+236	message	It's always food with you...
+237	message	//END

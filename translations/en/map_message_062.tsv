@@ -1,0 +1,227 @@
+row	column	english
+3	message	...So you finally came. The one who called this meeting\nbeing late is hardly commendable.
+4	message	Sooorry, Jeanne!\nSneaking around takes\nquite a bit of effort, y'know.
+5	message	I assume you know,\nbut I.U. is reconsidering\nits relationship with Mii and Kei.
+6	message	I know.\nBut I've still got some\npersonal business to take care of.
+7	message	Is that why you called me here?
+8	message	Pretty much.\nThis time it's intel in exchange\nfor a favor. You in?
+9	message	Intel... Heh.\nIf it were intel on your whereabouts,\nAria would pay dearly for it.
+10	message	Grant me any three wishes\nand I'll tell you.
+11	message	A joke.
+12	message	Wow! Jeanne telling jokes—\nnow that's a rare sight!
+13	message	Is it? ...No, perhaps I've been\ninfluenced by that bunch.
+14	message	They're nothing like I.U.,\nbut I don't dislike them.
+15	message	Hmm, sounds like you're having fun.
+16	message	That aside, let's get to the point.
+17	message	Then, as a freebie, the intel first.\nMii and Kei should be coming\nto stir up trouble on your end soon.
+18	message	Oh? When?
+19	message	It's Mii we're talking about. Who knows?\nI'll look forward to seeing how you handle it.
+20	message	And in return, you want?
+21	message	Well...
+22	message	//fade to black\n//Event CG: Mii playing in the pool
+23	message	Kyahahahaha!!\nSwimming is such a paaain!!
+24	message	Humans are weird.\nWhy go out of your way to do this stuff?
+25	message	Wearing these goofy clothes.\nA school swimsuit, was it?\nIt's not cute at all!
+26	message	When I invited Kei-chan to go swimming,\nshe just went "incomprehensible" and wandered off.
+27	message	Oh, maybe Kei-chan's too heavy to swim!\nI wanted to see her going\n"bubbling down, cannot flooat"!
+28	message	Maybe she's secretly shy?\nAhahahaha♪
+29	message	//fade to black\n//Background: Butei High classroom
+30	message	The black IS, the Symphogear, and Kei.\nStill no word on any of them?
+31	message	...I've had every Butei High department\nlook into it, but\nthere's no solid intel at all.
+32	message	Kei aside, where did those black ones\ndisappear to?\nCould they be ghosts or something?
+33	message	Since neither I nor Rem-san have sensed\nanything like that,\nI don't think so.
+34	message	Rem mentioned something about doppelgangers—\nyou know, those lookalike monsters\nshe talked about.
+35	message	Black lookalikes are popping up\nin worlds everywhere, desu~!
+36	message	The scary part is, those black ones\nshow up anywhere.\nWhere do they even come from?
+37	message	I wonder how they travel between worlds.\nThey don't seem connected\nto Mii and Kei, though...
+38	message	Doesn't look like they're using a Poryal.\nUnless there are more Poryals\nin places we don't know about.
+39	message	There's also that Doctor Shinigami,\nso perhaps our world connects somewhere\nto a place like the demon realm.
+40	message	The strange happenings at the hot-spring inn\nremain a mystery as well!
+41	message	I'd like to say that's ridiculous, but\nit's a fact that plenty of things\nscience can't explain keep happening.
+42	message	I don't think the black people are\nsomething in disguise.
+43	message	They don't seem to be machines either.
+44	message	So what ARE they? That's the question.
+45	message	Then we'll just have to catch one.\nLet's think of a way to lure them out.
+47	message	No, that won't be necessary.
+48	message	Jeanne! Where have you been!?
+49	message	Now, listen.\nIt seems Mii and Kei will be\ncoming after us soon.
+50	message	Where'd you dig up that scoop?
+51	message	That's...
+52	message	//Screen shake & flash, explosion sound
+53	message	What!?
+54	message	...The intel was already stale.\nThat Riko...!
+55	message	//Battle map: Butei High\n//Meru (Noel), Houki, and Chris force-deployed.\n//Kei and many grunts deployed.
+56	message	Target position confirmed.\nSystem: switching to combat mode.\nPreparing ground encirclement.
+57	message	This many enemies...!
+58	message	Are they after the Akatsubaki?
+59	message	Disclosure of information judged acceptable.\nObjective: Kenran Butou, and confirming\nthe IS's sustained combat capability.
+60	message	If you're spilling that much,\nyou're basically looking down on us!
+61	message	Judged beneficial to achieving the objective.\nThat is all.
+62	message	It seems I'm not even worth noticing.
+63	message	I have no interest in one\nwhose holy sword Durandal was broken.
+64	message	Durandal was not lost.\nReforged, it remains here with me.\nI won't be underestimated.
+65	message	Whatever she's plotting,\nI'll punch a hole right through it!
+66	message	Everyone, stay calm.\nWe don't know what else might show up.
+67	message	Kei! Our paths cross at last!\nTime to repay you for toying with me!!
+68	message	Yukine Chris's statement contains an error.\nI have never engaged in\nthe act of "playing."
+69	message	Don't play dumb, you tin can!
+70	message	I must correct the error again.\nAt the very least, I am not a "bastard."
+71	message	Ugh! You're annoying beyond belief!\nStrutting around on those obsolete specs!!\nThat's what makes it the worst!!
+72	message	Calm down, Chris.\nWhy not take a page from Hibiki?
+73	message	I'll just convey my feelings!\nBy any means necessary!
+74	message	What a look. I think I'm falling for you all over again.
+75	message	All right, let's go!
+76	message	//Battle start.\n//Enemy reinforcements (a few) at the start of turn 2.
+77	message	They're already here!
+78	message	Maybe they're trying to wear us down\nand force Kenran Butou to activate?
+79	message	Unfortunately, we still don't know how to activate it.
+80	message	The ones that just showed up are pretty too, desu~.\nCandidates for my collection, desu~!
+81	message	[MERU]-san!\nSave that for when we have breathing room!
+82	message	Being worn down bit by bit is nice too... ufufu!
+83	message	Hey! What's with that look!?
+84	message	Why's she looking so happy?
+85	message	B-best not to think about it!
+86	message	//Event below triggers after defeating several of the initially deployed grunts.
+88	message	More of them!\nBut now that the energy problem is solved,\nthe Akatsubaki has no blind spots!
+89	message	Not yet...
+90	message	//Event below triggers after defeating several more enemy grunts.
+92	message	Ugh, they're persistent!\nWhere do they keep coming from!?
+93	message	Truly, no end in sight.
+94	message	This is getting a little tough, desu~...
+95	message	Ufufu... being worn down\nbit by bit... feels good...
+96	message	Wh-what a weirdo...
+97	message	...Time to move.
+98	message	//The Master and the Rival appear.
+99	message	New readings!? That's!!
+100	message	!?
+101	message	Teacher! And [NOEL] too!?\nDid you come to save us, desu~?
+102	message	Teacher! And [MERU] as a bonus!\nDid you come to save us!?
+103	message	Foolish.
+104	message	N-no way...
+105	message	I-I knew it...?
+106	message	Do it.
+107	message	Yes! Teacher!
+108	message	Yes, desu~!
+109	message	Eve, you've joined forces with Kei?
+110	message	You don't need to know.
+111	message	[NOEL]-san,\nthere's no one among us\nwho wants to fight you.
+112	message	...
+113	message	Why won't you answer...!
+114	message	[MERU]-chan!\nWe're friends! We don't need to fight!
+115	message	...
+116	message	I see... words won't reach you.\nGot it!
+117	message	Warning. Eve: unauthorized combat intervention\nwill be deemed a hostile act.
+118	message	[MERU] is a traitor.\nI have the right and duty to dispose of her.\nWe have already discussed this.
+119	message	A traitor... me...?
+120	message	[NOEL] is a traitor.\nI have the right and duty to dispose of her.\nWe have already discussed this.
+121	message	Traitor!? That's a bit much!?
+122	message	Mission plan partially revised.\nOnly the disposal of the targets is authorized.
+123	message	(Good...)
+124	message	That works.\nThe rest of you aren't worth my notice.
+125	message	That outrageous woman!!
+126	message	(No, this is unnatural... Why now?\nThere must have been plenty of other chances\nto go after their lives...?)
+127	message	That's strange.\nDoes it have to be right now, kana? Kana?
+128	message	...
+129	message	//Battle resumes.\n//Talk event when Eve or the Rival engages a heroine.
+130	message	Don't resist, and you'll die easy.
+131	message	Confirming Eve's combat actions.\nClassifying as execution behavior.
+132	message	(...Good.)
+133	message	Teacher! Why are you doing this, desu~?
+134	message	Teacher, do you hate me that much?
+135	message	Shut up and die.
+136	message	You should die by the Teacher's hand.
+137	message	I should be disposed of by the Teacher, desu~!
+138	message	Since you defied my orders,\nyour will deserves to be ignored.\nWhat a fool needs is not a teacher, but death!
+139	message	This is all strangely theatrical, isn't it?
+140	message	(This exchange is unnatural...\nWhat are they after...?)
+141	message	//Event upon defeating Eve and the Rival.
+142	message	Persistent, aren't you.\nIn honor of that tenacity, I'll withdraw for now.
+143	message	Wait, desu~!\nWhy do we have to fight, desu~!\nAt least tell me why, desu~!
+144	message	[MERU], the real enemy is...
+145	message	Hold on!\nWhat are the Teacher and [MERU]\neven trying to do!?
+146	message	Figure it out already, desu~!\nThe enemy is...
+147	message	Silence.
+148	message	Y-yes!
+149	message	Eep! I'm sorry, desu~!
+150	message	We're going.
+153	message	//Eve and the Rival vanish.
+154	message	Are they hiding something, desu~...?
+155	message	What is it!? This doesn't sit right!!
+156	message	//Event after dealing a set amount of damage to Kei or after several turns.\n//SE: Kei's alert sound
+157	message	Error detected. Scanning all systems.\nProblem detected.
+158	message	What? What's wrong!?
+159	message	Cooling system anomaly.\nHeat-induced drop in processing speed, control lag.\nContinued combat judged problematic.
+160	message	Wh-what!?
+161	message	Looks like they were worried\nabout a long battle too.
+162	message	The price of high performance, eh?
+163	message	Is that why she's interested in Kenran Butou?
+164	message	Withdrawing from combat area.
+165	message	//Kei and the grunts vanish.
+166	message	An unexpected weakness, wasn't it?
+167	message	So she pushed herself every which way\nto get that performance.
+168	message	It'll be interesting to see\nwhat shape she's in next time she shows up.
+169	message	//Battle ends once Eve and Kei are gone from the map.
+171	message	...She fled at incredible speed.\nSomehow, it seemed almost... hurried.
+172	message	Your imagination, no?\nI doubt she has such feelings.
+173	message	Well, that worked out somehow.
+174	message	//Riko arrives.
+175	message	Hii! Good work, everyone!
+176	message	Riko!? To make your move\nat this timing... you've got nerve!
+177	message	Riko's a phantom thief who appears out of nowhere!
+178	message	Anyway, setting that aside!\nJeanne, was my intel useful?
+179	message	Unfortunately, it just barely didn't make it in time.
+180	message	Jeanne! Don't tell me\nyou got the Kei intel from Riko!?
+181	message	That's right.\nRiko and I are close, even within I.U.
+182	message	So the one who got close to us\nwas a spy!?
+183	message	No. Quite the opposite.
+184	message	//
+185	message	So, Riko Mine, you betray Mii and her lot too?
+186	message	Betray?\nRiko just used them.\nI don't recall ever joining them.
+187	message	That doesn't matter!\nI'll arrest you and make you testify\nabout Mama's false conviction in the Supreme Court!
+188	message	Okay.
+189	message	By force if I— ...huh?
+190	message	As the "Butei Killer," I'll testify.\nBut not for free.
+191	message	I don't need to hear your terms!\nI'll arrest you and that's that!
+192	message	...Aria loves her mama, huh.\nI get it — Riko loves her mother too.
+193	message	Motheeer... waaahhh!
+194	message	Huh? Wh-what?
+195	message	What's going on!?\nC-calm down!\nStop crying and explain! I'll listen!
+196	message	//
+197	message	(That reeks of lies.)
+198	message	(Those tears are for show.)
+199	message	(But we might squeeze some\nnew information out of her.)
+200	message	//
+201	message	It's not my place to say,\nbut could you hear Riko out?
+202	message	Let's hear her out!
+203	message	I owe Riko a debt from Kagami.\nI think we can at least hear her out?
+204	message	If you all say so.
+205	message	Thanks... Okay, I'll talk.
+206	message	//
+207	message	(She just smirked!)
+208	message	(She just smirked, right?)
+209	message	(That face just now...)
+210	message	//fade to black: time passes
+211	message	Your mother's keepsake rosary was stolen...?
+212	message	It's precious — my mother gave it to me.\nTo get it back, Riko was\nonly pretending to help them.
+213	message	Riko's rosary is worth more than\nall the Lupin family's other treasures combined.
+214	message	What an amazing treasure!\nThough I have no idea\nhow amazing it is!
+215	message	I'd heard the rosary was stolen by\nsomeone in I.U., but\nto think it ended up in Mii's hands...
+216	message	If I can just get the rosary back,\nRiko will do anything!\nEven testifying for Aria's mama!
+217	message	So, what would you have us do?
+219	message	Umm, what I want from everyone is...
+220	message	Make a contract with me\nand become my maids!!
+221	message	Whaaaaaaaaaaaaat!?
+222	message	//fade to black\n//Background: a weird place. Blue sky is fine.\n//Mii talks to Kei, who has returned.
+223	message	Aw, did Kei-chan mess up?
+224	message	//Event CG: Kei, leaking water
+225	message	Anomaly in the enhanced cooling system.\nCoolant is leaking.
+226	message	Ahahahaha!! You're soaked!
+227	message	Cause: the continuous-operation limit of ultra-high-speed combat computation\nwas shorter than the theoretical value.
+228	message	As expected, without measured data,\na stable system cannot be built.
+229	message	So, so?\nHow was the Akatsubaki? Think we can use it?
+230	message	The energy from the Akatsubaki's Kenran Butou\nis currently judged non-transferable outside an IS.\nI recommend removing it from our priorities.
+231	message	Hmm... so it's a no-go.
+232	message	//Event CG off.
+233	message	Mii, please present the next course of action.
+234	message	Our next fun is all ready!\nNyufufu!!
+235	message	//END

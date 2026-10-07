@@ -1,0 +1,277 @@
+row	column	english
+4	message	Huh?\nI definitely heard Aria-san's voice from over here...
+5	message	What are you mumbling to yourself about?\nWeird guy.
+6	message	Whoa!? When did you get behind me!?
+7	message	Getting behind a wide-open guy like you?\nEven a monkey could do it.
+8	message	No, I don't think there's anyone among us\nwhose back you couldn't take...
+9	message	And there's nobody whose back you can't take, either.
+10	message	That's not what I came to talk about!\nHere, hold both hands out in front.
+11	message	Huh? Okay.
+14	message	You're under arrest on suspicion of theft.\nIf I'd caught you red-handed it'd be instant holes,\nbut I'll arrest you properly for now.
+15	message	H-handcuffs!? I didn't steal anything!
+16	message	Shut up!\nYou're the one who stole\nmy momo-man!
+17	message	Momo-man? And why do you think it's me...
+18	message	Your everyday suspicious behavior\nis the biggest reason to suspect you!
+21	message	Well, even if you say that, I've always been like this...
+22	message	That's it! That attitude is the problem!\nStraighten up!
+23	message	If you're under false suspicion,\nyou'd normally act more dignified!
+24	message	(I feel like she's saying something really unreasonable...)
+25	message	Then at least hear me out!
+28	message	That's right, but it wasn't me!
+29	message	Oh, I expected you to be more timid.\nSurprising.\n...Cheeky for a slave apprentice!
+30	message	At least let me talk!
+33	message	Fine.\nI'll hear you out as an interrogation,\njust the talking!
+34	message	But if you make even one suspicious move,\nit's instant holes! Got it!?
+35	message	Y-yes...\nThen let me ask: what evidence is there that I'm the culprit...?
+36	message	None!
+37	message	Wh-what... seriously...
+38	message	Even I, who's bad at deduction,\ncan tell by instinct!\nThe culprit is you! No doubt!
+39	message	There's no other kid who'd steal\nmy momo-man,\nso obviously I suspect you!
+40	message	I wouldn't steal someone else's things...
+41	message	Then you're saying someone else stole it!?
+42	message	Or are you saying I'm imagining the theft,\ncalling me an idiot!?
+43	message	I'm not saying that!?\nI just think, for the future,\nwe should investigate properly...
+44	message	...True, we absolutely\nneed to catch the culprit.
+45	message	You lure me in like that, but actually\nYOU'RE the culprit, aren't you!!
+46	message	Don't tell me you're planning to run away\nwhile I'm busy investigating...
+47	message	I'm not!
+48	message	Anyone can say that!\n...Fine. As surveillance too,\nI'll specially team up with you to investigate.
+49	message	That's better than getting shot without questions...
+50	message	(I've gotten dragged into something weird...\nIf we don't find the culprit, I might really get arrested...)
+53	message	Slow!\nI thought you'd run off!
+54	message	Next time you're late, I'll treat it as fleeing\ncustody and arrest you on the spot!\nGot it?
+55	message	I-I'll be careful...
+56	message	So, how did the canvassing go?
+57	message	I didn't say 'momo-man'; I asked if they'd eaten\nanything sweet or tasty.
+58	message	Oh, that's sharp for you.\nSeems your brain works a little.
+59	message	So, anyone suspicious?
+60	message	No. Zero.
+61	message	So by process of elimination, that makes\nyou the culprit after all!
+62	message	(That's unreasonable...)
+63	message	I'm inspecting your belongings!\nEmpty your pockets and everything you're carrying\nright here!
+66	message	Understood...
+67	message	Good, so obedient! I might even go easy\non, say, your pinky cuticle.
+68	message	(That assumes I'm getting arrested...)
+71	message	Huh? Why would I...
+72	message	Stop mumbling and show me!\nIf you've got nothing to hide, it's fine!
+75	message	...Is this okay?
+76	message	...That's all your belongings?\nYou're not hiding something somewhere?
+77	message	I'm not hiding anything...
+78	message	Hya!
+81	message	Whoa! Handcuffs on my legs too!?\nWhat are you planning to do!
+82	message	I'm doing a body search to see if you're hiding something!
+83	message	This is a reasonable measure so you can't run,\nand so you can't commit any\np-perverted acts!
+84	message	If you do anything weird,\nyou know what happens...!?
+85	message	Y-yes... I don't want to die...
+86	message	D-don't move!
+87	message	Heave-ho... nothing in\nyour jacket pockets...
+88	message	Next, the pants...
+89	message	Y-you absolutely do not move!\nIf you move even a millimeter, I'll put holes in you!\nGot it!
+90	message	(By the way, why has she been\nred this whole time...)
+91	message	Seriously... why am I\ndoing this...
+92	message	...Nothing here.
+93	message	So my name is cleared, right?
+94	message	...Evidence is insufficient, so unwillingly\nI have no choice but to release you temporarily.
+95	message	(Temporarily... so she still suspects me...)
+98	message	Showing up on your own like that,\nyou've got guts!
+99	message	Or are you here to turn yourself in?\nToo bad, I don't accept those!
+102	message	Handcuffs again!? I'm not turning myself in... what, suddenly?
+103	message	Hmph, playing dumb!\nThat's pointless, obviously!
+104	message	If you'd confessed honestly, I might have gone\na little easy on you!\nToo bad!
+105	message	(This is getting out of hand...)
+106	message	Now, spill it!\nWhat did you do with my momo-man!?
+107	message	Again!? How many times—it's not me!
+108	message	I've got the goods on you!\nQuietly tell me where\nthe momo-man is!
+109	message	I'm telling you, it's not me...\nWhat goods, anyway...!
+110	message	Of course, my intuition!\nObviously!
+111	message	...So you're still denying it?\nFine, I'll have to interrogate it\nout of you!
+112	message	Lately you've been picking\nfights with me to probe\nthe victim...
+113	message	And you were enjoying watching\nme panic, weren't you!?\nYou pervert!
+114	message	A two-time theft offender,\nand a pervert to boot!
+115	message	(That's a terrible thing to say...\nIt's escalating...)
+116	message	...Staying silent?\nYou have no right to silence!\nEven if the government allows it, I don't!
+117	message	It's really not me...
+118	message	I'm sick of your excuses.\n...You won't admit guilt?
+119	message	N-no, I mean...
+120	message	Then it's the last resort!\nChoose: my hands, or settle it\nyourself like a man!
+123	message	I don't really get it, but I'll do it myself...
+124	message	Good resolve!
+127	message	Huh? Why would I...
+128	message	Stop mumbling and show me!\nIf you've got nothing to hide, it's fine!
+131	message	In the end it was just a belongings check.\nYou said 'last resort', so I wondered what you'd do...
+132	message	No physical evidence... that's strange.\nI have no suspects but you.
+133	message	Um, please take the handcuffs off already.\nThen I'll tell you my theory...
+134	message	...Fine.
+137	message	So, what's your theory?
+138	message	This time it happened while the great Aria-san\nwas investigating, so it'd take a really skilled\nperson to pull it off.
+139	message	True, I was on guard, but\nI didn't notice a thing.
+140	message	Or...
+141	message	Or...?
+142	message	The culprit might not realize it's theft?\nThen they wouldn't act suspicious,\nand even you might not notice...
+143	message	That's impossible!\nThink properly before you speak!
+144	message	(I got scolded...\nI thought about it seriously, though...)
+147	message	What do you want? Oh, are you finally\nready to confess?
+148	message	N-no, I'm not...!
+149	message	Don't tell me you're going to claim\nto prove your innocence!
+150	message	And then, pretending to corner the culprit,\nlure me to a cliff and then...
+151	message	The first half is right, but\nthe second half is a bit too much...
+152	message	Just kidding. I know you don't have\nthe guts for that.
+153	message	(Harsh...)
+154	message	So, do you have a lead on the culprit?
+155	message	No, none at all...\nBut I have a good idea.
+156	message	A good idea? What kind?
+159	message	So we put a plate of momo-man on the ground,\nthen what?
+160	message	We hide in the shadows and wait.\nThe smell will lure the culprit out...
+161	message	It's not a monster;\nnobody'd fall for a trap like that.\nAre you serious?
+162	message	Now now, just watch.
+165	message	...See, nobody's coming.
+166	message	That's weird... it should've...\nNo, wait a little longer...
+167	message	...Just a little? If it fails,\nI'm arresting you.
+170	message	Ah, enough! Stop, stop!\nNo culprit's coming with a method like this!
+171	message	So, this momo-man,\nI'm having it! Okay!?
+172	message	Nom! Mm! Delish!
+173	message	Aria-san...
+174	message	Wh-what's with that look!?\nIt can't be helped!\nIt looked delicious!
+175	message	And after that long stakeout,\nmy stomach was empty!
+178	message	You're too greedy for a noble...\nI heard you're from a prestigious family...
+179	message	Shut up! A perfectly good momo-man,\nwe can't let it go bad!\nWhat a waste that'd be!
+182	message	...Eat slowly.\nIf you rush, you'll choke...
+183	message	Th-thanks... you're oddly obedient.\nWhich is good.
+184	message	(Some time has passed since I bought it,\nso better than letting the momo-man spoil.\nAria-san looks happy, too.)
+187	message	Given your obsession with momo-man,\nI can't picture any culprit but you...
+188	message	Huh!? What are you saying!?
+189	message	Aha! I get it!\nYou came up with this weird trap\nto frame me!
+190	message	So you're the culprit!
+191	message	That makes no sense...
+192	message	Or were you planning to disrupt\nthe investigation from the start!?
+193	message	N-no, that wasn't my intent...
+194	message	Maybe I should turn you in to the police\nfor obstruction...!?
+197	message	...I've been waiting for you.
+198	message	D-don't tell me... another momo-man thief appeared...?
+199	message	N-no, that's not it...\nUm... well...
+200	message	Ugh, just figure it out!\nYou ultra-dense slave apprentice!
+201	message	(What am I supposed to do with that...)
+202	message	...I figured out who stole the momo-man!
+203	message	I-it's not me...!
+206	message	I know!\nThe culprit was the yo-yo girl...
+207	message	She found some lovely monster and\nused my momo-man to feed it, apparently...
+210	message	I know!\nThe culprit was the magician girl...
+211	message	She used it as a practice prop for her\nteleportation magic, and it vanished when she failed...
+214	message	And she forgot to buy more\nto replace it later...
+215	message	She just handed me a momo-man\nshe bought...
+218	message	That's good. So there was no thief after all.
+221	message	It was a hasty misunderstanding.
+222	message	Yes, it was!\nIt was my hasty misunderstanding!
+223	message	Ugh... I can't believe I did that...
+224	message	Anyway, case closed.\nGood...
+227	message	It's not good! Misunderstanding and\nsuspecting an innocent person...
+228	message	...I-I'm sorry.
+229	message	Huh?
+230	message	I'm sorry for suspecting you...\nI mean... sorry...
+231	message	And if you hadn't been here,\nI might've caused trouble for everyone...
+232	message	Raising a fuss that there's a momo-man thief here,\nwhen we'd finally gotten\nalong...
+233	message	So, just a little... I'm grateful.
+234	message	...Thank you.
+235	message	No, not at all...
+236	message	But don't get cocky!\nIt's not like the case got solved\nbecause of you!
+237	message	I know.
+238	message	Hmph!
+240	message	(Case closed. I won't be chased around anymore.\nWhat a relief...)
+243	message	Perfect timing!\nI was just looking for you.
+244	message	Eep! Sorry,\nI'm not the culprit!
+245	message	I know that!\nNothing's even happened.
+246	message	Seriously, stop dragging it out.\nI already said I was sorry before.
+247	message	It was reflex...\nSo, what do you need?
+248	message	...An apology gift.
+251	message	I couldn't hear you.\nWhat did you say?
+252	message	What, you weren't listening?\nDon't make me say it over and over!
+253	message	Ugh, an apology gift, an apology gift!\nI'm not saying it again!
+254	message	Oh, an apology gift. That's fine.\nI'm not that bothered.
+255	message	Just take it.\nOtherwise I won't feel right.
+258	message	An apology gift? That's fine, really.
+259	message	What! Let me give you an apology gift!\nI'd look bad otherwise!
+262	message	Seriously, you're so inconsiderate...
+263	message	If that's the case...\nSo, what is this apology gift?
+264	message	Here, this. There's only one,\nso don't lose it, okay?
+265	message	What's this? It says 'School Festival Invitation Ticket'.
+266	message	Well, 'school festival' is\nactually kind of an exaggerated name.\nWe're not doing anything big.
+267	message	We're all different ages, but\nmost of us are students, right?
+268	message	So it's a get-together, in the name of\ndeepening bonds like students would.
+269	message	Just bringing tea and sweets,\neating and chatting, that level.
+270	message	With all the incidents happening,\nwe can't afford to relax\ntoo much, right?
+271	message	...I haven't heard anything about this.
+272	message	You realize, right?\nYou're kind of a troublemaker?
+273	message	So we decided to tell you\non the day, so you wouldn't get in the way of prep.
+274	message	So I'm a troublemaker...
+275	message	You didn't realize?\n...You're really dense.
+276	message	Leave me alone...\nBy the way, why are you giving me the invitation?
+277	message	W-well, that's...
+278	message	You're... one of us, sort of...
+279	message	And thanks to you, we didn't end up\nsuspecting everyone weirdly...\nThat's something.
+280	message	A-anyway! You don't have to help with prep, but\nsince I invited you,\nyou absolutely have to come!
+282	message	(A school festival...\nI don't really get it, but it sounds fun...!)
+285	message	Um, put these two pieces of fabric together...
+286	message	Aria-san, what are you doing?
+287	message	Eep! Don't scare me!\nI'm doing work that needs concentration!
+288	message	(She's sewing something.\nA costume for the school festival?)
+289	message	What are you doing?
+290	message	Can't you tell by looking? Prepping.\nSchool festival prep.
+293	message	You can sew?
+294	message	It's a skill I use for work, so of course.\nWell, I'm not particularly good at it.
+295	message	Butei Charter, Article 7.\n'Prepare with pessimism, act with optimism'!
+296	message	For example, if your bulletproof uniform gets damaged,\nand you're in enemy territory, you're helpless\nif you can't fix it yourself, right?
+297	message	I see...
+300	message	Is there anything I can do?
+301	message	Fufu. You're exempt from prep, so\njust relax.
+302	message	I'll take the thought.\n...I'd be in trouble if you caused something.
+305	message	Actually, can I watch?
+306	message	I don't mind, but why?
+307	message	I'm a little curious...\nI want to know what you're doing.
+308	message	O-okay. You can watch, but\nbe quiet, okay?\nIt takes a lot of concentration.
+309	message	Yes, I'll be careful.
+310	message	This fabric is the front and this is... huh?\nWhich one's the front...
+311	message	...Ow!
+312	message	Your finger's bleeding... Heal.
+315	message	Th-thanks...
+316	message	...Let me help too.\nDoing nothing while everyone works\nfeels wrong...
+317	message	Fufu, good attitude. Fine,\nmy finger still kind of hurts, so\nI'll specially allow it!
+318	message	But don't mess up?\nThread aside, this is\nthe only fabric we have.
+319	message	I'll be careful...\nWell then...!
+320	message	...Ow.
+321	message	You stabbed your own finger right away.\nFufu, you're surprisingly clumsy.
+322	message	That was just bad luck...
+323	message	Fufu. Seriously, you're hopeless.
+324	message	(I feel kind of frustrated...\nBut if it made her laugh, that's fine.)
+325	message	(At first, I thought she'd never\nsmile at me...)
+328	message	It's really lively...\nRight, I came to the 'school festival'\nAria-san mentioned...
+329	message	I heard it wasn't a big deal, but this is pretty elaborate...
+330	message	Ah, there's a sign.\n'Cosplay Café SHC'.\nI'll go in for now...
+333	message	W-welcome home, b-big brother!\n...Don't laugh! I know it's not like me!
+334	message	A-Aria-san? Or rather, Aria-chan?\nWhat is that outfit!?
+335	message	Wh-what! You're gonna laugh too!?\nThe rule is you wear whatever you draw,\nso it can't be helped...!
+336	message	N-no, not at all...!
+337	message	(But... it suits her terrifyingly well.\nThough saying that would get me holes, probably.)
+338	message	Don't go quiet on me...\nThat just makes it more embarrassing...!
+339	message	Ugh! Your order! Decide quickly!
+340	message	H-huh? Then, I don't really know, so I'll leave it to you.
+341	message	Got it, wait a moment.
+344	message	Here's your cake and tea set!
+345	message	This cake, could it be...
+346	message	Y-yes! Homemade cake!
+347	message	...Sorry the shape's all lopsided!
+348	message	No, not at all.\nAnd, nom... it's really delicious.
+349	message	Delicious? R-really, good...!
+350	message	(Huh? Why does it taste good?\nI thought I couldn't really taste things...)
+351	message	What, that stunned look!\nOf course I'm happy to be praised!\nIt's not because YOU said it!?
+354	message	Aria-saaaan!\n...Huh! Where am I...?\nI was at the café just now...
+355	message	Ah, there you are. What were you doing\nover there?
+356	message	Huh? Aria-san, why the uniform?
+357	message	Why? I've been in uniform the whole time.\nYou overslept and you're groggy, aren't you?
+358	message	Seriously. I went out of my way to give you an invitation,\nwhat were you doing?
+359	message	But... just now,\ncosplay Aria-san served me cake and tea...
+360	message	...Were you really asleep?\nThe school festival ended ages ago?
+361	message	In the end, since you never came,\nI came looking for you.
+362	message	N-no way...
+363	message	Yes yes, don't make that face.\nThey're just leftover cookies, but\nI brought them for you.
+364	message	Th-thank you...
+365	message	(Ugh... what a shock...)

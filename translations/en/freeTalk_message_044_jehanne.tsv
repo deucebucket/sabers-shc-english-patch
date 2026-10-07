@@ -1,0 +1,259 @@
+row	column	english
+4	message	…Need something?
+5	message	(What do you say at a time like this?)
+6	message	Um, thank you for your service.
+7	message	Wh—!
+8	message	What are you saying? I was never\nimprisoned to begin with. I got out\nthrough a plea deal.
+9	message	True, I was arrested once, but in exchange for\nproviding information and confessing…\nI was released right away…
+10	message	Um, why do you look like you're about to cry?
+11	message	D-don't be absurd! I would never—\nbe on the verge of tears from remembering…
+12	message	(Something happened to her after the arrest…)
+15	message	Were you, like, tortured…?
+16	message	No, interrogated. At least, that's what\nthey insisted.
+17	message	(What did they do to her…)
+20	message	If you'd like, I'll listen.
+21	message	…Interrogated.
+22	message	Interrogated?
+23	message	Yes, interrogated. According to them, anyway.\nFrom the receiving end, it's not much\ndifferent from torture…
+26	message	'Them'?
+27	message	…The people of Butei High.\nNothing but dangerous people.
+28	message	You mean Aria-san and the others?
+29	message	No. The students are still the better ones.\nI mean the faculty.
+30	message	It's a school that raises Butei, so naturally\nthe faculty are Butei of great skill, too.
+31	message	But whatever their skill, every last one of them\nis broken as a person…
+32	message	Where they took me was a place called\nButei High's interrogation department.
+33	message	There, a female teacher with a strange look in her eyes\nwas waiting, smoking something like a cigarette—\ncouldn't tell if it was legal or not.
+34	message	There, I…
+35	message	…Jehanne-san?
+36	message	I-I can't go on…\nI went through something truly terrifying…
+37	message	……
+38	message	Jehanne-san?
+39	message	(She's shaking like a leaf… For someone called\na witch to be this scared, what ARE\nButei High's teachers…)
+40	message	(I'll be careful not to go near them.)
+43	message	You again. What do you want this time?
+44	message	Hm, could it be you want to join I-U, too?
+45	message	But too bad. With your combat skills,\nthat's impossible.
+46	message	(I haven't said anything yet…)
+47	message	At least if you were an esper like Seika the shrine\nmaiden, it'd be a different story.
+48	message	Isn't it the thing where you unwrap the bandages\non your right hand and sealed powers awaken?
+49	message	Huh? Uh, no…
+50	message	Thought so. If you had such powers, you'd be\nunder I-U's surveillance too.
+51	message	With neither outstanding skill nor special ability,\nall I can say is give up.
+52	message	(The mood won't let me say 'that's fine by me'…)
+53	message	…It just occurred to me: why are you\ntagging along with this group?
+54	message	Huh?
+55	message	You're not particularly needed as a fighter.\nI'm asking why someone like you follows this lot.
+58	message	Never thought about it.
+59	message	Then why are you here?
+60	message	Just how things turned out, I guess.
+63	message	Because I want to be useful, maybe?\nI can at least help with housework.
+64	message	Hm, a spirit of service.\nBy the way, why is that a question?
+65	message	Because I don't really know myself.\nI just tagged along at first because\nthat's how things turned out.
+68	message	How things turned out. You drifted along\nand ended up here, in other words.
+69	message	Well, yeah.
+70	message	I don't think this is something you can\ntag along with just because that's how things\nturned out…
+71	message	Unknown enemies, repeated battles,\nimminent danger, life-or-death crises—\nnothing but that, I'd think.
+72	message	I don't understand your thinking.
+73	message	Don't scare me like that…\nWell, it's worked out so far,\nso I think it'll be fine from here on too. Probably.
+74	message	No one knows what lies ahead.
+75	message	No—Seika's shrine maiden, Shirayuki,\ncan supposedly do fortune-telling that sees\nthe future, I hear.
+76	message	Why not get a reading?\nBefore you lose your life.
+77	message	R-right… I'll ask her later.
+78	message	Just be careful not to lose your life.
+80	message	(After saying whatever she pleased,\nshe left me behind…)
+81	message	(I was going to cheer her up about the other day,\nbut I guess she didn't need it.)
+84	message	Hm…
+85	message	Um, Jehanne-san?
+86	message	Hm… can such a thing be allowed?
+87	message	(She doesn't seem to hear me…\nWhat is she doing?)
+88	message	Their feelings not reaching each other—absurd…
+89	message	(Looks like she's reading manga.\nShoujo manga, apparently.)
+90	message	Guh! So the two of them can never\nbe together…
+91	message	Jehanne-san, is that manga?
+92	message	Wh—! You…!
+95	message	Do you like shoujo manga?
+96	message	Huh? Y-yeah. Japanese romance manga are\nwonderful… I mean, that's not it!
+97	message	(She's flustered for once.)
+100	message	So this is your hobby.\nI didn't know.
+101	message	I'm an unmarried maiden too… what's wrong\nwith liking shoujo manga?!
+102	message	N-no, I didn't mean it like that…
+105	message	More importantly, how long have you been watching!
+106	message	Since a little while ago…
+107	message	…is what I'm asking.
+108	message	Huh?
+109	message	You peeked at a maiden's secret…!
+110	message	Eep!
+111	message	Now that you know my secret, I can't let you live.\nI have no choice but to dispose of you here…!
+112	message	…is what I'd like to say, but I am,\nfor better or worse, one of Butei High's people now.
+113	message	(I'm saved…?)
+114	message	I'll beat you just enough that you can't talk,\nand hand you over to the police.
+115	message	Come to think of it, several people called you\na peeping tom…
+116	message	I don't know how many prior offenses you have,\nbut expect no mercy!
+117	message	(I was NOT saved!)
+118	message	Hah!
+121	message	That was close!
+122	message	Ho, well dodged! But next time\nwon't go so well!
+123	message	Eep!
+126	message	Wh—! Wait!
+127	message	What incredible speed…\nCan a human even move like that…?
+128	message	So you haven't survived this long for nothing.\nThat evasion ability is quite something…
+131	message	(That was close… So Jehanne-san was keeping\nher shoujo manga a secret. I'll keep quiet—\nif I don't, it'll be scary later…)
+134	message	…You seem to be either a fool or a big shot—\none or the other.
+135	message	Did you forget that I nearly cut you down\nthe other day?
+136	message	That's why… I won't tell anyone, so\nplease let me off…
+137	message	Is that true?
+138	message	Y-yes!
+139	message	Then that's fine.
+140	message	(That was surprisingly easy…)
+141	message	……
+142	message	Well, I'll be going…
+143	message	……
+144	message	Um, why are you following me?
+145	message	Observation.
+146	message	Huh?
+147	message	Don't make me repeat myself.\nI'm observing you.
+148	message	The other day, not seriously or not,\nyou dodged my sword and fled at a speed\nI couldn't follow up on.
+149	message	I've judged that evasion ability to be\nthe secret to your survival.
+150	message	Few have escaped my sword.\nThat evasion ability is worth attention.\nSo I've made you my observation subject.
+151	message	No, it's not something I can do\non purpose…
+152	message	I see. Then I'll create a situation\nwhere you have no choice but to!
+155	message	No way! I can't possibly match\nthe 'Silver-Ice Witch'…
+156	message	Flattery won't make me hold back.
+159	message	Wh-what are you going to do?!
+160	message	This time, I'll use my powers too.
+161	message	My true combat style is threefold: use strategy\nto whittle down their strength, seal their movement\nwith my powers, and then finish them.
+162	message	I'll test just how far your evasion ability goes.
+163	message	(I'd really rather not…)
+166	message	Are you ready?
+167	message	(Saying 'no' would be pointless, clearly…)
+168	message	'La Pucelle's Shackles'!
+169	message	Whoa! My feet are frozen, I can't move…!
+170	message	Hah!
+171	message	Guh!
+172	message	…I thought you'd hold out a little longer,\nbut this is how it goes from the first move.\nWell, that's what happens when I'm serious.
+173	message	Crushing the enemy's strengths and drawing them\ninto your advantage is the basics of strategy,\nbut I didn't expect it to end with that.
+174	message	…Seems that was a wasted trip.
+176	message	(Looks like she's exasperated.\n…That's fine, but I wish she wouldn't leave\nthe ice on my feet as-is.)
+177	message	(Ugh… it's getting colder…)
+180	message	Hah! No, this way is better.\nHmph! …Yes, this way is better after all.
+181	message	Hm, maybe lower the sword tip a little more\nwould look better… No, not quite.
+182	message	(What is she doing? Practice swings?)
+183	message	Like this… yes, this is it.\nIntimidating, yet no openings.\nAnd above all, beautiful.
+184	message	…Don't you think?
+185	message	If you noticed, say something.\nSo, what were you doing?
+186	message	It's obvious. Practicing my signature pose.
+187	message	(So not practice swings…)
+188	message	I got my hands on this big mirror…\napparently it's called a full-length mirror.
+189	message	I was checking and fine-tuning\nmy signature pose's form.
+190	message	Isn't that narci…
+191	message	It's one way to draw out an advantage in battle.\nAbsolutely not.
+192	message	(She didn't have to deny it so fast…)
+193	message	For example, say you've cornered the enemy\nin a dead end. Walls surround them left, right,\nand behind; you stand before them.
+194	message	Now suppose that in that situation, the enemy\ncalmly strikes a pose. What would you think?
+197	message	I don't know.
+198	message	…That was instant. You could think a little\nbefore answering.
+199	message	The basics are to put yourself in that situation\nand think about what you'd do.
+202	message	Like there's a trap set?
+203	message	Not wrong, but vague.\nStill, not bad.
+206	message	If it were me, I'd consider an ambush.
+207	message	An ambush?
+208	message	If another enemy blocked your back when you thought\nyou'd cornered them, you'd be caught in a pincer\nwith nowhere to run, right?
+209	message	Then the situation reverses.\nYou'd be the one cornered.
+210	message	In other words, you can make them think that\nand shake them up. That's what you call\na bluff.
+211	message	I-I see…
+212	message	Furthermore, appearance can have a psychological\neffect on the enemy regardless of the situation.
+213	message	The prime example is weaponry.\nTanks, fighter jets, battleships.\nGuns and the like, too.
+214	message	All weapons are designed to reassure allies\nand strike fear into the enemies facing them.
+215	message	Some self-destruct under the pressure.\nThat happens in sports and gambling too,\nnot just combat, right?
+216	message	So I am absolutely not a narcissist—\nI was merely training to gain the upper hand!
+217	message	(That just looks like she's covering\nher embarrassment…)
+218	message	Did you say something?
+219	message	No, nothing.
+222	message	……
+223	message	(She's absorbed in manga again.)
+224	message	Hah!
+225	message	Eep!
+226	message	Peeking again? Not an admirable hobby.
+227	message	But it won't go like last time.\nI've trained to respond even while\nabsorbed in manga.
+228	message	(Is that something to brag about?)
+229	message	You'll never take me from behind again.\nToo bad for you.
+230	message	With allies nearby, you don't have to\nbe so on edge…
+231	message	I was letting my guard down, and it's your fault\nfor carelessly peeking.
+232	message	S-sorry…
+233	message	Don't disturb me. I'm at a good part.
+234	message	……
+235	message	Um…
+236	message	Still here? Do you need something from me?
+237	message	Could it be you wanted to read this manga?
+240	message	Well, since you're offering.
+241	message	I see. I'm reading volume 7, but you're free\nto read volumes 1 through 6.
+242	message	Oh, and I've finished all of these manga,\nso read them as you like.
+245	message	Is it interesting?
+246	message	Depends on the reader's taste, but\nat least I find it interesting.
+249	message	I just remembered—wasn't this a secret?
+250	message	You already know about it.
+251	message	Besides, the urge to share something\nI found interesting with others—\nI have that too.
+252	message	According to Riko, that kind of behavior\nis called 'evangelizing.'
+253	message	Hmph. For me, the 30th Joan of Arc,\nto evangelize—ironic, I find.
+254	message	(That smile is scary…)
+255	message	By the way, what's the one you're reading now about?
+256	message	A love romance between a café clerk\nand a customer.
+257	message	(I see. So she likes these kinds of stories.)
+258	message	This uniform is cute…
+259	message	Huh?
+260	message	No, nothing…
+261	message	(She doesn't just like manga—\nI wonder if she's interested in cute clothes too?)
+262	message	(Sharing a secret like this… I feel like\nwe've gotten a lot closer…)
+265	message	I want your opinion. What do you think\nof this?
+266	message	This… the drawing? You mean?
+267	message	Yes, a drawing I made.\nBy the way, why is that a question?\nYou can tell by looking.
+268	message	(It looks like nothing but a child's scribble…\nActually, she's oblivious, isn't she…)
+269	message	I want your opinion.\nTell me what you honestly think.
+270	message	Of course, including the hard-to-say things.\nPersonally, I think I drew it rather well…
+271	message	(For starters, I have no idea what it even is…\nFirst, figure out what she drew.)
+274	message	Is this something you like, Jehanne-san?
+275	message	Yes. I think it's fair to say so.
+276	message	(Why is she embarrassed?)
+279	message	Give me a hint!
+280	message	What are you saying?\nNo hint needed—you can tell by looking.
+281	message	(No good…)
+284	message	So? Don't you think anything?\nIt doesn't reach the great artists, of course,\nbut it's quite good.
+285	message	And don't you think it suits me?\n…Could your opinion differ?
+286	message	('Suits me'? I still don't really get it, but\nsaying so seems like the safe move.)
+287	message	Um… I think it suits you too.
+288	message	R-right! I knew you'd think so.\nOnly natural.
+289	message	My design sense for clothes aside,\nmost of all the model is good.
+290	message	I'll give you this drawing as a memento.\nFeel free to make it a family heirloom.
+291	message	Haah…
+292	message	Fufu. I'm feeling motivated.\nLet's get started right away.
+294	message	(In the end, what WAS that drawing?\nFrom what she said, it should be a person.)
+295	message	(Silver hair and blue eyes… could it be\na self-portrait of Jehanne-san?)
+296	message	(But it's neither armor nor a uniform. What clothes\nare those? Maybe she means they suit her?)
+297	message	(She was acting strange, too.\nNormally she wouldn't be embarrassed\nto show a drawing…)
+300	message	Huh? I came to see Jehanne-san, but\nwhere is this…?
+301	message	Follow me. This way.
+302	message	That voice—is that you, Jehanne-san?
+303	message	Yes, I'm inside this classroom.
+306	message	Th-this is…?
+307	message	I prepared it for you.\nCome, entrust your body and soul to me.
+308	message	Th-that outfit, could it be…
+309	message	Yes… I made it based on that drawing\nyou saw.
+310	message	…Does it suit me?
+311	message	I-it really does!
+312	message	I'm glad… I want you to look at me, only me.\nI prepared everything for you…
+313	message	Wh-why go that far…
+314	message	You praised my drawing the other day, didn't you?\nThose words melted my heart…
+315	message	I want you to accept all of me…
+316	message	Huh? Wh-what?!
+319	message	What's wrong? Did you have a bad dream?
+320	message	H-huh? Jehanne-san?\nYour usual outfit…
+321	message	What are you talking about?\nI've dressed like this ever since\nI joined your group.
+322	message	Personally, I hold that outfits\nthat bare too much leg are unbecoming\nof an unmarried maiden...
+323	message	(So it was... a dream?)
+324	message	That aside, there's something\nI'd like you to look at.
+325	message	(A prophetic dream...!?)
+326	message	What do you think of this painting?\nI'd like your opinion, same as last time.
+327	message	...May I ask what it's called?
+328	message	Hm. 'The Maid Outfit and I.'
+329	message	I-I think it's wonderful...
+330	message	(Just a dream after all, then...)

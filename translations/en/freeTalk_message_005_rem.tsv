@@ -1,0 +1,315 @@
+row	column	english
+4	message	Rem. There's something I want to ask you.\nDo you have a moment?
+5	message	You want to ask me something? Now, what could it be?
+6	message	Lately I've been having scary dreams.\nSo I thought I'd ask you about it, Rem.
+7	message	I see. So that's it.\nWhen it comes to dreams, leave it to me.
+8	message	So, you keep having scary dreams?\nYou must be under a lot of stress.
+9	message	Huh, stress?
+10	message	Yes, stress. Humans dream\nto relieve their stress.
+11	message	Human sleep comes in two types.\nLight REM sleep,\nand deep non-REM sleep.
+12	message	When you fall asleep, you first enter\nnon-REM sleep, and then\nmove into REM sleep.
+13	message	The dreams you remember are said to be\ndreamt during light REM sleep.
+14	message	But scary dreams can also be dreamt\nduring deep non-REM sleep.\nThere's research showing that.
+15	message	And these REM and non-REM sleep stages\nare said to alternate every 90 minutes.
+16	message	So, have you been able to\nfollow me so far, I wonder?
+19	message	It's a bit hard to... follow...
+20	message	Hmm. I see.\nI tried to keep it simple and careful...\nbut I guess not...
+21	message	Maybe I explained it badly.\nSorry?
+24	message	Yes. It's interesting, though.
+25	message	Hehe. Good.\nThat makes me happy to hear!
+28	message	You're dreaming scary dreams\nduring deep sleep.
+29	message	You're dreaming scary dreams\nto relieve your stress.
+30	message	I see...\nNow that you mention it, that does\nsound about right...
+31	message	But that's just one possibility.\nThere's never just one cause for dreams.
+32	message	Things happening in the real world,\npast memories, those are involved too...
+33	message	Pinpointing 'this is the cause!'\nis pretty hard.
+34	message	It's complicated...
+35	message	It's interesting because it's complicated.\nDreams are so mysterious and wonderful!
+36	message	Hehe.\nI ended up talking a lot before I knew it.
+37	message	Wasn't it boring?\nAll that lecture-like talk.
+38	message	No, no. It was interesting.\nI'd love to hear more of that kind of talk.
+39	message	Really? Then,\nwant to study dreams with me in more detail?
+40	message	May I?
+41	message	Of course! Someone taking an interest\nin the dream world makes me\nso happy, you know.
+42	message	Then, some other time.\nI'll think about what to talk about.
+43	message	Look forward to it, okay?
+46	message	Rem's study class~!
+47	message	Haaai, how've you been?\nToday we'll study dreams with me\nlots and lots, okay.
+48	message	(Rem looks like she's having fun.\nDoes she like this kind of thing?)
+49	message	Well then, let's start\nwith the basics!
+50	message	Here's a question.\nWhere, exactly, do humans dream?\nYes, you there!
+51	message	Where... with our eyes?\nOh, but we're asleep, so our eyes are closed.\nUmm~...
+52	message	Bzzzt. Time's up.\nYou'll have to study harder. Hehe.
+53	message	The answer is: the brain.\nHumans dream in their brains.
+54	message	The mechanism of dreaming and the human brain\nare said to be deeply connected.
+55	message	For example, there's this hypothesis.\nThe mechanism by which humans dream\nis similar to a computer's offline processing.
+56	message	Do you know what\noffline processing is, I wonder?
+59	message	Yes. I sort of get it.
+60	message	...Really?\nI didn't think you knew much\nabout computers.
+61	message	This is study time, you know.\nThere's nothing embarrassing\nabout not knowing things, okay?
+62	message	Sorry...\nI was bluffing a little...
+65	message	Sorry. I don't know.
+66	message	It's fine, it's fine. It's okay.\nBeing able to say you don't know something\nyou don't know is the mark of a good student~.
+67	message	We're studying to learn\nthe things we don't know, right?
+70	message	Then shall I explain?
+71	message	Offline processing means\nprocessing information internally\nwithout feeding in outside information.
+72	message	And humans apparently do\nthis work in dreams.
+73	message	Um, what does that mean?
+74	message	In other words, while humans sleep,\nthe brain organizes information.
+75	message	It pulls out all sorts of memories at random\nand deletes the unneeded information.\nGot it?
+76	message	I sort of get the random part...\nAre dreams where the before and after\ndon't connect influenced by that?
+77	message	Good question! Exactly right!
+78	message	Because the brain's organizing is random,\nunrelated memories get linked together.
+79	message	As a result, you get to experience\nan absurd world impossible in daily life.\nYou could call it one of dreams' great charms!
+80	message	I see~. Interesting.
+81	message	Hehe. I'm glad if you understand\neven a little of dreams' charm.
+82	message	Teacher Rem. May I ask a question?
+83	message	Hm? What is it?
+84	message	Teacher Rem, what do you think\nis the number-one charm of dreams?
+85	message	Hmm, the number-one charm...\nDreams have so many good points, but...\nlet's see...
+86	message	No matter how romantic,\nno matter how impossible in reality,\nit can happen in a dream.
+87	message	That freedom, I guess?
+88	message	Oh. In dreams anything goes, right.\nImpossible things happen.
+89	message	Right, right. You're\nsuch a quick, good student~.
+90	message	Oops, I talked too much again.\nLet's call it a day.
+91	message	Will there be a next time?\nI'd like to hear about interesting dreams\nyou've experienced, Rem.
+92	message	Interesting dreams I've experienced...\nthat'd turn into stories about cases\nI've worked.
+93	message	Some are pretty scary cases, though. You okay with that?
+94	message	It's fine. I'm not a kid.
+95	message	Hehe. Then let me think a bit.\nSee you next time.
+98	message	Rem. I came to hear about the case.
+99	message	Welcome!\nNow, what should I talk about...
+100	message	I've been involved in so many cases that\nwhen it's time to talk, I get stuck.
+101	message	Any requests from you?\nWhat kind of story do you want to hear?
+104	message	I'd like a story with lots of girls in it.
+105	message	Jeez, what kind of request is that~.\nAm I not enough of a girl on my own?
+106	message	Well, speaking of stories with lots of girls,\nthere's a fitting case.
+109	message	I'd like a story you feel strongly about, Rem.
+110	message	A story I feel strongly about...\nEvery case is precious to me, but...
+111	message	The one that comes to mind right now\nis that case, I guess?
+114	message	That one was when\nI went undercover at a girls' high school.
+115	message	Oh? Did your eyes light up\nat the words 'girls' high school,' I wonder?
+116	message	If you're imagining anything weird,\nI'll get mad, okay? Hehe.
+117	message	I-I'm not imagining anything weird!\nWhat kind of case was it?
+118	message	That case was requested by\nInspector Sakaki, a detective I know.
+119	message	I infiltrated an all-girls boarding school,\nand it was sooo tough.
+120	message	And at the end, this huuuge\nrobot showed up.
+121	message	R-robot?
+122	message	Yep, yep.\nGood thing the missiles worked...
+123	message	M-missiles?
+124	message	But in the end, that case was\nthe story of one sad girl.
+125	message	Because of this job of mine,\nI've seen all kinds of people's dreams.
+126	message	Like the ghost of a fallen warrior\nwho died 800 years ago, or an android\nbuilt by a genius scientist...
+127	message	(She really has lived through amazing things.)
+128	message	There were lots of sad dreams, but\ndreams always leave hope at the end.
+129	message	That's why I love dreams.\nI'm proud of this job of protecting dreams.
+130	message	Wow. You're amazing, Rem...
+131	message	Hm? What is?
+132	message	You know so much about so many things,\nand you've had all these mysterious experiences.\nHonestly, I think that's cool.
+133	message	Oh my. What's gotten into you all of a sudden.\nFlattery won't get you anything, you know~.
+134	message	I know a lot about dreams\nbecause it's my job.
+135	message	Of course I've had mysterious experiences.\nI'm not an ordinary girl, after all.
+136	message	But being called cool made me\na little happy.
+137	message	Thanks.
+138	message	No problem.\nI hope we keep getting along.
+139	message	Yeah. See you.\nWhen you've got free time,\nlet's chat again, okay.
+142	message	Ah, there's something I want\nto ask you, is that okay?
+143	message	Rem wants to ask me something?\nWhat could it be?
+144	message	Um, well...\nHow should I ask... hmm...
+145	message	Look at me... is there anything\nthat seems off?
+146	message	Huh?
+147	message	Anything different from usual.\nAnything changed from before.
+148	message	So? Anything, I wonder?
+151	message	Ah. Did you cut your hair?
+152	message	I did not!\nSay careless things and I'll get mad!
+155	message	I don't really know...
+156	message	Really? Really nothing changed?
+159	message	If you're holding back out of concern,\nthat's fine.
+160	message	I promise I won't get mad at anything\nyou say. So just say it straight!
+161	message	Even if you tell me to say it straight...
+162	message	Ah, wait. Hold on.\nStraight might be too much. It might hurt.
+163	message	So, um,\nwrap it up gently,\nkindly, but honestly.
+164	message	Something like that, please. Okay?
+165	message	Even if you say 'okay?'... hmm...
+166	message	Ah! So there IS something off!\nIt's noticeable!
+167	message	That's why it's hard to say, right?\nRight?
+168	message	Waaah, what a shock!\nI'll never recover!
+169	message	Um, I don't understand.\nThere's nothing off at all.
+170	message	I don't need comforting lies!\nYou were clearly holding back!
+171	message	It's a misunderstanding. There's nothing off at all,\nI just didn't know what to say.
+172	message	...Really? You're not lying?
+173	message	Really, truly?\nI'll believe what you say, you know?
+174	message	There's nothing changed about\nmy appearance, nowhere at all?
+175	message	Phew... good. I'm relieved.
+176	message	Um... what was that about?
+177	message	Hm? That was, um...
+178	message	Ahahaha. It's nothing~.\nAs long as everything's normal, it's fine.
+179	message	So don't you worry about it.\nYou can forget it, okay?
+180	message	Even if you say that, I'm curious.\nThe usually calm Rem getting\nthis flustered... what could...
+181	message	Geez! It's fine!\nStop prying!
+182	message	Keep saying mean things and\nI might start hating you!
+183	message	I don't mean to be mean...\nI just want to know what happened.
+184	message	When I say no, I mean NO!\nI'll never tell!
+185	message	Well then, forget about today, okay~?
+187	message	What was that about...?\nHmm, I'm curious...
+190	message	Hmm...
+191	message	Rem?\nYou're swaying. Is something wrong?
+192	message	Ah, it's you~.\nI just can't get any strength\ninto my body...
+193	message	Ah, I'm fine, okay?\nI know the cause myself.
+194	message	So don't tell anyone.\nDon't worry about it. Okay?
+197	message	Are you feeling unwell?
+198	message	It's not a health problem.\nI'm just doing something...
+201	message	What's the cause?
+202	message	Geez, don't ask.\nIt's a little hard to say.
+205	message	Anyway, I'm fine. Well then, see you...
+206	message	Ugh...
+207	message	Rem! Are you okay?!
+208	message	Ugh... yeah, no good.\nDid I push myself too hard, I wonder...
+209	message	My tummy... got empty~.
+210	message	Tummy...?\nRem, haven't you been eating?
+211	message	N-no! I am! Of course\nI'm eating properly!
+212	message	That wasn't why I almost collapsed.\nUm, well...
+213	message	I've got a bit of a cold!\nSo I got all wobbly~.
+214	message	See? Makes sense, right?\nBeing hungry, what a\nsilly reason that'd be...
+217	message	Ah?!
+218	message	Uuugh...
+219	message	...Wh-what,\nlooking at me like that. Something to say?
+220	message	No, it's not that I have something to say...
+221	message	Fine, fine! I haven't been eating!\nThere, I said it!
+222	message	But I decided not to eat,\nso it's not a problem!
+223	message	Why aren't you eating properly?\nYou have to eat.
+224	message	I know that... but... well...
+225	message	Lately... I've gotten...
+226	message	Huh? What?
+227	message	...I've gotten faaat!!
+228	message	The other day I got on the scale,\nand I'd gained compared to before!
+229	message	It was a super, super\nshock, you know?!
+230	message	Could it be... that time you asked me\nif anything about you had changed...
+231	message	Y-yeah. I got worried\nwhether my looks had changed.
+232	message	Jeez, look what you're making\na girl say. So embarrassing...
+233	message	Sheesh. I was secretly dieting,\nand now it's out...
+234	message	S-sorry...\nBut really, you look the same?\nYou don't need to worry so much...
+235	message	I will worry!\nI may not look it, but I'm a maiden, you know!
+236	message	It's embarrassing, so don't tell\nthe other girls I'm dieting, okay?
+237	message	Keep it our little secret, okay?\nPromise?
+238	message	Understood.\nI won't tell a soul.
+239	message	(Worrying about her weight...\nshe has a girly side too.\nKind of an unexpected side of her...)
+242	message	Hey, about what we talked about before —\nhow's it been lately?
+243	message	Are you still having scary dreams?
+244	message	Yeah, I had one yesterday too.\nMy right hand turned into a monster\nand ate me.
+245	message	Oh my. That's a scary dream.
+246	message	With nothing but scary dreams like this,\nI don't even want to sleep anymore.\nI don't want to dream at all...
+247	message	Don't say things like that!
+248	message	Huh...?
+249	message	Ah... sorry.\nI got sharp with you...
+250	message	But I don't want to hear you say\nsomething so sad as not wanting to dream anymore...
+251	message	...I can't dream my own dreams, you see.
+252	message	So I'm jealous of you.\nBeing able to dream your own dreams is\nwonderful, you know? And yet, not wanting to dream...
+253	message	That's throwing away your own dreams, you know?\nThere's nothing sadder than that.
+254	message	No matter how scary, those are your dreams.\nIt may be meddling, but let me say it.
+255	message	Please, don't come to hate dreams.
+256	message	But only dreaming scary dreams...
+257	message	Sure, right now you might only\ndream scary dreams.
+258	message	But someday, you might dream\na really fun dream, right?
+259	message	I can't imagine dreaming\nfun dreams...
+260	message	Dreams are, by nature, things\nyou wish for yourself.
+261	message	Sadly, with today's technology,\npeople can't fully control their own dreams.
+262	message	But if you wish strongly enough,\nthe chance of dreaming what you want to see goes up.\nThat's what I believe.
+263	message	Really?
+264	message	We studied this before, right?\nWhere, exactly, do we dream?
+267	message	The brain, right?
+268	message	You remembered! Good boy~!
+271	message	The eyes, right?
+272	message	No~. We dream with the brain, right?\nWe studied so hard; you can't\nforget it already~.
+275	message	Anyway, the dreams you dream\nare dreams your brain made.
+276	message	You know, people can't dream\nabout things their brain has no information on?
+277	message	Then the reverse is true too.\nIf your brain strongly focuses on a scene,\nit's more likely to appear in your dreams.
+278	message	It's just a hypothesis I came up with, but\nI don't think it's far off.
+279	message	Think about the scene you truly want to see.\nAnd wish for it strongly.
+280	message	If you keep wishing, someday\nsurely your dreams will answer.
+281	message	You should be able to dream\nthe dream you want to see.
+282	message	I see... thinking of it that way,\ndreaming sounds fun!
+283	message	Aha. Good.\nI'm glad you won't hate dreams.
+284	message	I'll think carefully about\nwhat kind of dream I want to dream.
+285	message	Yeah! I think that's good!
+286	message	Ah. I should get going.\nSee you.
+287	message	If you decide what dream you want to dream,\ntell me then too. Hehe.
+289	message	(Rem is so kind.\nShe's genuinely worried about me...)
+290	message	(Still, the dream I want to dream...\nhmm. What would it be...)
+293	message	Haaai. So, have you been thinking\nabout that thing?
+294	message	You know. What dream you want to dream.\nCome up with anything?
+295	message	Yeah. I thought about it.\nI've kind of settled on one.
+296	message	Ooh, what, what?\nI want to hear what kind of dream.
+299	message	No, it's a little embarrassing...
+300	message	Nothing to be embarrassed about~.\nTalking about the dreams you want to see\nis a wonderful topic!
+303	message	No, it's private...
+304	message	Well... maybe so.\nBut that's a little cold.
+307	message	Could it be...\nyou think I'd go blabbing to someone?
+308	message	I'd never do that. I promise.\nIt'll be our secret, just you and me.\nSo, c'mon?
+309	message	It's just for me, so what's the harm?\nTell me what dream it is~.
+310	message	No, it's BECAUSE it's you, Rem,\nthat I can't tell you...
+311	message	Huh? What do you mean?\nIs it a dream where I appear?
+312	message	You've got a guilty look on your face~.\nNow I'm even more curious!
+313	message	Hey, out with it!\nWhat are you doing with me in your dream?
+314	message	What are the two of you planning to do?\nTell meee!
+315	message	O-okay, I'll tell you, I'll tell you!\nUm... I thought it'd be a nice dream\nif I could go on a date with you, Rem...
+316	message	With me... a date?
+317	message	(Ahh. I said something weird...\nWill she think I'm creepy...)
+318	message	Aha♪ That makes me happy~.
+319	message	Huh? You're not put off?
+320	message	Of course not!\nIn the dream world you can do anything, right?
+321	message	And out of everything you could do\nin that anything-goes world, you chose\na date with me?
+322	message	Nothing makes me happier.\nThanks.
+323	message	U-uh...
+324	message	(Anyone else would be creeped out.\nRem really is kind.)
+325	message	Besides, there are lots of\ngirls around you, right?
+326	message	They're all cute girls.\nAnd yet you chose me.
+327	message	As a girl, of course I'm happy about that, right?
+328	message	I didn't hesitate there.\nYou're number one, Rem.
+329	message	Really? Hehehe.\nThat makes me sooo happy!
+330	message	If only I could dream too.\nI might end up wanting to see you.
+331	message	R-really?
+332	message	Really. Why would I lie?
+333	message	(This is going well.\nRem... could she maybe like me...)
+334	message	Ah, I should get going.\nI wanted to hear more in detail, though.
+335	message	If you'd like,\ntell me sometime what kind of date\nyou'd want in your dream.
+336	message	Well then, see you!
+338	message	(Rem. The dream I really want to dream\nis one I can't tell you about...)
+341	message	...H-huh?\nWhere on earth am I?
+342	message	Ufufu♪
+343	message	Ah, Rem.\nI came to and found myself here...\nwhere is this?
+344	message	Who cares about that~?\nThere's something much more important...
+345	message	Today... you're going on\na date with me, right?
+346	message	Huh?
+347	message	Did you forget~?\nThat's no good, no good.
+348	message	Come on, let's go.\nStep into this classroom and\nwe'll be completely alone.
+349	message	Come on, don't make that weird face.\nHurry, let's go, okay?
+352	message	Um. I don't really get the situation...\n...H-huh? Rem?
+353	message	This way♪
+356	message	Hehe. So? Does it suit me, I wonder?
+357	message	Wh-what's with that outfit?!\nWhen did you change?!
+358	message	Geez, don't sweat the details.\nDon't say boring stuff.
+359	message	More importantly, does it suit me?\nI wore this outfit for you, you know?
+360	message	It's a little embarrassing, but...\nit's what you wished for. I'm fine.
+361	message	What I wished for...?
+362	message	That's right. You wanted to go on\na date with me dressed like this, right?
+363	message	You thought it'd be the best if\nthe usually calm, cool me dressed\nlike this, right?
+364	message	It's fine. If that's what you like,\nI'll oblige.
+365	message	Now, let's go on our date.\nWhat should I do?
+366	message	Link arms? Sit next to you?\nI'll do anything.
+367	message	W-wait. It's true that I thought I'd like\nto go on a date with Rem dressed like that.
+368	message	But... did I ever\ntell you that, Rem?
+369	message	Geez. I'll get mad.\nYou've said it over and over.
+370	message	Every day... before bed...\nover and over, strongly...
+371	message	Inside your brain--
+372	message	H-huh?\nHer voice is getting fainter--
+373	message	Because this is a place where the impossible\nin reality can come true--
+376	message	Ubu! A-are... you okay?!
+377	message	You were dreaming.\nI just woke you up with this alarm!
+378	message	(Ah, I see...\nThat was all a dream...)
+379	message	You were making such a weird face.\nI've never seen you make a face like that!
+380	message	You were dreaming another scary dream?!\nWere you okay?!
+381	message	(S-sorry. That weird face...\nI was just grinning...)
+382	message	Something's off with you...\nWhat kind of dream did you dream?
+383	message	Tell me the details!\nMaybe I can help!
+384	message	(There's no way I can say\nwhat kind of dream it was~!)

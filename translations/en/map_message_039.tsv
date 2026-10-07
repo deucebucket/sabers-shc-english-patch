@@ -1,0 +1,207 @@
+row	column	english
+3	message	…
+5	message	Looks like you're having a rough time, Jeanne~.
+6	message	…You too.
+7	message	I'm fine.\nIt'd be a problem if those guys\nwere small fry, after all.
+8	message	…The client's orders are too hasty.\nThey don't suit my methods.
+9	message	So you like it intense, huh.\nWhat a closet pervert~.
+10	message	Silence.
+11	message	Still as stiff as ever.\nBut hey—is that really the only reason\nyou're struggling?
+12	message	…They're growing stronger.\nDifferent from when we fought before.
+13	message	Okay, taggin' in Riko from here!\nYou think about your next move, Jeanne.
+14	message	…You have a plan?
+15	message	Rikorin's the flash-of-inspiration type!\nA light bulb just goes 'ding!' in my head.
+16	message	…Do as you like.
+17	message	Hey, Jeanne.\nLet me tell you something good.\nWhen you want time to work up a scheme…
+18	message	You use people.
+19	message	// Scene change\n// Battle map: Butei High (same as 005B)\n// Yase has already deployed her youkai army. Hold a defensive line and stop the advancing youkai army.
+20	message	So this is Butei High. Anyone here?
+21	message	I'm Yase. I heard\nKoto's staying with you?
+22	message	// Aria appears.
+23	message	More of 'em, crawling all over!
+24	message	Demons and monsters in broad daylight.\nGives me the creeps.
+25	message	They're the youkai that were all over Kyoto!
+26	message	I don't plan on making a scene.\nI just want to talk to Koto.
+27	message	Liar!\nIf you just wanted to talk,\nyou'd have come alone.
+28	message	Koto isn't here!\nSorry, but please leave!
+29	message	Hiding her won't help.\nI have solid intel that she's here.
+30	message	Who'd you hear that from?
+31	message	A reliable source.
+32	message	So WHO is that!?
+33	message	I canceled a tea party to come here.\nI can't go home empty-handed.
+34	message	Rin, pack up the leftover sweet-and-sour pork\nin a container for her.
+35	message	Good idea! My sweet-and-sour pork is delicious—\nwait, HEY!?
+36	message	In times like these, you serve\nbubuzuke, not sweet-and-sour pork, right?
+37	message	That's for when you want lingering guests to leave.
+38	message	Um, should I just scatter some salt?
+39	message	Not wrong, but a little too direct.
+40	message	I'll forgive a little rudeness,\nso hand over Koto. Quickly!
+41	message	She's not here, so she's not here. Leave!
+42	message	Hmm… and I was trying\nto handle this gracefully.
+43	message	Then I'll just have to\nsearch every nook and cranny!
+44	message	Kyaa! Ghosts!!\nNooo! Scaryyy!
+45	message	Teacher, you've always been\nreally bad at fake crying~…
+46	message	Teacher, your eyes aren't scared at all!\nYou're so bad at this…
+47	message	// Battle start
+49	message	Hm? Someone showed up~.
+50	message	Ooh, who could it be?
+51	message	O-hohoho!\nThe reinforcements have arrived!
+52	message	Oh, a rabbit person.
+53	message	So that's one more monster.
+54	message	I'm not a rabbit person OR a monster!\nI'm La Vie en Rose!!
+55	message	Huh, wasn't she called Usada?
+56	message	Oh yeah, that's right! Usada!!
+57	message	I'm NOT Usada!!\nYou don't want to make me angry!\nI'll show you why right now!!
+58	message	// Battle resumes\n// Yase leaves a few turns after Usada appears
+59	message	That's a lot, even for us…
+60	message	How many do we have to beat?
+61	message	What if they just keep coming\nendlessly?
+62	message	You say the scariest things\nso casually…
+63	message	Hmm? That's odd.\nWith all this fun going on,\nKoto would absolutely come bursting out.
+64	message	Is Koto really not here, I wonder?
+65	message	That's what I've been telling you\nfrom the start!
+66	message	I don't trust a word humans say.\nYou're all liars.
+67	message	I'll think up a punishment for the twintail girl\nwho tricked me later. For now, I'm heading home.
+68	message	Come on, everyone. We're leaving.
+69	message	// Yase and the youkai army exit.
+70	message	Huh!? You're leaving!?
+71	message	Looks like you're the only one left.
+72	message	You go home too!
+73	message	What are you saying, bunny!\nHanging in there at times like this\nis how you earn points!
+74	message	Come ooon! La Vie en Rose Corps!
+75	message	// Usada summons grunts.
+76	message	There are so many cuties~!!\nTeacher, I want one~!!
+77	message	Nooope☆
+78	message	Like fighting Kintaro candy come to life!\nWhere'd she get so many?!
+79	message	A perfect chance to show that\nquality beats quantity, zo☆!
+80	message	Just take 'em down, one after another!
+81	message	// Battle resumes
+83	message	Geez! I would've won\nif Yase hadn't left!
+84	message	Looks like you miscalculated\nthe difference in strength. Good effort!
+85	message	Y-you'll pay for thiiis!!
+86	message	// Usada retreats from the front
+88	message	Thank you, everyone.\nWe drove them off, thanks to you.
+89	message	We're in your care as well.\nWe merely did what was expected, that's all!
+90	message	Still, I don't get the enemy's goal.\nShe said she came to see Koto,\nbut was that really all?
+91	message	Once she was convinced Koto wasn't here,\nshe just left. Maybe that really was all she wanted.
+92	message	She said she heard it from a reliable source,\nbut who could that be?
+93	message	She just got fed bogus info!
+94	message	And what about La Vie en Rose\nshowing up as 'reinforcements'?\nWas she asked by someone?
+95	message	Something smells fishy.\nI smell something weird lurking around.
+96	message	So it's confirmed: Jeanne's after Louise and Shirayuki,\nand a youkai named Yase is looking for Koto.
+97	message	Louise and Shirayuki shouldn't be alone—\nthey need to stick with someone.
+98	message	What a pain.
+99	message	Shirayuki, when you go take a bath,\ngive me a holler. Uncle'll wash your back. Gufufu!
+100	message	A-ahh…
+101	message	Sis, your hands are way too pervy!
+102	message	Not me, no way!
+103	message	Louise is fine. I'll leave her to Aria.
+104	message	Why the different treatment?!\nIs it 'cause I don't have any?! Is that it?!
+105	message	…Come to think of it, Yase said something\nthat caught my attention as she left.\nSomething about 'the twintail who tricked me'…
+106	message	She did. That could be…
+107	message	// Fade to black\n// Background: a deserted place (a bleak spot like an abandoned building) where Riko is.
+108	message	Fufufu. What pushovers~.
+109	message	That blonde youkai's simple too.\nTell her Koto's here and she believes it\njust like that.
+110	message	And Usada does whatever I tell her right away.\nThanks to them, I bought time\nto invite those two.
+112	message	…What do you want,\nRiko Mine Lupin the Fourth.
+113	message	…
+114	message	Adding 'the Fourth' on purpose is just snide, y'know?\nI'm getting to know you pretty well,\nTesla Violet.
+115	message	How kind of you.
+116	message	Nine still doesn't talk, huh.\nYou'd be more popular with boys\nif you were a little friendlier~.
+117	message	You didn't call us here\nto drag us into such trivial talk, did you?
+118	message	…The point.
+119	message	For Riko's plan,\nI want to borrow something from you.\nKufufu…!
+120	message	// Scene change\n// Background: a room (same as 022B, Aria's room)\n// Shirayuki alone in her room.
+121	message	Jeanne's still after me…
+122	message	I set out on this journey to help my friends,\nbut am I just being a burden instead…
+123	message	// SE: doorbell chime 'ding-dong', then a door opening.\n// Soniko, Mion, Cecilia, and Houki appear.
+124	message	Shirayukiii! Comin' in~!
+125	message	So this is the pure student council president's room~\nUncle's getting all excited!!
+126	message	S-Soniko!? And Mion too…
+127	message	What are you doing, Houki!\nYou said you'd go yourself—\nwhy are you hiding behind us?
+128	message	I-I did say that, but…\nI doubt the conversation would flow\nwith me around…
+129	message	Cecilia… and even Houki…\nWhat's going on, everyone?\nIs something wrong at Butei High?
+130	message	We're your bodyguards!
+131	message	Bodyguards?
+132	message	Yep. Figured it's better\nif you're not alone.
+133	message	Soniko insisted on coming to Shirayuki's room,\nso I had no choice but to tag along…
+134	message	Guarding while having girl talk—\nthat'd be fun, wouldn't it!
+135	message	G-girl t-talk?
+136	message	You know, the kind of talk\nonly girl friends can have together.
+137	message	We eat yummy food till morning\nand talk our hearts out~!
+138	message	I picked out the cake and tea!
+139	message	I taste-tested the cake already,\nso no worries.
+140	message	What? Do you have a problem\nwith my selection?
+141	message	No no, I'm confident in my tongue too,\nI was just double-checking.
+142	message	I've got lots of other snacks\nand side dishes ready too!
+143	message	Oh… if I'd known you were coming,\nI'd have cooked something…
+144	message	Mmm…
+145	message	N-no, I'm going home after all!\nThis atmosphere… it's too much for me!
+146	message	You mustn't, Houki.\nThis doubles as guard duty, you know?
+147	message	Then I'll stand watch by the front door!\nThat works, doesn't it?
+148	message	Nooope.\nWithout you, Shirayuki would be\nthe only girl-talk beginner here.
+149	message	Hmm… so Shirayuki's not good\nat this sort of thing either?
+150	message	Yes, I have no experience at all…\nI'd feel safer…\nif you stayed, Houki.
+151	message	I-is that so… if Shirayuki asks,\nI can't refuse…!
+153	message	(Fufu, bringing Houki along\nwas the right call.)
+154	message	(Yeeep.)
+155	message	If this were the Sonozaki house,\nI'd break out the sake and go all out!
+156	message	We're underage, so no-no!
+157	message	I'll serve the finest tea!\nBritish nobility are terribly particular\nabout their tea, you know?
+158	message	But Aria's a coffee person, right?
+159	message	She's no lady, I tell you!
+160	message	Detectives are more of a coffee image, though.
+161	message	Maybe it's her rebellious phase?
+162	message	I think I understand.\nI too want to be free—\nnot bound by my ancestors' customs and rules.
+163	message	Freedom's a tricky thing.\nWhat seems free can be confining,\nand the reverse is true as well.
+164	message	Indeed.
+165	message	Ugh, this is getting way too heavy!\nNo no! Soniko, change the subject!
+166	message	Then let's go with the girl-talk classic:\nyour type of guy~!
+170	message	Wha!?
+172	message	Uh…
+173	message	Huh? What's wrong?\nMion, you first.
+174	message	Me!? Umm, let's see…
+175	message	Funny and cool, I guess?\nAnd, like, kind…
+176	message	Waaah! What's this!?\nI'm just saying normal stuff, but\nit's SO embarrassing!! Nooo!!
+177	message	Next, Houki!
+178	message	Me!? I… first of all,\na man must be strong. That's the baseline.\nStronger than me is the minimum…
+179	message	B-but! A violent man is no good!\nThat's not what strength is.\nThe truly strong are kind as well.
+180	message	(Wh-what is this…?\nI've never even been in love,\nso why are the words flowing so smoothly…?)
+181	message	E-enough! What about you, Cecilia!
+182	message	Mine's simple!\nI seek the finest gentleman—\none worthy of standing beside ME!
+183	message	Knew you'd say something like that!
+184	message	What I can't stand is a sniveling man\nwho fawns over me! Just looking at one\nmakes my blood boil!
+185	message	Shirayuki's turn next!
+186	message	I've always lived at the Hoshiga Shrine,\nso I don't really know boys.
+187	message	But the boy who often appears in my dreams\ntakes my hand and leads me\nsomewhere.
+188	message	I don't know what kind of boy he is, but\nif he appears in my dreams,\nmaybe that's the kind of person I'm wishing for…
+189	message	Oooh! How romantic!
+190	message	A maiden! We have a maiden here!
+191	message	W-was that all right?
+192	message	It was lovely.
+193	message	I should've just stood by the front door…
+194	message	Now then, on to the next topic.
+195	message	Huh? It's still Soniko's turn, isn't it?
+196	message	Indeed.
+197	message	My ideal… is a seeecret~!
+198	message	That's not fair!
+199	message	Yes, we want to hear\nabout Soniko.
+200	message	I can't do it!\nIt's too embarrassing…
+201	message	Everyone else put up with the embarrassment.\nNo keeping secrets all by yourself.
+202	message	All right, then Soniko gets a punishment game\nby club rules!
+206	message	I agree!
+208	message	A punishment game? What is it?
+209	message	Fufufu, this!!
+210	message	// [Event CG] Mion discovering Shirayuki's underwear
+211	message	That's my underwear!!
+212	message	Exactly! You're probably about the same size,\nso Soniko's gonna put on a fashion show\nhere in Shirayuki's clothes!
+213	message	Whaaat!?
+214	message	Underwear looks are obviously included!\nOoh, not just white but black underwear too!\nUhehe, this'll be fun~!
+215	message	Nooo!!
+216	message	That's a punishment game for ME too!
+217	message	Houki, Cecilia, you two search for\nwhatever clothes she's hiding too!\nDress Soniko in anything you like!
+218	message	This is getting interesting!
+219	message	The shrine maiden outfit's nice, but\nthere might be more hiding.
+220	message	Should've brought a camera.\nI'll make Shion bring one!
+223	message	Stooop!!
+225	message	//END

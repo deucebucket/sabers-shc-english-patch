@@ -1,0 +1,257 @@
+row	column	english
+3	message	Yah! Hah! Teyah!
+4	message	Not yet! You're not projecting your voice.\nLouder, stronger!
+5	message	Yes!
+6	message	They say the human body exerts its greatest strength\nwhen exhaling while vocalizing.\nIt's very important.
+7	message	Also, always be conscious of your breathing!\nIf you run out of breath, you can't do anything.
+8	message	Well, I hardly need\nto tell that to Hibiki the singer.
+9	message	Singer!? Tsubasa-san, maybe,\nbut I'm not anything that grand...
+10	message	I like Hibiki's singing voice!
+11	message	Ahaha, I'm flattered...
+12	message	Appearing out of nowhere, what are you saying.\n...Oh, everyone's here too.
+13	message	You look well.\nHard to believe you're recovering.
+14	message	My body's totally fine!\nI ate lots of rice!\nNow I just need to sharpen my dulled moves and my spirit!
+15	message	She was critical until recently—\nunbelievable recovery.
+16	message	Indeed. That Aria there\nkept asking Shirayuki about your condition\nduring the last operation.
+17	message	Wh-what! How do you know that...!
+18	message	Didn't you know?\nI transferred into Butei High's Information Department (Inquesta)\nas a second-year.
+19	message	Four phone calls with Shirayuki.\nAll of them were checking on Hibiki's condition.
+20	message	I think I told her she's stable, she's recovering,\nabout four times...
+21	message	Huh? Aria-san's unexpectedly a worrier?\nShe never showed it\nat all!
+22	message	Even though she was fighting with a face like a demon tile.
+23	message	Ah, I get it, I get it!\nAt times like that you just keep asking!
+24	message	In [NOEL]-san's case,\nisn't it just forgetfulness?
+25	message	Gnununu... I told Shirayuki to keep quiet,\nbut I never thought Jeanne would hear about it...!
+26	message	Ahaha. If you blush too much,\nRena'll take you home again.
+27	message	Hauu!!
+28	message	...Sadly, it seems too late.\nShe's already in "cute mode".
+29	message	Hey, stop! Don't hug me!\nDon't pat my head! Don't take me away!
+32	message	Such good friends. Nipah~!
+33	message	If even Aria's helpless,\n"cute mode" Rena must be\ninsanely strong...?
+34	message	If you approach to help,\nyou'll be intercepted by an invisible punch—\ncommonly known as the Rena-pan.
+35	message	Nothing to do but leave her till it settles,\nhuh...
+36	message	Sheesh. So lively\nI can't help stopping.
+37	message	Oh, right! One more round!\nPlease!
+38	message	Haven't you mostly gotten your feel back?
+39	message	No. Just going back isn't enough!\nI have to go further and further ahead!
+40	message	There's something I want to protect.\nI can't protect it just by fighting and winning,\nso I need to be more...!
+41	message	...Understood. Let's do it!
+42	message	Yes!
+43	message	"Just winning isn't enough," huh.\nAgainst Hibiki, no enemy stands a chance.
+44	message	Her goal lies elsewhere than a warrior's, is that it.\nNo wonder she grows strong.
+45	message	No, it's not like that at all!
+46	message	I'm a total amateur at fighting,\nI had no resolve to fight,\nand Tsubasa-san even scolded me.
+47	message	And Chris-chan too...\nBecause I was weak, she went out of control and got hurt...
+48	message	That's why I wanted to become strong.\nI had no choice but to become strong.
+49	message	"Holding someone's hand is my fight"—\nI think I understand what you meant\nby those words back then.
+51	message	Everyone's here.\nDinner's ready,\nso please gather!
+52	message	Ah, coming! I'll be right there!\nLet's go, everyone!
+53	message	Honestly, her appetite is triple a normal person's...
+54	message	//Screen fades to black, then background: town.
+56	message	...
+57	message	Damn it! They said to lend them my strength\nto end conflict!
+58	message	That Mii...! It was all lies,\nand once they were done with me, I got tossed aside!!
+59	message	//Event CG: Chris sitting with her knees hugged in a mandarin-orange box in an alley, looking dejected.
+60	message	This is\njust like the old days...
+61	message	I was supposed to be fighting to end conflict,\nbut I got sweet-talked by others and used...
+62	message	And now I'm all alone again...
+63	message	What am I supposed to do...!
+64	message	//Fade to black.\n//Background: Butei High classroom.
+65	message	Uwah! Food after training\nreally hits different!
+66	message	You eat everything I cook—\nit's a problem, really.
+67	message	I'm still growing!
+68	message	Satoko should eat lots like Hibiki\nand get strong~.
+69	message	That is clearly overeating!
+70	message	She's burning that much, is all.\nExercise makes you hungry.
+72	message	Sorry to interrupt your meal, but it's an emergency.
+73	message	Jeanne? What's wrong?
+74	message	Information from Informa.\nSomeone's rampaging downtown...\nwhile singing.
+75	message	Singing... could it be Chris-chan...?
+76	message	No need to think—move out!\nEven if it is Yukine Chris,\nyou just stop her! Right!
+77	message	Yeah!\nJeanne-san, tell me the location!
+78	message	Preparations to move out are ready.\nPut down your chopsticks and bowls and let's go.
+79	message	Ah!? How embarrassing... ehehe.
+80	message	Honestly, transform already!\nWe'll leave you behind!
+81	message	//Battle map: town.\n//Black Hibiki and Black Tsubasa are wreaking havoc.
+82	message	Fufu!
+83	message	//Screen flash & shake, explosion sound.
+84	message	Now, come...!
+85	message	//Screen flash & shake, explosion sound.\n//Ally placement. Hibiki and Houki forced deployment.
+86	message	There! That's them!
+87	message	Not Chris-chan... me?\nMe and... Tsubasa-san!?
+88	message	That gear's color...\nlooks like a black Symphogear, like the Black IS!
+89	message	Welcome! Now, what shall we do?
+90	message	//Black Hibiki summons grunts.
+91	message	Stop! Why are you doing this...!
+92	message	We'll stop them, Hibiki!
+93	message	//Battle begins.
+95	message	Who are you? What's your goal?\nCan't we get along?
+96	message	Hibiki! Talking won't be easy!\nLike those Black IS,\nyou can't read their intentions at all!
+97	message	I know! Still!
+98	message	She looks like me when I went out of control...!\nJust rampaging with all her strength...\nthat's exactly why we have to talk!
+99	message	...Hmph!
+100	message	She's coming at us! Hibiki!
+101	message	(Aren't you me...?\nThen I should be able to reach you...!)
+102	message	//Talk event after Hibiki and Black Hibiki fight.
+103	message	These moves, this power... and the song!\nShe's really just like me...
+104	message	...Heh.
+105	message	(But it's strange...\nher fists, I feel nothing from her fists...!\nEven though she's so much like me!)
+106	message	Hey! Tell me!\nWhere did you come from,\nand what are you trying to do?
+107	message	Useless.
+108	message	Huh?
+109	message	That softness gives birth to nothing.
+110	message	What do you mean...?
+111	message	//Talk event after Hibiki and Black Tsubasa fight. Hibiki can't choose to attack.
+112	message	That swordsmanship is definitely Tsubasa-san's!\nIf Chris-chan fought her,\nno wonder she mistook her...
+113	message	Begone.
+114	message	You are Tsubasa-san!\nThen don't use your sword\nfor something like this!
+115	message	Something like this...?
+116	message	The Sakimori's sword should be a sword that protects people!
+117	message	Yes.\nThat's why my sword is aimed at your neck.
+118	message	No! I don't understand at all!\nThat's wrong, Tsubasa-san!!
+119	message	//Event when Hibiki and Black Hibiki clash again.
+120	message	Let's stop! Let's talk!!
+121	message	...Meaningless. If people could understand each other,\nI never would have met you.
+122	message	What does that mean? Tell me!
+123	message	People can't understand each other!
+125	message	!!
+126	message	This is bad!
+127	message	Hibiki!!
+128	message	You're in the way!
+129	message	//Tsubasa blocks Houki and Aria's movements with an attack.
+130	message	Tch! So this is Ame-no-Habakiri's swordsmanship!
+131	message	Hibiki!! Fight! Hibiki!!
+132	message	Shatter!
+133	message	!!
+134	message	You damn idiot!!
+135	message	//In battle, Chris support-guards and takes the damage instead of Hibiki.
+136	message	That freaking hurt, dammit!!
+137	message	//Chris appears next to Hibiki.
+138	message	Chris-chan!!
+139	message	Hmph, one more idiot.
+140	message	Sheesh, what are you doing!?\nStill so naive!!\nI can't stand watching!
+141	message	Sorry, but I really want\nto talk it out...!
+142	message	First I'm settling the score\nwith these guys!
+143	message	You fakes who tricked and attacked me!\nPay up your debt with sky-high interest!!
+144	message	The me and Tsubasa-san who attacked Chris-chan...\nas I thought...?
+145	message	Just stay out of the way!! You're in the way!!
+146	message	Ngh...
+147	message	Hibiki! She's right!\nIf you can't fight, fall back!
+148	message	Leave it to us! Got it!
+149	message	...Okay.
+150	message	//Hibiki leaves the front line.\n//Battle resumes.
+152	message	Your fists don't just hurt,\nthey piss me off!\nCopying Hibiki and all!
+153	message	Copy? Hmph, fool.
+154	message	Don't call me an idioooot!!
+155	message	//Black Tsubasa and Chris clash.
+156	message	I can see your sword lines!\nIf it weren't for that sneak attack!
+157	message	Don't get cocky just from seeing them, fool.
+158	message	Don't act so composed!\nI'll make that sour face cry!!
+159	message	//Black Hibiki defeated.
+160	message	I think that's enough of a greeting.
+162	message	Tch, they ran!
+163	message	//Black Tsubasa defeated.
+164	message	That's enough of showing our faces.
+165	message	Keh, just say you're running because it's getting dangerous!
+166	message	//Battle ends when Black Hibiki and Tsubasa are defeated.
+167	message	That's taken care of.\nLet's pull back for now.
+168	message	Right.\nYukine Chris! Won't you talk with us a bit?
+169	message	O-okay... just a little!
+170	message	//After battle.
+173	message	Let me thank you, Yukine Chris.\nThank you for saving Hibiki.
+174	message	Wh-why are you thanking me?\nI just settled my debt!
+175	message	Exactly. Such unnecessary meddling...\nHibiki's an idiot,\nso a little pain would've been fine.
+176	message	Wasn't it Aria-san\nwho tried to rush to help first?
+177	message	The first one who tried to charge in to help...\nwas Aria-san, right?
+178	message	Moving almost simultaneously with Houki-san\nmeans she moved with reaction speed\nequal to the Akatsubaki?
+179	message	She can't match an IS in acceleration.\nWhich means Aria\nmoved first.
+180	message	So fast!!
+181	message	You say she'd be better off getting hurt,\nbut you really love Hibiki-chan, don't you?
+182	message	Wh-what are you saying!!\nHibiki's an important part of my partner corps!\nThat's all it is!!
+183	message	Yeah yeah, we'll let you\nkeep telling yourself that.
+184	message	By the way, where's Hibiki?
+185	message	She's over there.
+186	message	//Fade to black.\n//Background: town.
+188	message	...
+189	message	What's wrong? You're gloomy.
+190	message	Yeah, just... shocked.
+191	message	What Black Hibiki said to you?
+192	message	Black me was like me when I went out of control.\nSo I thought if I talked to her like the people who saved me\ntalked to me, it'd work out...
+193	message	But it didn't.\nIt felt like I was completely rejected by myself,\nand it was so sad...
+194	message	Pulling you back was the right call.\nYou can't fight feeling like that.
+195	message	Laura-chan, you fought your black self too,\nso you know—\nshe's really exactly like me.
+196	message	She probably thinks the same way too.\nThat thought scares me...
+197	message	Like, maybe the world's so full of conflict\nthat it'll never stop,\nenough to make me give up.
+198	message	...Huh, is that all.
+199	message	Huh... "is that all"...\nI'm being serious here!!
+201	message	Found you! Hey Hibiki! What's with that face?\nIs it that again?\n"Maybe I'm cursed!"?
+202	message	A gloomy face really doesn't suit you.
+203	message	...Sorry.
+204	message	You're down because you couldn't get through\nto the black one, right?\nSo what. How silly.
+205	message	Silly...!
+206	message	When you said you wanted to get stronger,\ndid I teach you anything with words?\nI just beat you up.
+207	message	What did you say back then?\nYou didn't say "I don't understand, explain it with words,"\ndid you?
+208	message	Ah...
+209	message	In martial arts they say:\nget used to it rather than learn it, steal it rather than be taught.
+210	message	There are things\nno master can convey with words.
+211	message	Words aren't all-powerful.\nWhen I was taken into the Valkyrie Trace System,\ndid you save me with words?
+212	message	I saved you with my fists.
+214	message	Ha...!?
+215	message	A-and another thing!\nI'm bad with words so I can't say it well,\nbut I'm... very grateful to you, Hibiki.
+216	message	You probably don't get it even when I say I'm grateful,\nbut that's how it is!\nSee, words can't convey it, can they?
+217	message	Yeah, I don't get it at all.
+218	message	In other words, there are many things\nwords can't convey.
+219	message	If it's still too painful,\ncome to me.\nI'll... hug you...!
+220	message	Houki-chan...
+221	message	Hibiki, your punches are special.\nI got hit by them—I guarantee it!
+222	message	That's right, that's it!\nThere were feelings I've conveyed with my fists all along!
+223	message	No need to fear clashing.\nShe's like you, so she's tough anyway.\nGo at her head-on!
+224	message	Yes!\nEven if words fail, I'll try conveying it with my fists!
+225	message	Haha! You're such an idiot!\nAlready looking refreshed!
+226	message	Ehehe, yeah.
+227	message	Hibiki aside—\nyou idiots hiding there! Come out!
+228	message	What!? Someone's there!?
+229	message	//The hidden members come out.
+230	message	Ahaha, you noticed?
+231	message	I should've used a listening device\ninstead of eavesdropping after all.
+232	message	Hey, I'll arrest you!
+233	message	Ooh, we got to hear a nice story?
+234	message	I was moved...!
+235	message	Shut up! I'm not a sideshow!!
+236	message	Honestly, how tasteless!!
+237	message	It can't be helped.\nEveryone was worried about Hibiki-san?
+238	message	She's a precious friend!
+239	message	If even Hibiki-san's depressed,\nanyone'd worry!
+240	message	Aria-chan really does\nlove Hibiki-chan, right? Right?
+241	message	Shut up shut up shut uup!!\nHole!!
+242	message	//Event still: Aria, embarrassed and angry, about to fire her gun shouting "Hole!!".
+243	message	H-hey! Don't actually shoot!
+244	message	Shuuut up! You're all under arrest\nfor eavesdropping and defamation, caught red-handed!
+245	message	Eavesdropping aside, we committed no defamation!
+246	message	It's a false charge!\nI demand a lawyer present!
+247	message	Silence! I'll blast a hole through the lawyer too!!
+248	message	Calm down, someone stop her!
+249	message	//Event still off.
+250	message	Angry Aria-chan's cute too!\nTakeout!!
+251	message	Kyaa! Hey, again!?\nStop...! Aaah!!
+254	message	Amazing...\ncapturing a serious Aria...
+255	message	Could be handy... haha.
+256	message	That's the second time today.\nPoor poor Aria.
+257	message	Now that I feel better, I'm hungry!\nI wonder what's for dinner!
+258	message	Sheesh, I wasted my worry.\nWell, I'm off...
+259	message	Wait, Chris-chan!\nLet's eat together!
+260	message	Hah? What's this all of a sudden...
+261	message	Let's call it a welcome party for the newbie, okay?
+262	message	Who're you calling a newbie!?
+263	message	What's your favorite dish?\nI'll put my all into making it.
+264	message	Don't decide on your own!
+265	message	Oops, not letting you escape.\nThe food gets fancier\nwith you around.
+266	message	Siesta's cooking is delicious.\nIt'll easily exceed your imagination.
+267	message	Everyone says so, see?\nLet's eat together, and fight together?
+268	message	...Tch, fine.\nBut just the meal!
+269	message	...But debts should be repaid,\nso I'll at least help out for my share of the meal.
+270	message	You're not honest with yourself.
+271	message	Coming from Aria, that...
+272	message	I'll prepare three meals plus a 3 o'clock snack too!
+273	message	Hmph!
+274	message	//END

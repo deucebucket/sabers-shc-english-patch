@@ -1,0 +1,426 @@
+row	column	english
+3	message	A fine morning… I may have overslept a bit.\nWoke up later than usual.
+4	message	Morning, Shinonono.\nYou never skip morning practice, even now.
+5	message	Tsubasa!? You're already up?
+6	message	Half of why I woke early was to let Siesta\nand Tiffania rest sooner.
+7	message	And half was the worry\nthat we might wake up in Hinamizawa.
+8	message	True… the thought that this could be Hinamizawa\nagain chills my spine…
+9	message	Relieved as I am to wake in Dokoka Town,\nwith our pile of problems, I can't settle down yet.
+10	message	Indeed. That Mie girl, of unknown origins,\ncalling herself king of the worlds —\nand the unresolved Hinamizawa matter…
+11	message	That Kei, like an IS, seemed\nto be in league with Mie.
+12	message	We'll surely end up fighting them.\nAnd in Hinamizawa we met the black IS units.\nTo think I'd fight my own double…
+13	message	The identity of those black ones is still unknown.\nI wonder how they relate to Mie and Kei.
+14	message	I'll leave that to the great detectives.\nI'll polish my own sword.
+15	message	Me too.
+17	message	Tsubasa! Houki-chan! Emergency!
+18	message	What is it? What's wrong?
+19	message	[MERU]-chan is nowhere to be found!
+20	message	What!?
+22	message	Tsubasaa! Houki-chaan!
+23	message	Soniko? What happened?
+24	message	Um…! [NOEL]-chan… [NOEL]-chan is gone…!
+25	message	What!?
+26	message	//Fade to black\n//Background: Saint Mont Blanc Academy (or similar)
+27	message	Mmm, mnya… elementary schoolers…
+28	message	Honestly, such a sleepyhead.\n[MERU]-chan, wake her up!
+29	message	I may be flat, but I'm [NOEL]!\nThat's [MERU] over there!
+30	message	Oh dear, all mixed up. Oopsie, my bad!\nJust wake her up!
+31	message	Yeah, yeah.
+32	message	Aaah! Over there — Miss Saint Mont Blanc Academy No. 8,\nAryutta=Katus-chan!!
+33	message	Hah!?
+34	message	Where where!? Where, desuu!\nThat Aryutta-senpai, slender with that irresistible\nmelancholy expression!?
+35	message	…Hweh? Where is this???
+36	message	Good morniiing☆
+37	message	Huh? Huh? Panda cocoa?
+38	message	'Where is this?' — right!\nMore importantly, up you get!
+39	message	[NOEL]!? Why are you and the teacher here, desuu!?
+40	message	Details later. Now — off you go☆
+41	message	Huh, where am I going, desuu?\nAnd why is [NOEL] clinging to me???
+42	message	One of the thousand secret arts of Magical Archaeology!\nMarch of Kamata! Kyupirariin☆☆☆
+43	message	//Gah! Kicks Noel and Meru down the stairs from the top.\n//SE: kick sound
+44	message	Hwheeeee!? S-staircase fall, desuuu!!
+45	message	//Screen shakes as they tumble down\n//SE: heavy landing.
+47	message	Fugyuu…
+48	message	Honyau…
+50	message	Mmm…
+51	message	[MERU]-chan, [NOEL]-chan, wake up.
+52	message	That's not it, desuu… that's not how idols do it, desuu…
+53	message	Uu…
+55	message	Sheesh… hey!
+57	message	Ugyu!
+58	message	Hogya!
+59	message	Okay! Total success☆
+60	message	Wh-what's a total success, desuu…?
+61	message	Nn, oh!? This body's feel — the weight on my chest!
+62	message	Hah!? It's gone! I'm light, desuu!!
+63	message	…
+64	message	We're back!!
+65	message	//Fade to black\n//Background: Saint Mont Blanc Academy
+66	message	Honestly, I was worried! Your bodies swapping —\nwhat's going on?
+67	message	It's [NOEL]'s fault, desuu!
+68	message	Why me!?
+69	message	Now, now, enough. All three of us made it back —\nlet's call it done.
+70	message	Done — what do you mean, desuu?
+71	message	Back to normal life at Saint Mont Blanc Academy.
+72	message	That's why we set out on the journey anyway.\nI'm fine with that.
+73	message	Huh… [NOEL], what about our match, desuu?
+74	message	We can do it here.
+75	message	Well, that's that. You're fine with that too, [MERU]-chan?
+76	message	Um…
+77	message	Teacher, aren't you worried about everyone?
+78	message	You mean the defender girls and the detective girls?\nI am worried, but I'm a teacher.\nI have to think of this academy's students too.
+79	message	Ah…
+80	message	We have to graduate properly, after all.
+81	message	But… is that really okay, desuu?
+82	message	I'll keep researching Polyal, and it's not like\nwe'll never see everyone again☆
+83	message	We could just watch how things go for a while.
+84	message	…
+85	message	(I don't get it, desuu… the teacher and [NOEL]\nwere both acting on their own whims, so why are they\nsuddenly trying to talk me around…?)
+86	message	(Something's off, desuu…)
+87	message	//Fade to black\n//Background: Saint Mont Blanc Academy (night)
+88	message	Teacher, [NOEL]… I…
+89	message	I'm sorry… desuu.
+90	message	//Meru leaves the academy.\n//Background: plains (the land with Polyal in the original-characters' world)
+91	message	Polyal should be around here…
+92	message	//SE: distant sounds of battle — dogaan, dadadada.\nChris is fighting grunts.
+93	message	I hear something, desuu!?\nIs someone fighting…?
+94	message	I'll go check, desuu!
+95	message	//Meru ending
+96	message	Nnyuu… this futon is hard…
+97	message	Honestly, such a sleepyhead.\n[NOEL]-chan, wake her up!
+98	message	I'm not [NOEL], desuu! I just have a bit of\nuseless extra meat on me right now, desuu…
+99	message	Oh dear, all mixed up. Oopsie, my bad!\nJust wake her up!
+100	message	Yes, desuu. In cases like this…
+101	message	Fall!! One! Two!
+102	message	Hah!?
+103	message	No! No-no! Two!\nThat's not three!
+104	message	…Honye? Where is this???
+105	message	Good morniiing☆
+106	message	Huh? Huh? Anaconda?
+107	message	'Where is this?' desuu!\nMore importantly, up you get!
+108	message	[MERU]!? Why are you and the teacher here!?
+109	message	Details later. Now — off you go☆
+110	message	Go — where?
+111	message	Hm? [MERU], why are you clinging to me?\nDid you have that kind of hobby!?
+112	message	One of the thousand secret arts of Magical Archaeology!\nMarch of Kamata! Kyupirariin☆☆☆
+113	message	//Gah! Kicks Noel and Meru down the stairs from the top.\n//SE: kick sound
+114	message	Nyowaaaa!? A-a staircase-fall magic show!?
+115	message	//Screen shakes as they tumble down\n//SE: heavy landing.
+117	message	Fugyuu…
+118	message	Honyau…
+119	message	Okay! Total success☆
+120	message	Wh-what's a total success, desuu…?
+121	message	Nn, oh!? This body's feel — the weight on my chest!
+122	message	Hah!? It's gone! I'm light, desuu!!
+123	message	…
+124	message	We're back!!
+125	message	//Fade to black\n//Background: Saint Mont Blanc Academy
+126	message	Honestly, I was worried! Your bodies swapping —\nwhat's going on?
+127	message	I don't know!
+128	message	[MERU] suddenly showed up, and before I knew it\nwe were tumbling down and swapped!
+129	message	It's not my fault, desuu!
+130	message	Now, now, enough. All three of us made it back —\nlet's call it done.
+131	message	Done? What?
+132	message	Back to normal life at Saint Mont Blanc Academy.
+133	message	We set out traveling to find you, teacher.\nSo I'm fine with it ending.
+134	message	Yeah, but… isn't something off?\n[MERU], you challenged me for real, didn't you?
+135	message	We can do that here too, desuu.
+136	message	Well, that's that. You're fine with that too, [NOEL]-chan?
+137	message	Hmm??? Good, I guess… or not???
+138	message	Right! Tsubasa and Rika-chan are still traveling —\nwhat about them?
+139	message	You mean the defender girls and the little shrine maidens?\nI am worried, but I'm a teacher.\nI have to think of this academy's students too.
+140	message	True, skipping school forever isn't good, but…
+141	message	We'd end up repeating a year, desuu.
+142	message	Hmm, repeating a year… but should we\nreally be worrying about that?
+143	message	I'll keep researching Polyal, and it's not like\nwe'll never see everyone again☆
+144	message	It's a good time to take a break, desuu.
+145	message	Hmm, hmm…
+146	message	(What's gotten into them all of a sudden?\nThey were both drifting along until now —\nwhy the sudden urge to go back to normal life?)
+147	message	(Weird… definitely weird!)
+148	message	//Fade to black\n//Background: Saint Mont Blanc Academy (night)
+149	message	I'm going! Staying here feels wrong!
+150	message	Sorry, teacher, [MERU].\nI'll decide my own path!
+151	message	//Noel leaves the academy.\n//Background: plains (the land with Polyal in the original-characters' world)
+152	message	Was Polyal around here…?
+153	message	//SE: dogaan, dadadada — distant battle sounds.\nChris is fighting grunts.
+154	message	Fighting!? Maybe someone's here?
+155	message	I gotta go!!
+156	message	//Noel ending
+159	message	Dammit! I came as instructed, and —\nwhat the hell is this!!
+160	message	These guys coming after me —\nwhat's that about!?
+161	message	Mie! Is this your doing!?
+162	message	//Meru or Noel appears there
+163	message	Damn iiiit!!
+164	message	That's… a Symphogear, desuu!
+165	message	Ah… it's a Symphogear!!
+166	message	Tch, a small fry wandered in!
+167	message	Are you being attacked, desuu?
+168	message	You're surrounded, aren't you!?
+169	message	None of your damn business!
+170	message	What should I do, desuu…?\nBut an enemy is an enemy, desuu!
+171	message	So stubborn… just say 'help me'!
+172	message	//Battle start
+174	message	Ah!!
+175	message	Chris-chan!!
+176	message	Tch, showing up at a time like this!
+177	message	Hibiki-san!? Why is everyone here, desuu!?
+178	message	We came looking for [MERU]-chan!\nWe thought you might be here!
+179	message	Red Angel-san!? Why is everyone here?
+180	message	We came looking for [NOEL]-chan!\nKnew it'd be here!
+181	message	And Chris-chan's here too! Jackpot!
+182	message	Chris-chan, I'll save you now!
+183	message	What stupid crap are you saying!\nI'm the enemy!
+184	message	You're not the enemy!!
+185	message	You showed up too!? A whole bunch of softies!\nSo sweet I'll get cavities!
+186	message	Whether you're an enemy is for US to decide!\nEven if you call us enemies, Chris-chan,\nif we don't think so, you're not!
+187	message	Talking nonsense as always!\nBut an enemy's an enemy!
+188	message	Think what you want!\nWe're going to save you, Chris-chan!
+189	message	Hibiki-chan's right!
+190	message	Everyone, we'll save Chris-chan too!\nI just know we can be friends!
+191	message	Friends, my ass! What the…!!
+192	message	//Battle resumes
+194	message	…
+195	message	Eve!
+196	message	Teacher!
+197	message	Teacher!
+198	message	//Eve approaches Meru or Noel and attacks.
+199	message	Uuh!?
+200	message	Owowow…!!
+201	message	Eve! What are you—!?
+202	message	…
+203	message	Could she be a fake!?
+204	message	Let me make one thing clear. I'm the real one…\nIf a fake appears, I'll kill it. I'll hunt it down\nand make sure of it.
+205	message	B-but… you're nothing like\nthe Eve we know!
+206	message	Have you never deceived anyone?
+207	message	That's…!
+208	message	[MERU], I won't tell you to come back.\nOffer me your head.
+209	message	No way, wh-what, desuu…?
+210	message	[NOEL], I won't tell you to come back.\nOffer me your head.
+211	message	It's a joke… right, teacher.
+212	message	Since you defied my will, this is only natural.\nNo need for regrets. Begone.
+213	message	Wha—...? What the hell is that guy!?
+214	message	//
+215	message	Hibiki-chan!
+216	message	//
+217	message	Yeah! I'll save [MERU]-chan!
+218	message	Yeah! I'll save [NOEL]-chan!
+219	message	//Hibiki and Red Angel move near Meru or Noel.
+220	message	One warning is all you get. Die.
+221	message	No!!
+222	message	//Battle resumes. Eve's attacks are strong,\nbut she holds back to a level that won't take down Hibiki and Red Angel in a single hit.
+224	message	Ngh...!?
+225	message	Of all times...!
+226	message	This is the worst, nyo!!
+227	message	Hiya! I'm Mii!
+228	message	Entering combat area. Scan... no problems.\nTarget confirmed.\nDeletion target: Yukine Chris.
+229	message	Heh! So I'm getting thrown out after all!\nLike hell I'm gonna quietly let myself get deleted!
+230	message	Hm? Hold on, Kei-chan.\nThere's someone over there I'm super curious about!
+231	message	Mission changes are not permitted\nwithout a special reason.
+232	message	It IS special! Look, look! That one, right there.
+233	message	...
+234	message	//Eve instantly moves beside Mii.
+235	message	...It's you... I have business with you. Come.
+236	message	Okaaay! Kei-chan, I'll leave the rest to you!
+237	message	//Eve and Mii vanish.
+238	message	Teacher!! No way!? Why!?
+239	message	Teacher!! Why are you going with that girl!?
+240	message	(That was close...)
+241	message	(At least I avoided having to face both of them at once.)
+242	message	So you're Kei!\nIf you mean to fight, then I shall face you!
+243	message	...Major change to mission.\nObjective lost. Redefining combat rationale.\nMalfunction confirmed.
+244	message	//Battle resumes. Kei does not target Chris.\nSince Mii had planned to bully Chris for fun, the plan changed on its own,\nand Kei can no longer decide what to do.
+246	message	Unable to redefine combat rationale.\nError.
+247	message	What?
+248	message	She's moving strangely?
+249	message	Is she confused because Mii-chan's gone?
+250	message	Then now's our chance to smash her to bits!
+251	message	Reporting error.
+252	message	//Kei vanishes.
+253	message	Tch, she ran off!
+254	message	Chris-chan!\nLet's take out the ones around us first,\nthen we'll talk!
+255	message	I never asked anyone to help me!
+256	message	Did you forget what my hobby is?
+257	message	Your hobby's helpin' people... I— you idiot!\nLike I care!
+258	message	People helping people is only natural!
+259	message	(People helping people is only natural...\nI knew I wasn't wrong!)
+260	message	(That's right... that's it!\nI'm not wrong about any of this!)
+261	message	//Battle resumes. Wipe out all the grunts to clear.
+262	message	We did it! Everything's okay now!
+263	message	Like I care!\nYou guys did all that on your own!\nI don't owe you anything!
+264	message	Screw you!\nDon't you dare look down on me!
+265	message	//Chris leaves.
+267	message	Wait, Chris-chan!
+268	message	There's nothing to worry about anymore, Red Angel-san!
+269	message	But...
+270	message	That's just how Chris-chan is.\nIt got through to her, didn't it? Tsubasa.
+271	message	Yes, without a doubt.
+272	message	//End of battle.
+274	message	I'm sorry, everyone.\nBefore I knew it, I'd been brought back here,\nand I was just about to head back.
+275	message	Sorry, everyone.\nLooks like I was brought here while I was asleep,\nand I'd come this far trying to head back.
+276	message	What happened with Eve?\nIf you're willing, would you tell us about it?
+277	message	U-um...
+278	message	Umm, well...
+279	message	//Fade to black. Time passes.
+280	message	I see. So Eve wants to leave us\nand go back to her old life?
+281	message	Isn't that way too selfish?\nShe's the one who up and vanished!
+282	message	She's just like Dejiko, isn't she!
+283	message	No, she's even worse than Dejiko-san!
+284	message	Why is Dejiko the benchmark, nyo!?
+285	message	It's your everyday behavior, nyu.
+287	message	But... you had no intention of going back?
+288	message	When everyone's working so hard,\ngoing back to normal life by myself...\nI just know that's wrong.
+289	message	Quitting now? Like, seriously,\nthat would be so uncool!
+290	message	But is that okay?\nEve was seriously, seriously pissed, you know.
+291	message	That was way past just being angry.
+292	message	She was a demon... no, worse than a demon.
+293	message	She seemed like a different person entirely.
+294	message	I wonder if there's some reason\nshe'd get that angry...
+295	message	It didn't feel like\nshe was just throwing a fit\nbecause things didn't go her way.
+296	message	And then, when Mii showed up,\nshe went straight to her\nand they vanished together.
+297	message	Is it possible Eve and Mii were in contact all along?
+298	message	I've never helped Eve with anything,\nand I only met her after I lost to Dejiko.
+299	message	If Eve had been in contact with Mii all along,\nshe wouldn't have helped me.
+300	message	And teaching us how to use Porial\nwouldn't make sense either.
+301	message	Either way, we should consider the possibility\nthat Eve may become our enemy from here on.
+302	message	I'm sorry...
+303	message	That's nothing for [MERU]-chan\nto apologize for.
+304	message	Yeah. Having things turn out like this\nwith someone precious to you,\nyou're the one who's hurting most, [MERU]-chan.
+305	message	We don't understand Eve-san's thinking yet, but\nlet's all think together and find the answer.
+306	message	Yes...! I'm really glad\nI came back after all!
+307	message	I-I'm sorry...
+308	message	That's nothing for [NOEL]-san\nto apologize for.
+309	message	That's right. You're the one\nwho's hurting most, [NOEL]-chan...
+310	message	This isn't the end...!\nThere has to be some answer out there!
+311	message	Yeah... thanks, everyone.\nMoping won't get us anywhere!
+312	message	(Mii and Kei, Eve... and Dr. Shinigami.\nAs I am now, this is going to be rough...)
+313	message	Say, Rika-chan, Shirayuki-chan,\ndo you have a moment?
+314	message	Yes? What is it?
+315	message	What might it be?
+316	message	//Fade to black.\n//Background: forest (night).
+317	message	...As I just told you,\nI've lost the power I originally had, and it's still gone.
+318	message	Your dream power...?
+319	message	Entering people's dreams to fight those who cause nightmares—\nthat is Reimu's true role.
+320	message	Yes. I believe you've both met him already—\nthe undying Dr. Shinigami\nhas powers much like mine.
+321	message	So as I am now, without my power,\nI can't defeat Dr. Shinigami.
+322	message	Why have you kept quiet about this until now?
+323	message	I thought everyone would be frightened\nif they heard I couldn't beat Dr. Shinigami.
+324	message	But now I am certain that this group\ncan overcome anything by joining forces—\nso I decided to tell you.
+325	message	I always thought of you, Reimu-san,\nas calm and unshakable no matter what...\nI never knew you carried such a worry.
+326	message	Part of it is that I just\nnever had the right moment to bring it up.
+327	message	So, what should we do?
+328	message	My dream power is probably, like yours,\na supernatural thing.\nIn terms of strength, too.
+329	message	So I was wondering\nif you might know how I could\nget my lost power back.
+330	message	Did your power fade away slowly?
+331	message	No, it was sudden.\nMy power to interfere with dreams just vanished.
+332	message	Not like Louise's magic,\nwhere she's just out of sorts\nand it won't recover?
+333	message	Right. As if it had ceased to exist entirely.
+334	message	I can't say for certain,\nbut I believe Reimu's power\nis somewhere out there.
+335	message	Somewhere... it exists?
+336	message	Oyashiro-sama's power\ndoesn't exist outside of Hinamizawa.
+337	message	If it's the same for Reimu,\nthen your dream power was separated from you\nand remains somewhere.
+338	message	Perhaps\nit's been sealed away somewhere.
+339	message	Sealed? I wonder if such a thing is even possible...
+340	message	Sealing great power into a Noble Phantasm\nis not uncommon.
+341	message	With this many worlds out there,\nit wouldn't be strange if some unknown method\nof sealing power existed.
+342	message	That's true...
+343	message	Thank you, both of you.\nI feel like I finally understand\na little of what I need to do!
+344	message	If we could be of help, I'm happy!
+345	message	Do your best, mii! Nipah~!
+346	message	Nipah~!
+347	message	//Fade to black.\n//Background: town (a town in the original characters' world).
+348	message	Looks like I can buy all sorts of things here, nyu.
+349	message	That's wonderful~! There's a town here!
+350	message	I'd like to look at dishes and cookware too.\nHehe, that's the fun of visiting a strange new town!
+351	message	Then let's split up and check the shops.
+352	message	//Fade to black, short time passes.\n//Background: town (a town in the original characters' world).
+353	message	Nyu~.
+354	message	//Event CG: Puchiko shopping.
+355	message	Nyu. I don't know the going rates, nyu.
+356	message	I'll haggle hard and figure them out, nyu.
+357	message	Soniko would pay asking price for anything,\nso I've got to teach her properly, nyu.
+358	message	Nyu-nyu~.
+359	message	//Event CG off.
+360	message	Nyu?
+362	message	...
+363	message	You're with Twin Angel, aren't you?\nDo you have a moment?
+364	message	...Nyu!
+365	message	...I need your help.
+366	message	Nyu?
+367	message	//Fade to black.\n//Background: the original characters' world (where Porial is).
+368	message	Puchiko! Those guys are the enemy, nyo!?
+369	message	Nyu.
+370	message	...
+371	message	...
+372	message	You guys! You're the ones who kidnapped Tefa!\nWhat are you doing here!!
+373	message	Please wait, Louise-san! They treated me\nwith great courtesy. I don't think\nthey're bad people...
+374	message	Even so,\nit's a fact that we've fought them as enemies until now.
+375	message	So why is it you asked Puchiko-chan\nto guide you all the way here? Hmm?
+376	message	I know it's shameless,\nbut I've come to ask something of you all.
+377	message	"Angel's Tear"... dangerous.\nWill be... misused...
+378	message	Wha!?
+379	message	You're the ones who took the Angel's Tear\nfrom Aoi-chan?
+380	message	Yes. I don't intend to hide it.\nI'll accept whatever blame you give me.
+381	message	But this is an emergency.\nPlease, hear me out.
+382	message	What do you mean?
+383	message	World... annihilation... possibility... high.
+384	message	Wha!?
+385	message	//Fade to black.
+386	message	...So, some insane weapon of destruction is going to be activated\nusing that Angel's Tear thing?
+387	message	Yes. As Kannazuki-san would know,\nthe Angel's Tear's energy\nis nearly inexhaustible.
+388	message	They're about to force the use of\nthe satellite cannon Gustav, which harnesses that power.
+389	message	Just how strong is that thing?
+390	message	Imagine an energy cannon that can wipe out a city in one shot,\nfired without limit.
+391	message	I heard the Angel's Tear is a holy relic.\nTo use its power for destruction...
+392	message	Just like the Kadingir\nthat could destroy even the moon!
+393	message	Such a thing—\nwe absolutely cannot let them use it.
+394	message	The responsibility for this\nlies with us, who stole the Angel's Tear.
+395	message	We should really handle this ourselves,\nbut we came here thinking\nthat to stop Gustav for certain...
+396	message	We've got to stop it! I'll help!!
+397	message	Me too. I won't let\nthe Angel's Tear be misused.
+398	message	Wait, Onee-sama!\nIt could still be a trap...!
+399	message	Kurumi-san... but...
+400	message	I can't trust them!\nThey stole it themselves, and now that things are dangerous\nthey suddenly want help...!
+401	message	I'd like to see some proof\nthey're worth trusting!
+402	message	...I know\nthere's no way to apologize enough.
+403	message	But everything I've told you is true.\nIf any of it is false,\nI'll accept any punishment.
+404	message	Please... believe us.
+405	message	Hmph! Words are cheap!
+406	message	Now now, Kurumi-chan.\nI think these two are genuinely\ntrying to do the right thing.
+407	message	Indeed. Never acknowledging or forgiving a single mistake\ndoesn't seem right to me.
+408	message	That's not what I mean.\nI'm just saying I can't believe them.
+409	message	Now, whatever shall we do?
+410	message	How about we split into two groups again?\nActually, I was thinking of returning to IS Academy\nto tune the Akatsubaki and submit the data.
+411	message	We've got the combat data from the Kei fight too.\nWe might be able to get info at IS Academy\nabout Kei rampaging around Europe.
+412	message	In that case,\nlet's split into two teams.
+413	message	It'd also spread the risk\nin case these two are luring us into a trap.
+414	message	All right! Time to split into teams!
+415	message	//Fade to black, time passes.\n//The team split is decided.
+416	message	Okay, here's the announcement!\nFirst, the team going to IS Academy.
+417	message	Houki, Cecilia, Rin, Charlotte, Laura, plus\nHibiki, Aria, Shirayuki, Rika, Satoko, Rena,\nUsada, and Siesta.
+418	message	Going with Twin Phantom are me, plus\nSoniko, Tsubasa, Haruka, Aoi, Kurumi, Mion, Shion,\nKoto, Louise, Tefa, Dejiko, and Puchiko.
+419	message	Umm, which group should I go with...?
+420	message	//Choices\n//IS Academy team\n//Twin Phantom team\n//Check the members\n//Picking one advances the story. You can check members as many times as you like.
+421	message	It's decided, then.
+422	message	Then everyone, get ready to head out.
+423	message	Thank you for helping us.
+424	message	...Gratitude.
+425	message	Let's do our best together! Umm...?
+426	message	...Tesla Violet.
+427	message	...Nine Violet.
+428	message	Huh... Tesla, Nine... those names...\nyou're the ones who picked up my Poketen and returned it...?
+429	message	Could it be that you were the ones\nwho gathered medicinal herbs for me...?
+430	message	Hehe... now, I wonder?
+431	message	No need to dig deeper.
+432	message	Huh? O-oh, okay...
+433	message	They must have their reasons.
+434	message	...!!
+435	message	//Fade to black, briefly.
+436	message	Sheesh,\nsounds like there's some drama brewing on the other side.
+437	message	Come to think of it, Houki, how does the Akatsubaki feel?
+438	message	Yeah, its performance is still through the roof—\nI haven't seen its limits at all yet.
+439	message	Then you're fighting while holding back?
+440	message	The thing is, it burns through energy like crazy.\nIf I try to fight at full power,\nI hit the limit in no time.
+441	message	So that's why you're going back to IS Academy\nfor tuning.
+442	message	You deployed a brand-new 4th-gen unit\nstraight into live combat—\nit's a wonder it's worked this well so far.
+443	message	Thinking ahead, I need to learn\nto draw out more of the Akatsubaki's power...
+444	message	//END

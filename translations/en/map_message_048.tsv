@@ -1,0 +1,358 @@
+row	column	english
+3	message	...?
+4	message	...?
+5	message	Wh-why am I standing\nright in front of me!?
+6	message	I'm... two of me???
+7	message	Huh!?
+8	message	I'm [MERU]!?\nWho are you!?
+9	message	I'm [NOEL]!?\nHuh? Huh!?\nWhat's going on!?
+10	message	Wh-whoa, I-I've got a chest!!
+11	message	Waaah! I'm flat as a boaaard!!
+12	message	// Meru (Noel inside) runs away
+14	message	Ah! Where are you going!!\n[NOEL]! [NOEL]!
+15	message	//
+16	message	Hm? [NOEL]?\nWhat are you doing here...?
+17	message	Don't tell me, a surprise attack...!?
+18	message	No! I'm [MERU]!\n[CLAUDE]!
+19	message	Wh-what?\nWhat are you saying?\nAre you confused?
+20	message	Please listen to me!\nYou see...
+21	message	// Fade to black\n// Background: Saint Mont Blanc Academy (clearly a different world from IS Academy)\n// Meru comes to Eve
+22	message	Teacher! Teacher!
+23	message	My, that was quick, [NOEL]☆
+24	message	Huh!?\nTeacher... how did you know...?
+25	message	Hmm, I wonder why~?\nWhy, I wonder~?
+26	message	//Meru_end
+27	message	Why am I here?
+28	message	I'm... two of me???
+29	message	Huh!?
+30	message	I'm [MERU]!?\nWho are you!?
+31	message	I'm [NOEL]!?\nHuh?\nWhat's going on!?
+32	message	Wh-whoa, I-I've got a chest!!
+33	message	Waaah! I'm flat as a boaaard!!
+34	message	// Noel (Meru inside) runs away
+36	message	Hey! Where are you going... [MERU]!!\nW-wait up!!
+37	message	//
+38	message	Hm? [MERU]?\nWhat are you doing here...?
+39	message	Don't tell me, a surprise attack...!?
+40	message	No! I'm [NOEL]!\nThere was a little accident\nand I ended up looking like this!
+41	message	Wh-what?\nWhat are you saying?\nAre you confused?
+42	message	I'm a little confused but I'm sane!\nJust listen to me!!
+43	message	// Fade to black\n// Background: Saint Mont Blanc Academy (clearly a different world from IS Academy)\n// Meru comes to Eve
+44	message	Teacher! It's terrible!!
+45	message	My, that was quick, [MERU]☆
+46	message	Huh? You can tell it's me?
+47	message	Hmm, I wonder why~?\nWhy, I wonder~?
+48	message	//Noel_end
+51	message	Incoming call confirmed. State your business.
+52	message	...That information requires verification.\nVerification procedure is unnecessary.
+53	message	// SE: transmission cut-off sound (mid-boss)
+54	message	Transmission ended. Commencing action.
+55	message	// Fade to black\n// IS Academy classroom
+56	message	You're seriously saying that?
+57	message	It's true! I'm [MERU]!
+58	message	And it really does seem to be [MERU].
+59	message	Because she knew the cool pose\nI showed at Butei High,\nwhich [NOEL] couldn't possibly know,
+60	message	she's [MERU]!
+61	message	If you're [MERU], then tell me the name\nof the yo-yo technique\nyou showed me at Butei High.
+62	message	'Walking the Dog'!
+63	message	...I see. You're [MERU].
+64	message	After seeing Louise's magic\nand the Shinigami Doctor's undying bit,\nI can believe a body swap... but still...
+65	message	Whoa~, just like manga!
+66	message	How does it work, I wonder?
+67	message	It's not like a split personality\nor something?
+68	message	It's not!
+69	message	But I don't really know\nwhy I swapped with [NOEL]...
+70	message	[NOEL]'s a magician, right?\nMaybe she swapped you\nwith something magical?
+71	message	Oh, she showed us\na teleportation-like magic trick...!
+72	message	But I didn't know\na magical magician could do\nsomething like this?
+73	message	We'd have to ask [NOEL]\nto learn the truth, it seems...
+74	message	//Meru_end
+75	message	There's no way something that stupid\ncould happen! How could I believe that!?
+76	message	I'm not lying!\nI'm [NOEL]!
+77	message	And it really does seem to be [NOEL].
+78	message	Yeah. She knew how many doves\ncame out of the magic trick\nat Saint Cherine Academy!
+79	message	There's no way [MERU]\ncould know that, right.
+80	message	Th-that's pretty convincing, but...
+81	message	Um, then...
+82	message	At the ramen shop I showed you,\nwhat did [NOEL] order!?
+83	message	What I ate with Nico was...\ntonkotsu yogurt ramen, seasoned egg,\ndouble garlic, extra fat, extra veggies!!
+84	message	W-wow, correct!
+85	message	See!?
+86	message	Fine, I get it!\nWith magic and all that,\nit doesn't even feel strange anymore...
+87	message	Ehehe, we can't really talk either...\nah, nothing!
+88	message	How does it work, I wonder?
+89	message	It's not like a split personality\nor something?
+90	message	No! I'm me!\nI don't have [MERU]'s memories or anything!
+91	message	Could it be the effect of some\nhigh-level magic or something?
+92	message	[MERU]'s magic was about enhancing\nphysical ability or something,\nnot like this...?
+93	message	My magical magic doesn't have anything\nthat swaps bodies and minds either...
+94	message	We'd have to ask [MERU]\nto learn the truth, it seems...
+95	message	//Noel_end
+97	message	What!? An enemy attack!?
+98	message	Could it be [NOEL]?\nI wonder~
+99	message	Could it be [MERU]?
+100	message	Laura! What's the security situation!
+101	message	Notice from the observation room:\nan unidentified high-speed flying object\nis approaching IS Academy.\nRepresentative cadets with personal IS units\nare ordered to sortie.
+102	message	You're telling us to go investigate...?
+104	message	What? You're saying it's that thing!?
+105	message	That thing—what is it?
+106	message	An unidentified IS that fought indiscriminately\nacross European nations, scattering the seeds\nof conflict—confirmed to have\nthe codename 'Demon'.
+107	message	That thing's coming to IS Academy!?\nI see—we'll have to go...
+108	message	What kind of guy is it?
+109	message	It indiscriminately attacks and destroys\nanything that approaches.\nIgnores warnings, won't negotiate,\nappears and vanishes like a ghost...\napparently.
+110	message	So once you meet it,\neven surviving is hard for ordinary forces?
+111	message	That's why they're only sending us\npersonal-IS pilots, I suppose... but...
+112	message	...What's wrong,\nhurry up and sortie!
+113	message	Houki...
+114	message	I know.\nI'm neither a representative cadet\nnor a personal-IS pilot.\nThe four of you are going.
+115	message	We'll leave the rest to you, Houki.
+116	message	Rear support is important too.\nDon't sulk.
+117	message	I know that much.
+119	message	(Tch... I know!\nI know, but...!\nHow could this not frustrate me...!)
+120	message	Houki...
+121	message	// Battle map: plains\n// The only enemy is Kei. Initial player deployment: Cecilia, Rin, Charlotte, Laura only.
+122	message	There! That's the unidentified IS!
+123	message	Not in the database...\nwhose IS could it be?
+124	message	Wait, is that... a person?
+125	message	...Sensor response.
+126	message	You unidentified unit!\nYou're the 'Demon'!
+127	message	...
+128	message	...Where is [MERU]?
+129	message	[MERU]? [MERU]...\nyou mean [MERU]?
+130	message	...Where is [NOEL]?
+131	message	[NOEL]?\nThis thing knows [NOEL]?
+132	message	No response.\nHeading to IS Academy.
+133	message	Whoa, hold on!\nYou're not going to IS Academy!
+134	message	We'll be capturing you here!
+135	message	...
+136	message	// Battle begins
+138	message	Wh-what was that just now...?
+139	message	Everyone, fall back!!\nThis unit is bad news...!
+140	message	Something's off about this thing's specs!\nEven for a cutting-edge unit,\nthis is fundamentally different\nfrom evolution or upgrades!
+141	message	It's like an IS, but not an IS...?
+142	message	// Event at the start of turn 2
+143	message	Commencing movement.\nDestination: IS Academy.
+144	message	Like I'll let you!!
+145	message	Rin! Don't get close!
+146	message	If it slips past us\nwe can't match its speed!!
+148	message	Exactly!\nIf we let it reach IS Academy,\nthere's no telling how much damage\nit'll cause!
+150	message	Trying to ignore me—how dare you!
+152	message	No!\nIf we move separately...!
+153	message	You're in the way.
+154	message	// Kei attacks Rin, Cecilia, and Laura. No battle animation.
+155	message	Kyah!!
+156	message	//
+157	message	Auh!!
+158	message	//
+159	message	Kuh!!
+160	message	//
+161	message	Everyone!!
+163	message	...
+164	message	Infinite Stratos.\nA toy too much for humans.
+165	message	Wait...\nI can't let you go...!
+166	message	That's right!!
+167	message	I'm over here!!
+168	message	Where are you looking!\nI'm over here!!
+169	message	// Houki and Meru or Noel appear. Player-chosen free units also appear near Meru
+170	message	Houki!
+171	message	Even [MERU]! Why!?
+172	message	Even [NOEL]...\nwhy did you come out?
+173	message	I heard the comms.\nBetter than letting it charge\ninto IS Academy, I judged.
+174	message	I can't let Cecilia and the others\ndo all the hard work!
+175	message	I won't let Laura and the others\nlook cool alone!\nI'm a fighting magician,\nnot a princess to be protected!
+176	message	You didn't have to come out anyway!
+177	message	Enough arguing—reform the formation!\nThe four of us will stop the 'Demon' again!
+181	message	Roger!
+182	message	Wait for me!\nI'm coming too!!
+183	message	// Houki advances, approaching Kei.
+184	message	Commencing interception and capture.
+185	message	// Kei deploys mass-produced Uchigane near Houki.
+186	message	Wh—!? What!?
+187	message	...
+188	message	It's an Uchigane!
+189	message	No, it's a unit not in the database!
+190	message	A fake Uchigane, more or less!
+191	message	Hah! What is this thing to me!!
+192	message	// Battle resumes\n// Event when Houki engages the mass-produced Uchigane. Can we arrange it so the mass-produced Uchigane attacks Houki on the enemy turn, position-wise?
+193	message	Come on! I won't lose with a blade in hand!\nDon't underestimate Houki Shinonono!!
+194	message	...!
+195	message	// Event on Houki's second engagement with the mass-produced Uchigane
+196	message	Not yet! Haaaaah!!
+197	message	...!!
+198	message	Don't push yourself, Houki!
+199	message	We have no data on that fake Uchigane,\nso we don't know what it'll do!
+200	message	So what!\nThat doesn't change that I'll defeat it!
+201	message	// Event on Houki's third engagement with the mass-produced Uchigane
+202	message	Deeeeiyah!!
+203	message	...!!!
+204	message	Unless we deal with the 'Demon,'\nwe can't support Houki...!
+205	message	Focus, Charlotte!\nWe'll have to leave Houki's support\nto the others!
+206	message	// Event at the start of the next turn after Houki's third engagement with the mass-produced Uchigane
+207	message	Tch! I still can't break through!!
+208	message	...Go.
+209	message	// A mass-produced Uchigane appears behind Houki. Ambushes her
+210	message	!?
+211	message	// The mass-produced Uchigane behind her attacks Houki. Deals damage.
+212	message	Ugh! How dare you!!
+213	message	// Houki counterattacks, destroying the mass-produced Uchigane behind her.
+214	message	All right! Next!\n...Hm? What's wrong?
+215	message	// Houki's Uchigane malfunctions due to trouble
+216	message	It won't move!?\nFrom that hit just now!?
+217	message	Houki! What's wrong!\nThe enemy's coming!!
+218	message	The Uchigane won't move!\nTch, move!
+219	message	// A mass-produced Uchigane attacks Houki
+220	message	Uwaah!!
+221	message	Houki!!
+222	message	There!
+223	message	// Kei attacks Charlotte, who was distracted by Houki
+224	message	Ugh!!
+225	message	Charlotte! How dare you!!
+226	message	// Kei lands another hit on Laura
+227	message	Guuuh!!
+228	message	No more!!
+229	message	I won't allow it!
+230	message	// Kei lands a hit on Rin and Cecilia too
+233	message	Kyaah!!
+234	message	Rin! Cecilia!\nDamn! Not here...!!
+235	message	Uchigane!! Move! Please move!!\nI have to save everyone!!
+236	message	// Houki's Uchigane doesn't move; she is attacked by a mass-produced Uchigane.
+237	message	Ugh! Uchigane!\nIs this your limit?\nCan you really not move anymore!?
+238	message	// A new mass-produced Uchigane appears before Houki
+239	message	Wh—!?
+240	message	...!!!!
+241	message	// The Akatsubaki, packed in a pyramidal package (as in the original), drops from directly above, smashing the mass-produced Uchigane in front of Houki. (If the package is too much, the Akatsubaki alone is fine, but the package would be easier visually)\n// With a 'kweeen! dogoon!' the package falls.
+242	message	Huh...?
+243	message	Heya heya, Houki!\nIt's your big sis!\nYour personal unit just finished,\nso I sent it super-express♪
+244	message	J-just now...?\nSo this is it?
+245	message	A fourth-generation IS surpassing\nall current IS specs in every way—\nits name is 'Akatsubaki'!\nCome on, hop in!
+246	message	O-okay...!
+247	message	// Houki and the Akatsubaki are enveloped in light (IS units do quantum stuff, so the transfer motion is skipped)
+249	message	Watch out!!
+250	message	// The mass-produced Uchigane that approached the Akatsubaki are all destroyed in an instant
+251	message	Huh!?
+252	message	// The Akatsubaki appears.
+253	message	...
+254	message	That's...!
+255	message	The Akatsubaki...?
+256	message	High energy confirmed. Capture it.
+257	message	// Masses of mass-produced Uchigane appear around the Akatsubaki
+258	message	Hah!
+259	message	// The Akatsubaki wipes out the mass-produced Uchigane that appeared with a single flash
+260	message	!!
+261	message	What? Just now...!?
+262	message	//
+263	message	Personalization and fitting—\nhow about we do it while cleaning up\nthe trash around here?\nA sisterly joint effort!
+264	message	Please do...
+265	message	Everyone, I'm on my way now!!
+266	message	// Event CG: the Akatsubaki advances
+267	message	Fast!
+268	message	So this is how different\na fourth-gen IS is...!
+269	message	(Light...\nI can't feel the Uchigane's weight at all)
+270	message	How is it?\nIt moves better than you expected, right?
+271	message	Yes...
+272	message	—I can do it!\nWith this Akatsubaki!
+273	message	// Event CG off
+274	message	Personalization and fitting complete!\nNow do your best, Houki!
+275	message	Yes.
+276	message	...Interesting.
+277	message	This new power...\nlet me test it against you!
+278	message	// Battle resumes\n// Event when Kei and Houki engage
+279	message	Shinonono-style swordsmanship, dual-wield form—\nthe Jūjin stance...\nCome, let us duel!!
+280	message	Data measurement commencing...
+281	message	// Event after Kei and Houki engage
+282	message	Amazing...\nthey're evenly matched...!
+283	message	Neither is at full power yet,\nbut the difference is clear...
+284	message	Third-gen IS units aren't even mass-produced yet,\nso a fourth-gen sounded like a joke, but...
+285	message	We have no choice but\nto accept it as fact...
+286	message	// Kei retreats after taking a set amount of damage or after a set number of turns
+287	message	Akatsubaki, fourth-generation IS.\nGood... data can be harvested.
+288	message	// Kei vanishes.
+289	message	It vanished...
+290	message	Could it be one of Riko and Jeanne's\nallies, I wonder?
+291	message	It's definitely an enemy.
+292	message	It bothers me\nthat it came after [MERU].
+293	message	It bothers me\nthat it came after [NOEL].
+294	message	What a nuisance.
+295	message	(But with this Akatsubaki...!)
+296	message	// Battle ends\n// Background: IS Academy arena
+297	message	Houkiii!!
+298	message	Houki, good work!\nYou were so cool!
+299	message	I was worried for a moment there!
+300	message	To think you had a trick\nlike that up your sleeve.
+301	message	...
+302	message	Houki?
+303	message	Sorry, it still hasn't sunk in.
+304	message	I didn't think you could move\nlike that right away!
+305	message	That's probably because my sister\npre-loaded it with the combat data\nshe'd gathered from my Uchigane.
+306	message	If every part's tuning and the weapons\nwere designed for me from the start,\ngetting used to it is quick.\nThat's all it is... I think.
+307	message	Sorry, can we talk later?\nI need to go see the Uchigane.
+308	message	// Houki walks off
+310	message	Houki...?
+311	message	Leave her be.
+312	message	They say deep within an IS core,\nthere's something like a consciousness.
+313	message	By accumulating experience,\nit comes to understand its pilot.
+314	message	An IS isn't just a tool.
+315	message	// Fade to black\n// Background: IS Academy arena\n// Houki thanks the Uchigane she used
+316	message	(Uchigane...\nI'm sorry I put you through\nmy unreasonable demands as your pilot)
+317	message	(My family was torn apart because of IS.\nThat's why I hated IS.\nMaybe I still do)
+318	message	(But if I ever come to like IS\nmore than I do now,\nit'll surely be thanks to you...)
+319	message	(Thank you...)
+320	message	(As proof that we fought together,\nI'll leave my ribbon with you.\nIt's nothing much, but please take it...)
+321	message	// Fade to black\n// Background: IS Academy classroom
+322	message	An unexpected powerful enemy appeared.
+323	message	That 'Demon' thing that looks like an IS—\nits pilot looked like a machine too,\nbut what is it?
+324	message	It can't be a machine.\nAn IS absolutely won't move\nwithout a person piloting it.\nThat's just how they are.
+325	message	But it didn't look human.
+326	message	What if it's like\na robot life-form or something, nyo?
+327	message	What if someone with a civilization\nbeyond the IS world's technology\ngot their hands on an IS, I wonder?
+328	message	There's still a lot unknown about IS.\nIf it fused with another world's technology,\nwho knows what would happen.
+329	message	What bothers me is\nthat the Demon came looking for [MERU].
+330	message	What bothers me is\nthat the Demon came looking for [NOEL].
+331	message	Right.\nIs it a new enemy, or...?
+332	message	As always, we can't tell its intent.\nWhat is it fighting for?
+333	message	If the enemy had a hideout,\nwe'd storm it and investigate.
+334	message	A hideout?
+335	message	A hideout, huh.
+336	message	Everyone, I have a proposal~
+337	message	Rika, did you notice something?
+338	message	Now that we know how to use the Polyal,\nI'd like to go back to Hinamizawa once.
+339	message	...To Hinamizawa.
+340	message	Come to think of it,\nit's been a while.
+341	message	If I remember right,\nthere was something like an enemy base\nin Hinamizawa.
+342	message	Really?
+343	message	That's where the Polyal is, right.\nI wonder if there's something else\nin Hinamizawa of value to the enemy?
+345	message	...I have an idea what it might be.
+346	message	...
+347	message	...
+349	message	What do you have in mind?\nLike a hidden treasure?
+350	message	Mii... I can't explain it well,\nbut it's something precious to Hinamizawa.
+351	message	If the enemy is definitely after it,\nshouldn't we go?
+352	message	I agree!\nIt could be a clue\nto the enemy's objective!
+353	message	I'm for it too.\nThey said Hinamizawa was\nthe Shinigami Doctor's hideout.\nThere's got to be something there!
+354	message	What do you think, Aria?
+355	message	I... um...
+356	message	What's wrong?\nThat's not like you.
+357	message	It's nothing! Okay!
+358	message	But I want to ask Rika one thing.\nIf we go back to Hinamizawa,\nwhat happens...?
+359	message	...
+360	message	Nipaa~☆
+361	message	Ugh...
+362	message	// Fade to black\n// Background: by the stairs
+363	message	Uuuuh, how do I get this body\nback to normal...?
+364	message	...
+365	message	Hmm... the more I look,\nthe more I touch, the more useless fat\nthis body has...!
+366	message	It jiggles this much\njust from moving a little...!
+367	message	Ah! My clothes won't fit this body!
+368	message	And this girl never had\nthe concept of underwear, even before.
+369	message	Walking outside dressed like this—\nher screws really are loose.
+370	message	//Meru_end
+371	message	Sheesh~,\nhow do I get this body\nback to normal?
+372	message	...Hm?
+373	message	[MERU] really is flat as a board.\nBut it might be comfy for sleeping!
+374	message	Hm? I felt something uncomfortable...\naaah, I knew it~.
+375	message	Why do I have these scraps of cloth\non my chest and waist?
+376	message	With these on, my movement's restricted\nand it feels gross~.
+377	message	But if I take them off, [MERU]...\nwould get mad, I bet~.
+378	message	She got furiously mad once\nwhen I forcibly took them off before~.
+379	message	Not wearing them is more thrilling\nand exciting, but she doesn't get it, sigh.
+380	message	//Noel_end

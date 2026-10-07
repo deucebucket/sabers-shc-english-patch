@@ -1,0 +1,304 @@
+row	column	english
+3	message	Hey, can we stop by that shop?
+4	message	Charles, is there still something\nyou want to see?
+5	message	There are so many cute things.\nCharles must be having fun too.
+6	message	W-wow, that shop's lined with\nlots of pictures of mostly-naked people…!
+7	message	That's a little too early for you~.\nOkay, everyone, about-face~.
+8	message	Aren't you about the same yourself?
+9	message	Hm? Well, yeah. Kyararin☆
+10	message	I don't get that spell of yours either.
+11	message	Fwaah…
+12	message	Haruka, you look sleepy.\nWhat were you up to all night?
+13	message	U-um, I was reading manga\na little too late… *yawn*.
+14	message	(It's really because I've been\nsearching for the Poketen at night…)
+15	message	…
+16	message	Aoi, you look pale. Are you okay?
+17	message	I-I'm fine. Like Haruka,\nI'm just a little sleep-deprived…
+18	message	// Aoi collapses
+19	message	Aoi!? Aoi! What's wrong!!
+20	message	Calm down, Haruka.\n…Yeah, she's got quite a fever.\nLet's get her somewhere with a bed.
+21	message	Maybe exhaustion caught up with her.
+22	message	Aoi…
+23	message	(It's my fault…\nBecause I lost the Poketen…!)
+24	message	// Fade to black\n// Background: inside Gamers
+25	message	Is it true Aoi collapsed, nyo?
+26	message	We took her to a nearby hospital\nand had a doctor look at her.\nShe took fever medicine and is sleeping now.
+27	message	Is she sick, nyo?
+28	message	Thing is, the doctors\ncan't figure it out.
+29	message	They can't tell, nyo?\nQuack doctors, nyo!
+30	message	Non non!\nOf course that doctor couldn't tell.\nHere's the thing.
+31	message	What do you mean?
+32	message	Judging from Boin-chan's condition,\nthat's an endemic disease from my world—\ncalled Tennetsu disease.
+33	message	Tennetsu disease?
+34	message	Yes—the fever climbs without limit\nuntil you start hallucinating angels.\nA terrifying disease.
+35	message	That can be cured, right?
+36	message	Left as-is, no~.\nIt's an incurable disease, after all.
+37	message	Whaaat!? No way!!
+38	message	Just kidding—total lie.\nBut until a miracle cure was found,\nit really was incurable.
+39	message	Eve! Please stop joking\nat a time like this!
+40	message	Sowwy sowwy!\nWe know a medicinal herb called\n'Dark Stardust' works now,\nso it's not that dangerous.
+41	message	That herb can cure her!\nWhere is it!
+42	message	It grows in a cave\nnear Saint Mont Blanc Academy~.
+43	message	I think it was growing in a cave\nnear Saint Mont Blanc Academy?
+44	message	Good memory. Smart, zo!
+45	message	Then let's hurry there right away.
+46	message	Good thing we can choose\nour destination now.
+47	message	Haruka, please stay by Aoi's side.\nWe'll go pick the herb!
+48	message	No, I'm going too!\nI want to do something for Aoi!
+49	message	I might not be able to call\nthe Twin Angels yet, but…
+50	message	That's fine.\nWe're not going to fight!
+51	message	Right. Just go and pick it quickly.\nShouldn't be hard.
+52	message	// Fade to black\n// Background: Akihabara (day)
+53	message	Everyone's here?\nPoryal! Come on ouuut!
+54	message	// Poryal appears
+55	message	Now! Off we go, off we go!
+56	message	I'll be back, Aoi!
+57	message	// Light flares\n// Everyone vanishes.
+59	message	Disappearance confirmed.
+60	message	Let's go, Natchan.\nStealing the 'Angel's Tear' from Kannazuki\nat the hospital will be easy.
+61	message	But…
+62	message	…I can't say I have no doubts\nabout whether this is truly the right thing.
+63	message	Kannazuki is a Twin Angel.\nBut the Twin Angels are not our enemy.
+64	message	But we are Twin Phantoms.\nDaughters of Black Trader,\nmembers of the Black Fund.
+65	message	Sis…
+66	message	(Even though she didn't know anything,\nMinazuki helped us when we were in trouble.\nAnd yet we… …!)
+67	message	…!
+68	message	// Fade to black\n// Background: the cave
+69	message	The herb's in this cave, right?
+70	message	Yes! It should be deeper inside~!
+71	message	There's spring water in the back,\nand it was near there, I think.
+72	message	It's a plant that grows in special conditions.\nMaybe it's related to something\nin the spring water.
+73	message	We gotta get there fast!
+74	message	The herb won't run away\njust because you dawdle. Unless it grows legs!
+75	message	…Hm? Don't you hear something?
+76	message	Huh?
+77	message	// SE: explosion
+78	message	Kya!!
+79	message	What!? It came from the entrance!
+80	message	We should head back and check.
+81	message	Right! Let's go see!
+82	message	// Fade to black\n// SE: footsteps walking\n// The party heads back to the entrance
+83	message	Wh-what!? A cave-in at the entrance!?
+84	message	I smell gunpowder!\nDid someone blow it up?
+85	message	(Charles, this is…)
+86	message	(A trap, maybe…)
+87	message	Eve, do people come to this cave often?
+88	message	Hmm… dunnooo☆
+89	message	This is no time to be so carefree…
+90	message	Don't worry.\nRocks and dirt like this?\nOne swing of my hammer'll…
+91	message	No, Koto! The blast probably weakened\nthis whole area. Mess with it carelessly\nand we'll be buried alive!
+92	message	Right. We and the IS units might be fine,\nbut we can't guarantee everyone's safety.
+93	message	More importantly, we need to hurry\nand pick the herb!!
+94	message	…That might be impossible.
+95	message	Huh?
+96	message	…An ambush, of all things.
+97	message	// The rival appears
+98	message	…
+99	message	[NOEL]!? Why are you here~!?
+100	message	I don't think any idiot would tell you.
+101	message	…
+102	message	[MERU]…!! What are you doing in a place like this!?
+103	message	Even if you ask, I'm not telling~.
+104	message	Aoi doesn't have much time…!\nPlease, let us pick the herb!!
+105	message	Minazuki! Stay back!
+106	message	// Battle map: the cave\n// Enemy and allied deployment
+107	message	There's so many of them…!!
+108	message	Can't chalk this up to coincidence.
+109	message	Indeed…
+110	message	Quite the thorough preparation.\nShould I celebrate my student's growth,\nor scold her mischief? I'm torn.
+111	message	Teacher, this is wrong~!\nDoing this while Aoi's suffering\nis awful~!
+112	message	True… but [MERU],\ncould you defy Teacher\ngoing this far?
+113	message	I could never do that~!!
+114	message	And that's exactly what\n[NOEL]'s doing.
+115	message	I don't know the reason, but\nwouldn't I be a failed teacher\nif I didn't understand that resolve?
+116	message	I don't understand~…\n[NOEL] defying Teacher…\nI don't understand at all~…
+117	message	Then why not clash with all your might?\nYou might learn something that way, zo☆.
+118	message	…I'll try~!
+119	message	Teacher, stop [MERU]!
+120	message	Hmm, isn't that what's strange?
+121	message	What's strange about it!\n[MERU]'s the strange one!
+122	message	[MERU]'s serious.\nI don't know why, but\nshe's standing before Teacher in earnest.
+123	message	That's exactly what's strange!
+124	message	How much resolve do you think it takes?\nYou know what defying Teacher means,\ndon't you, [NOEL]?
+125	message	This is all crazy…\nUgh, I don't get it!!\nFine! I'll clash with her!!
+126	message	That's right! That's the answer☆
+127	message	// Battle start\n// Event triggers when the rival and [MERU] engage
+128	message	[NOEL]!\nDo you really have to do this~?
+129	message	You know my personality, right?\nThen you should understand!
+130	message	// Event triggers when the rival and [NOEL] engage
+131	message	[MERU]!\nYou're prepared to go down, I hope!
+132	message	You're the one going down~…!
+133	message	// Event triggers when the rival is defeated
+134	message	Fufu, my show isn't over yet!\nBye-bye!
+135	message	This much is… enough~!
+136	message	// The rival character vanishes
+137	message	We haven't settled this yet~!!
+138	message	What's 'enough'! Fight me to the end!
+139	message	Hmm, cute face and all…\nthat girl's got some skill.
+140	message	Wait! More of them!?
+141	message	// Enemy reinforcements appear. Riko also appears. Line up an absurd, impossible-looking number of them. Kurumi's arrival wipes out a huge chunk.
+142	message	Heeey! Welcome to the monster house!\nJust kidding!
+143	message	A two-stage setup, then.
+144	message	This number…!
+145	message	Fufun. A monster house is, like,\nabsolutely crawling with monsters.\nEnough to make you go 'oh, I'm doomed,' zo!
+146	message	This cramped space makes it hard to fight!
+147	message	And the exit's blocked…
+148	message	Even if I take point,\nI can't block them all…!
+149	message	Good good, nice faces, everyone!\nThat's the look of a group caught in a trap.\nNow then—surround and annihilate, all at once!
+150	message	Mii, this is bad…
+151	message	Goo! Monster armiiiies!
+152	message	// SE: huge explosion\n// Screen shakes as Kurumi blows up the entrance.
+153	message	An explosion!?
+154	message	Honestly, Haruka's such a handful\nshe's gonna end up charred black!
+155	message	Who are you!
+156	message	Hmph! Before asking someone's name,\nthere are things to do first!
+157	message	// Event CG: Kurumi appears, hurling Angel Bombs wildly.
+158	message	Here I go!!
+159	message	Angel Bombs!! Carpet bombing!!\nTake that, that, that, that!!
+160	message	Blast off!!
+161	message	// Explosions erupt across the map, wiping out tons of enemies at once.
+162	message	Uwyaa!?
+163	message	I-I'm gonna die…!!
+164	message	No, wait…\nShe's precisely targeting\nonly the enemies…?
+165	message	// Kurumi appears on the map.
+166	message	Of course! Who do you think I am!!
+167	message	Who are you!?
+168	message	The phantom-thief angel! Twin Angel!!
+169	message	There's only one of you!!
+170	message	What do you mean!\nWith the Red Angel over there that makes two…\nhuh? She's not here!?
+171	message	Mooou, for once I thought I could actually say\n'twin' today~! At this rate I'm a one-person\nTwin Angel!
+172	message	A white Twin Angel…?
+173	message	That's right, I'm White Angel!\nFine, I'll do the work of three!
+174	message	And no pointing out that the numbers\ndon't add up either way!!
+175	message	(She's bothered by it…)
+176	message	Heh-heh, the tables have turned!\nTime for our big counterattack!
+177	message	// Battle resumes\n// Event triggers when Riko and Kurumi engage
+178	message	Just go down already!
+179	message	A bomb-using thief—\nthat's overlapping with me, y'know.\nSorry, but could you change your character?
+180	message	There! A phantom thief and a common thief\nare totally different! I'm way cuter, too♪
+181	message	I've got the sex appeal advantage!
+182	message	Shut up! Give me a year\nand I'll surpass you!
+183	message	// Event triggers when Riko is defeated
+184	message	Mmm, the monster house failed.\nShould've cranked the difficulty a bit higher.\nBalance tuning is hard!
+185	message	// Riko vanishes
+186	message	Vanishing in an instant from a cave like this\nis way more unbalanced!
+187	message	Couldn't agree more.
+188	message	Laura, you've done stuff like that too…
+189	message	In my case, the movement was part of the plan.\nI wasn't using it freely.
+190	message	Hmm, interesting~.\nSo there's a difference in how it's used.
+191	message	Hey! Way too early to relax!\nFinish them all off before you chit-chat!
+192	message	She's right. Let's clean up the rest!
+193	message	// Clear when all enemies are defeated
+194	message	That's that. Bye-bye!
+195	message	// White Angel withdraws.
+196	message	Ah, at least let us thank you!
+197	message	Her identity's a secret too, then.
+198	message	Let's ask Haruka for details.\nAnd we need to hurry with the herb picking.
+199	message	That's the most important thing.
+200	message	// Battle end\n// Background: the cave
+201	message	Honestly! Aoi's in danger\nand Haruka's totally useless!
+202	message	Sorry, Kurumi…
+203	message	Haruka, this girl's the White Angel's…?
+204	message	I'll introduce myself.\nI'm Kurumi Hazuki—the Heaven's Messenger\nwho summons White Angel!
+205	message	As a Heaven's Messenger I'm not just green but half-boiled—\nno, I came all this way to babysit\ndumb raw-egg Haruka.
+206	message	By the way, Kurumi, how did you get\nto this world?
+207	message	It's a real mystery.
+208	message	Honestly, can't anyone figure out\nsomething that obvious?
+209	message	Did Eve teach you? Maybe? maybe?
+210	message	Final answer?
+211	message	U-um, final answer, maybe, mayybe.
+212	message	Correct~! After I helped Sakimori-chan,\nNekomimi-chan came to Saint Cherine Academy,\nand that's where we met.
+213	message	Sakimori-chan?
+214	message	That's me. And 'Nekomimi-chan'\nmust be Hazuki.
+215	message	I heard someone was after the 'Angel's Tear',\nso I rushed from Italy to the academy,\nbut Aoi and the others were already gone.
+216	message	I'd asked her to stay behind and guard\nSaint Cherine Academy just in case, but\nwhen I told her Boin-chan collapsed…
+217	message	I couldn't just sit still!\nEve taught me how to use Poryal,\nso I checked on Aoi first, then came here.
+218	message	And sure enough, Haruka's been\ntotally useless!
+219	message	Sorry…
+220	message	Now now, everyone's safe,\nso let's go pick the herb!
+221	message	Right.
+222	message	Just one more question, if you please?\nYou blew up the cave entrance to get in,\nbut wasn't there a risk of collapse?
+223	message	That's easy! You just calculate\nthe amount of explosives that lets people through\nbut barely avoids a collapse.
+224	message	You can do that calculation that fast!?
+225	message	White Angel did the calculating, though.\nFor her it's a piece of cake, probably.
+226	message	Wow, she's smart.
+227	message	Are we done with questions?\nFor Aoi's sake, the herb…
+228	message	Yeees! One more questiooon!
+229	message	Eeep!? You're the one from before!!
+230	message	How many seconds do you think\nthis cave will hold?
+231	message	Wh-what!?
+232	message	Bye-bye-kii~n☆
+233	message	// Riko vanishes
+234	message	Wait!
+235	message	// SE: rumbling, then a huge explosion\n// Screen shakes too.
+236	message	Kya!!
+237	message	An explosion deeper in the cave!?
+238	message	// SE: bedrock crumbling
+239	message	Bad! At this rate the whole cave\nwill collapse and bury us!
+240	message	Let's run!
+241	message	But the herb!!
+242	message	Even so, we'll lose our lives\nbefore we can pick the herb!
+243	message	Nooo! Without the herb, Aoi'll…!!
+244	message	Calm down! There might be another way.\nIf we kick the bucket here,\nit'd all be for nothing!
+245	message	Ugh…!
+246	message	Herbs like that grow elsewhere too!\nNow that you get it, move! Hurry!
+247	message	O-okay… sorry, Kurumi…
+248	message	Honestly, you're such a handful.\nEveryone else, retreat! Quickly!
+249	message	// Fade to black\n// Background: the original-characters' world
+250	message	Wh-what… you're kidding…?
+251	message	Sorry, but it's true. 'Dark Stardust'\nhas only ever been found in this cave.
+252	message	What! Why didn't you say that first!
+253	message	The cave completely collapsed.\nIt's buried.
+254	message	I could dig it back up if asked,\nbut the herb probably didn't survive.
+255	message	No… if Aoi can't be saved,\nwhat do I do…!
+256	message	Calm down, Haruka.\nLet's go back and check on Aoi first,\nthen think. Okay?
+257	message	But we need to find the herb\nas soon as possible!
+258	message	I'll use my connections to search for the herb.\nThe rest of you head back to Boin-chan first.
+259	message	Better to leave this world's matters to Eve.\nLet's head back for now.
+260	message	I agree.
+261	message	…Aoi… I'm sorry…\nI couldn't do anything…!
+262	message	(Haruka…)
+263	message	// Fade to black\n// Background: black
+264	message	—Aoi's hospital room
+265	message	Aoi… I'm sorry, I…!
+266	message	Hey, what is this!?\nGrass… on top of Aoi?
+267	message	Huh? This grass, I've seen it somewhere…?
+268	message	Aaah! This is 'Dark Stardust'~!!
+269	message	Hm? This grass looks familiar?
+270	message	Wasn't 'Dark Stardust' this?
+273	message	Really!?
+275	message	// Fade to black\n// Background: inside Gamers
+276	message	I'm fully recovered.\nSorry for all the trouble, everyone.
+277	message	Thank goodness…\nFor a while I didn't know\nwhat would happen…
+278	message	Really! Not only couldn't you pick the herb,\nyou nearly got buried under the cave—\nI thought I was done for!
+279	message	Kurumi, you don't have to go that far…
+280	message	This is me going easy!\nHaruka has zeero of the judgment and skill\na Heaven's Messenger needs!
+281	message	Ugh… this reminds me of myself\nwhen I first became a Symphogear wielder…
+282	message	I said some pretty harsh things to Tachibana too.\nBut I don't think that attitude was right—\nI regret it now, honestly.
+283	message	I don't know about you two, but\nit's a fact that Haruka lacks awareness\nand is way too clumsy!
+284	message	Yes…
+285	message	Kurumi, you don't have to be so hard on her.\nHaruka is doing her duty properly.
+286	message	Aoi, you're too soft on Haruka!\nThis isn't helping her at all!
+287	message	By the way, who picked that herb\nfor us? Maybe? maybe?
+288	message	Wasn't me.
+289	message	By the time we got back here,\nit was already there.
+290	message	Um, about that…\nactually… the 'Angel's Tear'\nhas gone missing.
+291	message	Whaaat!?
+292	message	Aoi, is that really true!?
+293	message	Yes… it was there the day I collapsed,\nso probably while I was bedridden…\nI'm so sorry…
+294	message	Almost like it was traded\nfor the herb.
+295	message	You can't have anything without life.
+296	message	Rika's right. You can't get a life back,\nbut with effort you can get things back.
+297	message	Right! Aoi getting better\nis way more important!
+298	message	Exactly! We just take back\nwhat was stolen. That's my— a phantom thief's job!
+299	message	(Hazuki understands the weight of life\nfar better than I once did… admirable,\nfor one so young… no, perhaps because\nshe is so young.)
+300	message	(Still, who on earth did this?)
+301	message	// Fade to black\n// Background: Akihabara
+302	message	Do you think I did something unnecessary?
+303	message	…No.
+304	message	I see… I sent the 'Angel's Tear'\nto Black Fund HQ.
+305	message	And then… this…
+306	message	The Twin Angels' transformation device\nthat Minazuki dropped. I'm torn\nabout what to do with it too.
+307	message	Returning it, sending it to the Black Fund,\ndestroying it… none of it feels right…
+308	message	Yeah…
+309	message	//END

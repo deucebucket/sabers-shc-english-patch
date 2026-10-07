@@ -1,0 +1,364 @@
+row	column	english
+3	message	We're first, nyo~!
+4	message	After three furious battles in a row.
+5	message	Feels like we fought more —\nthat's Gamers' fault.
+6	message	I wonder if the others are safe?
+8	message	Oh, that was fast!
+9	message	Huh? The Hinamizawa team is already here!?
+10	message	Somehow, when we left Hinamizawa,\nit seemed like no time had passed.
+11	message	Did time rewind again?
+12	message	That's not it, you see~.\nThis time, I didn't die even once.
+13	message	Which means?
+14	message	We returned to Dokoka Town\nfrom that July we'd never been able to move past.
+15	message	So it went well?
+16	message	Yup! Hinamizawa's safe,\nand the enemies are gone!
+17	message	I see… you worked hard.
+18	message	Satoko-san did splendidly.
+19	message	I merely cut open the path.\nThat we could seize victory\nis thanks to Cecilia-san and the others.
+20	message	I wondered how the final all-out battle would go, but\nI believed we could do it with these comrades.\nIt was very reassuring.
+21	message	That's awfully humble for you, Houki.
+22	message	I merely spoke my honest feelings!
+23	message	What happened on the Gamers side?
+24	message	Black Dejiko showed up, nyo!\nWell, we won, so all's good, nyo.
+25	message	You came back early.
+26	message	Pff!!
+27	message	Hey, Louise!\nStop laughing remembering things!
+28	message	Hm? Did I do something?
+29	message	Nothing! Nothing at all!
+30	message	Right! We saw nothing and heard nothing!
+31	message	…If you say so.
+32	message	Hm, the Black Fund team has come too.
+34	message	Yahoo!\nI brought back a report of total victory!
+35	message	We were able to take back the 'Angel's Tear'.
+36	message	Waa!\nCongratulations, Aoi-chan!
+37	message	We stopped the 'Gustave Kai' launch too.\nIt went well.
+38	message	'Gustave Kai'? What's the 'Kai'?
+39	message	My black self was thinking terrible things.\nA plan was underway to use\nGustave in other worlds too.
+40	message	Firing an infinitely-firing satellite cannon indiscriminately…\n…but the worlds' interactions\nproduced the technology to do it.
+41	message	It's dangerous after all…\nworlds intersecting!
+42	message	Right. I think it's a good opportunity\nto consider what to do going forward.
+43	message	Before that, shall we\ntake a little rest?
+44	message	I think that's best.\nEveryone must be tired\nin body and mind.
+45	message	I agree too!
+46	message	You rest too, Siesta-san?\nCooking for everyone and doing dishes\nis a lot, right?
+47	message	But who would cook instead?
+48	message	How about asking Jumarin-san and Dorothy-san\nat the shop, desu~?
+49	message	Let's have Jumarin-chan and\nDorothy-chan at the shop make something!\nJust once, come on?
+50	message	That sounds fun!\nIf it doesn't work out, I'll make ramen!
+51	message	Ramen!\nUm, I'll help too!\nI love ramen… ehehe~!
+52	message	Ramen can be made in bulk, good idea!
+53	message	Yes♪ I'll show you\ntender, juicy chashu~!
+54	message	Soniko's fired up like never before, nyo!
+55	message	I'll help too!
+56	message	Me too~!
+57	message	Let me help too!\nHow about some tantanmen?
+58	message	Aoi-oneesama's tantanmen is so spicy,\nI think ordinary people\ncan't eat it…
+60	message	Good grief, I think we should just\nmake ramen already…
+61	message	(It's fine.\nIt's easier if everyone can rest)
+62	message	True enough…
+63	message	Welcome-yoo!
+64	message	Um, excuse me,\ncould you… do some cooking for us?
+65	message	What is 'cooking'-kaa?\nAnything in town is okay to eat-yoo!
+66	message	No, um… I mean,\nwe'd like you to cook things\nthat can't be eaten as-is so they can be eaten.
+67	message	Make inedible things edible,\nkaa? All right!\nLet's try-shoo! This way-zoo!
+68	message	Huh? Me…? Do I do something too?
+69	message	I'll make the inedible\nedible for you-shoo!
+70	message	Don't tell me, the inedible thing is… me…!?
+71	message	Here I go-yoo!!\nBZZZZT BZZZZT BZZZZT!!
+73	message	Uwaaaaaaaaaaaaaaaaah!
+75	message	All done-nee!
+77	message	Huh!? I-I'm alive…!\nI thought I'd been cooked…
+78	message	I properly made the inedible\nedible-yoo!
+79	message	Huh?
+80	message	What can't you eat-kaa?
+81	message	Well… I hate vegetables, so like, carrots.
+82	message	Here, have some glazed carrots.
+83	message	Ugh… I can't eat this… *munch munch*.
+84	message	Huh? I can eat it… I can eat it!?\nWhat happened to my body…?
+85	message	A new power has awakened.
+86	message	Really…?
+87	message	The power to eat carrots-nee!
+88	message	I-I see… that's it…?
+89	message	Greed is the enemy.
+90	message	No no no, that's not it —\nwhat did you just do to me?\nWho even are you!?
+91	message	…
+92	message	…
+93	message	U-um?
+94	message	We're on your side.
+95	message	On our side?
+96	message	Dorothy? Is that okay-kaa?
+97	message	I can't tell you everything yet.\nBut believe this much.
+98	message	We are your allies.
+99	message	…
+101	message	We ended up cooking for ourselves after all.
+102	message	Ramen's easy, and\neveryone's having fun making it,\nso isn't it fine?
+103	message	(I hope I can eat it with a fork…)
+104	message	That aside, what ARE you!?
+105	message	Even if you ask me what I am…
+106	message	A veggie-ish alien from somewhere who turned blonde\n'cause flat-coloring was too much hassle, nyu.
+107	message	The veggie-ish part might be right… haha.
+108	message	Won't it go back, desu~?
+109	message	Can't you go back to normal mode?
+110	message	Seems I can't on my own…
+111	message	//
+112	message	Okay, everyone, got a moment?\nWhile we wait for the ramen,\nlet's organize the current situation.
+113	message	So for now, the Dark folks\nare all beaten, right?
+114	message	What they were\nis still a mystery, though.
+115	message	Were they really enemies we should have fought… ah, no!\nNo point saying that now.\nSorry.
+116	message	Mie and Kei are alive and well.\nWhere they are and what they're plotting is unknown.
+117	message	I thought they'd go for Gustave,\nbut they never showed.
+118	message	No idea what they're thinking.
+119	message	No doubt they have thoughts, ideas, and senses\nincompatible with normal humans, though.
+120	message	Currently, our enemies are Mie and Kei,\nand…
+121	message	My teacher and\n[NOEL]… desu~.
+122	message	The teacher and [MERU].\nI know that…!
+123	message	Haven't seen them in a while, and\nno idea what they're plotting.
+124	message	Aargh! Seriously!\nAfter all we've done,\nit's still full of mysteries!
+125	message	Speaking of mysteries, there's\n[CLAUDE]-san's blonde hair too.
+126	message	Any changes besides the hair?
+127	message	I can eat carrots now.
+128	message	How stupid!\nDidn't you really awaken\nto some more dangerous power?
+129	message	No, doesn't feel like that at all…
+130	message	Come to think of it, [CLAUDE]-kun's\nmemories haven't returned at all?
+131	message	No… what even am I?
+132	message	How should I know!
+133	message	Right…
+135	message	All right!\nThe special chashu-men is ready!
+136	message	A masterpiece!
+137	message	Ehehe~! Melt-in-your-mouth chashu and\njuicy flame-grilled chashu —\nthe double chashu is the key♪
+138	message	Wow! That's luxurious!\nYou wouldn't get that even at a shop!
+139	message	Save the complicated talk for later!
+140	message	You can't do anything on an empty stomach, as they say.
+142	message	Hey hey! Welcome!
+143	message	…It's been a while.
+144	message	…
+145	message	…
+146	message	We have no business here.
+147	message	C'mooon!\nThere's nothing we need to rush on right now!
+148	message	Besides, we agreed\nwe're not enemies, right?\nBack when we were bullying silly Chris!
+149	message	You remembered.
+150	message	So? What'd you come for?
+151	message	Won't you leave dealing with them to me?
+152	message	Why~?
+153	message	A master and disciple must settle things.
+154	message	Though, as long as I kill [MERU],\nI don't care about the rest,\nbut I may as well finish them all?
+155	message	Though, as long as I kill [NOEL],\nI don't care about the rest,\nbut I may as well finish them all?
+156	message	But those kids are my toys!
+157	message	If they fought you seriously,\nthey wouldn't even be toys, would they?
+158	message	Well, obviously!
+159	message	Then let me show you something more interesting.
+160	message	And if it's boring?
+161	message	Then do as you like.
+162	message	Hmm. Fine, go try?
+163	message	Mie.
+164	message	It's fine.\nSeems like she'll do something interesting.
+165	message	I'll aim to impress. I'm off.
+166	message	…
+167	message	…
+170	message	Bye-bye!
+171	message	Mie. You play too much.
+172	message	It's play, you know? You still don't get it?
+173	message	I still cannot accurately\nunderstand the meaning of Mie's 'play'.
+174	message	You're a machine but you're dumb, Kei-chan.\nPlay IS our job! Ours!
+175	message	Incomprehensible.
+176	message	Well, whatever.\nThat's why I'm the king~.
+177	message	No objections.
+179	message	Well, time to go.
+180	message	…
+181	message	…
+182	message	You wait here.\nI'll finish it quickly.
+183	message	Yes.
+184	message	Yes.
+185	message	Hehe, I said I'd show you something interesting,\nbut I may be the one who enjoys it.
+186	message	Teacher…
+187	message	Teacher…
+188	message	Fufufu!
+190	message	…You're here, desu~? Teacher.
+191	message	…You're here, right? Teacher.
+193	message	Hm, you've learned to sense me.
+194	message	It was like this before too. The wind… stops, desu~.
+195	message	There was a time like this before, this air.\nA murky-feeling night.
+196	message	I don't like it. Wind leaves traces, so I stop it.
+197	message	I want to know what you're thinking, teacher, desu~.\nThat's why I came without waking anyone, desu~.
+198	message	I thought one-on-one would be better,\nso I came alone.\nYou've got something to say to me, right?
+199	message	As I already said.\nI will kill you with my own hands… that's all.
+200	message	Here and now, desu~?
+201	message	Wasn't it 'a killer doesn't say kill,\nthey kill in silence'?
+202	message	…Let's have a match. A fair one.
+203	message	A match?
+204	message	A match?
+205	message	But a match with lives at stake.\nThe place and time are already decided.
+206	message	Like what Remu-san and Doctor Shinigami did, desu~?
+207	message	You mean a duel?
+208	message	You may try a surprise attack, but it'll be futile.\nQuietly plan until the day of the match\nand train yourself.
+209	message	Won't you tell us the reason\nwe must fight, desu~?
+210	message	Is running away not an option?
+211	message	…
+212	message	Teacher!
+213	message	Not an option, right.
+216	message	Why do you do this, desu~?\nWhy won't you fight alongside us, desu~…
+217	message	I can tell you have some plan.\nBut what do you want me to do…?\nWhat would satisfy you, teacher…?
+218	message	…I don't know, I don't know, desu~.
+219	message	I guess we have to do it…
+222	message	…
+223	message	So that's Eve…
+225	message	Eve appeared!?
+226	message	Yes.
+227	message	Why didn't you tell us right away!
+228	message	I was watching from 800m away,\nbut if I'd moved or made a sound,\nI think I'd have been noticed.
+229	message	[MERU]-chan,\nwere you going to go alone?
+230	message	[NOEL]-chan,\nwere you going to go alone?
+231	message	Yes…
+232	message	I didn't think Reki-san was watching.
+233	message	Can you hear a conversation 800m away?
+234	message	Butei are trained in lip reading.
+235	message	Reading lips 800m away is harder\nthan an eye exam…
+236	message	Eyes of a cormorant, eyes of a hawk — Reki's eyes.\nNow, let's move out.
+237	message	Huh?
+238	message	Huh.
+239	message	Look, coming all the way to declare war\nmeans she wants us to join in!
+240	message	If it were just a duel,\nthere'd be no need to set another date.
+241	message	I agree.\nWe should assume Eve\nintends all of that.
+243	message	Not ready yet~?\nI'm already prepared~.
+244	message	Tesura-san?
+245	message	Huh, already!?
+246	message	Heard from Reki…
+247	message	Dawdle and we'll leave you behind.
+248	message	You all helped me with the Gustave matter,\nso let me repay you\nfor that~.
+249	message	…Thanks.
+250	message	Don't try to fight alone.\n…It doesn't go well.
+251	message	If Houki-san says that much,\nwe have no choice but to give up.
+252	message	What do you mean by that!?
+253	message	You finally understand, Houki-chan!
+254	message	I didn't say I want to cling!\nStop! Don't come! Don't cling to me—!
+255	message	This is so us.
+256	message	Combining wisdom and strength to break through trouble —\nthat's fine, isn't it.
+257	message	That's right, [MERU]-chan!\nLet's do our best together!
+258	message	[NOEL]-chan!\nIf we all go,\nour courage is 100 times, you know~!
+259	message	Uu, thank you everyone—!\nI'll do my very best, desu~!!
+260	message	Then I'll borrow everyone's strength?\nThat's okay, right!
+261	message	All right, it's like usual now!\nThen…
+262	message	Dejiko and her merry friends, sortie, nyo—!!
+266	message	You ruined it!!
+268	message	This should be the right time and place, desu~…
+269	message	Teacher hasn't come yet?
+271	message	This is…!?
+272	message	Just magical archaeology.
+274	message	Teacher!
+275	message	Teacher!
+276	message	Shikigami, puppets, alchemy… soulless soldiers.\nIt'll be a somewhat fun party, won't it?
+277	message	Mere fakes!\nYou think those things will be useful!?
+278	message	Try playing with them. You won't be bored.
+279	message	I deliberately dragged you in\nto break you so thoroughly, along with my disciple,\nthat you'll spend a quiet retirement at home — that's what it means.
+280	message	You're demanding we disband!?
+281	message	Or die.
+282	message	You're saying let Mie and Kei rule us!?
+283	message	Yes.
+284	message	That's no joke!\nThey tried to use Gustave!\nHow could we accept that!
+285	message	Eve, I can't believe you'd accept\nMie and Kei's rule.\nIs that your true feeling?
+286	message	I don't ask for understanding.
+287	message	I'm telling you to choose:\nobey, or be subdued by force!
+288	message	Like we'd obey!
+289	message	Then there's no helping it.
+292	message	Teacher! Here I come, desu~!!
+293	message	It reminds me of old times… whether I want it or not.
+294	message	I've never landed a hit on you, teacher, desu~!\nBut now!!
+295	message	We'll see?
+296	message	Teacher, let's go!!
+297	message	You've learned to say that.\nIt used to be 'please', you know.
+298	message	The past is the past! Now is now!!
+299	message	Now, huh…
+301	message	So this is your present…
+302	message	I don't\nintend to lose, desu~!\nSo I'll win together with everyone, desu~!!
+303	message	With everyone, fighting together —\nthat's everything I've got!!
+304	message	…
+306	message	Your true strength is bottomless… but!\nI'll show you who Kazenari Tsubasa is with this sword!
+307	message	Don't be tense. Tension gets read by the opponent.
+308	message	A battle of feints\nis not what you seek!
+309	message	Correct… all I seek is results!
+311	message	From the first time we met\nI thought you were unfathomable,\nbut I never thought we'd face each other like this.
+312	message	The Dream Hunter's power interests me.\nShow me.
+313	message	Huh, surprising.\nI thought you'd quit that research fervor\nto do this kind of fighting!
+314	message	I'm a researcher, now and always.
+316	message	This is unexpected…
+318	message	We beat her…!
+319	message	More anticlimactic than I imagined…?
+320	message	Don't let your guard down, desu~!\nTeacher can't be beaten by this much, desu~!
+321	message	Don't relax yet!\nTeacher can't be beaten this easily!
+322	message	I thought it'd last a bit longer,\nbut it seems it exceeded my calculations.
+324	message	Well then. Let's go with about this much next.
+325	message	Eve!? Was the one we just beat a fake!
+326	message	Not a fake — it was me you fought.\nYou just couldn't beat me, that's all.
+327	message	What does that mean?\nIt's like dream power…!
+328	message	Sorry, but I can't reveal the trick.\nIt's too complex for anyone but me to understand.\nIf I had to say…
+329	message	Magical archaeology.
+330	message	What kind of archaeology is that, nyo!?
+331	message	The poppy name erases the fear.\nYou should be grateful.
+332	message	So the real you also camouflaged yourself\nwith a carefree attitude?
+333	message	I'll leave that to your imagination.\nNow, round two.
+335	message	I expected you'd get this far.\nNow, what to do.
+337	message	Again!
+338	message	Holding back, huh?
+339	message	Which is happier, more interesting —\npressing a button that destroys the world in an instant,\nor humans killing each other with weapons? What do you think?
+340	message	You're researching even that!?
+341	message	Archaeology and history are inseparable.
+342	message	More importantly, round three begins.
+344	message	What on earth is going on…?
+345	message	No matter how many times we beat her… we can't beat her, desu~…
+346	message	Teacher, she's not even taking damage…!?
+347	message	Hard to explain.\nJust think of it as such a technique.
+348	message	Are you saying you regenerate infinitely…!
+349	message	Today was just a greeting, so to speak.\nThis is far enough.
+350	message	Wasn't this a duel?
+351	message	Who decided a battle\nmust end in a day?
+352	message	Teacher said she'd kill me, desu~!
+353	message	Weren't you going to kill me?
+354	message	I will. But I decide how I kill.\nYou have no right to choose.
+355	message	…!
+356	message	…!
+358	message	Bravo bravo! That was sooo fun!
+359	message	Mie!!
+360	message	//
+361	message	Did you enjoy it?
+362	message	It was great! Going pale with shock,\nhearts starting to break —\nso exciting!
+363	message	You really get it!
+364	message	I see. Look forward to the next one too.
+366	message	Teacher!!
+367	message	Teacher!!
+368	message	It's a 'to-be-continued' thing!\nThen let me do a little too!\nMufu♪
+369	message	First up, Remu-chan and Aria-chan!
+371	message	I won't let you!
+373	message	Kyaa!!
+374	message	Uah!?
+375	message	How's that?\nFewer and fewer fighters remain!\nIsn't it fuuun?
+377	message	Tch…!
+378	message	Especially Re-mu — Re-mu's power\nseems kinda cheat-y.\nAnd Kei-chan's annoying.
+379	message	I won't lose to this much!
+380	message	Silence.
+382	message	Kyaaaaaaaaaaah!!
+383	message	Remu!
+384	message	You too!!
+386	message	Ugh…!
+387	message	That's a bonus!
+389	message	Danger!
+390	message	Everyone, get down!
+391	message	Take cover behind me!
+392	message	Me too!
+393	message	I'll protect you all!
+395	message	That about does it? 'Wait for the whirlwind next episode!'\nSomething like that? Kyahahaha!!
+398	message	Heal them quickly! [CLAUDE]-san!
+399	message	I'll help. Who first?
+400	message	I'll take Remu-san.\n[CLAUDE]-san, take Aria.
+401	message	This looks pretty bad…
+402	message	Don't mind me, heal the others!
+403	message	You and Remu-san are clearly\nthe most badly hurt…
+404	message	That's not true! I'm used to it!
+405	message	I'm used to this much too.
+406	message	If you two keep being stubborn,\nit'll only delay everyone's treatment!\nSit still!
+407	message	Fine…
+408	message	Okay…
+409	message	Others are badly hurt too.\nThey shielded us during the last attack…
+410	message	I merely did what was natural.
+411	message	That's right. I'm sturdy!
+412	message	Treat them quickly and let's head back to Dokoka Town.\nIf we're attacked again here,\nwe can't protect everyone!
+413	message	Right. Let's hurry!

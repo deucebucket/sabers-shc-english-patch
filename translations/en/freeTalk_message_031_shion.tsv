@@ -1,0 +1,294 @@
+row	column	english
+4	message	Satoko~?　Satoko~, where~?\nGeez…… that girl,\nwhere did she run off to.
+5	message	Ah, Shion-san.\nHello…….
+6	message	Oh, perfect timing.\nHaven't you seen Satoko?
+7	message	Probably out shopping with Mion-san and the others.
+8	message	Geez…… sis.\nI'd have liked a heads-up too.
+9	message	Sis…… ah, right.\nYou're twins with Mion-san.
+10	message	Yes.\nIdentical twins.
+11	message	Do our clothes and hairstyles make us look different?\nBut people say we're exactly alike.
+12	message	Well, I'm more feminine than sis.
+13	message	I can't lose to sis there.
+14	message	I won't tell sis,\nso you can be honest.
+15	message	You're both beauties……\nAnd…….
+18	message	You've got nice bodies.
+19	message	Really?\nI'm not very confident.
+20	message	……Says she, striking a sexy pose…….
+23	message	You're both so put-together…….
+24	message	Huh?　You mean our insides?\nI don't think we're alike there.
+25	message	With our family, I think sis is stricter.
+28	message	But it's funny, since we look alike\ndown to our builds.
+29	message	We can even swap clothes and play 'switch places'.
+30	message	Wow~.\nA twins-only game.\nSounds fun…….
+31	message	It was fun.\nWatching the adults' attitudes change…….
+32	message	Well, I think we shouldn't do that\nanymore, though.
+33	message	Once again, please take care of me and sis.
+34	message	Well then……\nI'll go look for Satoko.\nGoodbye.
+36	message	They look the same, but……\nher personality seems quite different\nfrom the energetic tomboy Mion-san…….
+39	message	Oh, what's wrong?\nWith such a troubled face.
+40	message	Um…… how do I deepen bonds\nbetween comrades…….
+41	message	Hmm~……\nSo there's a specific girl\nyou want to get close to?
+44	message	……I wonder?
+45	message	Why are you asking me?\nI wouldn't know.
+48	message	It's you, Shion-san…….
+49	message	Oh, come on.\nYou're already close, aren't you?\nStill not satisfied?
+50	message	Surprisingly greedy.
+53	message	There are various ways……\nHow about 'club,' Hinamizawa-style.
+54	message	Though it's just gathering after school\nand playing cards, board games, tag,\nnothing but fun.
+55	message	True…… playing does bring people closer…….
+56	message	Exactly.
+57	message	Shion-san, want to do club with me?
+58	message	With me?\n……I see, with me.
+59	message	Sure.\nOh, but I forgot to mention……\nthe loser gets a punishment game.
+60	message	What…… would that be like……?
+61	message	Basically you do whatever the winner says.\nThe classic is 'serving in a maid outfit.'
+62	message	Does that…… apply to men…… too?
+63	message	Of course.\nJust ask sis and you'll understand.
+64	message	Want to stop?\nI won't force you.
+65	message	N-no…… I'm fine.\nI'll do it.
+66	message	Well, wonderful.\nWhat shall we play?\nPick from this 'club box'.
+67	message	Cards, sugoroku, shogi, assorted board games,\nballs, water guns…… a metal bat……\nall sorts in here.
+68	message	A metal bat……?　Baseball?\n……Then, how about shogi?
+69	message	Sure.\nI kind of know shogi.
+72	message	How about here…….
+73	message	……Then I'll take the bishop.
+74	message	Huh?　Oh, I didn't notice.\nThat's mean…… I'm a beginner.
+75	message	Ehh…… fine.\nThen I'll go here instead.
+76	message	Really!?\nThank you.
+79	message	Then, check.
+80	message	Guh…… nothing.
+81	message	I won!\nBut you went easy on me, right.
+82	message	……Even so, a match is a match.\nNow, the punishment game.
+83	message	Huh?　N-no……\nUWAAAAAH!!
+84	message	It suits you!　The maid outfit suits you!\nPerfect!　Fufu…… fufufufufu!
+85	message	(Scary!　Shion-san is scary!)
+88	message	Oh, hello.
+89	message	Ah, Shion-san……\nhello.
+90	message	What's wrong?\nYou look pale.
+93	message	No…… it's nothing.
+94	message	My~.\nAfter such an embarrassing experience,\nyou've got guts~.
+95	message	I respect that about you.
+98	message	It's a bit…… traumatizing…….
+99	message	Traumatizing?\nTo me it's a precious memory.
+100	message	Just kidding.\nDon't be so scared.
+103	message	So, shall we do it again today?\nClub.
+104	message	If you're not feeling well,\nyou can decline……?
+105	message	No, I'm fine.\nI can't stay a loser…….
+106	message	Cool!\nJust like a boy!
+107	message	Today, how about something simple, sugoroku?
+108	message	Made by the club members……\nta-daa!
+109	message	'Hinamizawa Gugyagya Sugoroku'~!
+110	message	Wh-what a name…….
+111	message	Now, let's decide the order.\nJan, ken…….
+112	message	Pon!\nOh, I win.
+113	message	Then I'll go first. Roll the dice…… ei!\n6!　Move 6 spaces…….
+114	message	'Angel Mort is booming!\nBig-crowd special bonus,\nmove 3 more spaces!' Good start.
+115	message	Ugh, a gap already……\nbut if I roll the same number……!
+116	message	A 5.\n'Shaken down by punks in Okinomiya's shopping district!\nGo back 1 space.'
+117	message	Too bad.\nMy turn.\nAh…… a 1.
+118	message	I can still catch up…….
+119	message	'Won the raffle and got a doll!\nMove 5 spaces!' Lucky!
+120	message	Ahh…… the gap again…….
+123	message	You're pretty good.\nImpressive that you've kept up.
+124	message	I haven't lost yet.\n……A 6.
+125	message	A last-minute surge……\nBut…….
+126	message	'Hinamizawa Great Disaster…… go back to start……'?\nNo way…….
+127	message	I rolled a 2.\nSorry.\nI win again.
+128	message	Well then…….
+129	message	Um…… Shion-san?\nWhy are you wiggling your hands like that……?
+130	message	Pun-ish-ment.\nToday…… let's see…… with this 'device'\npassed down in the Sonozaki family basement…….
+131	message	Wh-what is that……\nthat obviously ominous torture-device-looking thing…….
+132	message	I'll have you take 'responsibility'…….
+133	message	No…… stop……!\nGYAAAAAH!
+136	message	So dramatic.\nI just clipped your nails.
+137	message	N-nail clippers……?\nDon't you have bad taste……?
+138	message	That…… is true.\nIt's only good for startling people.
+139	message	Fufufu!\nBut just seeing that reaction\nwas worth it.
+142	message	Oh, lost in thought?
+143	message	I may not be able to do anything,\nbut I can listen.
+146	message	I'm troubled about life…….
+147	message	Whaaat!?\nSomething that serious?\nYou surprised me!!
+148	message	No need to be that surprised…….
+151	message	About how people see me…….
+152	message	You worry about that?\nHmm~ well, neither good nor bad……\neveryone's like that, I'd say.
+155	message	Aren't you really troubled\nabout how to win at club?
+156	message	Fufufu. Thinking won't help.\nThe wins so far were flukes.\nYou'll surely win today.
+157	message	I often lose to the members,\nand besides…….
+158	message	I've always had bad luck.
+159	message	Is…… that so……?
+160	message	Yes. Even though we were born together as twins……\ncompared to Mion…….
+161	message	The next head of the Sonozaki family,\nand her twin sister…… a huge difference.\nIn everything…….
+162	message	(I don't know what to say……)
+163	message	Just kidding!
+164	message	Actually, this easygoing environment suits me.\n……I talked too much.
+165	message	I'll win again today\nand you'll do the punishment game!
+166	message	It's not decided yet……\nAnd you said I'd win just now…….
+167	message	I said it's a possibility.
+168	message	That's a way of saying the odds just dropped…….
+169	message	Then, what shall we play?\nYou can choose.
+170	message	(Shion-san is a girl, after all……\nI should win a physical match)
+171	message	The 'club box' had a ball and a metal bat.\nUsing those…….
+172	message	How about a batting contest?\nTaking turns as pitcher and batter.
+173	message	Hmm…….
+174	message	Baseball stuff…… is a bit…….
+175	message	……I-is that so……\nThen, another match…….
+176	message	Sorry.\nI'm not feeling it today.\nCan we do it another time?
+178	message	Ah, Shion-san…… she left……\nWhat's wrong…… all of a sudden…….
+181	message	Oh, helloo~.
+182	message	H-helloo……?\nNot sure what that means,\nbut glad you're in a good mood.
+183	message	In a great mood.\nNapping Satoko's sleeping face is so cute.
+184	message	Ahaha. Good.\nYou left suddenly last time……\nI was a little worried.
+185	message	Ah……!\nCome to think of it…… last time I……\num…… that was…… how do I put it…….
+186	message	……Sorry……\nSeeing the baseball gear…… reminded me…….
+187	message	……Until recently……\nI was a manager.\nOf a sandlot baseball team.
+188	message	……Some bad memory?
+189	message	No…… it's not that……\nThose days were really fun……\nI got to cheer on someone I loved, up close…….
+190	message	Someone you loved…… that is…….
+193	message	An ace pitcher who throws magic pitches……?\nLike a blazing fastball from a back-bending high jump.
+194	message	Ahaha, that's funny.\nThat'd probably be a balk.
+197	message	Your husband……?
+198	message	……Funny joke.\nOf course, I'm not married yet.
+201	message	The answer: a slugger who bats .300.\nBut the type who chokes under pressure.
+202	message	Cool……\nand a really kind person.
+203	message	Tee hee☆ I became manager\nbecause I wanted to stay with him\nas long as possible…….
+204	message	You two were lovey-dovey.\nSo happy.
+205	message	Yes. I really was happy.\nUntil he……\nsuddenly disappeared…….
+206	message	……I can't say details……\nbut one day, he vanished.\nLeaving me behind…….
+207	message	I see……\nSorry for reminding you…….
+208	message	Oh, don't make that face.\nYou did nothing wrong.\nI need to…… be stronger…….
+209	message	……You're strong…… Shion-san.
+210	message	Ufufu……\nThat's right. Women are strong.\nSo…….
+211	message	Today's another punishment game!\nCome on, club!　Club!\nLet's play Concentration today.
+212	message	Yes…… sounds good.\nLet's start.\nYou go first, Shion-san.
+213	message	Really?\nThank you.
+214	message	(After hearing that story,\nI want Shion-san to enjoy club……)
+215	message	Oh?　They're all gone.\nI win.
+216	message	Huh……?\nWhat about my turn?
+217	message	It never came around to you.\nSorry.\nI guess I'm super lucky.
+218	message	(Actually, I could identify almost all the cards\nby scratches and creases)
+219	message	Now, the punishment game.
+220	message	O-okay.\nI'll do the punishment game. Gracefully.
+221	message	Good resolve.\nThen gracefully do it.\nWear this.
+222	message	Th-this is……!\nA sch-school swimsuit!
+223	message	It suits you!　It really suits you!\nThis is a masterpiece!\nI want to show Satoko too!
+224	message	Why this humiliation play…… ugh.
+227	message	……Hm?
+230	message	Whoa!?
+233	message	A baseball……?
+234	message	Nice catch!
+235	message	What's with the sudden……?\nYou startled me…….
+236	message	I wanted to play catch.\nNot a match, just relaxing.\nI brought gloves too.
+237	message	Baseball stuff……\nI wasn't feeling it, but…….
+238	message	You listened to me the other day,\nand I feel a bit refreshed…….
+239	message	I can't……\ngo on like this……\nI want to be…… more positive…….
+240	message	Shion-san.\nHere it comes.
+241	message	……!
+242	message	……Your slender arms must have it tough,\nso shall I go easy?
+243	message	Fufufu.\nQuite the big talker.\nFine. Full strength.
+244	message	……Huh!?\nWhat is this pathetic throw.\nNo need to hold back, you know?
+245	message	Full strength is fine, I said.\nThen I'll return it with full strength!
+246	message	Ow……!?\nI'm wearing a glove, so why did that\nnearly rip my shoulder off……?
+247	message	I wasn't a baseball manager for nothing!
+248	message	I think……\nbeing a manager has nothing to do with it.
+249	message	Now, let's keep going!
+252	message	Haa. Good sweat!\nMoving your body really is great.
+253	message	The gloom in my chest feels like\nit's fading away.
+254	message	……I see.\nGlad you enjoyed it.
+255	message	Fufu…… you're kind.
+256	message	That part of you……\nI don't dislike.
+257	message	Th-that means…….
+260	message	……You like me?
+261	message	Huh……!\nIt's not like that!\n……'Like' is such…….
+264	message	If I kissed you, you wouldn't use a stun gun?
+265	message	Wh-wh-what are you saying!\nOf course I'd knock you out with a stun gun,\nabduct you, and tie you up…….
+268	message	Wh-what are you trying\nto make me say!
+269	message	I don't know anymore!
+271	message	Surely not……\nbut is that…… what they call\nthe 'dere' in yandere……?
+274	message	(Shion-san the other day……\nseemed a little bashful.\nThat means…… surely……)
+275	message	So you were here.
+276	message	Oh, Shion...
+279	message	It's a fine day today, isn't it...
+280	message	Huh?\nYeah, you're right about that.
+283	message	Did you get a haircut?
+284	message	Huh?\nI haven't changed it since last time.\nIt's not like I've had a chance to.
+287	message	......Something's off with you.\nIs something wrong?
+288	message	(Huh...? She seems like her usual self)
+289	message	So, what'll we do today? Club.\nHow about the Hinamizawa branch school specialty, 'Aburaburo'?
+290	message	What in the world is that...?
+291	message	It's kind of like a little endurance contest.
+292	message	You go first. But you'd better not move, okay?\nYou'll end up a human torch.
+293	message	Let's... not do that one.
+294	message	Then, how about we lay a steel beam between two buildings and...?
+295	message	Let's not...\nI'd rather have a nice, wholesome contest...\nLike a 'giant curry speed-eating contest'...
+296	message	You're a guy, so obviously you'd have the advantage.
+297	message	Hmm, let me think...\nHow about a 'jumbo parfait speed-eating contest'?
+298	message	It's still speed-eating, but sweets are fine.\nI love them, after all.
+299	message	I work part-time as a waitress at a family restaurant,\nso I can even make the parfaits myself.
+300	message	...How about it?
+301	message	Then it's settled.\nWhen it comes to speed-eating... I won't lose.
+302	message	Oh? You've got some confidence you can win?
+303	message	...Not really.\nI was just trying to psych myself up...
+304	message	Fufufu.\nIs that so! Well, do your best!\nYou ought to win once in a while.
+305	message	Actually...\nI've already got them ready!
+306	message	...I'm not giving you any time to prepare.\nCome on, let's start.
+307	message	Nom nom... ooh... so sweeeet...!\n...The ice cream's giving me brain freeze...
+308	message	Oh my, that sounds rough.\nNom nom... yummy!
+309	message	(Huh?\nShion's parfait doesn't have any ice cream in it...?)
+310	message	...If you want to win, you need... preparation, you know?
+311	message	Ugh!\nI can't lose!!
+312	message	Whaaat!!?\nIf you pour it down like that...
+313	message	...See, you're going to get a headache...\n...That bad...? You're overdoing it.
+314	message	You wanted to win that badly?\nYou're such a kid.
+315	message	I couldn't just stay a loser...
+316	message	So, what should the penalty game be?\nThough... it doesn't look like you're in any shape for that right now.
+317	message	Could you leave the penalty game to me?
+318	message	I won't run away or anything...\nWell then, look forward to it later.
+319	message	(...What is she planning?\nWell, whatever... I hadn't thought of anything anyway...)
+320	message	(...I finally won...)
+323	message	Hm? Where... am I?\nA school...?
+324	message	We finally meet.\nSorry to keep you waiting.
+325	message	Now then, my penalty game preparations are complete,\nshall we go?
+326	message	Huh? Really?\n...Um... where to?
+329	message	This is a cosplay café!
+330	message	Cosplay...?\nDoes that mean... you too, Shion?
+331	message	Of course!\nJust wait a moment, okay?
+334	message	Thanks for waiting!\nS-so, how do I look?
+335	message	I think it suits me pretty well,\nbut I want to hear what you think!
+336	message	Yes, it suits you very well.
+337	message	...That's all? That's a bit unsatisfying.\nAfter I went and dressed up like this...
+338	message	You're always cute, Shion,\nso I figured I didn't need to say it again...
+339	message	...! You say the most incredible things so casually!\nI feel like you've got me wrapped around your finger...
+340	message	You're our customer today!\nI'll serve you plenty!\nJust ask for anything, okay!
+341	message	Well then, right away...
+342	message	Yes, anything you like!\nMy, aren't we bold.
+343	message	Could I get a menu?
+344	message	Ah, right...\n...Please don't make it sound like such a big deal.\nYou're embarrassing me.
+345	message	If I slip up, just point it out as a slip-up, okay?
+346	message	So, your order?
+347	message	...Coffee and... napolitan?
+348	message	Yes! Just a moment, please!
+351	message	Here you go, thanks for waiting!\nI'd love to say it's handmade, but\nit's ready-made, so no complaints.
+352	message	I don't... mind at all.
+353	message	...Fufu.
+354	message	Sorry.\nIt's just... watching you eat is making me happy somehow.
+355	message	Just getting to watch the one I like like this, always...
+356	message	Gehok...!\nD-did you just say... 'like'...?
+357	message	Huh? ...Ahh!\nThat was... no... I mean... um...
+358	message	...I... feel the same way about you, Shion...
+359	message	.........
+362	message	...Wake up!
+363	message	Nnngh...\nShion...? What about the cosplay?
+364	message	Huh? Why would I have to do cosplay?
+365	message	Don't tell me you wanted the penalty game\nto be cosplay? You should've just said so.
+366	message	Huh? But... just now.
+367	message	...Don't tell me you were doing weird things\nto me in your dream?
+368	message	Even I wouldn't forgive that.
+369	message	...Well, whatever.\nNo point blaming you for it...
+370	message	Here, this is for you.\nIt's the penalty game, after all.
+371	message	...What is it? Bread?
+372	message	Me running errands for you like a gofer —\nthat's plenty of a penalty game, right?
+373	message	Ah, that clears things up.\nI don't want to owe anyone anything...
+374	message	Um... isn't your penalty lighter than mine was?
+375	message	Is it?\nOther people's penalties probably just look lighter.
+376	message	Come on... this is a bit much...\nI feel like I got ripped off...
+377	message	Fufu.\nBeing with you is really fun.\nLet's play again sometime.

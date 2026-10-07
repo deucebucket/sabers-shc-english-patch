@@ -1,0 +1,239 @@
+row	column	english
+4	message	I missed dinner.\nI won't make it till morning…….
+7	message	(Something smells good……)
+8	message	Hmm, did I make too much?\nWhat do I do…….
+9	message	……Huh?\nW-what's wrong?
+12	message	*Grrrowl*……
+13	message	Is your stomach……?\nThen eat this!\nHere, here, here~!
+14	message	Mmgh!?
+17	message	Thank goodness……\nYou were collapsed here;\nyou really surprised me.
+18	message	It looked like you'd collapsed from hunger,\nso I fed you Rena's special homemade cookies.
+19	message	I see……\nThank you, Rena-san.
+20	message	S-so, um…….
+21	message	Um, Rena made sweets for everyone, but……\nI think I made too much.
+22	message	If you'd like, um……\nwon't you eat a little more?
+23	message	Of course, gladly, if I'm good enough.
+24	message	Really?\nYay!
+25	message	So the good smell was sweets.\nIs it okay for me to have this much all to myself?
+26	message	Yeah!\nSeeing you eat them so happily\nmakes Rena happy too.
+29	message	Sweets this delicious,\nI'd want to eat them every day.
+30	message	Really?\nThen even if I make too much every day,\nI don't have to worry.
+33	message	But this is a bit much…….
+34	message	I really did make too much……\nHauu…….
+37	message	I made them all fired up, but\nsome people say no\nbecause they'll get fat…….
+38	message	Ahaha, I see.\nThey were delicious, thank you for the meal.
+39	message	From now on, when I make sweets,\nI'll bring some over.
+40	message	Rena always wanted a boy friend\nwho'd eat lots of sweets like this.
+41	message	So today I was a little\nhappy, maybe……\nDo it again for me?
+42	message	Yes, of course.
+43	message	Well, Rena should get going.\nGood night.
+45	message	They were delicious……\nbut maybe I ate a bit too much…… *slump*.
+48	message	(I wonder if Rena-san will bring sweets again today.\nI'm looking forward to it)
+51	message	Will she come……?
+52	message	…….
+53	message	(Th-that's…… Rena-san?\nWhat she's holding is…… a h-hatchet!?)
+54	message	Is someone there……?
+55	message	……Nobody here, it seems.
+56	message	Good…… nobody can see\nme like this…….
+57	message	Rena's fun time…… hehe.
+59	message	Hah, hah…… what was that all about……\nI have a bad feeling about this…….
+62	message	Not here either……\nWhere is it……?
+63	message	I can't find it……\nI can't find it!
+64	message	(Rena-san, who ARE you!?)
+65	message	……!\nWho's there!?
+66	message	……What are you doing in a place like this?\n……kana?
+67	message	R-Rena-san…….
+68	message	Oh?\nMaybe you're interested in treasure hunting?
+69	message	What's wrong, why that shocked face…….
+70	message	Ah, this hatchet?\nI use it to clear away rubble\nand stuff in the way.
+71	message	Ahaha, did I startle you\na bit, kana?
+72	message	Treasure hunting……?
+73	message	Yeah, treasure hunting!\nI heard there are lots of mysterious ruins\nnear town.
+74	message	So I go out digging,\nfind cute things,\nand take them hooome!\nThat's the plan~.
+75	message	(I don't really get it, but I guess\nshe has that kind of hobby)
+78	message	I'll help.\nIt could be dangerous for a girl alone.
+81	message	Do your best.
+82	message	Yeah, but it's pretty tough……\nI'd be happy if someone\nhelped out, kana……?
+83	message	If I'm good enough.
+86	message	Really?\nHauu, I'm so happy.
+87	message	But I haven't found any\nruins yet.
+88	message	So right now I'm still searching!\nIs that okay?\nWill you search with me?
+89	message	Of course.
+90	message	Good.\nI was really hoping\nto make more friends.
+91	message	Then please take care of me from now on.\nI'm looking forward to it.
+94	message	Sorry to keep you wai~ting.
+95	message	Starting today, we're exploring for the treasure mountain—\nlet's do our best together~.
+96	message	I prepared all sorts of things for this day.\nUm…….
+97	message	First…… of course, this!　The hatchet!\nAnything in the way gets a whack, whack with this.
+98	message	(Honestly, that's scary……)
+99	message	Also a first-aid kit, and lunch.\nHow's that?
+100	message	I-I think it's good.\nEspecially the lunch…….
+101	message	Ahaha, you're a glutton.\nBut I'm glad you're looking forward to it.
+102	message	Then, let's head out.\nActually I have no leads, but…….
+103	message	But if we go too far from town,\neveryone will worry,\nso maybe searching nearby is best?
+104	message	I thought it might be needed,\nso I gathered some information on my own.
+105	message	Huh, really?\nNice going!
+106	message	……Wow, this is super helpful.\nWith this we'll definitely find it!
+107	message	Alright!　Then let's search for the treasure mountain—\noff we gooo!
+110	message	Hehe, this is like a picnic.\nFun!
+111	message	Ah, of course we have to be careful\nnot to get hurt.
+112	message	But thinking a man is here\nif anything happens\nis a little reassuring, kana……?
+115	message	I'm not confident, but……\nI'll do my best, so rely on me.
+116	message	Yeah, Rena will be careful too,\nbut if anything happens, I'm counting on you.
+119	message	Leave it to me.\nI'll protect you, Rena-san.
+120	message	……K-kind of like a knight.\nThat was a little cool.
+123	message	Ah…… wait.\nThis sound is…….
+124	message	It's the babbling of a river.\nThere was such a big river near town.
+125	message	No bridge in sight……\nwe can't cross like this.
+126	message	Yeah, can't be helped.\nLet's eat lunch and head home today.\nIf we're too late, everyone will worry.
+127	message	Next time let's go around and search the other side.\nHaving a goal is kind of fun!
+130	message	Yay~!　We got past that river from last time!
+131	message	A great adventure is surely waiting up ahead.\nI'm getting excited!
+132	message	……But first, lunch?\n'No fighting on an empty stomach'—\nMii-chan said so too.
+135	message	You always eat it so happily,\nit makes Rena happy.
+136	message	Ah, you can't scarf it down like that.\nChew properly.
+137	message	Ahaha, it reminds me of school.\nI used to feed the younger kids like this.
+138	message	Still, Rena-san, you really do love exploring.
+139	message	It's not exploring I like,\nit's cute things!
+140	message	And here, we'll surely find super rare cute things\nthat don't exist in our world!
+141	message	(According to Mion-san and the others,\nRena-san's 'cute things' are all just junk, though……)
+142	message	If I find one, it'll be a lifetime treasure……\nHauu…… *slurp*.
+143	message	(She's looking forward to it so much,\nI'd like to help if I can)
+146	message	We'll definitely find it.\nIf anyone can, it's you, Rena-san.
+147	message	Yeah!\nRena will do her best~.
+150	message	I'll find it.\nFor Rena-san.
+151	message	Th-thanks~.\nBut Rena wants to search together, kana.
+154	message	Alright, let's resume exploring.\nI feel like we're about to find something.
+157	message	The path's getting rough.\nMaybe townspeople don't come this far?
+158	message	Ah……\nwhat's that?
+159	message	It looks like a building entrance.\nCould that be the ruins……?
+160	message	Waaah…… it really is an entrance!\nA real-life ruins!
+161	message	Excited, excited…… let's go!
+164	message	It's huuuge……\nIs this the ruins the townspeople were talking about?
+165	message	Inside…… hmm, too dark to see.\nWe need light.
+166	message	This is turning into a more serious expedition than I thought.\nI'm getting a little nervous, kana…….
+167	message	How about we head back and re-prepare?
+168	message	……Yeah, maybe that's better.\nI'll get properly ready by then!
+169	message	I can't stop being excited.\nWe're like an expedition team!
+172	message	……Mountains.
+173	message	……River.
+174	message	Hauu!\nWelcome!
+175	message	You weren't followed, kana?　kana?
+176	message	I-I think it's fine.\nBesides, it's night, everyone's asleep.
+177	message	No way~!　It's a secret place\nwe finally found.
+178	message	We'll find an amazing treasure\nand surprise everyone.
+179	message	Alright, let's head in right away!
+182	message	Wo~w…… so this is what it looks like.
+183	message	Light really makes a difference.\nWe can explore like this!
+186	message	But it's dim…… watch your step.
+187	message	This kind of thing is exciting.\nLike sneaking into school at night…….
+188	message	Is that kind of thing a little boyish?\nBoys like exploring, right?
+191	message	Not really.\nDangerous stuff isn't my thing.
+192	message	I see.\nThen you were probably a girl in a past life.
+195	message	I do like it, if anything.\nIt gets me excited.
+196	message	Yeah!\nIt's fun.
+199	message	Hehe, my treasure hunting was always alone,\nso right now I'm having so much fun.
+200	message	At this rate, I hope we find the treasure…….
+201	message	What kind of treasure are you looking for, Rena-san?
+202	message	Anything's fine.\nSomething you work hard to get,\nyou can treasure.
+203	message	But…… still,\ncute things would make me happy!\nHauu~.
+204	message	Ahaha…… ouch?
+207	message	A-are you okay!?\nWow, you've got a huge bump.
+208	message	A dead end……?\nWe can't go further.
+209	message	Ugh…… but Rena won't give up!\nNext time we'll conquer this place!
+210	message	That's it for today!\nLet's head home.
+213	message	You came.\nThanks, as always.
+214	message	Today let's conquer that dead end.
+215	message	How are we going to conquer it?
+216	message	It's fine, I came prepared.\nFor now, let's go!
+219	message	……Here.
+220	message	I borrowed tools from Satoko-chan.\nTie this rope like this…….
+221	message	Done!\nHow's that?　kana?
+222	message	Looks sturdy; seems doable.
+223	message	Then let's cross!\nRena'll go first.
+224	message	Heave, heave…….
+225	message	Be careful.
+226	message	Yeah, I'm fine.\nRena's surprisingly good at—ah!?
+227	message	Ah, watch out!
+230	message	Ugh…… ow ow ow…….
+231	message	But it's fine,\njust scraped…… huh?
+232	message	Guh, whew…….
+233	message	Ah!　Did I— land on you!?\nA-are you okay?
+236	message	I'm…… fine…….
+237	message	You don't look fine!\nYour face is pale!
+240	message	I might…… be done for…….
+241	message	Hauu~,\nwas Rena too heavy…… hau hauu…….
+244	message	For Rena's sake, this happened…….
+245	message	A-anyway, I'll get you outside!\nBear with it a little.
+248	message	For now, with this……\nI did first aid, but…….
+249	message	Are you okay…… does it hurt……?
+250	message	Ugh…… I'm sorry……\nit's my fault…….
+251	message	I-I'm fine!\nLook, it's just a light scrape.\nI can move already, so let's resume exploring.
+252	message	No, you can't push yourself…….
+253	message	Let's head home today?\nI'll walk you back, okay?
+254	message	If you say so, Rena-san…….
+255	message	Yeah…… I'm really sorry…….
+258	message	Sorry for calling you out suddenly.\nActually, there's something important…….
+259	message	Um, well…… actually…….
+260	message	I think…… I'm going to stop\nthe treasure hunting…….
+261	message	Huh?　You were looking forward to it so much.
+262	message	……Yeah, but.\nRena's been reflecting.
+263	message	Last time, I got you hurt…….
+264	message	No matter how fun treasure hunting is,\nhurting someone is no good…….
+265	message	Rena was only thinking about her own fun,\nand forgot something important…….
+268	message	I'm fine, really.
+269	message	……Thanks.\nYou're kind.
+272	message	Honestly.\nGood thing I'm tough.
+273	message	Hehe…… you're cheering Rena up.\nI'm happy.
+276	message	Really, you're done?\nWon't you regret it?
+277	message	I don't think I'll regret it.
+278	message	Because……\nRena already found a precious treasure.
+279	message	Huh, when……?
+280	message	It's something you can't see.\nNot something with a shape, but something real.
+281	message	Huh, you want to know?\nReally, kana…….
+282	message	Um, well……\nhow do I say this kind of thing…….
+283	message	Hauu!\nI'm too embarrassed to say it!
+285	message	……??\nWhat on earth is wrong with Rena-san?
+288	message	……?
+289	message	Café SHC……?\nM-my feet are moving on their own…….
+292	message	Hauu, take me— I mean,\nwelcome~!
+295	message	R-Rena-san!?　Is that you!?
+296	message	Yeah…… how is it?　Does it suit me?
+297	message	Of course, you're super cute!
+298	message	Really!?　Good…….
+299	message	Rena loves cute things, but\nI never knew being told I'm cute\nwould make me this happy.
+300	message	So, um, well……\nyou've done so much for me…….
+301	message	Today I wanted to thank you\na lot…….
+302	message	I prepared some hospitality,\nso I hope you enjoy yourself.
+303	message	You said Rena's cooking was delicious,\nso I made lots. Will you eat it?　kana?
+304	message	All this for me……?\nI-I'm moved!
+305	message	Delicious, delicious……\nEverything is amazingly delicious!
+306	message	Hauu…… if you praise me that much\nI'll get embarrassed.
+307	message	So, um, there's one more request…….
+308	message	Um, well…… today, will you……\ntake Rena home?
+309	message	Whaaat!?
+310	message	How about it……?　No good……?
+311	message	No good?　Not at all…….
+312	message	U-understood!　I'm a man too!\nI'll take you hooome!
+313	message	Good…… then, here I go?
+314	message	Huh?
+315	message	Hawawawawawa, hauu!
+318	message	Hehehe, how dirty!
+319	message	Ababababa, huh!?
+320	message	That kind of shamelessness is……\nn-n-n-no good!
+321	message	Fugogogo, stop!?
+324	message	Wh-where is this……?\nHuh, what happened to me?
+325	message	Geez…… you were half-asleep and\nsuddenly tried to hug Rena…….
+326	message	So I accidentally lashed out,\nbut maybe I overdid it…… sorry?
+327	message	(Th-that's…… so everything until now was…… a dream?)
+328	message	Oh no, I have to head home!\nEveryone's worried, right?
+329	message	(That's right……\nwe'd decided to stop the treasure hunting)
+330	message	Too bad we couldn't find the treasure.
+331	message	No, about that……\nI found it, so it's fine.
+332	message	It's, um…….
+333	message	Memories!\nThe memories of having fun treasure hunting together\nare Rena's treasure!
+334	message	Things break someday,\nbut memories stay.\nSparkling, shining in my heart forever.
+335	message	So that's that, how about it?　No good?
+336	message	……I think it's good.\nIf you enjoyed yourself, Rena-san,\nI have nothing to say.
+337	message	Good!\nIt was fun\nthanks to you being with me!
+338	message	Let's definitely go treasure hunting again sometime!\nPromise!

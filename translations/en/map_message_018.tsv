@@ -1,0 +1,152 @@
+row	column	english
+3	message	Here I go...!
+4	message	Hyaaah!!
+6	message	Deyaaa!!
+8	message	Ah... all spirit, totally no good,\nMiss Valliere.
+9	message	Nyaa!!
+10	message	Louise-san, is there any sign\nyour magic trouble is healing?
+11	message	Yeah... Explosion's no good,\nand as you can see, other magic's no-good-no-good...
+12	message	How about you, Tiffa?
+13	message	Me? I'll try.
+15	message	Ei!
+17	message	Failed... well, my chest just bounced hard...\nkinda pisses me off...
+18	message	Her chest itself is magic...
+19	message	How about it?
+20	message	No comment...
+22	message	Tiffa aside, I wonder what's causing\nmy total slump...
+23	message	Your magic power not recovering at all —\nwhat could that mean?
+24	message	There's too much we don't know\nabout Void magic.
+25	message	Hence the secret trip to Romalia,\nthe three of us.
+26	message	The princess says the Pope of Romalia,\na fellow Void bearer, might know something —\nbut is that true?
+27	message	If you stay like this, Louise-san,\nit'll be a problem, right?
+28	message	Yes. The mysterious mage commanding grotesque monsters...\nThey say he wields Void magic too —\nI'm the only one who can oppose him.
+29	message	Appearing out of nowhere, kidnapping people,\nattacking lands with never-before-seen monsters —\na terrifying mage, right?
+30	message	But no one's ever seen him...
+31	message	Unfindable even when every mage\nin the country searches —\nit has to be a Void user.
+32	message	Yet here I am in a total slump for no reason.\nI have to fix this fast...
+33	message	Right, let's cut the break short\nand head out!
+35	message	Ah, Siesta-san, your luggage's spilling.
+36	message	Ah, oh my?
+37	message	Get it together.\nSiesta seems perfect, but\nshe's ditzy somewhere in there.
+38	message	Sorry, Miss Valliere has\nlots of luggage of questionable necessity —\nthere's just so much of it.
+39	message	What! Got a problem!\nNobles have lots of things, unlike commoners!
+40	message	Now now, Louise-san, Siesta-san,\ncalm down...
+42	message	Hm? Ah, what's...?
+43	message	What's wrong, Tiffa?
+45	message	The rustling trees... huh!?\nFootsteps? These... aren't beasts!?
+46	message	What did you say...!
+47	message	What's wrong?
+48	message	Siesta, run!
+49	message	Huh, what is it?
+50	message	Just run!\nIf you don't want to be surrounded, run!
+51	message	Ehh, enemies!?
+53	message	Shishishi...
+55	message	What are those?\nThere's tons of them!
+56	message	I don't know.\nSimple muggers, or...!
+57	message	What should we do?
+58	message	This wasn't supposed to be a fighting trip —\nwe'll have to escape somehow.
+60	message	If we're running, that way... let's go!
+63	message	Yes!
+65	message	Ow... you...!
+66	message	Miss Valliere, are you okay?
+67	message	I'm fine, it's nothing.\nBut to be helpless\nagainst nobodies like these...
+68	message	If I could just use magic properly...!\nIf only I had my familiar...!!
+70	message	We did it! If we get this far...!!
+71	message	Haah... haah... I'm beat...
+72	message	Hah...!
+73	message	Tiffa, what's wrong?
+74	message	No, Louise-san!\nIt's an ambush!!
+76	message	No!!
+77	message	Any other escape route?
+78	message	Where would that be!?
+79	message	...
+80	message	Louise-san... I have an idea.
+81	message	I'll be the decoy and draw their attention —\nescape in the opening.
+82	message	What are you saying?\nI can't leave you behind!
+83	message	At this rate we'll all be done for!\nAt least you and Siesta-san, run!
+85	message	Tiffa!!
+86	message	Miss Valliere!\nYou're going the wrong way!
+87	message	Don't be stupid!\nWe're saving Tiffa!!
+88	message	No!\nWill you waste Tiffa-san's resolve!?
+89	message	No! I can't sacrifice Tiffa!
+90	message	Right now you lack the power\nto save Tiffa-san!\nThat's why we're going to Romalia, isn't it?
+91	message	You idiot, Siesta!!
+92	message	...Next time it's my turn to protect you —\nI'm resolved...!!
+93	message	Siesta...!!
+94	message	Siesta-san!\nI'm counting on you with Louise-san!!
+96	message	Tiffaaa!!
+97	message	Shishishi...
+99	message	Huh?
+100	message	What're those!?
+101	message	How reckless... Nacchan.
+102	message	Understood, sis...
+104	message	Shi!?
+106	message	Huh? Huh?
+107	message	For now, we're pulling out!
+108	message	Huh? Ah!?
+110	message	Tiffa!!
+111	message	They vanished...!?
+112	message	Huh!? Now! We run!
+113	message	But Tiffa!
+114	message	Tiffa-san isn't here anymore!\nWe can't waste the chance\nshe made for us!
+115	message	Urgh... okay...
+117	message	Where might this be?\nDoes anyone know?
+118	message	A land rich in nature.
+119	message	Ehehe... it's a calming place♪
+120	message	Um, this might not be\nthe time to relax...?
+121	message	What is it?
+122	message	Huh, those look like... enemies, right?
+123	message	They look kinda angry...\nDid we interrupt their meal, maybe?
+124	message	They're clearly\nnot looking to make friends!\nBit sudden, but... shall we just go for it?
+125	message	W-wah! We just arrived and\nwe're already shooting!?\nIs there really no time...?
+126	message	...There's zero tension over here,\nbut let's do this!
+127	message	But of course!\nA star like me is well accustomed\nto schedules planned by the minute!
+128	message	(Good thing I transformed in advance.)
+129	message	You're all a little bit lovely, but\nyour attitude is terrible, so I'll just have to\nspoil you with my magical yo-yo!
+130	message	Guess I'll be the one to settle this~\nNow then, the Magical Magic Show...\nbegins!
+131	message	//Battle resumes\n\nThe battle ends when all enemies are defeated.\n\n■After battle\n\n//BG: riverside
+132	message	Now then, that's taken care of, but\nwhat sort of world is this, I wonder?
+133	message	Seems like we're quite far\nfrom civilization, no?
+134	message	Doesn't look like anyone's around, though.\nWhat should we do?
+135	message	There's a river nearby, so\nI think this would be a perfect campsite.
+136	message	When I was traveling with [MERU],\nwe'd camp by rivers all the time.\nAnd we'd always end up tumbling in, too.
+137	message	That might be a good idea.\nThere doesn't seem to be a hotel with showers\nanywhere nearby, after all.
+138	message	Gasp! This I did not foresee!\nThat I, of all people, cannot take a bath!
+139	message	Um... this is an outdoor shoot, so...
+140	message	Well, at least there's water...\nJust imagining this were deep in the mountains\ngives me the shivers.
+141	message	//After fade to black, scene change\n//BG: Forest\n\n//Louise and the others camping out.
+142	message	Tea and bread.\nHere you are, Miss Vallière.
+143	message	Thank you...
+144	message	You have to eat at least a little,\nor your body won't hold out.
+145	message	Yeah... I wonder if Tiffa's all right.
+146	message	Let's believe she's fine.\nIt's not like the enemy got her.
+147	message	More importantly, here.\nPlease eat properly.
+148	message	(What do I do... If we're attacked again,\nthis time it'll be Siesta who...)
+149	message	(Okay... I've decided!)
+150	message	I'll have the tea... ow, hot!
+151	message	I'm sorry!\nDid I make it a little too hot?
+152	message	What are you doing?!\nGet the tea's temperature right, at least!\nAnd you call yourself a maid?
+153	message	You're really useless!!
+154	message	What's wrong?\nThere's no need to get so angry;\ntea cools down quickly.
+155	message	I burned my tongue!\nThat does it, I'm furious! I can't take this anymore!
+156	message	From here on, I'm traveling alone,\nso pack your things\nand hurry home!
+157	message	Huh... Miss Vallière...?
+158	message	Understood?! You WILL go home!\nAbsolutely! Got it?!
+161	message	Ah, Miss Vallière!\nWait!
+162	message	I have to chase her... but\nif I leave the luggage, we can't continue the journey,\nohh, that Louise!!
+163	message	//After fade to black, scene change\n//BG: city street (day)\n//The Twin Phantom descends, bringing Tiffa along.
+164	message	Haa... Where... is this?
+165	message	Surprised?\nTiffania Westwood.
+166	message	You know my name?\nAh, before that... um, thank you\nfor saving me.
+167	message	No need for thanks.\nWe're just doing our job.
+168	message	Your job?
+169	message	It means we can't have you dying.\nWe originally planned to secure both you and Louise the Zero,\nbut oh well.
+170	message	Me and Louise?\nWhat do you mean?\nAnd where even is this place...?
+171	message	Now, now, let's calm down a little.\nHow about some tea?
+172	message	Y-yes...
+173	message	...Drink it before it gets cold.
+174	message	Um, just one thing...\nWho exactly are you two?
+175	message	We are the Twin Phantom.
+176	message	Anything beyond that is... unnecessary.
+177	message	Twin... Phantom...
+178	message	//END

@@ -1,0 +1,248 @@
+row	column	english
+3	message	Okay, let's get going, everyone!
+4	message	Will it really be all right?
+5	message	Maid practice was fun, desu~!
+6	message	Fun!? You've gotta be kidding!\nNever again, no way!
+7	message	Maid training's great.\nEveryone was so cute!
+8	message	Please forget it...
+9	message	Will a crash course in maid training\nreally be enough?
+10	message	That's fine!\nThe company president just likes maid outfits,\nso they're not expecting real quality.
+11	message	What a strange company.\nCycling maids through shifts\njust for the president's hobby.
+12	message	A shady company! I don't like it!
+13	message	Rich people's hobbies are often like that.
+14	message	What a creep!
+15	message	//
+16	message	Riko thinks so too!\nSo we can steal without a shred of guilt!
+17	message	So your treasure's being kept\nin that tacky company's building?
+18	message	Exactly.\nI checked every place Mii was involved with\naround here and tracked it down.
+19	message	What should we do?\nCleaning?
+20	message	The contract with Riko is:\nuntil Riko gets the rosary,\nwatch and guard inside the building, and help her escape.
+21	message	If nothing happens,\njust do the job like normal, okay?\nRiko'll handle opening the president's safe.
+22	message	And if you screw up?
+23	message	Then I'm counting on you!
+24	message	If this works, you'll testify in the Supreme Court?
+25	message	Of course.
+26	message	(Really, kana? Kana?)
+27	message	(We should stay on guard.)
+28	message	It's fine! It'll be over quick!\nOkay, operation staaart!
+29	message	//fade to black\n//Event CG: Charles in a maid outfit
+30	message	How is it? This maid outfit's\npretty risqué... doesn't it look weird?
+31	message	No problem.
+32	message	But if I clean in this outfit,\nwon't it show...?
+33	message	The president presumably has those tastes.
+34	message	I wouldn't mind if it were someone I like, but\nfor work this is a problem...
+35	message	Even so, we can't just not work.
+36	message	Yeah, but... ugh,\ndressed like this I'll end up\nthinking weird thoughts.
+37	message	Clothes really matter... it's like my heart\nbecomes a girl's too,\nyeah... it's embarrassing, but...
+38	message	(In front of someone I like, maybe it'd be fine...\nWait, what am I thinking!?)
+39	message	//Event CG off.\n//fade to black
+41	message	Good, good, everyone's working hard.\nWhile they're at it... fufu,\na safe like this is easy...
+42	message	//SE: safe unlocking
+43	message	It's open!
+44	message	Finally... finally found it!\nMother's keepsake, the "Rosary"...!
+45	message	With this, all the cards are in hand!\nNow...
+46	message	//An alarm sounds.
+47	message	Tch, the trap wasn't on the safe door but inside!
+48	message	Oh well, I've got insurance for that.\nI just escape through the window! Kufu!
+49	message	//SE: window glass shattering.
+50	message	Ormes and my silly friends,\nthe rest is up to you!
+51	message	Ahahahaha!!\nMother's rosary!\nIt's finally back!
+52	message	Today, I'll finally become myself...!!
+53	message	Watch me, Mother...
+54	message	//Event CG off.\n//Background: city\n//Everyone has fled the company building. Back in their normal clothes.
+55	message	Is everyone okay!?
+56	message	What the hell! She screwed up after all!
+57	message	She really can't do a single thing right!
+58	message	Her thoroughness\nis almost refreshing!
+59	message	What's going to happen now?
+60	message	Word will reach Mii soon.\nSo naturally, next...
+62	message	Enemy attack!
+63	message	Riko!
+64	message	//Battle map: city\n//Riko, Aria, Houki, Satoko & Rika force-deployed. Riko counts as a third force.
+65	message	What do you mean, enemy attack!?\nIsn't this because you screwed up!?
+66	message	What are you getting wrong~?\nThe enemy's already here.
+67	message	What do you mean...?
+68	message	Once I take back the rosary,\nall that's left is beating Ormes... kufufu!
+69	message	You... planned this\nfrom the start!
+70	message	I told you before, right?\nI'd beat Ormes-with-a-partner\nand prove I'm the better one.
+71	message	And for that I needed the rosary\nmy mother gave me.
+72	message	The rosary?\nWhat's so special about that rosary!?
+73	message	Aria...\nhave you ever lived in a tiny cage,\ngiven only rotten meat and muddy water?
+74	message	Huh...
+75	message	I was kept alive as nothing but a machine\nto pass my great-grandfather's superior genes\nto the next generation...
+76	message	...!!
+77	message	(Satoko, calm yourself...)
+78	message	Like hell!\nI'm Riko Mine Lupin the Fourth!\nNot a machine for birthing the Fifth!!
+79	message	...
+80	message	The rosary is the Lupin clan's secret treasure,\ngiven to me by my beloved mother...!
+81	message	Even locked in that cage,\nI hid it in my mouth\nso they'd never take it...
+82	message	And I realized.\nThis rosary,\nthis metal... gives Riko power!
+83	message	Let's settle this, Ormes!\nToday I'll beat you and prove\nI've surpassed my great-grandfather!
+84	message	And I'll be free!!
+85	message	//Riko approaches Aria.
+87	message	Wh!? Her hair moves like hands...!
+88	message	Tch! So that's your\ntrue power...
+89	message	Next one finishes it...!!
+90	message	Ahahahaha! Riko-chin\nhasn't noticed a thiiing!
+91	message	What!?
+92	message	//Mii and grunt enemies appear.
+93	message	Mii!
+94	message	So you've shown yourself!
+95	message	This rosary is Riko's!!\nI won't give it to you!!
+96	message	Pfft! Ahahahahahahahahahaha\nhahahahahahahahahahaha\n*cough cough*!
+97	message	What's so funny!!
+98	message	Because~ Riko-chin has zero\ntalent as a phantom thief, but\nshe's a natural-born comedian~!
+99	message	What do you mean!?
+100	message	What Riko-chin stole is a fake.\nOne Mii whipped up —\na bright-red FA-KE!
+101	message	Wh-what are you saying!?\nI mean, I could use my powers...
+102	message	That's right~! You could~!\nBecause I made it work just the same~!
+103	message	But, but, look closely?\nNot a scratch or speck of dirt, right?\nIt's freshly made, so it's all shiny~!
+104	message	!?
+105	message	Ahahahaha!\nIt's your precious mama's keepsake,\nand you didn't even notice it's a fake~!
+106	message	Are you stupid? Or were you so scared of Mii\nthat running away took everything you had~!?\nAhaha! The real one's over here~!
+107	message	You...!
+108	message	I watched you crack that safe, every second.\nA sorry little inferior creature\ntricking Mii? Impossible~!
+109	message	Blad-chan said it too —\nRiko-chan makes the\nabsolute best toy!
+110	message	Every job I gave you, all failures!\nPlus stealing a fake and looking smug!\nAhahahaha!
+111	message	//Gunshot.
+112	message	Don't laugh!!
+113	message	Ow?
+114	message	Now it's clear!\nYou're our enemy!
+115	message	Huh~? Why is Aria-chan\nangry~?
+116	message	Riko! You know what I'm thinking!\nLet's do what needs doing first!!
+117	message	Ormes...!
+118	message	We'll take the rosary back from her!!\nEverything else comes after!!
+119	message	Got it...!
+120	message	//Battle start.\n//Riko acts as an allied NPC targeting Mii.
+122	message	Apologize first!!
+123	message	Mii's the king, y'know? Kings don't apologize~!
+124	message	You snot-nosed brat who can't tell\nright from wrong when you're playing around!\nWhat kind of king is that!!
+125	message	Didn't you know?\nA king can do whatever she wants!
+126	message	Shut up! Kazaana!!
+127	message	//Talk event when Mii and Riko engage.
+128	message	Give back the rosary!!
+129	message	Nooo! If Mii'd kept quiet,\nyou'd never have noticed it was a fake~\nNo rosary for the dummy!
+130	message	Unforgivable... absolutely unforgivable!!
+131	message	The unforgivable one is\nthe failure of the phantom-thief clan, I think~?\nAhahahahaha!!
+132	message	//Talk event when Mii engages Rika & Satoko.
+133	message	I have just one thing\nI wish to say to you.
+134	message	What is it?
+135	message	You confuse "interesting"\nwith "fun"!
+136	message	Why? If Mii thinks it's interesting, it's interesting,\nand if Mii thinks it's fun, it's fun!
+137	message	Hah. Completely missing the point.
+138	message	It's fine! As long as Mii's having fun!
+139	message	//Clear when Mii's HP drops below a set amount.
+140	message	No good. No challenge at all!\nIf you don't try harder,\nMii won't have any fun!
+141	message	This composure...!
+142	message	Give back my mother's rosary!!
+143	message	Nooo!
+145	message	//Mii vanishes. The grunts vanish too.
+146	message	Dammit! Mocking me like that!
+147	message	Riko, can't you chase her?
+148	message	The box for traveling between worlds\nhas already been destroyed by Mii... obviously.
+149	message	Riko Mine...
+150	message	But I won't give up... never!!
+151	message	//Battle end.\n//Background: city (daytime)
+152	message	See ya, Ormes.
+154	message	Where are you going?
+155	message	It's decided! I'm going after Mii!\nAnd this time I'll take the rosary back!
+156	message	...Wait.\nOur contract isn't over yet.
+157	message	What?
+158	message	The contract lasts until you get\nthe rosary, right?\nDon't just wander off on your own.
+159	message	Are you stupid?\nYou're my enemy! Ormes!
+160	message	Butei Charter, Article 2:\nalways honor your contract with a client.
+161	message	If you're not breaking the contract,\nthen our contract with you still stands.\nWhat'll it be?
+162	message	Aria...
+163	message	...Don't get the wrong idea!\nIt's not for you,\nit's for my mama!
+164	message	//The following branches on Riko's flag.
+166	message	I don't plan on getting cozy with you.\nI'll do it alone.
+167	message	I'll get the rosary back, no matter what.\nAfter that, let's settle this, Ormes.
+170	message	She won't listen... huh.
+171	message	That idiot...!
+172	message	//END
+174	message	Besides, you want to\nsettle things with me, right?
+175	message	Then traveling together is more efficient!\nWe'll be near each other, so right after\nwe get it back, we can settle it!
+176	message	Using a duel as the reason...\nQuite the persuasive technique.
+177	message	Really, you're worried about Riko-san, right?
+178	message	Wh—! N-no, I'm not!\nI just want to quickly clear up\nthis bad blood and feel better!
+179	message	That's a stretch, isn't it?
+180	message	Always such a tacked-on excuse... right?
+181	message	I said it's not!!
+182	message	.........
+183	message	...Hmph.
+186	message	Where are you going!?
+187	message	Aria-san, let me talk with Riko-san.
+188	message	You, Satoko?
+189	message	It seems Satoko has\nsomething on her mind.
+191	message	Hearing about her past,\nI can't treat it as someone else's problem.
+192	message	Satoko, you... have memories of the past...?
+193	message	Yes, I do. So let me!
+194	message	...All right. Please.
+195	message	Yes!
+196	message	//fade to black\n//Background: back alley (somewhere different from the usual city)
+197	message	Dammit... dammit!!\nWhy am I so...!!
+198	message	May I have a moment?
+199	message	Come to keep watch?\nA useless kid like you... don't mock me!
+200	message	I would never mock you!\nBecause I might have been trying\nto become like you.
+201	message	...What are you talking about?
+202	message	When my parents died, I was abused\nunder a horrible uncle.
+203	message	But unlike you, I wasn't strong,\nalways asking others for help,\nand I hated my own weakness...
+204	message	So, did you come to be my apprentice or something?
+205	message	No. Right now I'm working\non becoming stronger too,\non being okay without asking others for help.
+206	message	You don't look like you're\nmuch use, though?
+207	message	True.\nBut please hear me out, Riko-san.
+208	message	Leaning on people and\nborrowing their strength are different things.
+209	message	How are they different?
+210	message	When you have a goal, work as hard as you can\nto achieve it, and still fall short,\nthere's no shame in asking for help.
+211	message	No one is alone.\nIf you have comrades walking beside you,\njoining forces is only natural.
+212	message	That's weakling logic!
+213	message	Do you want to become strong?\nLike that Mii-san?
+214	message	Mii...?
+215	message	I don't think she's wonderful\nin the slightest.
+216	message	...
+217	message	Riko-san and I both want to grow stronger.\nBut aiming to become something self-centered\nlike Mii-san is wrong, I think.
+218	message	Please think it over carefully.
+219	message	Satoko Houjou...
+220	message	Riko Mine-san,\nyou are not alone.
+221	message	First, there is one here who will fight beside you.\nDon't forget that.\nNow, excuse me.
+224	message	What's with her, the cheeky...!
+226	message	Fufu. Satoko is the second.\nThe first was me.
+227	message	Jeanne!
+228	message	What I can tell you is,\nthis group is far more comfortable\nthan I expected.
+229	message	That's not like you...
+230	message	It's not that they're soft.\nYou can just be yourself — that's all.
+231	message	Be myself?
+232	message	No one's above or below anyone,\nnothing's forced on you,\nand nothing gets in your way.
+233	message	Liar! You're saying I've been losing\nto a bunch of carefree people!?
+234	message	You'll understand if you act with them.\nEveryone learns from failure, celebrates success, shares it.\nThat becomes strength.
+235	message	I.U. is a free organization too,\nbut it's a completely different kind of freedom.\nI can't quite put it into words...
+236	message	Ah, no need to draw it.
+237	message	I see... Satoko said a grade-schooler\nwould do better, too.
+238	message	Pfft! She's awful, that girl!\nJeanne, you poor thing... ahaha!
+239	message	Fufu... here,\nall you need is that face.\nEasy, right?
+240	message	...
+241	message	...I see.
+242	message	//fade to black\n//Background: outside Butei High
+243	message	Ah, you're back!\nSo, Riko, what'll it be?
+244	message	Non-non! That's not it!
+245	message	Now, repeat after me!\n"Welcome home, milady!"
+246	message	Huh!?
+247	message	I told you when we made the contract!\nMake a contract with Riko and become maids.\nIf the contract's still on, you're still maids, right?
+248	message	Like hell!!
+249	message	Riko-san, you've sorted out your feelings?
+250	message	Hmm... hey, Satoko-chan,\nwhat do you think of Jeanne's drawing?
+251	message	Jeanne-san's drawing?\nWhat about a kindergartner's scribble?
+252	message	Pfft! It'd be fun to secretly hang it\non a kindergarten wall!
+253	message	Nice idea!\nIt'd do Jeanne-san good\nto face reality.
+254	message	That can't be!\nMy drawing should be easy to understand!
+255	message	Nope.
+256	message	Nope.
+257	message	Nope.
+259	message	...Are your eyes bad?
+260	message	That's YOU!!
+261	message	//
+262	message	Sheesh, getting all serious\nfeels silly now.\nAnyway, I'm with you till we beat Mii!
+263	message	You should've said that from the start!
+264	message	Aria was throwing a fit\nabout doing it alone at first too!\nRiko saw it~.
+265	message	Shut up shut up shuuut up!
+266	message	//END

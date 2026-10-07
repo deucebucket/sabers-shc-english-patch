@@ -1,0 +1,187 @@
+row	column	english
+3	message	Now, to the teacher's lab!
+4	message	Now, to the teacher's lab!
+6	message	Eve's lab is beyond this door...!
+7	message	A plainer door than I expected.\nI figured it'd be fancier,\nmore fantasy-like.
+8	message	Maybe she was serious at school?
+9	message	Those who play at being serious\noften hide the most outrageous other face.
+10	message	Hold on, [MERU]...!
+11	message	Please hold on,\n[NOEL]!
+12	message	Going in!
+13	message	Going in!
+15	message	Nyo...?
+17	message	This... as a maid, I must say\nthis room is well worth\nshowing off my skills on.
+18	message	What's with that happy face...?
+19	message	Just imagine!\nThis room, all tidied and organized,\nsparkling clean!
+20	message	We came to research,\nnot to clean.
+21	message	I know! I know, but!\nAhh, I wanna cleaan!
+22	message	Occupational hazard, nyu.
+23	message	You can tidy this room.
+24	message	Tidying here is fine.
+25	message	Oh my? Are you sure?
+26	message	The important research is in the basement hidden room.
+27	message	The important research is in the basement hidden room.
+28	message	So we have to go there.\nLead the way.
+29	message	Yeah.
+30	message	Yes. Follow me.
+32	message	So this is it.
+33	message	It's pitch black.\nShould I turn on a light?
+34	message	Wait, I think there were things\nthat light would ruin.
+35	message	No lights.\nThe teacher said there are things\nthat light would ruin.
+36	message	Then how do we search, nyo?
+37	message	I'll use a night-vision spell.\nLeave it to me.
+38	message	There's a night-vision spell.\nI'll do the searching,\nso everyone wait here.
+40	message	Honestly, we should've just left it to her\nand waited from the start.
+41	message	Confirming its location matters.
+42	message	And I got to clean, too!
+43	message	What did you even come here for...
+45	message	Ah, she's back!
+46	message	I brought out the notebook\nthe teacher said summarizes\nher 'Goddess of Destruction' research.
+47	message	I brought out the notebook\nthe teacher said summarizes\nher 'Goddess of Destruction' research.
+48	message	Let me read it.\nStarting with the passage\n'Discovery of the Goddess of Destruction'.
+50	message	I regretted, just a little,\nhaving spent such long years as a researcher.
+51	message	For had I been less of a researcher,\nthe 'Goddess of Destruction' might never have been found,\nand time might have flowed more quietly.
+52	message	And unknown to all, one day suddenly\nthe 'Goddess of Destruction' would awaken, and the world return to nothing.\nSuch a future might have been.
+53	message	But I discovered it.\nThat within a girl dear to me as my own child,\nslept the factor of a terrible ruin.
+54	message	Polyal... As I researched the mysterious stone,\nthe stone spoke to me. It said the one who returns the world to nothing\ndwells within that child.
+56	message	Polyal spoke?\nThat stone for traveling between worlds\nknew about the Goddess of Destruction?
+57	message	Polyal has never spoken,\nnot once!\nWhat does that mean!?
+58	message	Remu, keep reading!
+59	message	Right.
+61	message	Polyal spoke. The world turns to chaos\nand heads toward ruin. In the end,\nthe 'Goddess of Destruction's' awakening will decide it.
+62	message	By any means necessary,\nthe awakening must be stopped.
+63	message	At first, I thought I didn't have to believe it.\nBut just as Polyal foretold, the worlds connected,\nmingled, lost order, and descended into chaos.
+64	message	Polyal will not say what it is.\nPolyal is tied to the truth of the world,\nand learning it awakens the Goddess of Destruction.
+65	message	What is the truth of the world?\nHow can the end of the world — the tragedy of that child\nbecoming the 'Goddess of Destruction' — be stopped?
+66	message	To seek that out and unravel it\nis the mission imposed on me as a researcher.
+68	message	So that's why\nthe teacher suddenly went on that journey.
+69	message	So that's why the teacher\nsuddenly disappeared.
+70	message	So, did she find a way\nto keep the 'Goddess of Destruction' from awakening?
+71	message	That's the question.
+72	message	Um, the next part says 'Failure'...
+74	message	I thought it through with all the wisdom of magical archaeology\nI know, but I found no way to remove\nthe Goddess of Destruction from that child.
+75	message	Mind-transfer art. An applied art of Magical Magic's\nteleportation — using it, one can\nswap heart and body.
+76	message	What if I swapped [MERU] and [NOEL],\nseparating heart from body — could that erase the Goddess of Destruction?\nI tried it, disguised as coincidence.
+77	message	But though the swap succeeded,\nit did not achieve its purpose.
+78	message	According to [NOEL], who entered [MERU],\nshe felt a tremendous crushing darkness\nand couldn't bear it much longer.
+79	message	According to [MERU], who entered [NOEL],\nshe felt a tremendous crushing darkness\nand couldn't bear it much longer.
+80	message	Unless heart and body are their originals, it won't stabilize.\nInstability risks hastening\nthe Goddess of Destruction's awakening.
+81	message	Reluctantly, I pushed the two down the stairs once more\nand restored them.
+82	message	If she lives long,\n[NOEL] will make a fine performer.
+83	message	If she lives long,\n[MERU] will make a fine actor.
+85	message	That's when [MERU] and [NOEL]\nswapped bodies.
+86	message	So that was Eve's doing, nyo...
+87	message	If she could,\nthe teacher even thought she could enter [MERU]\nand die in her place.
+88	message	If she could,\nthe teacher even thought she could enter [NOEL]\nand die in her place.
+89	message	If that could erase\nthe Goddess of Destruction... but\nit was impossible, is that it?
+90	message	Yes...
+91	message	That's right...
+92	message	There's more.
+94	message	If using the mind-transfer art\nI could take her place, that would be fine.\nI thought so, but I was naive.
+95	message	That monster would only tear through the body and come out,\nmerely hastening the time of ruin.\nThe mind-transfer art was no decisive blow.
+96	message	In the worst case, I have no choice but to kill\nthe pre-awakening Goddess of Destruction along with that child.\nNot a simple thing, though.
+97	message	Simply killing that child won't do.\nBreaking the vessel is meaningless.\nI must devise a way to kill it completely.
+98	message	For that, I must divert that child\nfrom Mie and Kei's eyes.\nThat too will be difficult work.
+100	message	Killing her won't work, keeping her alive won't work, so\nshe meant to retire her naturally from before Mie and Kei's eyes,\nand devise a way to kill it in the meantime?
+101	message	Even Eve must have been at a loss.
+102	message	Mie and Kei don't strike me\nas the overlooking type.
+103	message	But...\nIn her fight with [MERU],\nit felt like Eve was trying to tell us something.
+104	message	But...\nIn her fight with [NOEL],\nit felt like Eve was trying to tell us something.
+105	message	I felt that too.\nWhat was that, I wonder?
+106	message	That was...
+107	message	That was...
+109	message	Multiple signals, looks like IS,\nclosing in!
+110	message	That speed — it's Kei!\nShe's back already!?
+111	message	Let's move to the forest.\nEasier to fight than open ground!
+112	message	Good idea.
+113	message	We'll send them packing again!
+116	message	What numbers... I wonder if\nlosing earlier made her throw caution to the wind?
+117	message	Danger! Judged: danger!\nMaking me feel danger is danger!
+118	message	WE'RE not the dangerous ones here!
+119	message	The dangerous one right now is [NOEL]!\nYour priorities are off!
+120	message	Fighting these numbers head-on\nwill only waste time.\nWe'll outrun them!
+121	message	Good.
+122	message	Anyone not confident in their legs —\nprioritize running!
+124	message	Movement target area confirmed.\nMobile IS units and Tsubasa, cover them!
+125	message	Leave it to me! No one gets left behind!
+126	message	If it's Kei, we've gotta handle it!
+127	message	If Kei's coming at us for real,\nwe can meet her head-on, right?
+128	message	Don't get too heated.
+129	message	Understood!
+132	message	Symphogear! Eliminate with full force!
+133	message	What's wrong? Where's your usual composure?
+134	message	Recalculating! Once is not enough!\nIf judged dangerous—!
+135	message	Sorry, but\nwe won't go all-out against you.\nWe've got bigger problems than you.
+136	message	You mean to disrupt my calculations!?
+138	message	Back again? You never learn!
+139	message	Outdated model that disrupts calculations! Destroy!
+140	message	Okay. Then I'll run.\nThat's a form of victory too.
+141	message	My speed is superior!\nYou won't escape!
+142	message	Could you take that simple spec-talk\nto someone other than me!
+144	message	Desperate, huh? What's gotten into you?
+145	message	I will eliminate this incalculable situation.\nPlease disappear.
+146	message	Doesn't that, like, not solve anything?
+147	message	What?
+148	message	I mean, if you can't compute 1+1,\nerasing the 1 doesn't give you the answer.\nYou just can't compute, period!
+150	message	Calculation error! Accurate force analysis impossible!\nRequesting redo! Recalculating!
+151	message	She's gradually coming apart, isn't she.
+152	message	She's a computer.\nKeep feeding her irregular processing like this\nand of course she'll glitch.
+154	message	That'll make the retreat easier.
+155	message	Yes, let's hurry!
+157	message	Good! Everyone's here! Let's go!
+160	message	Looks like we got away clean.\nWhat about the Goddess surveillance team?
+161	message	Not here yet.\nLet's tell them to fall back.\nI'll go!
+162	message	I'll get the meal ready.
+163	message	I'll help too!
+164	message	One thing's been bothering me —\ndo Mie and Kei not appear\nin this Dokoka Town?
+165	message	Not once so far.
+166	message	You can't get in without\nsomething called a Dokoka Card, nyo.
+167	message	Even Mie and Kei, who appear anywhere?
+168	message	When it comes to those two's movement ability,\nwouldn't Jeanne know more?
+169	message	The tool called the 'Box'\nthat we used to travel\ncouldn't go anywhere freely.
+170	message	An unlimited version of that\nis Mie and Kei's movement ability —\nI believe it comes from themselves.
+171	message	They track our location precisely, so\nthey seem connected to Polyal somehow.
+172	message	We'll only get answers\nby asking them directly.
+173	message	...They absolutely can't come here.\nThis town is...
+174	message	Hm? Did you say something?
+175	message	...No, nothing.
+176	message	Right, we were still\nin the middle of Eve's notebook.\nLet's keep reading.
+177	message	If I recall, the story so far was\nthat there's currently no way\nto kill the Goddess of Destruction, right?
+178	message	And that Eve was trying\nto teach us something while fighting.
+179	message	The teacher was searching for\nany slim chance of a way\nto avoid killing [MERU].
+180	message	The teacher always thought\nshe didn't want [NOEL] to die.
+181	message	Did she think of something? I wonder?
+182	message	Sadly, that's...
+183	message	Sadly, that's...
+184	message	But the notebook has this passage.
+186	message	The chances are next to nothing, but\nmight there not be a third path?
+187	message	A path where that child defeats the Goddess of Destruction.\nNo matter how often I picture it, an impossible path, but...
+188	message	The awakened Goddess of Destruction must not be touched.\nMerely approaching turns all things to dust.
+189	message	Even if it isn't matter.\nThat is what returning the world to nothing means.
+191	message	Turned to dust just by approaching!?\nHow do you fight something like that!?
+192	message	I'm worried about the surveillance team...
+193	message	Wait, there's a bit more written.
+195	message	But even if the awakening has begun,\nI cannot abandon that child.
+196	message	To that end, before restoring\n[MERU] and [NOEL]'s hearts and bodies,\nI set a certain mechanism in place.
+197	message	A byproduct of my mind-transfer art research.\nA way to synchronize two hearts.
+198	message	I arranged it so [MERU] and [NOEL]\ncan temporarily share sensations.
+199	message	In the worst case,\nit's the only means to keep that child from being alone.
+200	message	...I won't ask you to forgive me,\nfor only being able to do this much.
+201	message	Never despair, no matter what.\nThat's what I've taught those children.
+202	message	I don't intend to give up either.\nI'll search, fight, and survive.
+204	message	That's the end of Eve's notebook.
+205	message	That's really all?\nSo in the end, even Eve had no moves —\nis that all there is to it!?
+206	message	Calm yourself. Our leads aren't zero.\nThere are elements worth thinking over.
+207	message	...Even teaming up with Mie,\nEve wanted to do something\nabout [MERU].
+208	message	...Even teaming up with Mie,\nEve wanted to save\n[NOEL].
+209	message	But that only made\nMie suspicious of her.
+210	message	Hypothetically, if Kei's attack\nhad hit [MERU] back then,\nwhat would've happened?
+211	message	Hypothetically, if Kei's attack\nhad hit [NOEL] back then,\nwhat would've happened?
+212	message	If Eve's research was right,\nthe Goddess of Destruction would awaken and...
+213	message	That's weird, right? Right?
+214	message	[MERU]'s fine, yet\nshe awakened — that contradicts Eve's notes.
+215	message	[NOEL]'s fine, yet\nshe awakened — that contradicts Eve's notes.
+216	message	I can't think of what caused\nthat discrepancy yet.
+217	message	I can't think of what caused\nthat discrepancy yet.
+218	message	I hope the surveillance team\nactually observing her has found some lead.
+219	message	All we can do is wait for their report.

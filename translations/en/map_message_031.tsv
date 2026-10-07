@@ -1,0 +1,373 @@
+row	column	english
+3	message	Oh my, it seems someone's here!
+4	message	Rem, are those the friends she mentioned?
+5	message	Yes. The group that arrived is Houki-chan's team.
+6	message	I wonder what kind of kids they are, kana?\nHauu! I'm so excited~!!
+7	message	Rena, if you scare them in cute-mode,\nthat's a no-no, nanodesu.
+8	message	Fufu, but they're all cute.
+10	message	Heeey! How've you been!?
+11	message	Rin, your voice is too loud!
+15	message	[Houki arrives.]
+16	message	Aria's right.\nI can hear you without the shouting!
+19	message	I've been great!!
+23	message	Don't shout at this distance!!
+26	message	Ahaha... looks fun. Nice.
+27	message	Everyone's from different worlds, yet\nyou're like close friends...
+28	message	Found a shrine maiden, nanodesu. Nipah☆
+29	message	U-um... I'm Hoshika Shirayuki!\nI'll be joining you all —\nI'm inexperienced, but please treat me well.
+30	message	I'm a shrine maiden too, nanodesu~.
+31	message	Huh?
+32	message	Rika is the official shrine maiden of Furude Shrine.\nJust because she's small,\ndon't you dare look down on her?
+33	message	Shirayuki, nice to meet you, nanodesu~. Nipah☆
+34	message	Y-yes! Likewise! Rika-san!
+35	message	Wow, two shrine maidens —\nthis group's gonna be lucky!
+36	message	You're the Chinese representative candidate,\nHou Rin'in-san?
+37	message	Hm? Who're you?
+38	message	I'm Charlotte Dunois,\nFrench representative candidate.
+39	message	Call her Charl-chan!
+40	message	Hmm, more IS pilots, huh.\nRepresentative candidate means you've got a custom unit, right?
+41	message	Um, let me see,\nRafael, Reverse, Custa...net?
+42	message	It's Rafale Revive Custom II.\nA bit long and hard to say, huh?\nAhaha...
+43	message	She's cuuute so it doesn't matter!!\nI'm taking her hooome!!
+44	message	[Charl gets taken home by Rena]
+45	message	Wah!? Huh... I'm... cuute?
+46	message	Cuuute! Hau! Hauu!!
+47	message	R-really? Am I cuute?\nThen... I guess I'll let myself be taken home?
+48	message	[Mion runs off.]
+49	message	Heeey! Renaa!!
+50	message	Hmm... hasn't the noise tripled?
+51	message	Agreed...
+52	message	It's fine!\nIt proves everyone's okay, right?
+53	message	Okay... right.
+54	message	(Can I really say I came through okay...\nbut maybe I should think it's good it was me)
+55	message	Oh, the last group's here too!\nHeeey! Welcome back!
+56	message	We're hooome~! ...Wah!\nThere are so many people!
+57	message	Really!\n...But is growing good or bad,\nI wonder?
+58	message	Obviously bad, nyo!!\nDon't drag Dejiko into this, nyo!!
+59	message	Now now, Dejiko-san.\nThis place looks safe,\nso it's fine.
+60	message	Exactly!\nWay better than being thrown into\nsome real-life haunted house!
+61	message	I'd like to pass on that.\nSo, the people here are allies?
+62	message	Yes! Everyone's really nice,\nand they've been so kind to me.
+63	message	I don't remember becoming friends.\nFor now, they're just collectively\nmy substitute partners.
+64	message	What's with you?\nThat attitude right after meeting?\nWhat a rude commoner.
+65	message	Someone who calls people commoners by looks\nis pretty lacking in class too, no?
+66	message	What!?
+67	message	What's your problem!?
+68	message	Now now, Aria-san, Louise-chan,\nlet's stop... I had a feeling\nit'd turn out like this, but let's stop!
+71	message	Hibiki, shut up!!
+73	message	Harya... this is trouble.
+74	message	It's fine! Go at it flashy,\nlike 'not bad' 'you too' —\nthat kind of thing's fine too, no?
+75	message	If these two went at it full force,\nit'd be a catastrophe!?
+76	message	Yes, let's keep this as peaceful as possible...
+77	message	Um, uh...\nl-let's all get along!
+80	message	...
+82	message	What's going on! So noisy!
+83	message	Oh, a fight?\nWanna bet on who wins?
+84	message	No, sis.
+87	message	...!?
+89	message	Oh? What's wrong?\nMiss Vallière.
+90	message	Hm? What is it?
+91	message	I-I sense something like hostility...
+94	message	!!!!
+97	message	What is this... surrounded on four — no, nine sides!?
+98	message	Blocked on all sides plus one...
+101	message	(glance)
+103	message	[Louise and Aria approach and shake hands (sort of) / SE: *grab!* handshake sound]
+106	message	Handshake!!
+110	message	Alliance formed!!
+112	message	[SE: *ping!* or *fanfare!* / maybe a sparkling effect]
+113	message	...What are you doing?
+114	message	Shut up! I'm declaring war!!
+115	message	Our alliance will never bow to that combined fleet! Absolutely never!!
+116	message	(I get it...!)
+117	message	(I guess I'm on Aria-chan's alliance side too...)
+118	message	Fufu, until you understand the\ndemand and value of small things,\nyou've got a long way to go!
+119	message	You're pretty good, nyo...
+120	message	[Fade to black, time passes / BG: a spacious indoor room like a cafeteria]
+121	message	We split into three groups\nto investigate the mysterious light and the travel.
+122	message	We've figured out\na few things about that.
+123	message	Houki-chan's group got to where they wanted\nby wishing hard for it.\nBut it doesn't always work.
+124	message	The fact it's not reliable makes the theory\ndubious. But it seems worth trying.
+125	message	My group with Aria-chan, and Aoi-chan's group,\nhad sudden bursts of light like before\nand moved abruptly.
+126	message	That remains unexplained.
+127	message	And we learned there are others\nbesides Riko and Doctor Shinigami\nwho can move freely between worlds.
+128	message	Where's the thread to unravel this mystery, I wonder?\nThis is a tough one.
+129	message	Among us,\nwho first experienced this light and travel?
+130	message	That was [CLAUDE]-kun,\n[MERU]-chan,\n[NOEL]-chan, right?
+131	message	Right... so far, nobody's\nbeen to their world yet, right?
+132	message	I see, worth investigating.
+133	message	[Fade to black / BG: Dokoka Town (night)]
+134	message	Haa...\nIn the end, [NOEL]\nwas never found-uu.
+135	message	And no clues on my teacher's whereabouts-uu...\nCould she have gone back\nto the world I came from-uu?
+136	message	[MERU]-chan, here,\nice cream for dessert.
+137	message	Waaah, Hibiki-san... thank you-uu.
+138	message	Thinking about something?
+139	message	Yes-uu. About my teacher and my friend-uu.
+140	message	You were traveling to find your teacher, right?\nWhat kind of person was she?
+141	message	My teacher holds many Magical Doctorates —\nshe's a special teacher even at Saint Mont Blanc Academy-uu.
+142	message	Her specialty is Magical Archaeology —
+143	message	the study of the many cultures, civilizations, and technologies\nborn and lost throughout history since ancient times-uu.
+144	message	Sounds impressive.\nSo that archaeology teacher taught\nyo-yo at school?
+145	message	My magical yo-yo is also a technique\nborn long ago, lost when its successors died out,\nthat my teacher recreated-uu.
+146	message	So the magical yo-yo is\na field of Magical Archaeology\nfor my teacher too-uu.
+147	message	My teacher's mastered many, many more lost\ntechniques,\nand she's super strong-uu!
+148	message	And someone like that went missing?
+149	message	I'd get scolded for saying this, but\nto me and [NOEL], she's...\nlike a mother...
+150	message	A mother, huh.\nThen I'm sure your teacher's happy.
+151	message	Happy?
+152	message	Her daughters are searching\nthis hard for her, right?\nI think she'd be happy!
+153	message	Hibiki-san...
+154	message	I'll stop complaining-uu!\nI won't give up — I'll search, I'll find her,\nI'll definitely meet my teacher!!
+155	message	Yeah! I'll help too!
+156	message	[MERU]...\nwhere did she go?\nNobody's seen her...
+157	message	No idea where my teacher is or what she's doing either.\nMooou, what to do...
+158	message	[NOEL]-chan,\nhere! Ice cream~♪
+159	message	Waaah! Thanks, Nico-chan!\nMmm! Lemon yogurt flavor, sweet and tangy!
+160	message	...You seem a little down.\nTired?
+161	message	Nope, I'm fine!\nJust wondering how my teacher and [MERU]\nare doing.
+162	message	You're traveling to find your teacher, right.\n[NOEL]-chan is\nkind and hardworking!
+163	message	I mean, I mean, without my teacher\nthere are no classes, and I can't graduate!
+164	message	Wah, that's definitely rough...
+165	message	...Um, what kind of\nperson is your teacher?
+166	message	My teacher holds tons of Magical Doctorates —\nshe's famous even at Saint Mont Blanc Academy!
+167	message	She studies Magical Archaeology — phantom techniques\nand cultures, things from long ago —\nand she's super curious.
+168	message	My magical magic is also a technique\nmixing ancient sorcery and stage magic\nthat my teacher revived in modern times.
+169	message	I see! She's an archaeologist~!\nThat's amazing!
+170	message	My teacher has tons of other magical techniques\ntoo, and she's terrifyingly strong!
+171	message	Me and [MERU]\ncan't hold a candle to her.
+172	message	She's a wonderful teacher...\n...I wonder what she's doing now.
+173	message	If I knew that, I wouldn't be struggling.\nWhen my teacher finds something interesting,\nshe loses all restraint.
+174	message	If not for that, she'd be perfect.
+175	message	Even so, to me and\n[MERU], she's like a mother,\nso I love her.
+176	message	[NOEL]-chan...\nI'll help too!\nLet's definitely find your teacher!
+177	message	Thanks! All right, let's do this!!
+178	message	[Fade to black / BG: inside a shop]
+179	message	Nyo? This store has a clerk, nyo.
+180	message	Hello! Please buy something, ne!
+181	message	Can you do business in a town this empty, nyo?
+182	message	Surprisingly, everyone buys, ne!
+183	message	Hmm... which means, nyo...!\nThat's it, nyo!!
+184	message	[Dejiko leaves. / BG: Dokoka Town]
+185	message	Still, it's a quiet town.
+186	message	(Hm, doesn't seem so...)
+187	message	Huh?
+188	message	Grand reopening!\nGamers Dokoka Town branch is now open, nyo!\nEveryone, please buy, nyo!!
+189	message	Huh, Gamers...?
+190	message	[Fade to black / BG: Gamers Dokoka Town branch]
+191	message	Welcome, nyo!
+192	message	When did this store...?
+193	message	I remodeled an empty store around here\novernight, nyo.
+194	message	If I run a Gamers chain store here\nand rake in sales, even if I slack off\non shop shifts for a while, I won't get fired, nyo!
+195	message	I-I see...
+196	message	So leave all your money here, nyo.
+197	message	Huh, I don't have that much on me...
+198	message	Better selection than the other store,\nand great prices, nyo!\nJust buy, nyo!
+199	message	Haa... o-okay,\nthen...
+200	message	[Dejiko shop explanation. Handled via system message]
+201	message	Thanks for your patronage, nyo!
+202	message	Uuu,\nI really got forced into buying...
+203	message	([CLAUDE] should learn a little\nfrom Dejiko-san's greed.\nYou have too little desire)
+204	message	Is that so.
+205	message	(With such a bland personality,\nyou'll have trouble later, you know?)
+206	message	W-well, as long as I'm not bothering anyone,\nisn't that fine...?
+207	message	(Hmm... you don't get it...)
+208	message	Ah, it's almost time for everyone to gather.\nI should go...
+209	message	[Fade to black / BG: a spacious indoor room like a cafeteria]
+210	message	...So,\nI think we should all act together next.\nWhat do you think?
+211	message	Is the destination decided?
+212	message	It's not certain, but\nthis time I'll have [MERU]\nwish to return to her original world.
+213	message	The world I was in-uu?
+214	message	It's not certain, but\nthis time I'll have [NOEL]\nwish to return to his original world.
+215	message	The world I was in?
+216	message	Haruka and I went where we wanted\nby wishing hard at the spot where the light appeared.\nYou're saying we try that?
+217	message	What reason decided the destination?
+218	message	Dejiko wants to go back to Gamers, nyo.
+219	message	Because I suspect there's something in the world\nof whoever among us first experienced\nthat light and travel.
+220	message	Also, [CLAUDE]'s suspicious.
+221	message	Ehh, me...?
+222	message	You've got amnesia —\nyou have no memories from before\nyou met [MERU] and [NOEL], right?
+223	message	So maybe [CLAUDE]-kun experienced\nthe light and the travel\neven earlier? kana? kana?
+224	message	I'd like to know about that too.\nNot sure it'll work, but\nI think it's worth trying.
+225	message	If you don't want to, you can stay in Dokoka Town,\nor go your own way. I won't force anyone.
+226	message	Dejiko's going back to Gamers, nyo!
+227	message	Right. Then figure out your own way back.\nAnyone else who wants to leave, go right ahead.
+228	message	(silence…)
+229	message	Huh? Everyone's going, nyo?
+230	message	Then Dejiko's going too, nyo!\nI don't wanna be left out, nyo!!
+231	message	(Hmm, but this is bad, nyo…\nIf I skip my shop shift for days and then come back,\nI'm definitely getting fired, nyo…)
+232	message	(I gotta think of a plan, nyo…)
+233	message	Dejiko, I'll be in your care\nfrom here on out!
+234	message	W-well, pitching in for my junior\nin showbiz can't be helped, nyo.
+235	message	Hauu! Dejiko's cute toooo!
+236	message	Rena, not now.\nYou'll only make things more complicated!
+237	message	Then it's settled?\n[MERU], I'm counting on you!
+238	message	Yes-yes!
+239	message	Then it's settled.\n[NOEL], I'm counting on you.
+240	message	OK! Leave it to meee!
+241	message	//Fade to black\n//Battle map: plains\n//Arrive in [MERU]'s world. But Usada's army ambushes them right away.
+243	message	No doubt about it!\nThis is where I first met [CLAUDE]!
+244	message	This is probably where I first met\n[CLAUDE], I think…\nRight, [CLAUDE]?
+245	message	It does… look familiar.
+246	message	What a boring place with nothing in it, nyo.\nWhat are we supposed to do in a dump like this, nyo?
+247	message	Isn't it about time the star made her entrance?
+248	message	Nyo!?
+249	message	//Enemies appear. Quite a lot of them. Usada appears too.
+250	message	O-hohohoho!!
+251	message	You're Usada!?\nWhat are you doing in a place like this, nyo!?
+252	message	Don't call me Usada!!\nI am La Vie en Rose!
+253	message	Usada? Huh? Isn't that just a rabbit?
+254	message	I said don't call me Usadaaa!!
+255	message	What are you scheming, nyo!
+256	message	Not telliiing.
+257	message	Usada's pissing me off, nyo!!\nEveryone! Catch Usada, nyo!!
+258	message	What's with the big talk, with this overwhelming difference in forces?\nBattles are won with numbers! Numb-bers!
+259	message	//Battle start\n//Laura appearance event after several turns
+260	message	Gunununu, there really are a lot of them, nyo…
+261	message	O-hohohoho!!\nThis is my power!\nKnow it well, Dejiko!
+262	message	We just have to whittle their numbers down, little by little!
+263	message	This is where we grit our teeth and hang on!
+264	message	Lalala~♪ How naive, so naive!\nI've got a finishing move ready too~!
+265	message	Nyo!?
+266	message	//Laura appears
+267	message	Hoh, so the numbers really are assembled… Interesting.
+268	message	It's Schwarzer Regen!
+269	message	Laura's here!!
+270	message	Nyaa!? Some scary black thing showed up, nyo!!
+271	message	Usada! Where'd you get connections like that, nyo!?
+272	message	Unlike you, Dejiko, I actually put in effort!\nNow go get beaten up!
+273	message	//The turn after Laura appears
+274	message	Does no one wish to face me in battle?\nI'll take you on.
+275	message	If that's how it is…!
+276	message	Why, you—!
+277	message	You and I—shall we fight?
+278	message	Ngh!?
+280	message	That voice!!
+283	message	//Tsubasa transformation movie\n//Tsubasa appears behind Laura
+284	message	Wh—!? Behind me!!
+286	message	Tsubasa!
+288	message	Tsubasa!
+290	message	Tsubasa!
+292	message	Ah…!
+294	message	…It's been a while,\nLaura Bodewig.
+295	message	So the one who couldn't even die properly has come to flaunt her disgrace?
+296	message	This sword that I am—I have no memory of being broken.
+297	message	Very well.\nThe same trick won't work twice.
+298	message	I'll never fight such a disgraceful battle again!
+299	message	//Battle resumes; Tsubasa usable as an allied unit
+301	message	I see… the rust is coming off!
+302	message	This sword that I am—taste its true sharpness!
+303	message	//Event on defeating Laura
+304	message	Tch, no more…!!
+305	message	Begone!
+306	message	Guh!!
+307	message	//Laura withdraws from the front.
+308	message	Don't let your guard down yet!\nSpace out on the battlefield and you'll die!
+309	message	//Usada and Dejiko engage
+310	message	Oh my? Feeling motivated?
+311	message	These guys are the enemies who attacked Gamers, nyo!\nWhy is Usada with them, nyo!!
+312	message	Why not try using your own head for once?\nDum-my!
+313	message	Who's an old lady, nyo!!
+314	message	Dummy dummy!!
+315	message	//Event on defeating Usada
+316	message	No waaaay!? How'd I lose with these forces?\nThat's just wrong!
+317	message	You lost 'cause you're weak, nyo.
+318	message	Grr!! What the heck, what the heck! Dejiko!\nIt's not like YOU won or anything!
+319	message	Dejiko wins, nyo.
+320	message	Bah, I'll be back!\nRemember this, Dejiko!
+321	message	//Usada vanishes
+322	message	She vanished, nyo!? How'd she do that, nyo!?
+323	message	It was the same in Kyouto, so…\nshe's in league with the enemy after all?
+324	message	She vanished in Kyouto too,\nso she's clearly teamed up with their side!
+325	message	//Battle ends when all enemies are wiped out\n//Background: plains (same as at the start of map 1)
+326	message	Sheesh, why'd we have to get jumped\nby Usada out of nowhere, nyo…
+327	message	Remu, what do you think?\nGetting ambushed the moment we arrive in this world—\ndon't you think that's just too strange?
+328	message	True… it was as if they'd foreseen our movements\nand were lying in wait.
+329	message	This might be worse than we imagined…
+330	message	We've got to unravel how the light and the travel work…!
+331	message	Let's look for clues!
+332	message	I hope there's some kind of clue…
+333	message	//Fade to black
+334	message	Tsubasaaa!!
+335	message	Tachibana, it's been so lo—
+336	message	//[MERU] or [NOEL] comes running up as Hibiki and Tsubasa are talking.
+337	message	Tsubasaaa!!
+338	message	Tsubasaaa!!
+340	message	//Haruka, Aoi, and Soniko come running.\n//[MERU] or [NOEL] and Hibiki get shoved aside.
+341	message	Tsubasaaa!!
+342	message	Tsubasa!
+343	message	Tsubasaa~n!
+344	message	Everyone… I'm glad you're all safe.
+345	message	That's OUR line!\nI'm so glad you're safe, really glad…
+346	message	And you were sooo cool!
+347	message	What happened after that?
+348	message	Yes. After using my Swan Song, I had no strength left to stand.\nI collapsed unconscious,\nand someone saved me.
+349	message	Someone?
+350	message	She saved my life. Apparently that person carried me\nto the hospital where I was admitted\nback when I collapsed after using my Swan Song.
+351	message	//Hibiki cuts in.
+352	message	Whaaat!? You mean the hospital next to\nLydian Music Academy, right!?\nHow did you travel to a different world!?
+353	message	I don't know that either.\nBut that person seems to know how to travel\nto whatever world she wants.
+354	message	The only reason I could come here\nis because she brought me.
+355	message	Who is she!? This person!
+356	message	Ah… if she brought you to this world,\nthat means she knows this world…?
+357	message	Wait! She brought you to this world?\nThen she must know this world, right?
+358	message	I don't know if it's her true name,\nbut she called herself Eve.
+359	message	Huh!? Huh!?\nTh-that's the teacher I've been looking for!!
+360	message	Awawawawa, it really is the teacher!!
+361	message	Come to think of it, you did say you were\nlooking for your teacher… but\nEve seems about my age…
+362	message	It's definitely the teacher!\nThe teacher uses a suspicious ancient art\nso her looks never change.
+363	message	It's definitely the teacher!\nShe uses some weird art called 'magical anti-aging'\nso her looks never ever change.
+364	message	Sh-she sounds like a witch…
+365	message	So, so, where's the teacher!?\nI wanna see her soon!
+366	message	S-so, where's the teacher?\nShe's nearby, right!? Right!?
+367	message	She said she had things to do in this world,\nand went off somewhere.\nI don't know where she went.
+368	message	It's probably St. Mont Blanc Academy!\nShe went back to the lab!\nI've gotta report to Remu!!
+369	message	St. Mont Blanc Academy! No doubt!\nShe went back to the lab to look into something!\nI'll go tell Remu!
+370	message	//[MERU] or [NOEL] runs off.
+371	message	…It seems my Swan Song\nproved unexpectedly useful.
+372	message	Tsubasa…
+373	message	Tachibana, what's wrong? With that look on your face.
+374	message	No, it's just… I should have so much to say,\nbut the words won't come out…
+375	message	I know… me too.\nBut just seeing your face set me at ease.
+376	message	Ah, me too!!\nI believed you'd be okay, but…\n…seeing your face really does put me at ease.
+377	message	Yeah.
+378	message	//Fade to black\n//Background: plains (night)
+379	message	…I see. So the one who saved Tsubasa\nwas [MERU]'s teacher,\nand she apparently knows the secret of the light and the travel.
+380	message	That's right!\nIf we go to St. Mont Blanc Academy,\nwe should be able to meet her!
+381	message	We might solve a great mystery.\nLet's head to St. Mont Blanc Academy!
+382	message	Yaaay!!
+383	message	But, [MERU], when you met me,\nyou were lost right here…?\nDo you actually know the way?
+386	message	It'll be fine! I'm a little different\nfrom back then… follow me!!
+387	message	Wh-where's that confidence coming from!?
+392	message	…I see. So the one who saved Tsubasa\nwas [NOEL]'s teacher,\nand she apparently knows the secret of the light and the travel.
+393	message	The teacher's probably back at the lab\nat St. Mont Blanc Academy! Yeah yeah!
+394	message	We might solve a great mystery.\nLet's head to St. Mont Blanc Academy!
+395	message	Now you're talking!
+396	message	But, [NOEL], when you met me,\nyou were lost right here…?\nDo you actually know the way?
+399	message	Fufufufu, getting back to St. Mont Blanc Academy\nis actually easy!
+400	message	'Cause all I gotta do is head toward\nwhere the yummy smells are coming from!!
+401	message	Huh!? Th-that's gonna be okay!?!?
+406	message	//Fade to black\n//Background: black
+407	message	— A town on the way to the sea —
+408	message	//Event art: Shirayuki trying on a swimsuit
+409	message	How's this?\nThe color… I think white's better after all…
+410	message	No no! That color suits you just fine, says this old man!
+411	message	Any color would look good on you, Shirayuki!
+412	message	Y-you think so…?
+413	message	So I want you to try on this striped swimsuit too~!
+414	message	Th-that's way too flashy…
+415	message	Ehh, no it's not~.\nJust try it on for now! C'mon! C'mon!?
+416	message	Whoa there, Haruka! Sneaking in for the good part!\nMaybe this old man'll help with the fitting too~?
+417	message	H-huh…!?
+418	message	//Event art off\n//Fade to black\n//Event art: Charlotte trying on a swimsuit
+419	message	Do I look good in this kind of thing…?
+420	message	Hauu!! Charlotte's so cuuute!
+421	message	Cuuute? Am I… cute?
+422	message	It suits you.\nYou could even go with\nsomething a little bolder.
+423	message	R-really? It's not weird?
+424	message	Have confidence!\nAny man who saw you in that swimsuit\nwould turn to look.
+425	message	Really? You're not lying, right?
+426	message	I'll stare and stare and spin in circles!!\nCute! Cute!\nT-take you ho—
+427	message	No, Rena! Bad manners are not allowed.
+428	message	Hauu!! Hau, hau, hauuu!!
+429	message	I'm really glad I revealed that I'm a girl…\nI'm having so much fun right now!
+430	message	//END

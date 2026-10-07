@@ -1,0 +1,244 @@
+row	column	english
+3	message	Still no word\nfrom Twin Phantom?
+4	message	I hope they're safe...
+5	message	If only it's just that they haven't found\nthe Angel's Tear's location.
+6	message	We should start considering\nthey might've been captured.
+7	message	Um... if you'd like,\nshall we all sing a song...?\nI thought it might cheer us up a little!
+8	message	Right. Then, let's do a song...
+9	message	I wanna hear Tsubasa's enka, nyo~!
+10	message	Enka!? You mean THAT enka?\nLike "my boooat~," "that woman up nooorth~,"\nvillages with no cars or TV, that kind of stuff?
+11	message	Not quite... but yeah.
+12	message	That ya-ya-ya song she belts out mid-battle\nis amazing and all, but—\nhuh, so she can do enka too?
+13	message	That's so cool.
+14	message	Tsubasa-chan, you're wonderful♪
+15	message	The other day she was singing\nall alone in the bath, nyo.\nShe even had the kobushi down, nyo~.
+17	message	I wanna hear it!
+18	message	I wanna hear it!
+19	message	I'd love to hear it!
+21	message	Then just a little... Please, listen.\nThe song is "Love's...
+22	message	//fade to black\n//Background: outside St. Cherine Academy
+23	message	Haruka-san, shouldn't we head back to the classroom soon?
+24	message	Yeah... but just a little longer.
+25	message	Kurumi-san's sure to be all right.
+26	message	It's not just Kurumi-chan—\nI'm worried about Tesla-chan and Nine-chan too...\nIsn't there anything I can do?
+27	message	Haruka-san, trusting them and waiting\nis a very important thing too.
+28	message	Yeah... You're right.\nI know that, but...
+29	message	For now, let's believe in everyone.\nAnd when our turn comes,\nlet's give it everything we've got, okay?
+30	message	Aoi-chan...\nYeah. Okay!
+31	message	It's okay—Kurumi-san, Tesla-san,\nand Nine-san are all strong.\nYou know that, right?
+32	message	//Louise arrives.
+33	message	You guys are still hanging around here?\nThings are getting pretty lively back in the classroom, y'know.
+34	message	Huh? What happened?
+35	message	Tsubasa sang this mellow old-soul enka tune,\nand then everyone just started singing one after another.
+36	message	Sounds fun.
+37	message	Everyone started telling even me to sing,\nso I ran away.
+38	message	Why?\nAre you bad at singing, Louise-chan?
+39	message	It's not that. It's just, everyone sings\nall these lovey-dovey songs.\nListening to them makes me all restless.
+40	message	They do say most songs\nare love songs, after all.
+41	message	Oh, could it be~...\nthat Louise-chan's in love too?
+42	message	...Maybe.
+43	message	Huh?\nI totally expected a\n"Don't be stupid!"...
+44	message	What? Is that so weird?
+45	message	N-no, not at all!\nBut I wonder what kind of guy you like...
+46	message	Oh? Haruka-san, Louise-san,\nsomeone's coming this way.
+47	message	Hm? That's!!
+48	message	//Kurumi comes running.
+49	message	Haruka! Big Sis Aoi!!
+50	message	Kurumi-chan!!\nThank goodness, you're safe...!
+51	message	My story can wait! Gather everyone!
+52	message	What's going on!?
+53	message	The Twin Phantom's being chased!\nWe've got to go save them!
+54	message	Whaaat!?
+55	message	//Background: St. Cherine Academy classroom
+56	message	Kurumi-chan, report the situation.
+57	message	I was tailing Tesla and Nine,\nwatching to make sure they wouldn't betray us.
+58	message	The two of them made contact with people from\nBlack Fund HQ, and they seemed to be tracking down\nthe whereabouts of the Angel's Tears.
+59	message	But apparently Kei's spies had already\ninfiltrated Black Fund HQ,\nand they walked into an ambush—right now they're on the run!
+60	message	So those guys do more than\njust brute force, huh!
+61	message	I tried to fight too, but there were\ntoo many enemies... and just when things got dicey,\na girl named Reki saved me.
+62	message	Reki?
+63	message	Reki... from Butei High?
+64	message	Could that be the master sniper\nwho saved me and Aria-san?
+65	message	Why is Reki-san in this world, desu~?
+66	message	Why is Reki-san in this world?
+67	message	I don't know. But we've got to hurry!\nEveryone, please!
+68	message	Of course!\nTwin Angel, move out!
+69	message	Tesla-san, Nine-san,\nplease be safe...!
+70	message	//Battle map: city, daytime\n//Player starting units: Tesla and Nine only
+71	message	To think enemy spies had infiltrated—\nthe Black Fund's security is\nlaxer than I thought...!
+72	message	//Grunt enemies appear in droves, chasing Tesla and the others.
+73	message	Sis...
+74	message	Losing them will be tough.\nLet's turn and face them here!
+75	message	Roger.
+76	message	Now then, are you reaaady?
+77	message	//Battle start
+79	message	This should do it.\nNatchan, let's lose them!
+80	message	...Wait. Something's... coming...!
+81	message	//Kei appears.
+82	message	Arrived at combat area. Scanning... no problems.
+83	message	Kei!?
+84	message	Searching for the Angel's Tears' energy waves.\nNo matching energy signatures.
+85	message	You won't be using Gustav!
+86	message	...Stop you.
+87	message	That statement constitutes a declaration of rebellion.\nA Black Fund without Gustav\nhas no value.
+88	message	Even so, I hardly think\nwanton destruction is acceptable...!
+89	message	Then answer one question.\nWhy did you build a weapon of destruction\nlike "Gustav"?
+90	message	...!
+91	message	What was it built for?\nI fail to see how it merits\nthe use of the Angel's Tears.
+92	message	Then why are you trying\nto use "Gustav"?
+93	message	Because it is too much for humans.\nHumans have no need of it.
+94	message	You think you're special?\nThat kind of one-sided logic won't fly!
+95	message	...Incomprehensible!
+96	message	//On the turn after Kei appears, Reki arrives as player reinforcements.
+97	message	Tesla, Nine: both designated rebels.\nYou will be disposed of.
+98	message	Here they come, Natchan!
+99	message	Ready...!
+100	message	//Just then, Reki snipes Kei. A gunshot rings out first, dealing one hit's worth of damage to Kei.
+101	message	Reaction detected in combat area.\nScanning... damage negligible.
+102	message	//Reki reveals herself.
+103	message	...
+104	message	Reki-san!?\nWhy would you reveal yourself...!
+105	message	A sniper takes action that reveals her position.\n...Incomprehensible.
+106	message	Priority target changed. Targeting the sniper.
+108	message	...Reki!!
+109	message	Ruuun!
+111	message	My contract is to guard my clients.\nSo this is fine...
+112	message	//Kei now targets Reki.\n//Next turn, player reinforcements appear near Reki. Louise is force-deployed.
+113	message	Everyone!
+114	message	Sorry to keep you waiting!
+115	message	Thank goodness, everyone's safe!\nWe came after hearing from Kurumi!
+116	message	From Hazuki-san?
+117	message	Hostile forces increased. Scanning.\nCross-referencing database.\nBearer of the Void detected.
+118	message	You're after me?\nFine, bring it on!
+119	message	Louise-san!
+121	message	I'm drawing their aim off the Twin Phantom!\nI'm still full of energy over here!
+122	message	Kei-san, you won't\nbe using Gustav!
+123	message	Twin Angel will take you on!
+125	message	Tesla, Nine!\nWhat happened to the Angel's Tears?
+126	message	Its location is still unknown.\nKei shouldn't know either!
+127	message	Now that's good news!
+129	message	So, how're we supposed to beat this thing, nyo?
+130	message	Maybe just whack it\nas hard as we can?
+131	message	When in doubt, punch it, nyu.
+133	message	My mission is guarding my clients.\nTo protect Tesla-san and Nine-san,\nI ask for your cooperation.
+134	message	Got it! This time it's our turn to help!
+135	message	I'll do my best, desu~!!
+136	message	//Battle resumes.
+139	message	Dammit, she's still got room to spare?!\nWho the hell built her so tough?!
+140	message	We've got to think of something, or we'll never get anywhere!
+141	message	//Kei's alert sounds.\n//SE: alarm
+142	message	New reaction in combat area.\nScanning, cross-referencing database.
+143	message	What? Something's coming...?
+144	message	Switching to observation mode.\nWithdrawing from combat area.
+145	message	Withdrawing? What does that mean!?
+147	message	//Kei vanishes.
+148	message	Huh? She really left!?
+149	message	What's going on, nyo?
+150	message	Lucky, nyu.
+151	message	Everyone, stay sharp!\nKei sensed something and pulled back!
+152	message	Something big enough to make Kei withdraw...?
+153	message	Ooh, how exciting!\nNow what's gonna show up? C'mooon!
+154	message	//Black Louise appears.
+155	message	That's! The black Louise-san!
+156	message	That one's here!?
+157	message	Gandalfr... Gandalfr...!
+158	message	She's repeating the same thing as last time!
+159	message	You!\nYou said you'd kill me last time, didn't you!?\nWhat's that all about!!
+160	message	You must die\nfor Gandalfr's sake.
+161	message	"Die for Gandalfr"? That makes\nno sense at all!
+162	message	You have no Void familiar.\nSo I'll kill you... If you die,\na new Bearer of the Void will be chosen...!
+163	message	Wh...!?
+164	message	I will meet Gandalfr...!!
+165	message	I won't let Louise-chan be sacrificed\nfor something like that!
+166	message	"Something like that"? Did you say "something like that"...?
+167	message	You called it "something like that"!!
+168	message	//Black Louise's magic surges.
+169	message	Bad! I feel her power rising!
+170	message	Her emotions are surging and driving her magic higher!
+171	message	She... cares that much about this Gandalfr guy?\nGandalfr, Gandalfr—\nwhat even IS he?!
+172	message	Shut up! Dieeee!!
+173	message	//Battle resumes.\n//Talk event when Black Louise and Louise engage.
+174	message	Louise! If only you die,\nGandalfr will surely appear!
+175	message	Who'd hear that and go "oh, okay"\nand just accept it!?
+176	message	And you!\nYou'd forgotten Gandalfr all along!
+177	message	...!!
+178	message	//Stage clear upon defeating Black Louise.
+179	message	Gandalfr... I won't give up...!\nAbsolutely, absolutely! Absolutely, absolutely!!
+181	message	//Black Louise vanishes.
+182	message	She's gone...
+183	message	...
+184	message	Gandalfr...
+185	message	//Battle end.\n//Background: city (daytime)
+186	message	It was lucky Kei\npulled back.
+187	message	Doesn't feel like we won, nyo...
+188	message	Tesla-san and Nine-san are safe, so\nlet's call it a win, shall we?
+189	message	Yeah. They say luck's part of skill, right?
+190	message	Thank you.\nAnd I'm sorry I have no good news to report.
+191	message	...My bad.
+192	message	It's fine!\nKurumi-chan told me how hard\nyou two were trying!
+193	message	Huh? From Hazuki-san?
+194	message	...I was tailing you two.
+195	message	I see...
+196	message	Of course. I couldn't trust you.
+197	message	Besides, I didn't think\nthe two of you could get through it alone...
+198	message	Huh? Kurumi-chan, were you worried?
+199	message	N-no, I wasn't!\nWere you even listening!?
+200	message	Yeah. Sure sounded like worry to me?
+201	message	How do you even arrive\nat that interpretation?!
+202	message	Honestly, this is why Haruka is...\nso exhausting!
+203	message	But thank you.\nWe were saved thanks to you, Hazuki-san.
+204	message	Wh— no, that's not it!\nI was surrounded by enemies too, in real danger...\nwho knows what would've happened without Reki...
+205	message	...
+206	message	I'd asked Reki-san for backup\njust in case.
+207	message	To think you knew each other. Surprising.
+208	message	...For a while now.
+209	message	Is that so?
+210	message	I've taken several\njobs from Tesla-san.
+211	message	...Excuse me.
+212	message	Huh?
+213	message	//Event CG: Reki petting a dog
+214	message	(pat pat)
+215	message	Petting Beta takes priority over saying hi!?
+216	message	Reki-san seems to like animals.
+217	message	(pat pat)
+218	message	Can I... pet too?
+219	message	Go ahead...
+220	message	Yeah...
+221	message	(pat pat)
+222	message	(This is heartwarming. A lovely sight.)
+223	message	(I might actually agree with J for once...?)
+224	message	//Event CG off.\n//Event CG: Nine petting a cat
+225	message	This one too...
+226	message	(pat pat)
+227	message	Me too...
+228	message	Yeah...
+229	message	(pat pat)
+230	message	Alpha too...
+231	message	You two get along so well~.
+232	message	They barely talk but they've got a good vibe, nyo.
+233	message	They say no animal lover is a bad person.\nThat must be it.
+234	message	...This one's a good kid.
+235	message	...Yes.
+236	message	//Event CG off.
+237	message	Anyway, about what comes next—\nTesla, any leads on\nthe Angel's Tears' location?
+238	message	Yes. The Angel's Tears are almost certainly\nhidden somewhere inside\nBlack Fund HQ.
+239	message	Think we can get our hands on it?
+240	message	It won't be easy.\nBesides, the moment Kei learns its location,\nshe can activate Gustav right away.
+241	message	That's pretty bad news, isn't it?
+242	message	True. Now that we know the place,\nwe need a plan to take it back, fast.
+243	message	Guess we have no choice but to storm in?
+244	message	Couldn't we sneak in and take it back quietly?
+245	message	If we knew the exact location\nthere'd still be ways to manage it, but\nscouting that out is risky too.
+246	message	And Kei's probably got\nher eyes on our every move...
+247	message	//
+248	message	Louise, what do you think?
+249	message	...
+250	message	Louise?
+251	message	Huh? Oh, I wasn't listening. Sorry.
+252	message	Were you thinking about Gandalfr?
+253	message	N-no, not at all...
+254	message	...I think it's fine, you know.\nYou could be more honest\nand admit you're thinking about Gandalfr.
+255	message	What do you mean?
+256	message	Because that's surely a wonderful thing.
+257	message	Shion...
+258	message	//END

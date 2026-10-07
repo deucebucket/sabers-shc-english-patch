@@ -1,0 +1,274 @@
+row	column	english
+4	message	......
+5	message	Hey, Aoi-san?
+6	message	Huh? Oh, sorry.\nI was concentrating and didn't notice...
+7	message	The national mock exams are coming up,\nand I've been neglecting my studies lately...
+8	message	I thought I'd put even free moments like this\nto good use,\nso I was studying.
+9	message	Studying!?\nYou're studying even now?
+10	message	Yes — if I let my guard down,\nI get rusty right away.
+11	message	I think building up a little every day\nis what matters.
+12	message	How's your mock-exam prep going?
+13	message	Hmm... even if you say that,\nI don't even know how to study...\nIt's hopeless for me.
+14	message	It's not hopeless at all.\nIf you'd like, shall we study together?
+15	message	Could I really place high\non the national mocks?
+16	message	Well... it depends on your effort.\nNothing starts without trying.
+17	message	'Genius is 99% effort and 1% inspiration'...\nEdison's famous words.
+18	message	They say even the most genius people\nall put in effort.
+19	message	I see...\nMaybe I'll try a little harder.
+20	message	Ufufu, that's the spirit.
+21	message	Effort pays off in kind.\nThat's sure to be fun.
+22	message	Oh, by the way...\nI have some recommended reference books.
+23	message	If you'd like,\nplease give them a try.
+24	message	And this one...\noh, and I mustn't forget this one.
+25	message	Th-this... all of it!?
+26	message	Yes. Is it... not enough, perhaps?
+27	message	Then, it's a bit difficult,\nbut how about this workbook?
+30	message	Ahaha... thanks.
+31	message	Not at all —\nI've got plenty of reference books.
+32	message	If there's anything else you'd like to read,\nor any preference, just tell me.
+35	message	Ahaha... I'll pass...
+36	message	S-sorry.\nThis one is a bit too hard after all...
+37	message	I have some easier ones too —\nI'll bring them next time.
+40	message	I love teaching, actually.\nI still have plenty to work on myself, but...
+41	message	I always study with Haruka-san,\ntoo.
+42	message	Can I even do it...?\nI'm not really confident.
+43	message	Hehe, it's okay.
+44	message	I'll help you with everything I've got.\nLet's work hard together!
+45	message	(Man, this is turning into something big...)
+48	message	Is there anything you don't understand?
+49	message	Yeah, all of it, honestly...
+50	message	Huh? All of it...?\nHmm, what should we do...
+51	message	Then why don't we\nstart over from the basics?
+52	message	If you nail the basics, you'll be able to\nsolve any problem right away.
+53	message	Let's learn starting with the easy stuff.\nUm, this is...
+54	message	(Aoi really is kind...)
+55	message	...So? Did you understand?
+56	message	Huh? Y-yeah...
+57	message	(Crap, I wasn't listening at all...)
+58	message	Now I'll give you a problem, so\ntry solving it for me.
+59	message	It's about a famous quote\nfrom a historical figure.
+60	message	When she said 'if there's no bread,'\nwhat did she say\nto eat instead?
+61	message	If there's no bread?\nHmm... rice, obviously?
+62	message	Huh? Hehe, in a way that's correct.\nRight — it means that if there's no bread,\neating something else is fine.
+63	message	Then I got it right!?
+64	message	No, unfortunately that's wrong.\nThe correct answer is... cake.
+65	message	But actually, this quote doesn't\nseem to be Antoinette's at all.
+66	message	The truth seems to be that it was said by\na noblewoman who didn't even know\nhow expensive cake was...
+67	message	But since Antoinette had already\nturned the public against her,\nit ended up being attributed to her.
+68	message	Huh, I see.\nYou don't just teach the material,\nyou teach all kinds of stuff, Aoi.
+69	message	Hehe, Haruka said\nthe same thing to me.
+70	message	It sticks in your memory better that way, and\nmore than anything, it's more fun to learn, isn't it?
+73	message	You're a wonderful tutor!
+74	message	That's not true at all.\nI just shared how interesting history is,\nexactly as it is.
+75	message	That's not true.\nI'm sure Haruka appreciates it too.
+76	message	Hehe, it'd be even better if their grades\nwould go up a little more, though...
+79	message	You remember better when you're having fun, after all.
+80	message	You think so too?
+81	message	Yeah, of course.\nI feel like I could actually get interested in studying.
+82	message	That makes me happy to hear.\nI'll try even harder too.
+85	message	Not just history, either.\nMath and science both have ways to learn\nthat stick better than just grinding out answers.
+86	message	(To have such a kind tutor teaching you\nevery day — Haruka's so lucky...)
+87	message	Now, once we finish the next page,\nlet's take a break. I've got some\ntasty cake ready...
+88	message	Cake!?\nY-yeah! I'll do my best!
+89	message	Hehe...
+92	message	Ugh, I'm beat~.
+93	message	Oh my, look at the time.\nI'm sorry, I didn't notice...
+94	message	Shall we take a break soon?
+95	message	Really!?
+96	message	Yes, we've gotten a lot further\nalong than I expected.
+97	message	You learn fast.\nI feel like you're going to catch up to me in no time.
+98	message	At this rate, you might even crack\nthe top 10 on the national mock exams.
+99	message	Don't praise me so much.
+100	message	Hehe, it's the truth.
+101	message	Your focus really impressed me.\nThat's not something just anyone can do.
+102	message	Watching you work so hard makes me\nwant to work harder too...
+103	message	You're already working plenty hard, Aoi.\nOh, but maybe you should get some exercise once in a while?
+104	message	Exercise...? Yeah.\nYou're right, I should work on my weaknesses.
+105	message	I'm good at archery, but\npretty useless at everything else...
+106	message	Running is my worst. Even in the mornings,\nkeeping up with Haruka is\nall I can manage...
+107	message	I really should work on getting up\na bit earlier myself.
+108	message	Hm? You kind of remind me\nof Blue Angel.
+109	message	Huh? Hehe, you think so?\nLots of people are bad at sports.
+110	message	Oh, and there's a saying —\nsupposedly there are three people\nin the world just like you.
+111	message	Maybe Blue Angel\nis bad at studying\nand running too.
+114	message	A hero of justice studying — that's weird.
+115	message	You think so?\nMaybe heroes of justice are just\nregular people like us, too.
+116	message	Balancing school and work must be tough.\nI hope they do their best.
+119	message	I wonder what kind of studying they do.
+120	message	Hehe, who knows?\nA hero-of-justice textbook\nwould be funny, though.
+123	message	Are you curious too?\nAbout what a hero of justice studies...
+124	message	But before that, we need to work on\nthe studying right in front of us.
+125	message	Sigh... yeah...
+126	message	It's okay. You've gotten so much\nbetter than when you started.
+127	message	Come on, let's get it done quickly.
+128	message	Y-yes ma'am.
+131	message	What should I do...
+132	message	Uh, what happened?
+133	message	Actually, I lost a book\nI borrowed from Kurumi...
+134	message	That's bad.\nI'll help you look.
+135	message	Huh? Ah, thank you.\nBut please don't worry about it...
+136	message	You've been busy lately, right?\nYou haven't been coming to study much...
+137	message	I've been wondering, but I didn't want\nto push you too hard...
+138	message	I can look for it on my own, so\nplease put your own plans first.
+139	message	(Actually I've just been dreading studying...\nShould I tell her straight?)
+140	message	A-actually...
+143	message	There's something important I need to tell you.
+144	message	W-with such a serious face...\nWhat is it?
+145	message	Could it be that\nsomething's troubling you...?
+148	message	It's about studying.
+149	message	Yes. Oh, could it be about the\nworkbook I gave you the other day?
+150	message	There were a lot of hard problems in it, so\nit's fine if you didn't get them.\nI'll explain them properly next time.
+153	message	Oh? Is that... what's over there?
+154	message	Oh, this book?\nCould this be...?
+155	message	Yes! Thank you so much.\nI'm sorry to have worried you.
+156	message	Thanks to you, we found it right away.
+157	message	No, I didn't really do anything...\nS-so, there's something I wanted to talk about...
+158	message	Yes! What is it?
+159	message	Um, well... studying, I'm, like,\nokay now, or, um...
+160	message	Okay...? Ah! Maybe\nyou've started going to a cram school?
+162	message	Then I'm relieved. Cram school teachers\nare study experts, so I'm sure\nthey'll be a big help to you.
+164	message	I was thinking that studying alone\nwith just a reference book might be a bit rough.
+165	message	N-no, it's not that, um...
+166	message	If you're that motivated, then\nthere's no more need for me.
+167	message	Do your best!!
+168	message	N-no! That's not it...\nI just... can't do it anymore...!
+169	message	You helped me so much...\nI'm really sorry!!
+170	message	Huh?
+173	message	...?
+176	message	Sigh... I feel like I did something\nbad to Aoi.
+177	message	Um...
+178	message	Oh, Aoi!?
+179	message	Did I startle you?\nI'm sorry.
+180	message	Actually, there's something I'd like to ask...
+181	message	This is sudden, but...\nwhat do you think of cosplay?
+182	message	Huh? Cosplay?
+183	message	Yes. There's maids, anime characters,\nall kinds, I think...
+184	message	I was going to ask Haruka, but\nshe seems to be out.
+185	message	I thought I should hear a man's opinion too,\nso I asked you.
+186	message	Hmm, I don't dislike it.\nIf anything, I might like it!\nBut why the sudden question?
+187	message	I first learned about it on a TV news report\nthe other day...
+188	message	It was an event where cosplayers\nfrom all over gather, and everyone looked like they were having so much fun.
+189	message	It seems like there are quite a lot of them,\nso I got a little curious.
+190	message	Still, I wonder how they prepare\nsuch elaborate costumes.
+193	message	They make them themselves.
+194	message	Oh, is that right!?
+195	message	Making such difficult costumes...\neveryone's amazing...
+198	message	Can't you buy them at specialty shops?
+199	message	I see, specialty shops...
+200	message	Costumes that elaborate must cost\na pretty penny, I'm sure.
+203	message	Cosplaying takes a lot\nof work too.
+204	message	Still, you sure know a lot\nabout cosplay.
+205	message	Have you ever been to\nan event or anything?
+206	message	O-of course not!\nI've never been to one, not once!
+207	message	Oh, really? You know so much, I was sure\nyou'd been to one.
+208	message	Also, I really do think\nyou have talent.\nAre you really giving up on studying...?
+209	message	Huh!? T-that's...
+210	message	Please think it over.\nWell then, bye...
+212	message	Aoi...
+213	message	Maybe it's too early to give up.\nI'll try a little harder...
+216	message	...Yeah, let's keep at it.\nI don't want to lose to Aoi and the others...
+217	message	Hm? Is that... speak of the devil, Aoi?\nShould I say hi...
+218	message	Oh?
+219	message	Hi. Oh, are you studying?\nSorry to interrupt.
+220	message	No, not at all... um,\nit's nice weather today!
+221	message	On a day like this, how about\na walk outside?
+222	message	Huh!? But it's cloudy outside...
+223	message	Huh!? I-is that right...\nSorry, that was weird of me.
+224	message	It'd be nice if the weather were good~...\nthat must've been wishful thinking!
+225	message	You won't\ncome out with me...?
+228	message	I don't have anything to do, so no.
+229	message	I-is that right...\nBut moving your body a bit might\ndo you some good!
+230	message	How about inviting a friend and\ngoing out somewhere?\nIt'll definitely be fun!
+233	message	I'd rather go with you, Aoi.
+234	message	M-me? But, um...\nI have something to do after this.
+235	message	It'll take a while, so today is\nkind of... sorry.
+238	message	Oh, by the way...\nhow's the studying going?
+239	message	Huh? Oh, yeah, fine...\nWhat were you studying just now, Aoi?
+240	message	Me? Um...\nthe usual, yes!
+241	message	Don't mind me...
+242	message	Hmm, something's off.\nOh, she's holding a reference book I haven't seen before.
+243	message	Huh? Ah, th-this is...\nN-no...
+244	message	It's not really something\ninteresting to look at...
+245	message	I'm really sorry.\nBut this one thing is a little...
+246	message	That just makes me more curious...
+247	message	I'm sorry!\nI'll be going now...!
+249	message	Maybe... she hates\nme now...?
+250	message	Makes sense... she taught me so seriously,\nand I said I couldn't do it...
+251	message	Sigh... I'm the worst.
+254	message	I should properly apologize\nand have her teach me again...
+255	message	Hello.
+256	message	Perfect timing...\nThere's something I'd like to talk about...
+257	message	What's wrong? You're spacing out.\nIs there something on my face?
+258	message	Oh, no, it's not that...\nIt's just, do you hate me now...?
+259	message	Huh? Why would I?\nOf course not.
+260	message	Did I maybe say something\nthat upset you?
+261	message	No, it's not that —\nyou hid the book I tried to look at the other day, remember?
+262	message	That was, well... I didn't hide it\nbecause I dislike you...
+263	message	It's just, at the time I kind of\nwanted to keep it a secret...
+264	message	I-I'm sorry, it's nothing.\nActually, there's something I've been wondering about too...
+265	message	I worry I may have been\nforcing you to study...
+266	message	That's not true.\nI just lacked motivation...
+267	message	No, I think my teaching was\njust bad.
+268	message	So I wanted\nyou to have fun...
+271	message	What's that got to do with hiding the book?
+272	message	Um, well... I think it's a book\nthat you can enjoy...
+273	message	I was going to keep it secret, but\nit was totally obvious, wasn't it.
+276	message	That sounds fun.
+277	message	I'm sure you'll like it.
+278	message	The prep was pretty tough...\nAh! Anything more is a secret.
+281	message	Anyway, I worked hard so you'd\nbe even a little more motivated.
+282	message	So... would you have some time\nfor me sometime?
+283	message	O-of course!!
+284	message	Thank you.
+285	message	(Wait, is Aoi asking me out on a date!?\nThis is turning out amazing...)
+286	message	Is something wrong?
+287	message	No, n-nothing.
+288	message	Then I'll look forward to it.\nSee you that day.
+290	message	Seems like I made her worry instead.\nMaybe I did something bad.
+291	message	Anyway, I can't wait~.
+293	message	A date... maybe go to the beach...
+296	message	It's almost time to meet...
+297	message	Are you there?
+298	message	Um, this is a little embarrassing...
+299	message	Embarrassing...?
+300	message	Please don't be too surprised.
+303	message	Um, how do I look?\nIs it weird...?
+304	message	I actually tried making it from a book.
+305	message	(Wait, is that the book she hid the other day?)
+306	message	B-but... I think I got the measurements wrong,\nit's a bit tight...
+307	message	M-my, it's really emphasizing her chest...
+308	message	Hmm, I wonder if they grew again~?
+309	message	I was a little adventurous\nto get you motivated, but...
+310	message	There's still a bit too much exposure... ugh, my chest is suffocating...
+311	message	A-are you okay!?
+312	message	Yes, somehow...
+313	message	A-and... if it's for your sake,\nthis is nothing...
+314	message	Oh, I made tea too.\nWould you like some?
+315	message	Y-yes. Please.
+316	message	This tea helps you relax.\nIt puts you in a really easygoing mood.
+317	message	The scent is a bit strong, but once you drink it,\nit goes down really smooth.
+318	message	Here you go!
+319	message	(M-her chest is so close...)
+320	message	Also, if you'd like... some cookies?
+321	message	Haruka taught me how to make them.
+322	message	A-and... um...\nHaruka told me to do this too...
+323	message	Um...\nwell, um...
+324	message	A-ahhh...
+325	message	H-ham! So tasty!!
+326	message	I always do this with Haruka, but\nit's my first time with a boy... it's kind of embarrassing.
+327	message	But if it makes you work hard at studying,\nI'll do it as many times as it takes...
+328	message	Ick! T-that's...
+329	message	Well then, let's get right to the reference book...
+330	message	Huh? Studying again!?\nAnything but that...
+333	message	...Hm? Hmm... huh?
+334	message	Hehe, you looked like you were\nsleeping very soundly?
+335	message	Oh, it was a dream...\nPhew... good.
+336	message	(Ah, but the maid outfit was nice...)
+337	message	Now let's continue studying.
+338	message	Um, next is a math problem.\nJust memorizing formulas isn't enough.\nYou have to actually understand the logic...
+339	message	And that's where this book comes in!!\nIt took a while, but\nit's finally finished!!
+340	message	Um, is something wrong...?
+341	message	Um, the cosplay...?
+342	message	Huh, cosplay...?\nOh, you mean the academy festival exhibit?
+343	message	Thanks to everyone, that's been\nsettled.\nNow, let's study!!
+344	message	(Sigh... looks like there's nothing to do\nbut give up and study...)

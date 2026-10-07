@@ -1,0 +1,231 @@
+row	column	english
+4	message	Huh?
+6	message	(That's Tsubasa.)
+7	message	...Oh.
+8	message	You're...?\nWell, whatever.
+9	message	(Wh-what... has she forgotten me?)
+10	message	Are you shopping, Tsubasa? Or out for a walk?
+11	message	...Well, something like that.
+12	message	(Huh, which is it?)
+13	message	A little patrol.\nEven in town,\ndanger isn't out of the question.
+14	message	Taking the lead sounds nice,\nbut that's all I can do.\nMy duty as a guardian — no, a warrior.
+15	message	As expected...\nOh, right — thank you for the other day.
+16	message	Wh-what are you talking about?
+17	message	When I messed up in battle\nand you covered for me.
+18	message	Ah...\nI feel like something like that happened.
+19	message	That happens on the battlefield, don't worry about it.\nI won't either.
+20	message	(Huh? She doesn't remember...?)
+21	message	............
+22	message	...Um.
+25	message	...Nice weather tonight.
+26	message	Yes...\nOn a moonlit night like this,\nI find myself wanting to lose myself in thought, alone...
+27	message	............
+30	message	(C-come on, some conversation starter...)
+31	message	You look sleepy.\nI don't think staying up late is good.\nI want you at your best for battle.
+32	message	............
+35	message	...\nIt seems you don't have any particular business.
+36	message	I'm going to go swing my sword a bit.\nSomething of a habit\nwhen I'm troubled.
+37	message	So, that's that.\nUntil...
+39	message	S-she's so distant...\nHmm, does she hate me...?
+42	message	We meet again.
+43	message	Tsubasa, um...
+44	message	What?
+45	message	Did I do something rude to you, Tsubasa?\nIt feels like you're avoiding me...
+46	message	Th-that's not true.
+47	message	You are, after all, a comrade I fight beside.\nI'd never treat you coldly.
+48	message	I must seem unreliable to you,\nbut if there's anything bad about me I'll fix it,\nso please don't hold back.
+49	message	It's not that... the problem is me.
+50	message	Th-that is...\nI'm not very good with people.
+51	message	Really...?\nBut you're always briskly leading everyone.
+52	message	That's me on the battlefield —\nKazanari Tsubasa the warrior.
+53	message	In battle I'm fired up too.\nBut normally I'm clumsy...
+54	message	I just can't navigate social stuff well.\nThat's why I'm often alone like this, right?
+57	message	That's... surprising.\nI thought you were the beloved-by-all type...
+58	message	Fufu... in reality it's the exact opposite.
+61	message	So that's why you're always alone,\nwatching everyone.\nMakes sense now.
+62	message	...\nHearing it said to my face stings a little.
+63	message	Ah, I-I'm sorry!
+66	message	Well...\nlet me tell you a little about myself.
+67	message	Between my work with the Special Disaster Response Team Section Two\nand my job as a singer,\nI've only ever dealt with adults.
+68	message	So I don't really know\nhow to act around kids my own age.\nIt always troubles me.
+69	message	And having grown up at an all-girls school, with men it's especially...\nwell.
+70	message	(Huh... Tsubasa has a cute side too.)
+71	message	So a boy like you\nis harder for me to approach\nthan Noise.
+72	message	(Ehh...?)
+73	message	Anyway, please understand —\nit's not that I dislike you.
+74	message	...You look relieved.\nI'm sorry if I offended you.
+75	message	Well then, I'll be going.\nTonight's moon is perfect\nfor a leisurely stroll, thinking of tomorrow.
+77	message	So right now I'm on the same level as Noise...\nComplicated...
+80	message	(Huh... I hear singing... that's Tsubasa.\nMaybe she's practicing?)
+81	message	Who's there!!
+82	message	Sorry, sorry, sorry
+83	message	Oh...?
+84	message	I'd sensed someone for a while —\nit was you.\nSorry to startle you.
+85	message	I'm sorry, I didn't mean to spy...
+86	message	No, it's fine.\nSinging is my livelihood —\nnothing to be embarrassed about being seen.
+87	message	Right, you're a singer, Tsubasa.\nYou're really good.
+88	message	Thanks.\nI can't get proper lessons right now,\nso I want to practice even a little.
+89	message	A student and a singer, and fighting Noise...\nthat's admirable.
+90	message	Not really,\nI'm just doing\nwhat I can...
+91	message	Besides, singing isn't a burden.\nIt's my bond.
+92	message	With Kanade...\nand with Hibiki, my comrades, the audience...\neveryone who supports me.
+93	message	I want to end this fight soon,\nstand on stage again,\nand sing before an audience.
+94	message	That comfort that fills my whole body\ncan only be felt there...
+95	message	(Tsubasa on stage...)
+96	message	Something wrong?
+99	message	I was thinking\nhow cool you must look on stage.
+100	message	Thanks.\nEven as flattery, that makes me happy.
+103	message	I was thinking\nhow beautiful you must look on stage.
+104	message	............
+105	message	H-huh, sorry.\nDid I say something weird?\nI just really think you'd look beautiful.
+106	message	No, I'm just not used to a man saying that to my face.\nIt surprised me.
+107	message	Really?\nI figured you heard it all the time.\nYou're beautiful, Tsubasa.
+108	message	C-could you not repeat it so much...?
+111	message	But hearing that,\nI feel even more motivated to take the stage.
+112	message	Until then, I'll listen anytime, if you'll have me.
+113	message	...Thank you.
+114	message	Maybe it's 'cause I got to talk with you.\nI feel like I'll sleep well tonight.
+115	message	Well then, I'm heading back.\nGood night.
+118	message	...Fuu.
+119	message	I'll stop here for today.\nSorry for making you sit through practice.
+120	message	...You're frozen. What's wrong?
+121	message	I couldn't help trembling...\nhearing it up close, a singer's voice is incredible.
+122	message	Fufu, thanks.\nI'm happy I got to sing full-out after so long.
+123	message	After all, a song only lives\nwhen someone hears it.
+124	message	When all I do is fight,\nI tend to forget —\nbut I am a singer too.
+125	message	I almost feel bad\nhogging this all to myself.
+126	message	It's fine —\nhaving a listener stimulates me too.
+127	message	In return, if I may —\ncan I ask your impressions?
+128	message	Don't hold back.\nThere must be something — something I could do better.
+129	message	Put like that... hmm...\nSomething does nag at me.
+130	message	Oh? What is it?
+131	message	N-no complaints!\nIt's just...\nsomething that might make it even better.
+132	message	Now I'm curious... please tell me.
+133	message	If it's hard to put into words,\ntake your time thinking.
+134	message	(Hmm, what is this nagging feeling.\nStaaare...)
+135	message	...Um...?
+136	message	A-awawa, sorry!\nUm...
+139	message	It was nothing after all. Forget it.
+140	message	No!\nThen I'll be up all night wondering.
+141	message	Until you remember,\nyou're stuck with me today.
+142	message	Whaaat!?
+145	message	Did you cut your hair?
+146	message	...Huh?
+147	message	Ah, I meant it as a joke\nabout noticing small changes...
+148	message	A j-joke?
+149	message	Don't mess around,\nI'm asking seriously!
+150	message	Eek, sorry!
+153	message	...I'm sorry.\nI got carried away.
+154	message	But whatever your opinion is,\nI'll take it seriously.
+155	message	That dissonance you felt —\nI'd be glad if you told me next time.
+156	message	Yes, I'll think about it too.
+159	message	Tsubasa!
+160	message	That look...\nCould it be about the other day?
+161	message	Yes, I figured out what was nagging me.
+162	message	...!
+163	message	I've been waiting.\nSince then, I just can't\nconcentrate on singing.
+164	message	Now, tell me.\nIt's fine, I'm prepared.
+165	message	Before that...\ncould I hear you sing once more?
+166	message	...Understood.
+169	message	...Just as I thought.
+170	message	Now, will you tell me?\nWhat was wrong.
+171	message	...What's wrong?\nWhy won't you tell me?
+172	message	Is your silence the answer?\nThat it's not worth answering...?
+173	message	No, it's not that.\nIt's just... whether I should say this...
+174	message	No need to hesitate.\nI'll lend an ear to any harsh words.
+175	message	Kazanari Tsubasa's convictions aren't so fragile\nthey'd waver from that.
+176	message	...Understood. Then I'll tell you.
+177	message	Your singing isn't bad — it's perfect.\nThere's nothing wrong with it.
+178	message	What do you mean?\nThen what is it...
+179	message	It's BECAUSE it's perfect!\nThere's something missing!
+180	message	Wh-what is it!?
+181	message	In short, it's this...
+182	message	As a woman, as a singer —\nyou have no openings!
+183	message	N-no openings...!?\nIsn't that a good thing?
+184	message	I've always disciplined myself and pursued perfection,\nso as to be beyond reproach...
+185	message	As a warrior, sure...\nBut as a woman?
+186	message	A-as a woman...?\nP-put that way...
+187	message	A perfect woman is hard to approach.\nBut openings create familiarity,\nand that leads to affection.
+188	message	Openings create familiarity...\nSo that's how it works...
+189	message	I-I see...\nSo that's why Tachibana\ngets along with everyone...
+190	message	Come to think of it, Kanade too...
+191	message	............
+192	message	Um, Tsubasa?
+193	message	...\nI'm fine.\nYour advice pierced my heart without mercy.
+194	message	What I was missing...\nI understand now...
+195	message	Thank you.\nI never would've reached\nthat answer alone.
+198	message	Glad I could help.\nI'm one of your fans, after all.
+199	message	Yes, truly.\nI can't thank you enough\nfor showing me a new possibility.
+202	message	Maybe I overstepped...\nIt's just an amateur's opinion,\nso don't take it too seriously.
+203	message	You listened to my singing seriously.\nThat's exactly why\nI'll listen to your opinion.
+206	message	From now on, I — Kazanari Tsubasa —\nwill retrain myself,\nto be reborn...
+207	message	I'll take my leave for today...
+209	message	(I passed on the advice J gave me,\nbut... was that really okay...)
+212	message	S-sorry I'm late.
+213	message	It's fine. But YOU'RE...
+214	message	Yes, me being late\nis unusual, isn't it?
+215	message	Fufu, it is.\nI accidentally overslept...
+216	message	Um, it's night right now...
+217	message	............
+218	message	Well then,\nyou'll sit through singing practice with me again today.
+219	message	(She dodged that...\nTsubasa seems different today, somehow...?)
+222	message	Whew, that was sloppy.
+223	message	*Clap clap clap*! Th-that was amazing!
+224	message	But it felt different from usual —\nisn't this that Japanese thing called 'enka'?
+225	message	Oh, you know about it.
+226	message	It's a different style from usual...\nI thought it might be nice\nfor a change...
+227	message	How am I today?
+230	message	As skilled as ever.\nCool enough to make me swoon.
+231	message	As ever...?
+234	message	You seem kinda cute today.
+235	message	C-cute...\n?\nYou mean I'm full of openings and easy to close in on?
+236	message	Huh?\nWell, you're still hard to approach...
+237	message	Still hard to approach...?
+240	message	Th-that can't be!\nI'm exposing myself\nso defenselessly!
+241	message	Even just now,\nI got the lyrics wrong in three places!
+242	message	Huh?
+243	message	...Then how about this!
+244	message	Ah, I dropped the mic!\nI might be cuuursed~.
+245	message	...Wait, I was singing unmic'd...
+246	message	...???
+247	message	Kuh...!
+248	message	No good, I can't do this!\nThis is just embarrassing myself!
+250	message	Eeeeeh!?
+251	message	What on earth happened to you, Tsubasa...
+254	message	You came.\nI owe you an apology.
+255	message	The other day, well, I'm sorry.\nI must have confused you.
+256	message	N-no, I was just a little surprised.
+257	message	Taking your advice,\nI tried my own way\nto seem more approachable...
+258	message	The result was as you saw.\nA miserable clown.
+259	message	I shouldn't try things I can't do.\nI've learned my limits\nto a sickening degree.
+260	message	(Isn't Tsubasa taking this too hard!?\nI gotta say something...)
+263	message	That's not true!\nYou were cute then too?
+264	message	Even such comforting words\nfeel good to me now...
+267	message	(Did that backfire!?\nShe's that depressed...)
+268	message	As you know,\nmy poor social skills are certified.
+269	message	I tried to change that about myself,\nbut... it seems\nit's beyond me...
+270	message	This might be the first time\nI've lost this much confidence...\nPathetic, even to myself.
+271	message	No way... Giving up just isn't like you, Tsubasa!
+272	message	Huh...?
+273	message	You'd encourage even someone like me...?\nYou...
+274	message	But what should I do?\nEven I don't want to end up\nas a half-baked Kazanari Tsubasa.
+275	message	You don't have to force yourself.\nThe way you're a little hard to approach,\nyour earnestness, your nobility — those are real charms of yours.
+276	message	But if you just... reach out to everyone a little,\nmaybe something will change?
+277	message	If I do that, I can get closer\nto the ideal version of myself...?
+278	message	Reaching out from my side, huh...\nMaybe I really was the one building those walls.
+279	message	(Did I get through to her...?)
+280	message	You always give me courage, don't you.
+281	message	Why do you try so hard for me?\nWhy take me so seriously?
+282	message	No, you don't have to say it.\nI can tell well enough myself...
+283	message	To live up to your feelings,\nI need to shed this old skin of mine.
+284	message	Tsubasa...?
+285	message	The final battle... yes, at that place.
+286	message	(That place...?)
+287	message	Huh? What's this?
+288	message	It's a discount voucher for a concert ticket.\nYou said you wanted to see\nmy performance.
+289	message	Can I really take this?
+290	message	Of course.\nConsider it thanks for listening\nto all my troubles.
+291	message	On that stage,\nI'll show you a new me,\nand practice even harder.
+292	message	Th-That's something to look forward to.
+293	message	Thanks for everything.\nWell then.
+295	message	So 'that place'\nmeant the stage...\nVery Tsubasa, I guess...

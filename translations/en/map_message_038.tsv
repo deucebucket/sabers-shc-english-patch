@@ -1,0 +1,317 @@
+row	column	english
+3	message	Wow, this outfit's cute…
+4	message	Why not try it on?
+5	message	D-do I look okay? Isn't it weird?
+6	message	Yeah, it's cuuute!
+7	message	You're not lying? Really?
+8	message	It's true! Right, [CLAUDE]-kun?
+9	message	(Tell her a beautiful girl looks good in anything)
+10	message	B-beautiful girls look good in anything.
+11	message	Beautiful girl? Does she mean me?\nBeing told that by a boy…\nit's the first time…!
+12	message	You're not lying?\nThis isn't a prank, right?
+13	message	Charles-chan should be more confident.\nThe other customers are looking at you too?
+14	message	Maybe they think\na boy came in?
+15	message	That's not it.\nLook at their eyes. They're gazes of admiration,\nright, Haruka-san?
+16	message	Yeah! I'm admiring you too~!
+17	message	Uuuh… I feel like crying…
+18	message	She's this cute, so\nwhy would anyone think\nof making her act like a boy?
+19	message	It's not my place to say,\nbut the IS development race\nmust drive people that mad.
+20	message	That aside, is there an outfit\nHibiki wants to try?
+21	message	Me? I usually wear my uniform,\nso I don't really do fashion…
+22	message	A uniform, hmm?\n…Clarissa! It's me!\nAny good ideas… hmm, I see…
+23	message	I hear Japan has idol costumes\nthat are dressed-up uniforms.\nI'll buy you one.
+24	message	Huh!? That's okay, really…
+25	message	Would you prefer a wedding dress?
+26	message	I'm only 15! And isn't that\nleaping way too far!?
+27	message	Fufu, that was a joke, of course.
+28	message	Geez, you surprised me…\nBut it's the first time I've seen\nLaura-chan laugh like that.
+29	message	I-is that so…
+30	message	Okay, then Laura-chan will wear\na deco uniform too!
+31	message	Me too?
+32	message	If we match, I'll wear one!
+33	message	It wouldn't suit me!
+34	message	Then I won't wear one either?
+35	message	Mmm… is this the Japanese tradition\nof being under one's wife's thumb…
+36	message	//Fade to black\n//Background: Akihabara\n//Rika, Eve, and Koto accompany Satoko's junk hunt
+37	message	Dejiko-san told me, but Akihabara has lots of\nshops selling shady things once you go\ninto the back alleys.
+38	message	It's a totally different vibe from the main street, it is.
+39	message	Yeah, might be a bit early\nfor you shorties?
+40	message	Not at all! Tiny cameras, radios,\nlistening devices— things you can't\nget in Hinamizawa…!
+41	message	Just looking at them makes my trap-making\ncreativity bubble up… Fufufu…
+42	message	Satoko-chan, you really love this stuff.\nI'm more interested in that curry place\nover there.
+43	message	I'm more of a foodie too, I am.\nNipah☆
+44	message	Whether it's tools or food,\nI'll buy you whatever you like.
+45	message	Eve-san, are you that rich?
+46	message	I haven't been flying around worlds\nlonger than you for nothing?\nI've built up assets.
+47	message	Wow! Then I'll take you up on that—\none regular curry and one dry curry!
+48	message	The drinks look tasty too, they do.
+49	message	I can't decide what to buy!
+50	message	//Fade to black\n//Background: main street (or Akihabara)\n//Tsubasa and [MERU] or [NOEL] head to that AKB theater
+51	message	I'm looking forward to it, Tsubasa-san!
+52	message	A permanent idol theater—\nsurprising.
+53	message	You're curious after all?
+54	message	Yes. Watching a show from another world\nshould be educational.
+55	message	I'm watching the rookie idols in\nthe opening act!
+56	message	I'd love a girl after my own heart— one who\nseems like she'll sell but doesn't, yet steadily\ngains core fans!
+57	message	[MERU]\nwatches the fine details.\nDo you love idols that much?
+58	message	Actually, I wanted to be\na magical idol. But I failed\nthe singing test…
+59	message	……
+60	message	So even if they're not stars, I want to cheer on\ngirls who stand on the idol stage\nand do their best.
+61	message	True, those who can see can tell the difference\nbetween a kid just going through the motions\nand one who's serious.
+62	message	I think an idol is someone who tries their hardest,\neven if their singing and dancing aren't top-class.\nI wanna see a girl I can't help but cheer for!
+63	message	I hope you find one.\n…By the way, is the theater this way?
+64	message	Huh? I just followed because Tsubasa-san\nwas walking so confidently…?
+65	message	…
+66	message	Huh? Could it be, Tsubasa-san…?
+67	message	Ah—…
+68	message	Daily idol shows—\nthis town's got everything!
+69	message	When I heard there was a permanent idol theater,\nI was surprised.
+70	message	Tsubasa-san the singer obviously,\nbut as a magician,\nI absolutely have to see it too!
+71	message	Yes. Watching a show from another world\nshould be educational.
+72	message	Standing before people and performing every day\nmust be so stimulating!
+73	message	I've done street performances too,\nbut a place with real props and equipment\nis a different quality!
+74	message	([NOEL]'s magic is most amazing\nwhen done mid-battle, though…)
+75	message	Basking in applause feels great!\nIt's addictive.
+76	message	Yes. The moment you feel your expression\nreach the audience is wonderful.
+77	message	You think so hard about how to reach them more.\nAnd when it's no good,\nyou get super down.
+78	message	Still, if even one customer wants you,\nyou can keep going.
+79	message	Yeah!
+80	message	…By the way, is the theater this way?
+81	message	Huh? Tsubasa-san, you know the way, right?\nI'm directionally challenged?
+82	message	…
+83	message	Huh? Could it be you too, Tsubasa-san…?
+84	message	(nods)
+85	message	Ah, uh, in times like these!\nExcuse mee! Does anyone know\nwhere the theater is—!
+86	message	//Fade to black\n//Background: town (night)
+87	message	Shopping was fun!
+88	message	Didn't buy much, though.
+89	message	It can't be helped.\nWe're practically wanderers;\nwe can't carry more luggage.
+90	message	Hmm, this is troubling…
+91	message	What's wrong?
+92	message	Have you seen Haruka-san?
+93	message	Come to think of it, Haruka-chan's gone.
+94	message	She got too excited and wandered off, no doubt.
+95	message	I'll go look for her.
+96	message	//Fade to black\n//Background: park (if available)
+97	message	Huh—? Where'd everyone go?\nAnd where is this???
+98	message	Maybe I'll rest on the park bench a bit…
+99	message	Stop it, please!
+100	message	Just one photo, what's the harm!?
+101	message	…Persistent.
+102	message	Hm?
+104	message	I said no.\nDid you not hear me?
+105	message	Don't be like that!\nI'm just adding one photo\nto my beautiful-girl collection!
+106	message	Enough! If that's how it is…!
+107	message	I'm begging you here, come on!\nBetter than getting secretly photographed!
+108	message	Heeey! You there!\nDon't bother girls!!
+109	message	//Haruka runs over.
+110	message	You're…!
+111	message	(Minazuki… Haruka…!)
+112	message	Forcing something on someone who doesn't want it— you're disqualified as a boy!
+113	message	Who are you? Don't get in my way!\nOr will you satisfy me instead?
+114	message	S-satisfy you, huh?\nO-okay! Then!
+115	message	Um, excuse me…?
+116	message	It's fine! Leave it to me!
+117	message	How will you satisfy me?\nCome on, show me!
+118	message	Here I go! First, this—!!!
+119	message	//Event art: striped-panty debate
+120	message	Th-this is… striped panties!? Why are striped panties\nsuddenly coming out of your pocket!?
+121	message	Do you like striped panties?
+122	message	Of course I do! I love them!
+123	message	Okay! Then, show me yours?
+124	message	Huh?
+125	message	Hm? You call yourself a striped-panty-ist,\nso of course you carry them around, right?
+126	message	Huh!? Striped panties are something you carry around…?
+127	message	Oh, are you wearing them?\nI see— that'd be embarrassing~.
+128	message	(This one's hopeless, I gotta do something fast)
+129	message	Here's a question.\nWhy keep striped panties on hand at all times?
+130	message	T-to put them on someone…?
+131	message	Hmm, close! That's not bad,\nbut the truth lies elsewhere.
+132	message	Then why…?
+133	message	Mental focus… emptying the mind…\na key item for reaching enlightenment…
+134	message	Huh!?
+135	message	Someone once said: "When in trouble,\ncount the stripes on the striped panties"…
+136	message	The number of stripes on the striped panties\nyou hold now is a special number only you know.\nA mystical number that gives you courage…
+137	message	Look! These are my striped panties! You don't know\nhow many stripes there are… which means I'M the one\nwith the mental advantage!
+138	message	Wh… what…!?
+139	message	//Add a "gogogogogo…" SE if available.
+142	message	I'm an otaku too… I understand the relationship\nbetween knowledge and courage backed by\noverwhelming confidence, that power…!!
+143	message	The moment I, of all people, realize "I can't beat\nthis person" is the moment I should run!!
+144	message	My senses are normal! They're working!!\nSo running away is neither shame nor defeat!\nIt's justice! The right choice!!
+145	message	//The otaku runs off.
+146	message	…
+147	message	…What is this.
+148	message	Phew, did that work?
+149	message	Ah… thank you\nfor saving me.
+150	message	Glad to hear. Um…?
+151	message	I'm Tesla Violet.\nAnd this is my little sister…
+152	message	Nain…
+153	message	Tesla-chan and Nain-chan, huh.\nI'm Minazuki Haruka. Nice to meetcha.
+154	message	You really saved us.\nHe wouldn't leave us alone.
+155	message	No problem. Glad nothing happened~.
+156	message	Yes, right after coming back\nfrom Italy… I'm exhausted~.
+157	message	You came from Italy? Um, that's the country\nwith the pizza tower, right?
+158	message	Pizza…?
+159	message	Do you mean the Leaning Tower of Pisa?
+160	message	Ah! That's it!\nIf it were a pizza tower, the birdies\nwould eat it.
+161	message	Fufu, Minazuki-san, you're funny.
+162	message	Ehehe, y-you think?
+163	message	Sis…
+164	message	Oh, that's right, Natchan.\nMinazuki, would you care to\njoin us for some tea?
+165	message	My treat, of course—\nto thank you for helping us.
+166	message	I-I couldn't, really~. But hmm,\nI haven't had anything sweet lately~…\nI want a strawberry cream chocolate-sauce parfait~.
+167	message	Hee hee, seconds are fine too.
+168	message	Huh? Ahaha, I won't eat that much~.\n…Probably.
+169	message	Then shall we head to the café?
+170	message	Ah! That's right,\nI was looking for everyone…
+171	message	Huh?
+172	message	Sorry, I gotta go!\nSee you later, Tesura, Nine~!
+173	message	// Haruka runs off.
+174	message	Minazuki's… gone…
+175	message	Sis…
+176	message	She didn't seem to notice\nwho we really are.
+177	message	I was hoping to find out\nwhether she's a Twin Angel, but…
+178	message	!! Sis, this…!
+179	message	// Event CG: Nine picking up the Poketen
+180	message	…Natchan, is that Minazuki's?
+181	message	…She dropped it.
+182	message	I sense a strange power…\nIf this is what the Twin Angels need\nto transform…
+183	message	If Haruka's a Twin Angel…\nshe can't transform?
+184	message	// Event CG off
+185	message	That would follow.\nLet's test it.
+186	message	Understood.
+187	message	// Fade to black\n// Background: Akihabara (night)
+188	message	Where could Haruka have gone?
+189	message	// Haruka arrives.
+190	message	Ah, there you are!\nAoi-chaaan!
+191	message	Haruka! Thank goodness,\nI was worried, you know?
+192	message	Ehehe, sorry sorry.\nLet's head back to everyone…
+194	message	Kyaaa!!
+195	message	A scream!?
+196	message	It came from down this street!
+197	message	It's a monster!\nThat's no cosplay! Run!!
+198	message	Aoi!
+199	message	Right! Let's transform!
+200	message	Yeah! …H-huh… wha—?
+201	message	What's wrong?
+202	message	It's gone… gone!\nIt's nowhere!! My Poketen's gone!
+203	message	Whaaat!?
+204	message	I can't transform into a Twin Angel!
+205	message	// Battle map: Akihabara (night)\n// Twin Angels and Dejiko cannot sortie
+206	message	In a populated area like this…\nWhat are they planning, I wonder!
+207	message	And I was right in the middle\nof browsing the shops!
+208	message	Dejiko's busy remodeling her shop, but\nwhat happened to the Twin Angels?
+209	message	Aoi went looking for Haruka\nand never came back.
+210	message	We'll just have to handle this ourselves!
+211	message	Then I'll just rampage twice as hard!!\nCurry power—ten times the energy!!
+212	message	// Battle start\n// Chris appears after a set number of turns
+213	message	You bastards! What the hell are you doing!!\nDo you even know where you are!
+214	message	Huh?
+215	message	Hey, miss! It's dangerous here!
+216	message	That's 'cause you bastards are blasting away!
+217	message	That voice… no way!?
+220	message	// Chris transformation movie\n// Chris appears
+221	message	You bastardsss!!
+222	message	Singing? Then that means— a Symphogear!?
+223	message	Chris!!
+224	message	Yukine…!!
+225	message	Hibiki! Tsubasa!\nYou pulled a real dirty trick on me last time!!\nI won't fall for it again!!
+226	message	Huh!? Dirty trick? What are you talking about?
+227	message	Shut up! Don't tell me you forgot!
+228	message	Wait, what are you even saying…
+229	message	Shut your mouth!\nYou're all filthy, every last one of you!\nI only trust myself! That's what I decided!
+230	message	Eat this!!
+231	message	// Chris attacks Hibiki.
+232	message	Ugh!! Stop it, Chris!\nWhat's gotten into you!?
+233	message	Acting all soft to get close…!\nHeh! Not gonna happen!!
+234	message	Chris!
+235	message	Don't go fighting in the middle of town!\nI'll smash every last one of 'em myself!\nOraaaaaaaaah!!
+236	message	She's lost her cool…\nTachibana! Let's cool her head off!
+237	message	Understood!
+238	message	// Event triggers when Chris and Hibiki engage
+239	message	Come on! I owe you one—\nand I'm paying it back in full!!
+240	message	What debt!? I don't remember any!
+241	message	Don't play dumb!!\nI haven't forgotten the pain\nof getting punched in the face!
+242	message	I don't remember anything about\npunching Chris in the face!!
+243	message	// Event triggers when Chris and Tsubasa engage
+244	message	Stand down, Yukine!
+245	message	You sheath YOUR sword!\nThen I'll riddle you full of holes, no mercy!!
+246	message	What's wrong with you…\nthis isn't like you!
+247	message	That's MY line!!\nKazanari Tsubasa pulling a sneak attack—\ncolor me impressed!!
+248	message	You think I'd do something like that?
+249	message	Cut the goody-two-shoes act!!\nI'll rip that mask right off!!
+250	message	// Event triggers when Chris and Koto engage
+251	message	Remember me?\nThis is our second round!!
+252	message	Still not dead, huh, Hammer Girl!
+253	message	If I'm Hammer Girl, you're Barrage Girl!
+254	message	Heh! Then I'll make you Swiss-Cheese Girl!
+255	message	// Event triggers when Chris is defeated
+256	message	Dammit!! Again…!\nI lost again!!
+257	message	Wait! Something's wrong!\nThe last time I fought Chris\nwas a loong time ago…
+258	message	Shut up! I won't believe a word you say!!\nThe fact that you tricked me and tried to crush me\nwon't be erased by words!!
+259	message	The scars and pain carved into this body!\nYou can't take those back!! Never!!
+260	message	// Chris vanishes
+261	message	Chris!!
+262	message	She vanished… Laura, that was…?
+263	message	Yeah. Probably the same as when I used\nthe little box I had.
+264	message	I wonder if we could get our hands on that?\nI'm itching to study it!
+265	message	// Battle ends when all enemies are defeated\n// Background: Akihabara (night)
+266	message	Chris… why…?
+267	message	Don't let it get you down.\nThanks to Yukine, we've learned a few things.
+268	message	She said she fought Hibiki and Tsubasa~.
+269	message	Could she be one of those lookalikes~\nthat Remu was researching—\na doppelganger~?
+270	message	We hadn't seen her lately, but\nthere was that shady blackish one, right?\nIt looked like somebody, y'know.
+271	message	Right—when I came to Akihabara once\nwith Soniko, I fought a small black one,\nand it looked like Dejiko.
+272	message	Come to think of it, there was a fake Shirayuki too!\nMaybe that Barrage Girl fought\none of those things?
+273	message	But still—to be so completely convinced\nit's the real thing, like that girl was…\nisn't that going a bit far?
+274	message	A Symphogear is a relic—\nit can't be replicated. And hearing our songs,\nof course she'd think it was real.
+275	message	Could something like that really happen?\nSomeone besides me singing my song,\nwielding a Symphogear that shouldn't exist…
+276	message	Yukine sang and fought beside us—\nshe's our comrade. I couldn't mistake her song.
+277	message	You're right.\nBut if she really did fight\nsomeone like that, I can understand how she feels.
+278	message	More mysteries have piled up, but\nthey're surely mysteries we must solve.
+279	message	We'll put our heads together\nand solve it, won't we!
+280	message	Thank you, Rika, Satoko.\nNo time to sit around moping!
+281	message	Mhm. That's my bride, all right.
+282	message	By the way, where are Haruka and Aoi?
+283	message	// Haruka and Aoi come running.
+284	message	Heeey, everyooone!
+285	message	I'm sorry, I couldn't get\nthe Twin Angels to come.
+286	message	Glad you're both safe.\nWhat a relief.
+287	message	So, did something happen\nto the Twin Angels?
+288	message	Ah, um, well, they weren't\nfeeling too well, it seems…
+289	message	They always seem so healthy,\nbut everyone has days like that~.
+290	message	Maybe they caught a cold?\nWell, can't be helped when you're under the weather.
+291	message	I'm sure they'll come next time,\nso don't worry.
+292	message	(Aoi…!)
+293	message	(Let's find the Poketen by then.\nI'll help too.)
+294	message	(Yeah…)
+295	message	Come to think of it, I don't see Charles.\nWhere could she be?
+296	message	Isn't that her over there?
+297	message	What's that…?
+298	message	// Event CG: Charles being photographed in Akihabara, dressed as a man
+299	message	L-like this…?
+300	message	Look this way too, pleeease.
+301	message	I'm not a model or anything…
+302	message	You're a cosplayer, right?\nMan, foreign cosplayers look great\nin anything!
+303	message	Y-yeah…
+304	message	Handsome!
+305	message	Super handsome!!
+306	message	I'd let him have me!!
+307	message	That's… not really my thing…
+308	message	// Event CG off
+309	message	She's surrounded…
+310	message	She's making a 'help me' face.
+311	message	(If they attack, do stop them properly.)
+312	message	(Surely they wouldn't go that far…)
+313	message	// Fade to black\n// Background: city (night)\n// Tesura and Nine's conversation
+314	message	The Twin Angels never showed up,\nas expected.
+315	message	There's no doubt now.\nThe Twin Angels are Minazuki Haruka\nand Kannazuki Aoi.
+316	message	But…
+317	message	Yes—at their age,\nthey couldn't have been involved\nin the fire that burned our home. Which means…
+318	message	The Twin Angels… aren't our enemy…?
+319	message	…I have to admit it. But then—\nFather… Black Trader…\nlied to us…?!
+320	message	I don't understand…\nWho is our real enemy…!?
+321	message	Father… lied…? No…!
+322	message	…We don't know anything yet.\nLet's think it over a little more…
+323	message	…Understood.
+324	message	//END

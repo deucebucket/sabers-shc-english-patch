@@ -1,0 +1,200 @@
+row	column	english
+3	message	Hmm, so this is where you've been hanging out lately?
+4	message	No mistake. Shall I call them out?
+5	message	Since we're here, shall we surprise them?
+6	message	Understood.
+7	message	//Battle map: Akihabara (daytime)\n//Mii and Kei suddenly appear with many grunts.
+8	message	Let's plaaay!
+9	message	//Dejiko appears.
+10	message	Cut it out, nyo!! You're hurting business, nyo!!
+11	message	The customer is king! It's Mii!
+12	message	Is this an attack, nyo!!\nThink about the time and place, nyo!!
+13	message	I'd get scolded for playing at night~?
+14	message	Don't conveniently act like a kid, nyo!\nAnd a king getting scolded, nyo!!\nWho'd even scold you, nyo!
+15	message	Ahaha! Look, Kei-chan!!\nThat's what a perfect comeback looks like!
+16	message	Incomprehensible.
+17	message	Study up. I don't wanna be the tsukkomi.
+18	message	Whatever, just go home, nyo.
+20	message	If you won't play with me, I'll rampage here!
+21	message	You're gonna rampage either way, nyo!
+22	message	Plaaay plaaay plaaay!!
+24	message	Oh, right.\nIf you play with me, I'll tell you something good!
+25	message	Something good? Like what, nyo?
+26	message	Don't you wanna know\nwhat the Darks are up to?
+27	message	The Darks, nyo?
+28	message	//Player deployment.
+29	message	You know what the black ones are up to?
+30	message	Now that's interesting!
+31	message	Aren't they your subordinates?
+32	message	Wh-!? Don't all come out at once, nyo!?
+33	message	Okay, let's play a game.\nIf you clear it all, I'll tell you.
+34	message	A game... I wonder if it's fair?\nI can't trust it, but.
+35	message	Refusing and angering her wouldn't be good, I think?
+36	message	Games are my specialty,\nso I might be useful!
+37	message	Can't stay quiet hearing about games!
+38	message	It's the club members' specialty!
+39	message	What game are we playing?
+40	message	Let's start with an easy one.\nTry beating these guys\nunder the conditions Mii and Kei-chan give!
+41	message	//The grunts placed on Mii's orders vanish. 5 new grunts appear in front.
+42	message	Just beat these 5?
+43	message	That's right!\nThe first condition:\nbeat all of these!
+44	message	What's that? Isn't it too easy?
+45	message	Louise-san! Don't say that —\nwhat if she makes it harder, desu~!
+46	message	The first one's on the house!
+47	message	Umm... there are 5 questions total,\nand clear them all within\n20 turns total!
+48	message	Oh, right —\nthe bandaged big bro over there\ncan't get taken out!
+49	message	Wh-what!?\nM-me...?
+50	message	//Battle start.\n//Victory condition: defeat the 5 in order of highest max HP.
+52	message	Bzzt! No good!\nGame over!
+53	message	//Game over.
+55	message	Stage 1 clear!\nLike a practice level!
+56	message	Um, I think I've got the rules down!
+57	message	Kei-chan, you make stage 2!
+58	message	Huh? I hadn't anticipated this?
+59	message	Just do it!
+60	message	Understood.\nCreating questions. Selecting difficulty. Decided.
+61	message	Stage 2, set.
+62	message	//5 grunts appear in front.
+63	message	The next 5 will attack one target.\nWipe them out without letting the target be attacked.\nIf the target is attacked even once, you fail.
+64	message	The target is...\nthe bandaged big bro!
+68	message	M-me...\nSo that's what this was...\n*sigh*...
+69	message	//Battle start.\n//Victory condition: clear by getting all 5 below 30%. Once skillfully below 30%, they're removed from the map.
+71	message	Attack on the target confirmed. Game over.
+72	message	//Game over.
+74	message	Mission complete.\nMii, what next?
+75	message	Maybe make it a bit harder?
+76	message	Too simple is no good either.
+77	message	Though asking for harder is weird too.
+78	message	Then let's see your serious side!\nStage 3 will be thiiis!
+79	message	//1 grunt appears in front.
+80	message	Beat this one!\nIt's pretty strong, so watch\nyour remaining turns!
+81	message	A power contest this time!\nAll right, let's go all out!
+82	message	My turn, maybe?
+83	message	//Battle start.\n//Victory condition: defeat the grunt in 3 turns. It heals when damaged, uses full evasion or abilities, something like that? Please adjust.
+85	message	Bzzt! No good!\nGame over!
+86	message	//Game over.
+88	message	Stage 3 clear!\nStill got room to spare?
+89	message	This hardly counts as a hard question.
+90	message	All right, Kei-chan!\nTime to give them trouble!
+91	message	"Trouble"? Recognized as raising the difficulty.\nUnderstood. Raising the setting.
+92	message	Stage 4, set.
+93	message	//2 grunts appear in front.
+94	message	Defeat the next 2.\nHowever, they will flee at full speed.
+95	message	Getting pretty hard, kana? Kana?
+98	message	And there's a tough-looking one and a weak-looking one.\nWhat a pain!!
+99	message	//Battle start.\n//Victory condition: clear by getting both to 10% or below in 2 turns. Once skillfully at 10% or below, they're removed from the map.
+101	message	Clear conditions unmet.\nGame over.
+102	message	//Game over.
+104	message	Mission complete.\nMii, what next?
+105	message	Then let's do a super-hard one last!\nUmm, umm, thiiis one!
+106	message	//Grunts deployed like a normal battle.
+107	message	Hm? Fight normally, you mean?
+108	message	In a way that's the easiest.
+109	message	Ahaha!\nIs it~?
+110	message	//Victory conditions displayed. Each grunt has its own clear condition: (1) defeat within N turns, (2) reduce HP to N% or below (cannot defeat), (3) defeat only after grunts with higher max HP are gone, etc.
+112	message	Sooo, are the remaining turns okay~?\nIt's the last one, but Kei-chan, anything to add?
+113	message	Let's raise the difficulty further.\nWe'll join the attack midway.
+114	message	Now that's interesting! Let's do it!
+115	message	We can't lose, you know~.
+117	message	Yes.
+118	message	Yes, let's do our best!
+119	message	I'm sorry, I'm sorry…\nI'll do my best to run away…
+124	message	W-whoa… e-everyone, keep your spirits up!\nLet's do our best! Hiyahh!
+125	message	There's something refreshing about how readily Soniko throws herself in…
+126	message	Clear this stage and I'll tell you what I know.\nAlrighty, stage 5 staaart!!
+129	message	Bzzzt! No good!\nGame over!
+132	message	Stipulated conditions confirmed as met.\nCommencing action.
+133	message	Nyo!! We've got to hurry, nyo!!
+134	message	I'm the anti-stall character, nyu.
+135	message	That name takes me back…
+137	message	How's that?!
+138	message	Ooh~! We cleared everything!
+139	message	Wonderful work, everyone!
+140	message	Kei-chan, there wasn't any cheating, was there?
+141	message	No unauthorized conduct confirmed.\nMission complete.
+142	message	Yeahh! How's that for ya!
+143	message	Please — that was a piece of cake!
+144	message	Did it work? Hoooray!
+146	message	Five turns gone!\nKeep it up~! Kyahaha!
+148	message	Ten turns elapsed, confirmed.\nTen turns remain.
+150	message	Five turns left!\nC'mon, hurry hurry~! Kyahaha!
+152	message	As promised — disclose what you know about those black ones!
+153	message	Sure~. That was pretty fun, after all!
+154	message	Talking face-to-face like this\nfeels strange, though…
+155	message	The fact we can talk things out is a good thing!
+156	message	Better than not being able to, I suppose.
+157	message	Okay, Kei-chan, explanation duty's all yours~.
+158	message	Acknowledged.
+159	message	Currently, with Dark Remu at their center,\nthe Dark Army is carrying out\na large-scale operation.
+160	message	Hold on a moment.\nThis 'Dark' whatever —\nis that their official name?
+161	message	I came up with it myself!\nEasy to understand, right~?
+162	message	I want to get one thing straight:\nyou didn't create those black ones,\nor command them — right?
+163	message	One of 'em's a little different, but\nI dunno about the rest!
+164	message	Different, how?
+165	message	Dark Remu was captured and used by me\nfor a certain purpose.\nShe has since escaped and is now acting on her own.
+166	message	So you'd sealed away my 'dream power'?
+167	message	Further disclosure of information\nregarding Dark Remu has not been authorized.
+168	message	Forget that boring stuff —\nlet's talk about the Dark Army!
+169	message	The Dark Army split into three groups\nand went off to attack somewhere, apparently!
+170	message	Three groups?
+171	message	More importantly — where's 'somewhere'!?
+172	message	Hinamizawa, Black Fund HQ,\nand the Gamers main store — three locations.
+173	message	Hinamizawa…!
+174	message	Black Fund HQ — you don't mean!
+175	message	No 'you don't mean' about it — they're after Gustave, obviously!
+176	message	…Why would they target Gamers,\nnyo?
+177	message	Who shows up is a surprise!\nAnd that was your hot tip!\nBye-bye~!
+179	message	Hey!? That's it!?
+180	message	Mie's behavior: incomprehensible.
+182	message	Kei vanished too!
+183	message	What the hell! What are those guys even after?!
+184	message	They probably haven't thought it through. Without a doubt.
+185	message	So it's all just spur-of-the-moment?
+186	message	At the very least, they don't seem\nto have anything like ideals or convictions.
+187	message	The black ones — you called them the Dark Army?\nWhat of them?
+188	message	Up until now, they've rarely shown\nany clear will of their own…
+189	message	The black me is trying to kill me.\nThat much is certain.
+190	message	The black Twin Angel holds\nthe 'Angel's Tear.'\nShe is most likely after 'Gustave.'
+191	message	The black Rika is after Oyashiro-sama's power\nin Hinamizawa.\nI must face her myself.
+192	message	Hinamizawa, Black Fund HQ,\nand Gamers.\nWe should split into three teams too.
+193	message	Alright, then — everyone figure out\nwhere you're going!
+195	message	Have we more or less decided, I wonder?
+196	message	The Hinamizawa team: me, Shion, Rika-chan,\nSatoko, Rena, Houki, Cecilia, Rin, Charlotte,\nLaura, Tsubasa. Club members and IS pilots at the core.
+197	message	The Gamers team: Dejiko, Puchiko, Usada,\nLouise, Tifa, Siesta, Soniko,\nChris, and Jeanne, nyo.
+198	message	The Black Fund team: me, Remu, Shirayuki,\nReki, Kurumi, Haruka, Aoi, Hibiki, and Koto.
+199	message	And the usual leftover —\nwhere's [CLAUDE]\nheaded?
+200	message	'Leftover'… well, I can't argue with that.
+201	message	'Leftover'… hey,\nI'm getting treated like a leftover tooo!
+202	message	I'm [CLAUDE]'s support, so\nit can't be helped, but… yeaaah,\nguess I'm a leftover too…
+203	message	Sorry as always…
+205	message	Then it's settled.
+207	message	Rikorin's fine with the leftover team, yon.\nThey say leftovers bring good fortune~!
+208	message	Don't go doing anything unnecessary.
+209	message	I'll behave myself until I get my rosary back,\npromise.
+211	message	What about Yase?
+212	message	I'll stick with the leftover bunch.\nThat boy there looks unreliable, after all.
+213	message	I-I'm sorry! Sorry!
+215	message	What will Tesla-chan and Nine-chan do?
+216	message	We're going to stop Gustave.
+217	message	I agree. With sis.
+219	message	What will Tesla-chan and Nine-chan do?
+220	message	I can't ignore Gustave.\nBut please let me think about whether to fight.
+221	message	Big sis…
+222	message	If you haven't sorted out your feelings,\ndon't push yourself.
+223	message	I'm sorry…
+225	message	We still have little information,\nso we don't know what awaits us on site.\nCaution is required.
+226	message	If trouble comes up, report in from Dokoka Town.
+227	message	Feels like we're back to groping in the dark like the early days.
+228	message	Thinking about it now, it's a wonder\nwe managed so well while fumbling in the dark.
+229	message	Isn't it 'cause everyone's strong?
+230	message	You say that so casually. Honestly.
+231	message	Anyway, let's all work together and do our best!
+235	message	Yeah!
+239	message	Yes!
+240	message	Mm.
+241	message	Alright!
+245	message	Let's do this!
+249	message	Deploy!
+250	message	Moving out!
+251	message	Moving out, nyo!
+252	message	//END

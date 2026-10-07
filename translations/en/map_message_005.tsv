@@ -1,0 +1,130 @@
+row	column	english
+3	message	...So the magical yo-yo is\na special weapon that split long ago\ninto a toy and a striking art, desuu.
+4	message	It evolved into a weapon,\nan assassination art rooted in taking on\none to many opponents, desuu.
+5	message	Oooh~. I don't really get it, but\none thing's clear: it's amazing!
+6	message	And then, back in the age of magic civilization,\nthey mixed in magic for even more advanced techniques...
+7	message	She said she was shy with strangers, but\nlooks like they've become\nfast friends...
+8	message	Hey, [MERU].\nMeeting in a totally unknown world—\nI think that's fate.
+9	message	It'd be amazing if we became friends!
+10	message	Um, if someone like me\nis okay, desuu...
+11	message	Likewise, if I'm okay with you!
+12	message	Yes, desuu!
+13	message	Ehehe... I'm happy.
+14	message	...Come to think of it, Hibiki,\nwhat was that job you mentioned, desuu?
+15	message	Huh...?
+16	message	That outfit's a school uniform, right?\nWhat kind of job is it, desuu?
+17	message	Ahh~, w-well, that's...
+18	message	It's a secret, desuu...?
+19	message	Umm...
+20	message	// Remu returns.
+21	message	Sorry to keep you.\nI heard what the police station had to say.
+22	message	Welcome back, Remu.\nAny leads?
+23	message	Long story short, that headless corpse\npredates the dream demons.
+24	message	So the 'sudden street-sleeping incidents'\naren't the dream demons' doing.
+25	message	What a horrible case... innocent people...
+26	message	H-horrible, desuu...
+27	message	The killer's extremely dangerous.\nProbably thinks nothing of murder...
+28	message	(Even as far as I know, there are only\na handful that dangerous...)
+29	message	Remu, um... how did\nthe 'searching for someone' request go, desuu?
+30	message	Ah, about whether [MERU]'s teacher\ncame to this world—\nno matching person confirmed yet.
+31	message	Uuuuh, too bad, desuu...
+32	message	But I gave a sketch to Inspector Sakaki,\nand arranged for them to contact me\nas soon as they spot someone matching.
+33	message	Thank you, desuu!
+34	message	Good for you, [MERU]!
+35	message	Anyway, tons to investigate.\nWe've got to get out there and dig.
+36	message	Hibiki,\ndo you know where\nyou appeared in this world?
+37	message	Yes! So I wouldn't get lost,\nI memorized the place!\n...I don't think there's anything there, though.
+38	message	Doesn't hurt to check—let's go look!
+39	message	// Scene change\n// Background: town at night
+40	message	Doesn't look like anything's here, desuu.
+41	message	...Hmm.\nI'd hoped there'd be some\ntraces that could be clues, but...
+42	message	After all, it was just a light...
+43	message	Light doesn't leave traces.\nIf only we could see\nthat phenomenon again.
+45	message	...Hm? Hibiki, did you say something, desuu?
+46	message	Huh? I didn't say anything?
+47	message	I heard a weird sound, desuu.
+48	message	Eh, was that my stomach?\nHow embarrassing~.
+49	message	After all that food, you're still hungry?
+50	message	Doesn't sound like\nHibiki's stomach, though.
+51	message	// Noise appears
+52	message	...!
+53	message	Th-that's a Noise!?
+54	message	No way!? Why!?
+55	message	Take this!!
+56	message	// SFX: gunshot\n// Remu attacks with her gun, but no damage.
+57	message	...
+58	message	It took silver dum-dum rounds and didn't go down!?\nYou're saying it's not a demon!?
+59	message	Stay back, Remu!
+60	message	// Hibiki steps forward
+61	message	Hibiki, it's dangerous, desuu!
+62	message	Um! Looks like I can repay you\nfor the meal sooner than I thought!
+63	message	Huh?
+64	message	// Battle map: town (night)
+66	message	// She transforms in the light
+67	message	Alright, I can do this.
+68	message	That is... desuu!?
+69	message	Haaaaaah!!
+70	message	Singing...!
+71	message	[MERU],\nsorry I couldn't say it before!\nTHIS is my job!
+72	message	That's a Noise.\nIt's the enemy I must fight\nwith this Gungnir Symphogear! Everyone, run!
+73	message	W-we'll fight too, desuu!
+74	message	No!
+75	message	Umm, Hibiki's song becomes a barrier\nand protects us, right?
+76	message	Huh? How do you know that?
+77	message	Doesn't look like there's time to chat.\nHere they come!
+78	message	// ■ Battle start
+80	message	Yes! It worked, desuu!
+81	message	Wow, [MERU]'s\nreally strong.\nHuh? But that's weird...
+82	message	The song's barrier effect aside,\na Noise taking damage from something\nother than a Symphogear attack...???
+83	message	Using yo-yo techniques on\nsuch cute little ones...\nI really hate it, desuu...
+84	message	No no! But right now I've got no choice, desuu!
+85	message	Hm?
+86	message	([MERU] doesn't want to fight...?)
+87	message	Mugugu... with my ultimate technique,\nsending them to heaven is the least mercy I can show, desuu!!
+88	message	(Don't really get it, but she's fired up!?)
+89	message	// Defeat a set number of Noise
+90	message	At this rate we might pull through!
+91	message	Yes, but it looks like we've got other guests.
+92	message	// Black Sonico appears
+93	message	Fufufu...
+94	message	Um... hmm?\nHaven't I seen her somewhere...?
+95	message	Aaaah!\nI recognize those headphones, desuu.
+96	message	But her aura's different from that girl...\nSo the doppelganger's graced us?
+97	message	Is that even human...?
+98	message	Let's do our best at the shoot today, okay?\nFufufu...
+99	message	No! No hesitation—do it well! Me!
+100	message	// Battle continues\n// Deal set damage to Black Sonico
+101	message	See you later, okay?
+102	message	// Black Sonico exits
+103	message	(Good, she left...)
+104	message	She got away...\nBut our hands are full right now too.
+105	message	// ■ Battle over
+107	message	Fuu. For now, I feel relieved?
+108	message	Defeated safely! Sei!
+109	message	Hawawawa, what's that pose, desuu?
+110	message	In martial arts it's called zanshin—\nyou do it to stay alert, but\nI also do it 'cause it looks cool... ehehe.
+111	message	It feels great,\n[MERU], you try it too!
+112	message	Huh? Me, desuu?
+113	message	I wanna see it. Please!
+114	message	Uu, it's embarrassing, I can't, desuu!!
+115	message	Still, I'm surprised.\nThat Hibiki had such power.
+116	message	Sorry I kept quiet.\nThis power is classified...
+117	message	But how did [MERU]\nknow about the song?\nNormally you'd be shocked to see someone fight while singing...
+118	message	Huh? Didn't I tell you\nabout Tsubasa?
+119	message	Tsubasa... you mean Tsubasa Kazanari!?
+120	message	That's right, desuu. Actually, before meeting you, Hibiki...
+121	message	// Fade to black: time passes.\n// Background: town at night
+122	message	...I see, I see.\nYou came to this world with Tsubasa.
+123	message	Come to think of it, no word from them, but\nthey said they'd come to the office later, right?
+124	message	No word for too long, desuu.\nI'm worried [NOEL] might be\ncausing trouble...
+125	message	While we were out,\ndid we just miss each other, I wonder?
+126	message	Let's go see them!\nI want to see Tsubasa too!
+127	message	What if that light\nwhisked them off somewhere again...?
+128	message	// Light appears
+129	message	Hahaha, joking again.
+130	message	Wait, huh!?
+131	message	D-did I say something weird...?
+132	message	Remu, run, desuu!\nWe'll end up in a weird world!!
+133	message	(Should I stay behind? No—to solve the mystery...!)
+134	message	...Well, let's go!\nI don't hate thrills and adventure♪
+135	message	// Enveloped in light, they move

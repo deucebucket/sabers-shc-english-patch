@@ -1,0 +1,157 @@
+row	column	english
+3	message	How is it? Find her?
+4	message	No, still no readings.\nLet's widen the range\nand search again.
+5	message	Thanks. Now, leaving the search to you,\nlet's sum up the intel here.
+6	message	I've got sandwiches ready!
+7	message	Half by Shirayuki,\nhalf by me!
+8	message	(She really made them...)
+9	message	Oh, these look tasty!\nDon't mind if I do!
+10	message	Ah! Chris!\nGrabbing at random right away is dangerous...!
+11	message	Hm? What? It's normally tasty, though?
+12	message	That one's mine!\nChris, what did you just say?
+13	message	I said it's tasty — something wrong with that?
+14	message	(Huh... Chris... could it be!?)
+15	message	Tastes a bit nostalgic.\nBack when I was in the Republic of Val Verde,\nthis was a feast.
+16	message	My! A feast?\nThat country must have\na deep understanding of flavor!
+17	message	Weeell, it's not really like that.\nThe Republic of Val Verde is...
+18	message	Chris! You can't say more than that!
+20	message	Oh, sandwiches!\nThanks for the food!
+21	message	Ah! May I have\none as well, please!
+22	message	Me too!
+23	message	Munch munch...
+24	message	Nom nom...
+25	message	Chomp!
+26	message	So gooood!!
+27	message	Delicious!
+28	message	Blugh!?
+31	message	What's with that face, Usada!\nYou look like you ate something weird!\nIt's tasty — munch munch...
+32	message	Chris! You truly\nunderstand my flavor!
+33	message	There's no accounting for taste, nyu.
+35	message	Listen while you eat.\nSumming up what we know about the changed [MERU],\nthe Goddess of Destruction.
+36	message	Listen while you eat.\nSumming up what we know about the changed [NOEL],\nthe Goddess of Destruction.
+37	message	Reki, if you would.
+38	message	Yes. The Goddess of Destruction showed no reaction at all\nuntil Mie approached —\nshe was completely still.
+39	message	So we're safe as long as we don't approach?
+40	message	No. After she flew off during that battle,\naccording to Laura's observations,\nseven distant cities were annihilated.
+41	message	So once she starts rampaging...
+42	message	She rests after a big rampage, is that it?
+43	message	If she hasn't fully made that power her own,\nthe drain must be enormous.
+44	message	That's normal when using great power.\nIf that's the case,\nwe might find a thread toward a countermeasure...
+45	message	The problem is Mie.\nShe's probably noticed\nthe Goddess of Destruction is unstable too.
+46	message	Even if we get a chance\nto approach [MERU],\nif Mie shows up, it'll be hard.
+47	message	Even if we get a chance\nto approach [NOEL],\nif Mie shows up, it'll be hard.
+49	message	What is it!? Laura!
+50	message	Reading confirmed — it's Mie!\nShe's running nearby!
+51	message	Is she coming here?
+52	message	No, her heading won't bring her here.\nWhich means...
+53	message	She found [MERU] and she's heading there!
+54	message	She found [NOEL] and she's heading there!
+55	message	We should stall her\nso she doesn't provoke anything rashly.
+56	message	Right. Everyone, move out!
+58	message	Fufufu, revenge really\ngets me fired up! Fun, fun!
+59	message	Last time I got careless and got beat, but\nthis time I'm at max power from the start!\nMax, max! Ahaha!!
+60	message	You're not getting past me!
+61	message	Oh my?\nCame to get in Mii's way again?\nAhaha! Thanks for trying, weaklings!
+65	message	Ahaha! You're stronger than before!\nNew gear?
+66	message	Like 'did you get a haircut?'...
+67	message	No. The gear didn't change.\nWe've grown stronger through our battles so far.
+68	message	I mean, we've been fighting nonstop.\nThe Dark Army, Eve,\nyou guys!
+69	message	Hee! Interesting!\nWhen we first met, you were all scared\nand shaking in your boots!
+70	message	Now you're totally different!\nMii's feeling all tingly with excitement!
+71	message	What is she, a legendary Super Something, nyu!
+72	message	Not yet, not yet! Entertain me more!
+75	message	Hmm, still not enough.\nThis isn't fun at aaal!
+76	message	As expected, not easy.
+77	message	It's like eating rice\ngrain by tiny grain?\nNot tasty, and it doesn't fill me up!
+78	message	I-I see...
+79	message	What are you doing admiring the enemy!?\nThough I get it!
+80	message	Maybe I'll use that one sometime?
+82	message	Hype it up more!\nNo holding back! Hurry!
+83	message	Tactics? What tactics!
+84	message	Simple is best!
+85	message	I don't hate that way of thinking.
+86	message	C'mon, if you don't try harder\nI'll go visit the monster~?
+87	message	You're still annoying!!
+88	message	You fickle brat! You're a nuisance!!
+89	message	The fickle king's daily special attack!\nJust kidding!\nHahaha, bow before meee!
+91	message	Aww...
+92	message	Did we get her...?
+93	message	Don't jinx it, nyu.
+94	message	Geez, fine!\nI was saving it for the real show, but\nI guess I'll get serious!
+96	message	She recovered!?\nThis is Usada's fault!!
+97	message	Huh? My fault!?\nAnd don't call me 'Usada'~!
+98	message	Ahaha! Round two!
+100	message	Bad! High-energy reaction approaching!\nIt's coming!
+102	message	...
+103	message	...
+104	message	Huh?\nI thought she'd rest a little longer.\nWell, whatever! Let's play!
+107	message	Mugyuu...
+108	message	She hasn't grown at all, nyu.
+109	message	Bold, or rather...
+110	message	She's brute-forced everything\ntill now, that's why.
+111	message	That she's still alive is worthy of amazement.
+112	message	I wonder why~? I'm telling Mommy!
+114	message	She's quite the masochist, that one.
+115	message	I see. That's why she goes after\n[MERU] first.
+116	message	I see. That's why she picks fights\nwith [NOEL].
+117	message	Enough about Mie!\nThe problem starts now!\nWe have to escape again!
+119	message	They're back!
+120	message	...Everyone, can you somehow\nhold out for just 2 minutes?
+121	message	You have an idea?
+122	message	Half of it's a hunch! But if we\nlast that long, it'll work out... probably!\nWhat do you say?
+123	message	I can't offer an alternative.\nWe're in!
+124	message	If you say hold out 2 minutes, I'll hold out!
+125	message	Alright! Everyone, run for it!
+126	message	Roger!
+129	message	...!
+130	message	...!
+131	message	It stopped...! Just like Mion said!
+132	message	//
+133	message	GROOOOOH!\nOOOOHHH!\nOOOH!!
+134	message	GROOOOOH!\nOOOOHHH!\nOOOH!!
+136	message	Phew... my read was right...
+139	message	A cycle?
+140	message	Yeah. Now it's clear.\n[MERU] moves and rests\nin a fixed cycle.
+141	message	Yeah. Now it's clear.\n[NOEL] moves and rests\nin a fixed cycle.
+142	message	Data's still thin, but\nthe observed info gives us\nsome corroboration.
+143	message	So when she rests, she stops completely?
+144	message	Without proof, I think approaching\njust because she's stopped is dangerous.
+145	message	Uu... sorry, when I let my guard down,\nI get a little... sleepy...
+146	message	I wonder if [MERU]\ngets sleepy too...
+147	message	Uu... sorry, when I let my guard down,\nI get a little... sleepy...
+148	message	I wonder if [NOEL]\ngets sleepy too...
+149	message	How carefree... wait, Puchiko!? What's THAT!?
+151	message	Wah! A kotatsu!
+152	message	Nom nom...
+153	message	Even mandarins... where'd you pull those from?
+154	message	Trade secret, nyu.
+155	message	Huh? Come to think of it, where's the power from...?
+156	message	Hmm, if I let up a little the voltage...\nI might overdo it~.
+157	message	Warm...
+158	message	Tesla's handy...
+159	message	So this is a kotatsu. Wife, let's get in together.\nI heard a kotatsu is for getting in with your wife\nand curling up inside.
+160	message	Laura, that's about cats.
+162	message	Hm...
+163	message	What's up?
+164	message	No, I was thinking —\nsleeping might actually be the right answer.
+165	message	If she's human, she can't\nkeep going without sleep.
+166	message	I'm sure that's it!
+167	message	[MERU]'s still\n[MERU]! That's why\nshe sleeps!
+168	message	I'm sure that's it!
+169	message	[NOEL]'s still\n[NOEL]! That's why\nshe sleeps!
+170	message	I'd like to believe that.
+171	message	...
+172	message	What's wrong, [CLAUDE]?
+173	message	No, I just feel bad\nthat I can't do anything...
+174	message	Me too.\nI want to be of use somehow...
+175	message	(That's not it, Tiffania... I...)
+177	message	Everyone! You're all okay!
+178	message	It's Charles!
+179	message	Judging by how you look...\neveryone seems unharmed.
+180	message	Yeah. Glad everyone's\nall here on this side too.
+181	message	So, how'd it go?
+182	message	We finished investigating Eve's lab.\nI thought we'd regroup in Dokoka Town —\nhow are things here?
+183	message	Timing's not bad.\nLet's head to Dokoka Town.
+184	message	Yeah, sounds good!
+185	message	We haven't had a moment to breathe,\nso this is perfect.
+186	message	//END

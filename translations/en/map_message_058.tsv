@@ -1,0 +1,235 @@
+row	column	english
+3	message	Did you find the Black IS?
+4	message	Yeah, finally found them!
+5	message	They were lurking in stealth mode, but\nwe linked with Butei High's Informa observation satellite\nand confirmed them on video.
+6	message	They actually gave permission?
+7	message	Thanks to Shirayuki.\nThough Aria might've pulled strings behind the scenes.
+8	message	I didn't. This time.
+9	message	This time, huh...
+10	message	If the enemy thinks they're hidden,\nthat means we can ambush them?
+11	message	That'd be nice!
+12	message	Houki-san, you will absolutely win!\nYou know what's needed for that,\ndon't you?
+13	message	I know that a hundred times over.\nBelieve in everyone, don't overestimate myself.\nIf I do that, surely...!
+14	message	It'll be fine. If we fight trusting each other\nand giving our all,\nthere's no way we'll lose!
+15	message	For that, I must stay calm.\nThat's what makes one strong... I've learned that.
+16	message	The way of the sword is observation.\nTo discern everything about your opponent,\nkeep your heart calm...
+17	message	That's what I taught Hibiki.\nWhat good am I if I can't do it myself...!
+18	message	Your Akatsubaki's strike\ndoesn't need wild swinging.\nAim for one decisive blow.
+19	message	I'll create\nas many chances as you need\nfor that!
+20	message	Yeah, I'm counting on you.
+21	message	All right! Let's confirm.\nVanguard: me and Houki.
+22	message	Always be aware of each other's positions,\nand don't spread out too far so you can back each other up.\nThat'll make it hard for them to attack too.
+23	message	I'll handle support with Laura-san.
+24	message	I'll force them to dodge with gunfire,\nthen press the attack to create openings.
+25	message	I'll do suppression with my many weapons\nand defense with my shield—\noffense and defense support.
+26	message	Plus skirmishing.\nWith your dexterity, you'll be fine, right?
+27	message	Yeah, leave it to me!
+28	message	And those of us without IS units\nwill mop up the non-IS enemies.\nWe won't let them get in your way!
+29	message	Delaying traps are my specialty.\nLeave it to me!
+30	message	I'm the perfect one\nto take on Lovely-chan's lot!
+31	message	Putting your taste aside,\nyou're not wrong about that.
+32	message	I really wanna rampage together,\nbut I'd just get in the way of an IS-vs-IS battle,\nso it can't be helped.
+33	message	Dividing roles is important~.
+34	message	Shirayuki and [CLAUDE] will nurse Hibiki, then.
+35	message	No, I'm going along.\nShirayuki-san said those deploying\nneed healing too, so I should go.
+36	message	That's true.\nIt's a burden on Shirayuki,\nbut I'll have you come.
+37	message	Yes.
+38	message	Everyone, thank you, truly.
+39	message	Save those words until we win!
+40	message	Honestly, you're jumping the gun.
+41	message	S-sorry...\nI just don't feel like we'll lose...
+42	message	An honest Houki-chan is nice.
+43	message	Stop it, don't tease me!
+44	message	Hibiki-chan's influence, maybe?
+45	message	That... I can't deny...
+46	message	Then, morale's high—\nlet's move out!
+47	message	Yeah!
+48	message	//Battle map: forest.\n//The grouped-up Black IS and grunts.
+49	message	...
+50	message	//Electronic sound.
+51	message	Hm, this reaction is...!
+52	message	//Attack effects hit several grunts. Defeated.
+54	message	First volley, all hits!\nNot bad, nice shooting.
+55	message	Fufun! Of course!
+56	message	An ambush!
+57	message	//An explosion before Black Houki and Black Rin as they try to move forward.
+59	message	Tch!
+60	message	Whoops, I won't let you get close that easily!
+61	message	Then go!
+62	message	//Enemy grunts advance, but Houki and Rin appear and instantly kill them.
+63	message	Useless! Like that'd work on us!
+64	message	I won't lose this time!!
+65	message	I'll turn the tables on you!
+66	message	//Battle begins.\n//Event at the start of turn 2.
+67	message	Houki, your energy!?
+68	message	Still plenty.\nHow's your shield energy, Rin?
+69	message	I'm fine! Let's keep this up!
+70	message	At this rate we won't go down easily.
+71	message	This feels good!
+72	message	Offense-defense balance is good!
+73	message	Hmph...!
+74	message	//The following line when Black Houki is defeated.
+75	message	You've done it!
+76	message	//The following line when Black Rin is defeated.
+77	message	These guys!
+78	message	//The following line when Black Charlotte is defeated.
+79	message	I'll withdraw for now.
+80	message	//The following line when Black Cecilia is defeated.
+81	message	Tch, my shield energy...
+82	message	//The following line when Black Laura is defeated.
+83	message	This is as far as I go.
+84	message	//Event after defeating 4 Black IS units.
+85	message	One... more!
+86	message	All right, let's push through!
+87	message	We've come this far!
+88	message	Let's finish this in one go!
+89	message	Hm!? Wait! Something's coming!!
+90	message	//At that moment, all IS units are attacked.
+91	message	Guuh! Wh-what was...?
+92	message	//Kei appears near the enemy IS.
+93	message	Combat area, scan... no anomalies.
+94	message	Kei!?
+95	message	At this timing...!
+96	message	That teleportation ability is way too convenient!
+97	message	You, why are you here...!
+98	message	4th-gen IS, Akatsubaki, is a research target.\nJudged to possess technology, specs,\nand further secrets unknown to me.
+99	message	So I'm the target!?
+100	message	Resistance is futile.\nContinuing combat should already be difficult.
+101	message	Who'd ever surrender!
+102	message	I warned you it was futile.\nTarget locked.\nShall I commence combat?
+103	message	Obviously!
+104	message	No choice but to fight.
+105	message	This thing attacked indiscriminately in Europe!\nEven if we handed over the Akatsubaki,\nit wouldn't quietly go home!
+106	message	Polite act or not, a robber is a robber!\nI won't allow it!
+107	message	//Battle resumes.\n//Event when Kei is attacked.
+108	message	Damage minimal. Continuing combat.
+109	message	Tch, at this rate...!
+110	message	Not just the Akatsubaki... everyone's energy\nand shields are already depleted...!
+111	message	That doesn't mean we can run!
+112	message	Attack, commencing.
+113	message	Here it comes!!
+114	message	There's only one of her!\nWe can't let her have her way so easily!
+115	message	//Kei damages all 5 IS units with an area attack.
+116	message	Guaaah!!
+117	message	What is this!?
+118	message	I can't block it...!
+119	message	If another one of those comes!!
+120	message	End.
+121	message	Damn it!!
+122	message	//Kei enters firing stance for an area attack.
+123	message	Akatsubaki... is this really all your power?\nNo, there must be more...!\nPower to protect my comrades, my friends...!!
+124	message	Our true power, together!!
+125	message	//Electronic sound.
+126	message	!!
+127	message	//Warning sound.
+128	message	Sensor reaction, high energy detected.\nSource is...
+129	message	//The Akatsubaki's Kenran Butou activates, fully restoring the Akatsubaki.
+130	message	This is...!?\nThe Akatsubaki's energy is recovering...!?
+131	message	"Kenran Butou"...?\nThis is the Akatsubaki's one-off ability!?
+132	message	Wh-what is this...!?
+133	message	The Akatsubaki's turning gold!?
+134	message	Everyone! Take this!!
+135	message	//Kenran Butou's effect fully heals all IS units.
+136	message	What!? My energy...?
+137	message	It's recovering...
+138	message	We can do this! We can still fight with this!!
+139	message	The real fight starts here!!
+140	message	Scan initiated... error, analysis impossible.\nEnergy source unidentifiable.\nDetermined: unknown. Determined: unknown. Determined: unknown.
+141	message	Reform the formation!
+142	message	Roger!
+143	message	Houki and Rin, left and right!\nI'll hold the front!
+144	message	Here I go! Blue Tears!
+145	message	//Houki and Rin spread left and right, Charlotte in front, Cecilia and Laura behind to either side. A W formation like Cassiopeia.
+146	message	Round two begins!
+147	message	I won't lose!
+148	message	//Battle resumes.\n//Event after set turns or after dealing set damage to Kei.
+149	message	Further data collection judged unnecessary.\nKenran Butou: true nature unknown.\nWill seek an opportunity to trigger it again.
+150	message	//Kei retreats. The entire enemy army retreats.
+151	message	Haa, haa, haa... did we win?
+152	message	Yeah, well done.
+153	message	I wondered how it'd turn out, though.
+154	message	I'm glad everyone's safe.
+155	message	That was a thrilling match~!
+156	message	Thank goodness...
+157	message	//End of battle.
+161	message	...
+162	message	(Now, I managed to get a result\nI can face Hibiki with, but what should I report?\nIf she still hasn't regained consciousness...)
+163	message	(Ngh... wouldn't it be weird to report\n"we won" to an unconscious Hibiki?\nWh-what face do I make, what do I say...?)
+164	message	//Hibiki enters from behind Houki. Houki's portrait moves to the opposite side.
+165	message	Huh? Houki-chan, welcome back!
+166	message	Hyeh!? Hibiki!? Why are you here!?\nWeren't you on strict bed rest!?
+167	message	...Hm? What are those rice balls in both hands?
+168	message	Well, I was asleep for a while,\nso I got hungry...\nWant some too, Houki-chan?
+169	message	"Want some?"... You were\ncritically unconscious!\nWhat is going on!?
+170	message	Shh, Shirayuki-san, who's been nursing me all this time,\nis finally asleep from exhaustion.\nLet's be quiet so we don't wake her, okay?
+172	message	Thank goodness...\nI was so afraid you'd never wake up again...\nI...!
+173	message	Sorry for worrying you.
+174	message	Actually, my body isn't normal—\nI'm a fusion with relic fragments inside me,\nso I heal really fast.
+175	message	I don't think I'm immortal or anything,\nb-but I'll be fine if I try hard.\nEhehe...
+176	message	Nobody told me that!\nNo—even if your body's tough,\nthat recklessness is not okay!!
+177	message	Houki-chan...
+178	message	No—I know I'm the one\nwho was reckless and caused trouble!\nIt's all my fault! I'm sorry!!
+179	message	...Then, can I ask\njust one thing?
+180	message	What is it? Ask me anything!\nI'll do whatever it is!
+181	message	Really?\nThen let's eat rice balls together!
+182	message	...That's your request?
+183	message	Yeah! Here, pickled-plum rice ball.
+184	message	...I always seem to be receiving from you, Hibiki.
+185	message	That's not true!\nI've gotten plenty\nfrom you too!
+186	message	When I went to save you, Houki-chan,\nI was desperate—I was probably giving it my all.
+187	message	"Mastering power" is hard,\nbut in that moment, I felt like I did it.\nI think that's why I healed so fast.
+188	message	So that's how you were saved...
+189	message	...Probably!
+190	message	"Probably"!? How careless!!
+191	message	Sorry, I don't really get it.\nBut all I was thinking was\nthat I wanted to save you, Houki-chan.
+192	message	I see... perhaps strange power emerges\nat times like that.\nI just experienced it myself.
+193	message	Really?
+194	message	Yes...!
+195	message	//Fade to black.\n//Background: boss-hideout-like place.
+196	message	Hiya, Mii-mii-chan!\nWanna do something fun with Riko?
+197	message	Hweh? Sure!\nMii's free, so I'll hang out with you!\nIf it's boring, it's zap-zap time, okay?
+198	message	It's fine! I thought of something fun!\nI call it: Detective Doronbo play!
+199	message	What's that? Weird!
+200	message	I'm gonna act like Detective Doronbo\nand ask questions, and you\nact like the culprit and tell lies!
+201	message	I just have to lie?\nSounds fun!
+202	message	Okay, here we go. Um, Mii-san.\nI'm Doronbo from Homicide.\nMy wife's a fan of yours, you see.
+203	message	Ahaha, you're weird~!
+204	message	Well, it's a simple question,\nso just answer it quick.
+205	message	Have you ever received\na present from Yi Wu?
+206	message	Nope!
+207	message	(Good, that's a lie.\nMii has received some gift from Yi Wu.)
+208	message	I see. Those Yi Wu folks\nmust be quite the cheapskates.
+209	message	Then, do you know why\nI was dispatched from Yi Wu?
+210	message	Umm, because it looked fun?
+211	message	(That's a lie too. So she knows\nthe reason I'm working under them.)
+212	message	Hahaha! Fun, yes. So fun!\nFor me it's like a treasure hunt.
+213	message	So, do you know about my treasure?
+214	message	I know! It's a game, right!\nOne of those gal-game things?
+215	message	(A lie too. My treasure isn't a game.\nWhich means she really does know\nwhat treasure I'm looking for!)
+216	message	Yes, that's it!\nNow listen carefully.\nIs my treasure's location... here?
+217	message	Gal-games would be\nat a game shop, I think~?
+218	message	(Since the game was a lie,\nthe game-shop answer is a lie too.\nAnd the treasure isn't here right now.)
+219	message	I see! Quite right!\nAnd that game shop—\nis it in this world?
+220	message	Game shops are everywhere~!
+221	message	(A lie. Which means the place\nwhere my treasure is must be in this world...!)
+222	message	Haha, you got me there!\nI concede, I surrender.\nWell then, excuse me.
+225	message	Hweh? Over?\nRiko's terrible acting was funny,\nbut where's the punchline?
+226	message	Shouldn't it end with "I'm the culprit!"\nand getting caught?\nHeeey! Riko! Heeey!
+227	message	//Fade to black.\n//Background: outdoors.
+228	message	Kufufu! Mii told her lies\nproperly...
+229	message	The mini lie detector Riko got at Gamers,\nmade by Dejiko.\nWith this, I can tell truth from lies in everything Mii says!
+230	message	Thanks to it, I figured it out!\nWhat Riko's looking for\nis in this world...!
+231	message	The rest is easy.\nIf I investigate the places Mii's involved with,\nI can narrow down where it is.
+232	message	Just a little more... then I can... Ormes...!
+233	message	//Fade to black.\n//Background: boss-hideout-like place.
+234	message	Mii, what was the meaning of that?
+235	message	Eh, whatever!
+236	message	...Incomprehensible.
+237	message	More importantly, Kei-chan, empty-handed?\nWhat about the Akatsubaki? Did you break it?
+238	message	Unknown energy emitted from the Akatsubaki.\nJudged it should be analyzed first.
+239	message	Hmm, I thought IS units\nwould be the easiest.
+240	message	That perception needs revising.
+241	message	Furude Rika's power, Dr. Shinigami's power,\nthe Amanotsukai's power, and the IS's...\nthe Akatsubaki's power.
+242	message	All of them: principles unknown.\nError, incomprehensible...
+243	message	Fufuun! That's what makes it interesting!
+244	message	//END

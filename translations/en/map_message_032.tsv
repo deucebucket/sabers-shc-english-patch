@@ -1,0 +1,284 @@
+row	column	english
+6	message	Is this St. Mont Blanc Academy\nclose to here?
+7	message	We'll get there in half a day.
+8	message	Hmm, we'll probably\nmake it there today?
+9	message	I hope we get to meet the teacher.
+10	message	Yes…
+11	message	What's wrong? You're looking down.
+12	message	…I was wondering\nhow [NOEL]'s doing.
+13	message	She stormed out of Dokoka Town,\nand there's been no word since.
+14	message	Yes… she's probably still searching for the teacher,\nwandering around somewhere alone.
+15	message	And there's no way to check if she's safe.\nNo sign she ever stopped by Dokoka Town?
+16	message	None… that's what worries me most.
+17	message	Whichever world she went to,\nthere's a good chance she'd stop by Dokoka Town.
+18	message	[NOEL]…\nsheeesh, where'd you go…
+19	message	[MERU],\nwhere'd you go, I wonder…
+20	message	So [MERU] is the partner\nwho set out with you to find the teacher,\nthen disappeared along the way, right?
+21	message	After a fight, she stormed out of Dokoka Town,\nand there's been no word since.
+22	message	She's cautious, so unless something really bad happened\nI don't think she'd do anything reckless, but…\nthe way she left was…
+23	message	And there's no way to check if she's safe.\nNo sign she ever stopped by Dokoka Town?
+24	message	That's the mystery. [MERU] never showing up\nin Dokoka Town even once—\ngiven how she's acted before, that's impossible.
+25	message	Maybe, in some world…!
+26	message	No use imagining the worst.\nThey say no news is good news, right?
+27	message	Yeah… thanks, Suzu.
+28	message	//Fade to black\n//Background: seaside (a riverbank or something)
+29	message	One more, please!
+30	message	Get into stance, quick.\nOn the battlefield, bullets fly before greetings.\nAlways be ready to guard and dodge.
+31	message	Yes!
+32	message	I don't really know what this 'strength'\nyou're after is,\nbut I can tell you this much.
+33	message	If you train with me,\nyou'll definitely get stronger.
+34	message	I think so too! Haaah!!
+35	message	Faster! What takes you 1 second, cut to 0.5!\nYou can do it, Hibiki!
+36	message	Ooooh!!
+38	message	//SE: sharp sounds of Aria and Hibiki sparring
+39	message	Tachibana's working hard.
+40	message	Those two always devote themselves to training.\nAdmirable spirit.
+41	message	Kanzaki, handling Tachibana's persistence so calmly,\nis splendid too.\nMaybe I'll review my sword forms as well.
+42	message	Even a master like you\nsometimes loses your way with the blade?
+43	message	I am a guardian charged with protecting humanity.\nEven this body, tempered like a sword, is still unripe.\nOf course I still lose my way.
+44	message	…
+45	message	No matter the sword,\nneglect its polish and it rusts and dulls.\nAnd no sword is ever complete… don't you think?
+46	message	//Tsubasa leaves.
+47	message	(No sword is ever complete… I…)
+48	message	Ah, Houki! Got a sec?
+49	message	Hm? Done training with Aria?
+50	message	Yeah. Aria said I should learn\nwhat strength is from all kinds of people.\nSo I thought I'd ask you to teach me too, Houki.
+51	message	Me, teach Hibiki?
+52	message	You're the best kendo practitioner in Japan, right?\nFor someone who's reached the pinnacle of martial arts,\nwhat is strength?
+53	message	Hmm… For me, strength is\n'mastering power'… I think.
+54	message	…!
+55	message	What is it?
+56	message	That's it! Tell me more about that, please!
+57	message	I don't mind… but there are stronger people than me.\nIs my story really what you want…?
+58	message	I want to hear YOUR story, Houki!\nWhat does 'mastering power' mean?
+59	message	It's a long story, though…
+60	message	//Fade to black\n//Background: plains (day)
+61	message	I steered Hibiki toward Houki—\nwas that okay?
+62	message	Yes, I think it went well.
+63	message	You really love fussing over Hibiki, huh.
+64	message	That's part of it, but not all.\nTachibana has power… dangerously great power.\nWhat worries me is that she's losing control of it.
+65	message	I heard from Hibiki. She's afraid of her power running wild.\nShe's training to overcome that, right?
+66	message	A Symphogear's power isn't just physical—\nit's also a manifestation of the heart.
+67	message	That's surely not something that can be taught—\nit's something she has to realize herself.
+68	message	So you figured she could learn something from Houki?
+69	message	To me, those two seem to share\nsimilar problems.\nBy facing each other, they should see something.
+70	message	Like facing mirrors?
+71	message	Gazing at what each other lacks,\nwhile noticing each other's strengths too.\nWhether it'll work, I don't know.
+72	message	Hmm. Why don't you become a teacher or something?
+73	message	…If I had that kind of dexterity,\nmaybe I wouldn't have chosen\nthe life of a guardian.
+74	message	//Fade to black\n//Background: seaside (a riverbank or something)
+75	message	In other words, martial arts are not violence for hurting others.\nUnless you hold that in your heart,\nmind, technique, and body can never be perfected. That is what I believe.
+76	message	So that's what 'mastering power' means?
+77	message	No one taught me that, exactly.\nIt's just what I've come to think from my own experience.\nAs for confidence… I have none.
+78	message	But somehow, I feel clearer now!\nGetting stronger is scary, isn't it.\nBut with heart, it's not scary!
+79	message	To be honest, that's what I want to believe.
+80	message	(I once made the mistake of lashing out\nwith impulsive violence.\nThis time, can I win without mistaking what strength is…)
+81	message	…I understand. I've also been tossed around by power,\nand turned it in the wrong direction.
+82	message	You too…?
+83	message	But hearing your story, Houki,\nI feel like I grasped something!\nI can't explain it well, though…
+84	message	It's a difficult thing.
+85	message	It really is.
+90	message	//Soniko comes over.
+91	message	D-difficult~!
+92	message	Whoa!? Soniko!?
+93	message	What's with the sudden outburst!? You startled me!
+94	message	Ah! I-I'm sorry…! Actually, I was hoping\nI could help out in the action scenes too,\nso, um, I was practicing, but…
+95	message	(It'd be better if Soniko stayed in the back…)
+96	message	(If I teach her something half-baked and she gets cocky\nand charges to the front, that's a problem)
+97	message	It's d-difficult… uuuh… um, excuse me!\nIf it's not too much trouble, could you teach me\nsome tricks or something…!
+98	message	(Ah, I have a good idea!)
+99	message	Got it! I'll teach Soniko\nmy secret special technique!
+100	message	Wah! Really!?\nThank you so much!
+101	message	Practice hard, okay!\nFirst, take a half-body stance like this…
+102	message	Mhm mhm…!
+103	message	(Is this going to be okay…?)
+104	message	//Fade to black\n//Battle map: Original Character World\n//[MERU] or [NOEL] forced sortie\n//Start with only [MERU] or [NOEL] deployed
+105	message	Um, this way is right.\nUfufu, I wanna see the teacher soon.
+106	message	//[NOEL] appears
+107	message	…
+108	message	Ah!! [NOEL]!!
+109	message	…
+110	message	Where have you been all this time!?\nI've been looking for you this whole tiiiime, you know?
+111	message	That's right! The teacher might be back\nat St. Mont Blanc Academy!!\nWe can finally meet…
+113	message	That's got nothing to do with me.
+114	message	Huh…?
+115	message	Forget that, there's something more important.\nYou and me—let's settle which of us is better.
+116	message	Wh-what are you saying?\nThe teacher's been found and you call it 'that'!?\nWhat's gotten into you!?
+117	message	So? Something wrong with that?
+118	message	It's all wrong!!\nWhy bring up 'who's better' now,\nwhen we can finally see the teacher!?
+119	message	Even for you, [NOEL],\nwhat you're saying is way too crazy!!
+120	message	We've always known.\nThat we just don't think alike.\nRight?
+121	message	Even so, even so…!!
+122	message	Time to end the arguing.\nTaste my Magical Magic!
+123	message	//Battle start\n//Ally reinforcements deploy on turn 2, then enemy reinforcements
+124	message	Huh? Isn't that [NOEL]?
+126	message	Wah~! Long time no see!\nYou look well—that's wonderful!
+128	message	[NOEL]! We finally met!
+130	message	Are you unhurt, [NOEL]?
+132	message	I heard you'd gone missing,\nbut you're back.
+134	message	[NOEL], welcome back!
+136	message	I've got business with [MERU].\n…Move… you're in the way.
+137	message	//Grunt enemies appear
+138	message	This can't… be…?\nNo way, this…!
+139	message	Imagine whatever you like.\nAs long as I settle who's better—\nme or [MERU]—that's enough for me.
+140	message	[NOEL]!!\nYou're making me mad!!!
+141	message	//Event on defeating [NOEL]
+142	message	How… losing to [MERU] of all people!
+143	message	You can say or do whatever you want to me.\nBut… but, if the teacher found out about this,\nshe'd be sad, wouldn't she?
+144	message	I told you, the teacher's got nothing to do with it.
+145	message	[NOEL]!!
+146	message	Hmph! Let's call this one a draw.\nNext time won't go like this!
+147	message	//[NOEL] vanishes with the light.
+148	message	[NOEL]!? What was that…!!
+149	message	That was… how the enemies do it, right?
+150	message	[NOEL]…
+151	message	//Battle end
+153	message	…
+154	message	[MERU]…
+155	message	We finally met again…\nI was going to apologize, and now this…
+156	message	Without knowing what happened to [NOEL],\nwe don't know what to do, do we.
+157	message	I think it's too early to assume\nshe's defected to the enemy.
+158	message	Tsubasa…
+159	message	The human heart isn't as strong as steel.\nIt breaks and bends\nfar more easily.
+160	message	B-but… that girl…?
+161	message	What if I told you I once turned\nmy blade on Tachibana and attacked her?
+162	message	You attacked Hibiki…!?
+163	message	It's true, [MERU].\nThere was a time when my heart and Tsubasa's\nwere that far apart.
+164	message	But people can truly\nreach each other's hearts.\nRight, Tachibana?
+165	message	Yes!\nBecause people can talk to each other!
+166	message	Hibiki… Tsubasa…
+167	message	Got it! I won't let this get me down!\nWe'll be good friends again, just like before…!
+168	message	That's the spirit!\nFirst, let's go to St. Mont Blanc Academy\nand meet the teacher.
+169	message	Yes! The teacher will surely\nlend us her wisdom!
+171	message	Almost to St. Mont Blanc Academy?\nHehe, maybe I'll run on ahead!
+172	message	//[MERU] appears
+173	message	…
+174	message	Huh? [MERU]!?
+175	message	…
+176	message	Don't just pop up outta nowhere!!\nGlad you're looking okay, though.
+177	message	Oh, did you know?\nThe teacher might be at St. Mont Blanc Academy!\nWe can finally meet…
+179	message	…I don't care.
+180	message	Hunya…?
+181	message	I came to settle this.\nYou and me—we're deciding who's better.
+182	message	Wh—… why now!?\nForget that, let's go see the teacher together!
+183	message	No!!!
+184	message	What is WITH you!?
+185	message	Do you even hear yourself?\nDo you have a fever or something!?
+186	message	I've always known you and I\njust don't think alike.\nNo point making a fuss about it now.
+187	message	That's crazy!! That's not like you!\nThat's not you at all!
+188	message	No discussion! I'm just gonna treat you\nto my sure-kill magical yo-yo!
+189	message	//Battle start\n//Ally reinforcements deploy on turn 2, then enemy reinforcements
+190	message	Huh? Isn't that [MERU]?
+192	message	[MERU]!! It's me!!
+194	message	So you were here…
+196	message	[MERU], welcome back!
+198	message	I've got no business with anyone but [NOEL].\n…Don't get in my way.
+199	message	//Grunt enemies appear
+200	message	Wh-what… is this…?
+201	message	Figure it out yourself.\nWell, with YOUR noggin, it's hopeless anyway.
+202	message	Geez!! What is WITH you!!
+203	message	//Event on defeating [MERU]
+204	message	I'll give you this much… well done…
+205	message	Doing stuff like this,\nthe teacher's gonna scold you!
+206	message	The teacher's got nothing to do with it!\nThis is between you and me!
+207	message	[MERU]!!
+208	message	Next time won't go like this…
+209	message	//[MERU] vanishes with the light.
+210	message	[MERU]!? What was that…!!
+211	message	That's… how the enemies travel… right?
+212	message	[MERU]…
+213	message	//Battle end
+215	message	…
+216	message	[NOEL]…
+217	message	The next time I saw [MERU]…\nI was going to… apologize.\nBut… why…!
+218	message	Without knowing what happened to [MERU],\nwe don't know what to do, do we.
+219	message	I think it's too early to assume\nshe's defected to the enemy.
+220	message	Tsubasa…
+221	message	The human heart isn't as strong as steel.\nIt breaks and bends\nfar more easily.
+222	message	You think so?
+223	message	What if I told you I once turned\nmy blade on Tachibana and attacked her?
+224	message	Eeeeeh!? No way, that can't be!
+225	message	It's true, [NOEL].\nThere was a time when my heart and Tsubasa's\nwere that far apart.
+226	message	But people can truly\nreach each other's hearts.\nRight, Tachibana?
+227	message	Yes!\nBecause people can talk to each other!
+228	message	Words… I see.
+229	message	Yeah, you're right!\n[MERU]'s smart, so\nif we talk it out properly, it'll be okay!
+230	message	That's the spirit!\nFirst, let's go to St. Mont Blanc Academy\nand meet the teacher.
+231	message	Yeah! I'll ask the teacher for advice too!
+232	message	//Fade to black\n//Background: plains\n//Everyone training
+233	message	Hibiki! Move faster!
+234	message	Yes!
+235	message	Shinonono, don't let your footwork falter.\nIt's a battle of endurance.
+236	message	I know!
+237	message	Hah!
+238	message	Naive!
+239	message	//SE: sharp sounds of combat
+240	message	Honestly, I'm surprised.\nHouki wanting to spar with Hibiki.
+241	message	That just shows how close\nthey've become, don't you think?
+242	message	Power…!
+243	message	Master it!!
+244	message	//SE: sharp sounds of combat\n//Fade to black — time passes
+245	message	Whew, that nice tired-and-sore feeling!
+246	message	Even with protective gear, to take my strikes\nand still be standing…
+247	message	Aria's brutal training\nwas way more intense!
+248	message	I only put her through it\nbecause I know how much she can take.
+249	message	How's training without your Symphogear and IS?
+250	message	It's a different thing.
+251	message	Different, yet the same.
+252	message	Ahaha, I get it!
+253	message	At this rate, we could do a two-person cell\nmock battle soon.
+254	message	When that time comes, I'll…
+255	message	//Soniko comes over.
+256	message	Um, excuse me! Could you let me join in too!?
+257	message	Soniko?
+258	message	S-since Hibiki was kind enough to teach me\na technique…!\n…Uuuh, toryaa!
+259	message	//Event art: Soniko masters the cat-fist pose
+260	message	…U-unyaaan!
+261	message	!?
+262	message	N-nyaa~n! U-unya!
+263	message	(Hibiki, what is this?)
+264	message	(I figured something safe for Soniko)
+265	message	I-it's embarrassing…! But if this means\nI can be of use to everyone…!
+266	message	This stance is for intercepting—\na technique to counterattack swiftly when attacked!
+267	message	Nyaa~n! Shpa, shpapa!
+268	message	And it's cute too!\nPerfect for an idol like Soniko!
+269	message	Toryaa! Nyaa~n!
+270	message	(Hibiki, your imagination is genius…)
+271	message	//Event art off\n//Fade to black\n//Background: forest (day)
+272	message	…
+273	message	…
+274	message	Fuu…
+275	message	Good work~.
+276	message	Doesn't watching me do focus training\nbore you?
+277	message	We're both priestesses, but you're different from me,\nand that's interesting.
+278	message	Seika priestesses use the demon arts\npassed down through generations.\nThat training is essential.
+279	message	Shirayuki's a hard worker.
+280	message	What do you do, Rika?
+281	message	I do mochi-pounding~.
+282	message	Mochi-pounding?
+283	message	I practiced so I could wield\na heavy hoe in the rites.
+284	message	Then you're super strong.
+285	message	You use a sword, Shirayuki,\nso you're super strong too.
+286	message	Swords aren't that heavy.\nMachine guns weigh like ten times more.
+287	message	Eh.
+288	message	Ufufu, being a priestess is all about arm strength.
+289	message	N-nipah~☆
+290	message	But I'm glad.\nThat you're here, Rika the priestess.
+291	message	Are normal people hard for you, Shirayuki?
+292	message	…So you have it too, Rika.\nThat feeling of not being normal.
+293	message	I…
+294	message	I can tell.\nWatching you and Satoko,\nI can tell you're different.
+295	message	Mii…
+296	message	But I envy you, Rika.\nBeing able to connect with people like that.
+297	message	Yes it is. Nipah~☆
+298	message	(Yes, it's a very happy thing,\nwhich is why I want to protect Satoko and the others… but\nI'm far too powerless…)
+299	message	…
+300	message	Rika, if anything's troubling you,\ntell me anytime, okay?
+301	message	Shirayuki?
+302	message	Because maybe there are things\nonly I would understand.
+303	message	…If I'm wrong about that, I'm sorry.
+304	message	No, thank you.
+305	message	(Yes, Shirayuki surely has something\nshe hasn't shown yet…\njust like me)
+306	message	//Fade to black\n//Background: in front of St. Mont Blanc Academy (night if available)\n//Teacher, in silhouette.
+307	message	That takes care of this side.\nNow then, next is…
+308	message	//Teacher leaves.\n//END

@@ -1,0 +1,251 @@
+row	column	english
+3	message	Aren't we there yet?
+4	message	It should be a little further ahead.
+5	message	Still, a training lodge with its own hot spring...\nButei High is loaded.
+6	message	We take all kinds of requests from civilians,\nand we have loads of graduates.
+7	message	Using your connections is Butei basics.
+8	message	Ah, I can see a building!\nIsn't that it?
+9	message	Wow, what an unusual building.
+10	message	Japanese-style architecture must be rare for you.
+11	message	Um... thank you all so much.
+12	message	What's this? So formal all of a sudden.
+13	message	Humans fear elves.\nAnd yet you've all welcomed me\nso warmly...
+14	message	A friend of a friend is a friend! That's what I say☆
+15	message	The circle of friends, connected by phone!
+16	message	...Sometimes you and Remu-san\nare perfectly in sync, desu~.
+17	message	You two get along super well sometimes,\nyou and Remu-san, Teach!
+20	message	Well, yeah!
+22	message	We don't really know\nwhat elves are like, so\nmaybe that's for the best.
+23	message	I'll do my best\nnot to be afraid of all of you, too.
+24	message	All right, this old man'll\ndo his best to deepen our friendship too~!\nC'mere c'mere, skinship skinship!
+25	message	Ah! Mion-san!?
+26	message	//SFX: boing boing
+27	message	H-hey! Mion!\nWhat are you doing!
+28	message	I'm pressing it against you! My arm. C'mon c'mon!
+29	message	//SFX: boing boing
+30	message	P-please, stop...
+31	message	...Big sis.\nYou've been way too rowdy since Tiffania arrived.
+32	message	Aria, say something to her!
+33	message	What's wrong with it?\nThere's merely an object existing\nwhere there should be empty space.
+34	message	Exactly.
+35	message	Rip it off.
+36	message	Um, [CLAUDE]-san,\nplease don't come over here.
+37	message	(No way! Closer!)
+38	message	(I'd get minced and then\nblown up, so I'm not going...)
+39	message	//Scene change.\n//Background: hot-spring inn
+40	message	Huh...?
+41	message	There's a notice saying:\n'Closed for a few days. -The manager.'
+42	message	Didn't you make a reservation!?
+43	message	I took a look inside; there's nobody here.
+44	message	It's closed?
+45	message	There's an inn and a hot spring! No problem!\nWe'll just stay without asking!
+46	message	That'd be fine if we had food.
+47	message	Fufufu. What do you think\nI'm accompanying you on this trip for?
+48	message	Oh! That face brimming with confidence!
+49	message	There's mountains and a river nearby;\nwe can probably forage ingredients.
+50	message	Then I'll go catch fish in the river!
+51	message	I think I can help find ingredients.\nI lived in the forest, after all.
+52	message	I can cook most things, so\nbring me anything\nthat looks edible!
+53	message	If we think of it as survival,\nit's no big deal.
+54	message	This'll make a great memory!
+55	message	I'm going to check out the bath!
+56	message	[MERU],\ngo clean the bath☆
+57	message	Yes! Magical bath-cleaning, desu~!
+58	message	[NOEL],\ngo clean the bath☆
+59	message	Yeees! I'll wipe out any stain~!
+60	message	Naturally, I'll be on cooking duty!
+61	message	Cecilia's on bath duty too.
+62	message	Honestly! I won't accept this!
+63	message	//Fade to black; time passes (night falls).\n//Background: hot-spring inn.\n//Relaxing in the room after dinner.
+64	message	That was quite the lavish spread.
+65	message	You can manage with whatever ingredients\nyou have on hand, no?
+66	message	Siesta-san's skills were splendid.\nBoth the prep and the seasoning.
+67	message	I was amazed at how you filleted the fish, Shirayuki-san!\nYou must teach me!
+68	message	So, who took down\nthat huge boar we put in the hot pot?
+69	message	With magical hunter studies,\nit's a one-hit KO☆
+70	message	I took it down clean with one hit to a vital spot,\nso we could eat every bit, right?
+71	message	You really can do anything...
+72	message	But y'know, now that it's dark,\nisn't this building kinda creepy?
+73	message	It's pretty old.\nAnd there's nobody here but us...
+74	message	Maybe it's one of those inns with a dark past~.\nLike at night, while you're sleeping,\nthe guests vanish one by one~...
+75	message	H-hey!?\nStop it! That kind of talk!
+76	message	Is Cecilia-san bad with scary stories?
+77	message	N-no, that's not true at all!
+78	message	...But aren't we really missing someone?
+79	message	Stop it, Aria-san!\nEven as a joke, that kind of thing...
+80	message	No, I really feel like someone's missing...
+81	message	Who's missing, desu~?
+82	message	Who's missing?
+84	message	Sorry, it's me...
+85	message	Oh, it was you.\nI'd forgotten\nyou were even here.
+86	message	I'd even forgotten you were alive.
+87	message	I'd forgotten your very existence.
+88	message	S-such cruelty...
+89	message	(That's why I keep telling you\nto be greedier.)
+90	message	So where were you, anyway?
+91	message	I was looking around the building,\nand I found a strange place...
+92	message	A strange place...?
+93	message	//Scene change.\n//Background: cave
+94	message	Huh, a cave?
+95	message	Looks deep. Can't see the back.
+96	message	Doesn't this get you a little excited?
+97	message	You wanna explore it?
+98	message	A test of courage before the hot spring.\nNot bad, huh?
+99	message	I-I'm not going!?
+100	message	Shion-san and I will\nstay behind to clean up after dinner.
+101	message	Then I'll help clean up too.
+102	message	Shall the rest of us go in?
+103	message	Let's go! It's an expedition!
+104	message	//Scene change.\n//Background: cave.\n//The group cautiously advances through the dark cave.
+105	message	I-it's quiet...
+106	message	This light's too dim; I can barely see ahead.
+107	message	That's what makes it thrilling!
+108	message	This is, however...
+109	message	We charged in on momentum, but...
+110	message	It's scarier than I imagined, desu~...
+111	message	Kinda scary, actually. Haha...
+112	message	...
+113	message	...Everyone. Shall we go back?
+114	message	What, Shirayuki? Scared?
+115	message	I've got a bad feeling.\nEither way, I think we should go back.
+116	message	I agree with Shirayuki-chan.\nThis place feels wrong.
+117	message	W-what do you mean!?\nDon't say scary stuff!
+118	message	Actually, I've been feeling it too.\nA strange air, or...
+119	message	Eve-san, do you feel anything?
+120	message	Hmm, let me see, I duuunno☆\nis what I'd like to say, but...
+121	message	...Maybe we should go back?
+122	message	What about Rin-san? She's awfully quiet...
+123	message	H-huh? Rin-san?
+124	message	Huh, she's gone?
+125	message	She's just trying to scare us!\nRin! Answer me!
+126	message	//Silence. (An awkward pause since Rin is gone.)
+127	message	...Hm?
+128	message	Did Rin-san really disappear?
+129	message	Impossible!? Did she go ahead alone!?\nWhat are you doing, Rin!
+130	message	//Houki runs off.
+131	message	H-hey, Houki!?\nDon't just run off!
+132	message	//SFX: running footsteps.\n//Fade to black.\n//Rin, Houki, Eve, [MERU], [NOEL], and Shirayuki are gone. A haze covers the screen, obscuring visibility, or something like that.
+133	message	Wait, Houki!\nSheesh, how far did she run?
+134	message	...H-huh?
+135	message	Aria-chan, where's Houki-chan?
+136	message	...No, I didn't catch up.\nIs everyone else here?
+137	message	I'm here.
+138	message	I'm here too.
+139	message	I'm here too.
+140	message	That's odd... [MERU]-san,\nand Eve-san aren't following.\nShirayuki-san seems to be missing too?
+141	message	That's odd... [NOEL]-san,\nand Eve-san aren't following.\nShirayuki-san seems to be missing too?
+142	message	Wait, who's here right now?\nMe, Remu, Louise, Tiffania, Sonico,\nand [CLAUDE]... just six of us?
+143	message	That should be right.
+144	message	Rin-chan, Houki-chan, Eve-san,\n[MERU]-chan,\nand Shirayuki-chan are missing?
+145	message	Rin-chan, Houki-chan, Eve-san,\n[NOEL]-chan,\nand Shirayuki-chan are missing?
+146	message	Only half of us are here!\nW-what's happening!?
+147	message	Huh... what's wrong with me... I'm getting sleepy...
+148	message	My head's going fuzzy too...
+149	message	Huh!? Could that be...?\nRemu-san, isn't that it?
+150	message	//Silence. Remu has vanished.
+151	message	Huh... Remu-san?\nShe was just here, right?
+152	message	Aria-san! Remu-san was here, right!?
+153	message	//Silence. Nobody's left.
+154	message	No way... Aria-san?
+155	message	Louise-san! Tiffania-san!\nSonico-san...!!
+156	message	Nobody... here...?
+158	message	I'm here.
+159	message	Huh?
+160	message	//[CLAUDE] appears. (A fake created by illusion.)
+162	message	M-me!?
+163	message	Welcome to the world of nightmares.
+164	message	Ahahahahahahahaha!!!
+165	message	H-hieee!!!
+166	message	//[CLAUDE] is dragged in as the screen fades to black.
+168	message	Ugh... where is this?
+169	message	H-huh?\nEveryone's here...? Are you okay!?
+170	message	Don't know about 'okay,' but...
+171	message	For now, it looks like everyone's here.
+172	message	Fufufufu...
+173	message	//Black Louise appears deep in the cave.
+174	message	W-what's that!? A black me!?
+175	message	Found you... Louise...
+176	message	//A large number of grunt units appear.
+177	message	W-where did they come from!?
+178	message	Are these enemies!?
+179	message	This shoot has horror elements too!?\nEven knowing that, it's scary!
+180	message	Strange... I sense no life in them...
+181	message	Is this the power of dreams?\nBut when did it...?
+182	message	Let's just beat them up!!
+183	message	No other choice!
+184	message	Fufufufu...
+185	message	Just what is that thing...?
+186	message	//Battle start.
+188	message	Yes! We got one!
+189	message	//The defeated grunt reappears in a different spot.
+190	message	Impossible! That's the one we just beat!?
+191	message	It's a trick! It has to be!
+192	message	A trick...? That's it, I get it!
+193	message	This is all an illusion!\nAn illusion created by the black me!
+194	message	...
+195	message	You mean the one over there?
+196	message	Yes! If she uses the same magic as me,\nshe can create endless illusions!\nHit the real body casting the magic and they should vanish!
+197	message	//Battle continues.\n//Defeat the grunts, then attack Black Louise.\n//She vanishes anticlimactically the moment she's hit once.
+198	message	She vanished...?
+199	message	D-did we do it?\nThat was anticlimactic...
+200	message	//Black Louise appears in a different spot.
+201	message	She appeared over there!?\nSo that was an illusion?
+202	message	Fufufufu...
+203	message	//Black Louise multiplies.
+204	message	Th-they multiplied!?
+205	message	Ahahahahaha!!!
+206	message	W-what are we supposed to do about THIS!?
+207	message	//Battle continues.\n//Several turns pass (defeat a few Black Louises?).
+208	message	Tch, I can't tell which one's the real body...!\nAt this rate...
+209	message	This really is a nightmare...!
+210	message	!?
+211	message	What's wrong, I wonder...?
+212	message	It seems she noticed something...
+213	message	At a time like this... how meddlesome...
+214	message	//The grunt units vanish.
+215	message	Th-they're vanishing!?
+216	message	Damn... I was so close...
+217	message	//Black Louise vanishes.
+218	message	The nightmare... is ending?
+219	message	//Battle end.
+221	message	Uugh...\nH-huh? Where is this...?
+222	message	Inside the cave, right...
+223	message	...What was that just now?\nDid it really happen?
+224	message	The black me...\nShe was really there, right?
+225	message	I saw the black Louise-san.\nAnd her splitting and multiplying too.
+226	message	I saw her too!
+227	message	Me too. So it was real?\nA whole group sharing the same dream\nis impossible, right?
+228	message	No, it happens.\nIn the world of dreams, nothing is strange.
+229	message	But honestly, I can't tell\nwhether that was really a dream,\nor an illusion created by that black Louise's magic.
+230	message	And the biggest mystery is\nwhy this phenomenon ended.
+231	message	It didn't feel like\nwe broke the dream or illusion.
+232	message	Yeah. Like someone interrupted it...
+233	message	But there's nobody here.\nNot even the black Louise.
+234	message	That's true...
+235	message	Um, everyone.
+236	message	I'm sure there's lots of mysterious stuff\nand things bugging you, but\nfirst I want to say this.
+237	message	What is it?
+238	message	This cave... can we get out of here quick?
+242	message	That's it!!
+246	message	Let's soak in the hot spring, warm up,\nand forget allll about it!
+250	message	No objections!
+252	message	Nikoniko-chan's smart☆
+253	message	Desu~!
+254	message	As expected of a college student!
+255	message	//Fade to black.\n//Background: cave (a different shot, or the entrance if available).
+256	message	...
+257	message	Shirayuki-chan? What's wrong?
+258	message	I felt like someone was over there just now...
+259	message	Huh?
+260	message	Remu! Shirayuki! Hurry up!\nWe'll leave you behind!
+261	message	Coming!\nRemu-san, let's not go any further.
+262	message	Y-yeah...
+263	message	//Remu and Shirayuki leave.\n//Background unchanged; a voice from afar.
+264	message	Seriously, why did we go into\nsuch a creepy cave!?\nWhich idiot found it!?
+265	message	Umm, who was it again?
+266	message	You! You idiot!!
+267	message	It's fine already.\nLet's soak in the hot spring and forget all about it!
+268	message	//After the three voices, Dr. Shinigami emerges from the darkness.
+269	message	...
+270	message	...Fufu!
+271	message	//END

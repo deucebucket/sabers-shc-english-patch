@@ -1,0 +1,287 @@
+row	column	english
+4	message	People from the outside world\nare all weirdos.
+5	message	Huh...? Um... I'm sorry.\nI-I never thought of myself that way...\nI guess I am weird...
+6	message	No need to be so self-deprecating.\nI'm not blaming you.
+7	message	You can use magic, but you're not a noble?\nAre you fallen nobility?
+8	message	You don't look the part, though...
+9	message	I think the concept of nobility is probably... different.
+10	message	I see...\nCasting magic without even a wand-\nyou really are weird.
+11	message	I can't cast without my wand.\nSeeing someone do it empty-handed\nmakes me feel a little awkward.
+12	message	Well, I have my pride,\nso I don't plan on changing\nmy style.
+13	message	Casting magic with a wand...\nI kind of admire that...
+14	message	R-really?\nIt's normal to me, so\nI don't get the admiration thing...
+15	message	Besides, actually...
+16	message	Actually?
+17	message	I'm supposed to summon a familiar\nwith Summon Servant.
+18	message	But I don't have a familiar.\nWhy... just me?
+19	message	Is that... unusual?
+20	message	I don't know.\nI've never heard of it...
+21	message	Maybe it means\nI don't need a familiar.
+22	message	Anyway, right now we need to end this war.
+23	message	I'll think about the familiar thing after.\nBrooding here won't give me answers.
+24	message	Right.\nI... want this war to end soon too.
+25	message	And for that, everyone has\nto do their best.\nGot it?
+28	message	O-of course!\nUm... as much as I can...
+29	message	So you do have some motivation.\nYou look so timid, I figured\nyou'd leave it all to others.
+32	message	But... I'm...\nnot as strong as everyone else.
+33	message	What are you saying?\nIt's about you, isn't it?\nLeaving it to others won't cut it.
+36	message	Well, let's do our best.\nEven in another world,\nwe'll be fine if we support each other.
+37	message	R-right.
+38	message	(Is Louise anxious too...?\nShe hides it so well, it's impressive.)
+41	message	Why do you irritate me so much...
+42	message	I'm sorry I'm sorry I'm sorry!\nI'll fix whatever's wrong, so...
+43	message	I'm not irritated\nat you.\nStop apologizing.
+44	message	It's not at you, but...\nI just can't stop feeling irritated.
+45	message	When I look at the others...\nsomehow... it's like...
+46	message	I keep wondering what it is.
+47	message	Could that be, for example... an inferiority complex?
+48	message	Inferiority complex?\nWhat about me is inferior?
+49	message	Me, of the Valliere family,\ninferior to commoners...?
+50	message	.........
+51	message	Wha-!?\nWhere are you looking?!
+52	message	What? What's wrong with my chest!?\nAre you saying it's inferior?
+53	message	That's not it!\nMine's on the small side, sure,\nbut everyone else is just too big!
+54	message	And I'm still growing, anyway!
+55	message	Ah... um... sorry.\nI couldn't think of anything else...
+56	message	Sh-sh-shut up! Idiot!\nSay another word and I'll blast you!
+57	message	You don't want to anger a noble!
+58	message	True... Cecilia's pretty big, for one.
+59	message	That's not what we're talking about!\nCut it out!
+60	message	You want to get blasted that badly?\nI'll show you the power of a bearer of the Void.
+61	message	Right now I feel like I could\nmuster incredible willpower.
+62	message	Thanks to you.\nI'm about to blow from anger.
+63	message	I-I'm sorry!\nDon't blast me!
+64	message	Never speak of it again...\nGot it?
+67	message	O-okay...\nI won't... tease you\nabout your small chest...
+68	message	...Are you doing that on purpose?\nYou ARE doing it on purpose!?
+71	message	......... *stare*\nI won't say it again...
+72	message	Sure... you're keeping your word, but\nyour eyes are saying plenty!!
+75	message	...You just don't learn, do you.
+76	message	Prepare yourself!!
+77	message	I won't forgive you--!!
+80	message	...BWAH!!
+83	message	You can heal wounds?
+84	message	.........\n...Huh? Oh! Me!?
+85	message	Yes.\nWho else is here?
+86	message	Um... healing wounds, right...\nY-yeah.\nA little...
+87	message	So you can use Water magic...\nDot? Or Line?
+88	message	Either way, being able to use\nWater magic will be useful\nas this war goes on.
+89	message	But don't waste it.\nRunning out of willpower in a pinch\nwould be a problem.
+90	message	Um... Dot, Line...\nWater magic...?\nI don't really follow...
+91	message	You're using magic without even\nunderstanding your own element?
+92	message	Unbelievable...\nOr is it some even more\nspecial power?
+95	message	Recovery-type...?
+96	message	There's no such element.\nThat falls under Water.
+99	message	I don't... really get it...
+100	message	What kind of education\ndo they give in your world?
+103	message	But... right.\nIt's not just the world I know.
+104	message	Then of course each world\nunderstands magic differently.
+105	message	Sorry about that.\nIt's not like it's your fault.
+106	message	At least in the world I know,\nhealing wounds is considered\nWater magic.
+107	message	So your ability to heal probably means\nyou're good with Water magic.
+108	message	H-heh...\nSo what are you good at, Louise?
+109	message	M-me... the Void.
+110	message	The Void.\nSo there are all kinds of elements...
+111	message	No.\nEven in my world, very few people\ncan use the Void.
+112	message	As far as we know right now...\nthree.
+113	message	That's it.
+114	message	It's a special power, then.
+115	message	That's why it takes so much willpower,\nand the incantations take so long.
+116	message	While I'm casting, I'm defenseless,\nso enemy attacks hit me easily.
+117	message	...Then if you get hurt, Louise,\nI'll heal you.
+118	message	Sorry...\nIt's not much, but I wanted to help if I can...
+119	message	...You.\nTh-that's obvious!\nThat's why you're here with us, isn't it!
+120	message	That was the plan from the start.
+121	message	...So you be careful too.\nDon't get hurt.
+122	message	...Louise.
+123	message	If you get hurt,\nthat's one less person to heal wounds!\nDon't get the wrong idea!
+124	message	Ugh, enough!\nJust focus on recovering\nyour own willpower.
+125	message	Don't come crying to me if you get\ntired in the middle of battle!
+128	message	.........
+129	message	...I'm sorry.\nIf I'm wrong... um...
+130	message	What? Spit it out.
+131	message	Um... are you in a bad mood?
+132	message	Do I look like it?
+133	message	N-no... must be my imagination.
+134	message	Right. Don't worry about it.
+135	message	...Okay...
+136	message	...People call you dense, don't they.
+137	message	If you don't realize it,\nthen you're dense, so remember that.
+138	message	You back down right away.\nYou should learn to pay\nmore attention.
+139	message	Otherwise you're disqualified as a noble?
+140	message	But... I'm not a noble.
+141	message	I know that.
+142	message	And that other worlds have\nfew people called nobles.\nI understand that by now.
+143	message	But bearing matters, doesn't it?\nA noble's grace seeps out\nfrom exactly those things.
+144	message	If you can't even escort a lady,\nyou're hopeless in any world.
+145	message	Hmm... fine.\nThen I'll teach you how a noble behaves.
+148	message	Can I even do it...?
+149	message	It won't be easy.\nIt might be impossible.
+152	message	Huh? N-no, it's fine.\nI can't trouble you like that...
+153	message	I'm saying I'll oversee it myself.\nNormally I'd never do\nsomething like that for anyone.
+154	message	Just do as you're told\nand fix your behavior.
+157	message	It's for my sake too.\nI can't travel with someone\nwho'd shame the Valliere name, can I?
+158	message	This is why commoners... wait,\ncan I even call you a commoner?
+159	message	'Commoner' bugs me, but...\nif I'm not a noble, then probably...
+160	message	Listen. Even a commoner has to\nfix their manners at least.
+161	message	That's the bare minimum of courtesy\nfor speaking with a noble.
+162	message	I see...
+163	message	Ugh! Stop giving me half-hearted answers!
+166	message	Ow!?\nHuh? Where'd you get that...?\nIsn't that a riding crop!?
+167	message	That doesn't matter!\nAct up and I'll smack you!
+168	message	It's not like I enjoy hitting you, okay?
+169	message	This is education!\nWhen you mess up...
+172	message	Eep!?
+173	message	No mercy.\nHee hee hee.
+174	message	...Louise?\nYou look like you're enjoying this...
+175	message	N-no, I'm not!\nI don't want to do this either!
+176	message	But it can't be helped, can it?\nA noble like me has to educate you.
+177	message	Is there any other noble here?
+178	message	But... I'm... not a noble...
+179	message	Now! Let's begin!\nFirst I'll fix that denseness of yours.
+180	message	An attentive man makes\na good impression.
+181	message	First of all, pay attention to me.\nOnce you can do that,\nyou can pay attention to lots of people.
+182	message	Before you know it, you'll be\ncloser to noble behavior.
+183	message	Hah...\nSo, what are you holding?\nYou're cradling it like it's precious.
+184	message	...This?\nI don't know what this is,\nbut I can't bring myself to ask anyone else...
+185	message	It was really cold at first,\nbut now it's a little lukewarm.
+186	message	...A can of juice...?\nIt's gone warm over time.
+187	message	Huh, so it's called a can of juice...\nSo... what is it?
+188	message	You were in a bad mood...\n...over something like that?
+189	message	What do you mean, 'something like that'!!
+192	message	Owww!?
+193	message	Didn't anyone teach you that words\nthat upset people are bad?
+194	message	I'll teach you how to use words, starting now!
+197	message	Now... show me.
+198	message	...Y-yes.\nThe bow, taking your hand, like this... how's that?
+199	message	...No grace.\nI feel no noble grace from it.
+200	message	Well... I'm not a noble...
+201	message	I don't like that attitude.\nManners aren't just for nobles.\nRight?
+202	message	If you understand, then\nmaster it properly.
+203	message	That said...\nhow do I draw out your grace?\nTricky.
+204	message	Your appearance... can't be helped, I guess.\nIt's your mindset.
+205	message	Maybe I need to fix that mindset of yours\nfrom the root-always limiting yourself.
+206	message	Otherwise you'll just make excuses again\nabout not being a noble.
+207	message	Excuses...?\nIt's technically true, though...
+208	message	If I'm beating it out of you from the root,\nI'll have to get more serious too.
+211	message	Eep!
+212	message	I've been gentle until now, right?\nI'll be a little stricter.
+213	message	I'm sure part of the problem is\nthat I've been spoiling you.
+214	message	Don't worry!\nBy the time we're done, you'll be a gentleman.
+215	message	Huh?\nWas that the goal?
+216	message	It's a matter of manners.\nSame thing.
+217	message	From now on, even when I hit you,\ndon't give up right away.
+218	message	Got it?
+221	message	I'm about to give up already...
+222	message	I won't allow that.\nI don't plan on quitting halfway either.
+225	message	I'll do my best.\n...As much as I can.
+226	message	For now... that'll do.\nAs long as you're motivated.
+229	message	From now on, I'm going strict!
+230	message	...Yes.
+233	message	Sit there.
+234	message	Um... sorry.\nBut why am I getting scolded?
+235	message	You claim you did nothing?\nThen I'll remind you!
+236	message	You, today...\nT-T-T-Tiffa's... th-th-th...
+237	message	You were looking at Tiffa's... weren't you...?
+238	message	Huh? Um...\nI didn't catch that...
+239	message	Grr!\nYou were staring at Tiffa's chest!!
+240	message	I know exactly what you're doing!\nYou think nobody notices you staring,\nbut it's obvious!
+241	message	Confess!\nThat mindset needs fixing\nbefore any noble behavior.
+242	message	N-no, you've got it wrong.\nThough I can't say it never enters my field of vision.
+243	message	See! You ARE looking!
+244	message	Tiffania looked troubled, so\nI thought I'd... help if I could.
+245	message	You think some plausible excuse\nlike that will get you off the hook?
+246	message	Men are all the same.\nYou all like them big.
+247	message	Disgusting!\nI bet you were looking at Siesta's too, weren't you?
+248	message	N-no, that's wrong...\nYou told me to pay attention to the people around me...
+249	message	Me first!\nYou can't pay attention to others\nif you can't pay attention to me!
+250	message	So no staring at other girls'\nchests. Understood?
+251	message	Do it again and\nI'll whip you.
+252	message	You won't learn without education,\nso it can't be helped, right?
+253	message	I'm not staring...
+254	message	Then you're saying you're NOT looking!?\nReally?
+257	message	Well... if something catches my eye, I look...\nif it doesn't, I never look.\nI can... swear to that...
+258	message	So mine never\ncatches your eye.\nYou've never once looked at mine.
+259	message	You're only interested in big ones!\nIdiooot!!
+262	message	I'm sorry... I probably do look...\nMy eyes just wander sometimes...
+263	message	See, I knew it.\nReflect on that...\n...wait, where are YOU looking?!
+264	message	Y-you don't have to look at mine either!!\nSo size doesn't matter to you!?\nYou're so shameless!
+267	message	Anyway, next time there'll be no mercy.\nRemember that.
+268	message	Y-yes...\nI'll be careful...
+271	message	Lately, everything surprises me.
+272	message	Surprises you...?
+273	message	Worlds completely different from\nTristain or Halkeginia...\nI never imagined they existed.
+274	message	Everyone here came from\ndifferent worlds, right?
+275	message	So many other worlds...\nI couldn't have imagined it.
+276	message	I think everyone feels the same...
+277	message	People who use powers other than magic,\nordinary commoners who can fight.
+278	message	People like that exist.\nWas my worldview too narrow?
+279	message	Even so, I'm a noble, so\nI can't afford to lose my composure.
+280	message	If this got out in Tristain,\nthey'd start researching it.
+281	message	If that happened... what would become of it?
+282	message	Well.\nMaybe everyone could learn\nto travel between worlds.
+283	message	But it won't be that easy.\nIf it were, someone\nwould've done it long ago.
+284	message	It could cause serious problems\nwith the balance of power.
+285	message	That... would be bad.
+286	message	Hee. Well, it's pointless\nto dwell on, anyway.
+287	message	I'm just genuinely surprised.\nIt feels so fresh.
+288	message	But I'm anxious too.\nMy magic might not\nwork at all.
+289	message	The Void is rare even in my world,\nbut if there's a world where\nthat Void magic doesn't work...
+290	message	Louise...
+291	message	Thinking about it scares me a little.\nAmong so many worlds,\nyou can't say there's none, right?
+292	message	The reverse is possible too...\nA world where magic works too well.\nThat probably exists as well.
+293	message	That's scary too.\nBecause then I'd probably\nbe feared.
+294	message	Then...\nwill you be on my side?
+297	message	Of course!\nNot just me... everyone's on your side.
+298	message	...R-really?\nThis is embarrassing... this kind of thing.
+299	message	S-so... thank you.
+302	message	Depending on the time and place...\nProbably... on your side.
+303	message	How unreliable.\nCan't you say something smoother?
+306	message	I'm expecting a little from you,\nso live up to it.
+307	message	This is a request from me, you know?\nBe honored.
+308	message	(She's relying on me...\nI never thought she'd say something like that to me...)
+311	message	...Hey.
+312	message	Hey, wake up.
+313	message	Louise...?\nIt's kind of bright...
+316	message	Finally awake?\nHonestly.
+317	message	Louise...\nwhat's with that outfit...?
+318	message	Nice, right?\nOr would you prefer my usual outfit?
+319	message	Never mind that-\nhow long are you going to sleep in the hallway?\nWe're going to the classroom.
+320	message	...Huh?
+323	message	Here, the menu.
+324	message	Um... what was this place again?\nMy head's all fuzzy...
+325	message	It's a cafe, duh! Don't you remember?
+326	message	Honestly, get it together.
+327	message	That's why you keep wandering around aimlessly.
+328	message	I told you, didn't I?\nLearn to pay attention to me.
+329	message	.........
+330	message	...Pay attention... oh, right!\nLouise, that outfit suits you.
+331	message	...Too slow. Idiot.
+332	message	Today's your reward for working hard.\nBe grateful.
+333	message	A reward...!?
+334	message	It's a noble's duty to honor a retainer's loyalty.
+335	message	That's why I'm dressed as a waitress today.
+336	message	See the display case over there?\nThere's cake, right?
+337	message	It's for you to eat. I prepared it for you.
+338	message	Eat it gratefully.\nIf you want tea, I have that ready too.
+339	message	Thank... you.\nI'm really happy.
+340	message	It's store-bought, but that's fine, right?
+341	message	It's not like I bought it just for you!
+342	message	I got it along with everyone else's, that's all! Don't get the wrong idea!
+343	message	Y-yes... I'm happy even if it's just along the way...
+344	message	...Oh. But you're first.
+345	message	I permit you to eat first.
+346	message	So... um...\nfrom now on... okay... with me...
+347	message	........!!
+348	message	Huh? What?
+351	message	Wake up!
+352	message	...Hm? Huh?\nWhere's the cake?
+353	message	Cake? What are you talking about?\nAre you still half asleep?
+354	message	Stop spacing out.
+355	message	Louise... you were a waitress...
+356	message	...Calling me, a noble, a waitress?\n...Huh, you've got guts!
+357	message	So in your dream, I was\nserving you as a waitress...
+360	message	Get yourself together!\nI'm beating that attitude out of you after all.
+361	message	N-no, come on.\nIt was just a dream...!?
+362	message	No arguments--!!
+365	message	Nooo--!?\nOwowowow!?

@@ -1,0 +1,310 @@
+row	column	english
+3	message	...
+4	message	Heeey, isn't there something\nyou should be saying?
+5	message	Say what?
+6	message	I mean, we helped you out and everything,\nand you've failed at every single thing so far, haven't you?
+7	message	...
+8	message	Considering your results to date,\nwe are forced to judge your mission execution capability\nas deficient.
+9	message	Maybe an apology\nwould be in order~
+10	message	Alternatively, we demand\nyou present a concrete mission execution plan.
+11	message	You're out of chances~?
+12	message	I understand my position.\nI don't intend to make excuses.
+13	message	Well, we could just\ntoss you aside, you know~!
+14	message	Yi Wu is our collaborator.\nBut not our friend.
+15	message	A cooperative relationship without results cannot exist.\nWe have not yet received sufficient return\nfor the information and technology we provided.
+16	message	Doesn't Yi Wu have anyone stronger?\nSurely there must be someone, right?
+17	message	I would like the results of the next operation\nto answer that question.
+18	message	Fine.\nBut we're not helping you, okay?\nAnd we won't let Yi Wu help you either.
+19	message	...You're telling me to do it alone?
+20	message	If you won with our help now,\nthat'd be super uncool, right?
+21	message	We expect a good report.
+22	message	...Understood.
+23	message	(So this is effectively an ultimatum...)
+24	message	Mission: abduct Furude Rika.\nIts success is the minimum condition\nfor continuing our relationship with Yi Wu.
+25	message	Furude Rika's power\nis worth that much.
+26	message	Off you go!\nHope you make it back!
+29	message	Hmph... they don't even intend to watch, it seems.
+30	message	Not even worth watching, is that it?\nTo be looked down on this much...
+31	message	If they hadn't forced that wasteful\nbrute-force strategy on me,\nI'd have results to show long ago...!
+32	message	I have no need of Yi Wu's support.\nI'll devise a winning plan with the cards I have.
+33	message	I'll show them what I'm really made of...!
+34	message	//Scene change.\n//Background: IS Academy.\n//The group arrives at the academy.
+35	message	We've arrived at IS Academy!
+36	message	IS Academy is as beautiful as ever.
+37	message	...
+38	message	Huh? What's wrong, Houki-chan?
+39	message	No... just feeling a little nostalgic.
+40	message	It's not like that much time has passed?
+41	message	It's not so much the time...\nI suppose you could say I'm relieved\nthe familiar places haven't changed.
+42	message	I understand.\nHaving a place to come home to is wonderful!
+43	message	Whether I can call this a place I should return to,\nI can't say.\nBut... it's true that I feel that way.
+44	message	I got sent flying on my first day after transferring,\nso nothing feels familiar yet.\nBut I kinda get what Houki means.
+45	message	I see...
+46	message	What are you talking about?\nSleeping in your own bed—\nthere's nothing more wonderful!
+47	message	Well, you do\ncarry your favorite pillow around with you.
+48	message	Perhaps happiness is when such little things\naren't special,\nbut simply everyday.
+49	message	The pilot is part of the IS too.\nWe need to rest up properly, not just maintain our IS units,\nto prepare for what's next.
+50	message	Medical check before you relax.\nHand your IS over to maintenance, then head to the infirmary.
+51	message	Oh right.\nThe medical check is like,\na full physical, right?
+52	message	Wha— no way!?\nI can't sleep in my own bed tonight!?
+53	message	According to the schedule, that's right.
+54	message	Nooo! How dreadful!
+55	message	You all go on ahead.\nI'll hand the Akatsubaki over to my sister.
+56	message	Houki-chan, you should thank your sister properly.
+57	message	...I'll try.
+58	message	Okay.
+59	message	//Fade to black, time passes.\n//Background: IS Academy.
+60	message	Houki-san and the others are resting,\nso what shall we do?
+61	message	Resting sounds nice,\nbut it also feels a little wasteful.
+62	message	Wanna train? Hiyah!
+63	message	At your pace\neveryone'll be worn out!
+64	message	Wanna go out somewhere?\nThings have been tense lately—\nI could use a change of pace!
+65	message	Really, I'm mentally exhausted.
+66	message	(I feel like Usada-chan hasn't changed a bit,\nanytime or anywhere...)
+67	message	I'd like to go shopping.\nIt's a good chance to restock\nfood and daily necessities.
+68	message	Then I'll come too!\nIt's a fine opportunity to broaden my horizons.
+69	message	If Satoko's going, then I am too.
+70	message	Hauu~ I wonder if there's anything cute? I wonder?
+71	message	If we head into town,\nthere might be something Rena'd like.\nI'm gonna hunt for momoman!
+72	message	The momoman was delicious!\nI'll come along too!
+73	message	So I don't have to go do the shopping?
+74	message	You're the bag carrier!
+75	message	Yes...
+76	message	(Maybe my treatment's improved a little?)
+77	message	Shirayuki's coming too.
+78	message	Huh? But I...
+79	message	No need to hold back.\nIsn't there something you'd like to try?
+80	message	W-well, there is... is it okay to say it...?
+81	message	What is it? Tell us!
+82	message	Wanting to meditate under a waterfall,\nor go exorcise a haunted spot—\nnone of that, okay!
+83	message	No!\nI, um, want to try a crepe... I said it!?
+84	message	You wanna try a crepe?\nYou've suddenly let loose!?
+85	message	Hauuuuu!! Crepes are great!\nThey're tasty! Right, right!
+86	message	You can take those home, you know.
+87	message	Yattaaaa! Takeout!!
+88	message	We can all eat them together,\nso I think that's fine.
+89	message	Naturally, we'll make one with mustard in it\nand play Russian crepe, right?
+90	message	I can only see a future\nwhere I'm the one who gets it...
+91	message	(That's the tasty part!\nGet a laugh there while aiming\nfor the slightly-pitied position.)
+92	message	(Position... what do you mean...)
+93	message	...Someone bring Aoi here!
+94	message	Ahaha!\nAoi-chan loves spicy stuff, after all!
+95	message	...Wait, Houki-chan? What's wrong!?
+96	message	What about your medical check?
+97	message	The thing is, my sister said she didn't want to leave it to the academy—\nshe'd do it herself...\nI begged off and ran away.
+98	message	Is that all right?
+99	message	My sister's a mad scientist.\nUnder the guise of a medical check,\nthere's no telling what she'd do to me!
+100	message	Surely she wouldn't go that far?\nTo her own little sister...
+101	message	If she were the kind of sister\nI could believe that about, I wouldn't be this afraid.
+102	message	...
+103	message	Well, you're obviously healthy,\nso who needs a check anyway!
+104	message	True, Houki trains every morning at the crack of dawn—\nshe doesn't even have time to get unhealthy.
+105	message	More importantly, you're going out to have fun, right?\nBetter to have someone\nwho can guide you around.
+106	message	That would help.\nI still don't really know\nwhich shops sell what.
+107	message	Of course, of course.\nThen let's head\nsomewhere we can shop, shall we.
+108	message	Hmm, I wonder\nwhen you became such a thoughtful person.
+109	message	Don't be rude!\nI know at least that much!
+110	message	Enough fooling around—\nlet's head out.
+111	message	Satoko's right. Let's move out!
+112	message	I'm looking forward to it, mii! Nipah~!
+113	message	//Screen fades to black.
+115	message	This is the biggest shopping mall nearby.\nYou can get most things here.
+116	message	Ah! So many nice things!\nI have to be careful not to buy too much!
+117	message	Where are the crepes? I wonder?
+118	message	Everyone has shopping to do,\nso let's have an hour of free time,\nthen meet back here for crepes.
+119	message	I agree!
+120	message	I agree too!
+121	message	An hour? That'll be gone\njust trying on clothes.
+122	message	It takes that long?
+123	message	It really shows your personality.\nSome people decide in a flash,\nothers just can't choose.
+124	message	Then disperse! Meet back here in one hour.
+125	message	Yeah!
+126	message	...
+127	message	//Fade to black, time passes.\n//Background: town.
+128	message	Mii~.\nThere's so much I've never seen before~.
+129	message	Is it okay to go off on your own, away from Satoko?
+130	message	Satoko went with Aria\nto a shop with suspicious machine parts.
+131	message	Believe it or not, Satoko has a timid side too,\nand she wants to overcome it.
+132	message	It wouldn't be good\nfor me or Shion to always be by her side.
+133	message	I see.
+134	message	By the way, Houki, why are you\nfollowing me around this whole time?
+135	message	There've been more crimes targeting kids lately,\nso it's dangerous out there.\nAnd besides...
+136	message	If someone's being targeted, it's me, isn't it?
+137	message	...I thought saying that would ruin\nthis nice time we have,\nso I didn't mention it.
+138	message	I appreciate the concern.\nBut that's something\nI'm well aware of myself.
+139	message	I see.\nHonestly, you're not very childlike.\nNo wonder you're a handful.
+140	message	...Mii?
+141	message	All right! I'll free you from that\nunchildlike-ness!\nLet's go!
+142	message	Mii!?\nPlease don't pull me~.
+143	message	//The fake Houki approaches Rika. Shirayuki appears.
+144	message	Wait!
+145	message	Hm?
+146	message	Shirayuki...?
+147	message	Where do you intend to take Rika-chan?
+148	message	It's decided, obviously.\nA very special place I know.\nWant to come too, Shirayuki?
+149	message	Mii?
+150	message	That is... Yi Wu, isn't it!
+151	message	//Event CG: Shirayuki readying her kusarigama (reuse if possible).
+152	message	Shirayuki?
+153	message	Let go of Rika-chan's hand!\nIf you're really Houki-san, you can do that, right?
+154	message	Stop joking around!\nThe Akatsubaki is in maintenance—I can't use it!
+155	message	I see... that's why you chose now\nto impersonate Houki-san.\nBecause nobody would suspect you even if you can't deploy an IS!
+156	message	Mii!
+157	message	//Event CG off.
+158	message	...
+159	message	...When did you figure it out?
+160	message	When you said you ran away from your sister.
+161	message	You seemed to know a lot\nabout Houki-san and her sister's relationship,\nbut you didn't know about the change in Houki-san's feelings.
+162	message	Everything else was perfect.\nThat's exactly why that part stood out...!
+163	message	Hmm... it seems my estimation was\nnot wrong.\nYou are excellent, Hoshitogi Shirayuki.
+164	message	But you understand, don't you?\nI am touching Furude Rika.\nIf you move carelessly...
+165	message	//Houki changes into Jeanne.
+166	message	In an instant, Furude Rika's arm will freeze and shatter.
+167	message	...!?
+168	message	Jeanne d'Arc...!
+169	message	Follow me.\nThe moment you take any action disadvantageous to me,\nFurude Rika will become a pitiable sight.
+170	message	Shirayuki... please run...
+171	message	...Don't worry, Rika-chan.\nIt'll be all right...!
+172	message	//Battle map: forest.\n//Rika (immobilized) beside Jeanne, Shirayuki nearby. Allies arrive later as reinforcements.
+173	message	This place will do.
+174	message	What are you going to do with Rika-chan!
+175	message	Hand her over to the client.
+176	message	...That Mii and Kei, you mean.
+177	message	They seem quite interested in Furude Rika's power.
+178	message	But taking her to Yi Wu\nand studying her at leisure would be interesting too.
+179	message	Study... did you say...!
+180	message	Whichever hands she falls into,\nshe'll be a research subject either way.\nSo the question is which...
+181	message	Apologize!!
+182	message	What?
+183	message	"Interesting"? "Research"...?\nDon't mess with me! Apologize to Rika-chan!
+184	message	You can't escape the power you were born with,\nor the fate that comes with it.\nYou know that well yourself, don't you?
+185	message	That's...!
+186	message	A power no ordinary person can possess.\nNow that its existence is known,\nliving without being targeted is impossible.
+187	message	Pity can't save anyone.
+188	message	But...!!
+189	message	I brought you here\nbecause I recognized that you do\nhave the makings to come to Yi Wu.
+190	message	Follow me, Shirayuki.\nLearn and hone your power, and you will become a shining gem.
+191	message	Jeanne...!!
+192	message	...
+193	message	There's nothing to be torn about.
+194	message	Rika-chan...?
+195	message	You just need to fight and win, Shirayuki.\nI'm the princess waiting to be rescued.\nNipah~!
+196	message	Jesting, in this situation...
+197	message	I won't run or hide.\nIf Shirayuki loses,\nI'll quietly go with you.
+198	message	But if you fight with me as your hostage,\nI'll throw my life away for Shirayuki.\nAnd Shirayuki won't stop fighting until she dies.
+199	message	Rika-chan... that's not okay!!
+200	message	Shirayuki... you mustn't run\nfrom fate, from your power.\nI...
+201	message	I've decided to fight alongside you all.
+202	message	!!
+203	message	...
+204	message	If you don't want to go home empty-handed,\njust fight Shirayuki and make her surrender.\nCan you do that?
+205	message	Foolish... Hoshitogi Shirayuki has neither\nthe strength nor the resolve to fight me...
+206	message	I do!\nAccept my duel, Jeanne d'Arc!
+207	message	...!
+208	message	...Very well.\nThe word duel carries weight, you know?
+209	message	I believe I understand... more than you do!
+210	message	Wait for me, Rika-chan!\nI'll definitely win!
+211	message	//Battle begins.\n//Allied reinforcements after several turns.\n//But Aria appears later, so she can't be deployed yet.
+212	message	Rika-san! Shirayuki-san!
+213	message	Everyone!
+214	message	Sheesh, no wonder you weren't coming back!
+215	message	I'll save you now! Hang on!
+216	message	For the boors who would spoil a duel,\nI'll give them this.
+217	message	//Enemy reinforcements. Grunts deployed en masse to keep allies from approaching Jeanne and Shirayuki.
+218	message	Ngh, there's so many!!
+219	message	What the hell!
+220	message	That'll do. Now, let us continue!
+221	message	Just what I wanted!
+222	message	//Kei appears near Jeanne.
+223	message	...
+224	message	Ah!
+225	message	Wh!? What did you come here for!?
+226	message	Warning: mission has a critical error.\nRequesting correction.
+227	message	//A strong grunt appears near Shirayuki.
+228	message	!?
+229	message	You! You'd defile a duel!!
+230	message	Duel: incomprehensible.\nRecognized as an obstacle to mission execution.
+232	message	//Kei vanishes.
+233	message	Don't screw with me!!
+234	message	Huh, first time\nI've seen you get emotional.
+235	message	That voice!?
+236	message	//Aria appears.
+237	message	I was hiding, planning to snatch Rika\nwhen I saw an opening, but that's not the situation here.
+238	message	I'll punch a hole through this nuisance,\nso keep fighting your duel.
+239	message	Okay...!
+240	message	Kanzaki H. Aria... you have my thanks.
+241	message	...Hmph.
+242	message	//Event triggers when Jeanne is defeated.
+243	message	Tch!
+244	message	Jeanne, you can't run anymore... no,\nI've made it so you can't escape.
+245	message	I never intended to run in the first place!
+246	message	That's not it. Because from now on,\nyou will witness the forbidden demon arts\nhidden within the Hoshitogi shrine maidens.
+247	message	What...?
+248	message	//
+249	message	I... no, we Hoshitogi shrine maidens have inherited\nthe founder's power and name\nacross nearly 2000 long years.
+250	message	"Shirayuki" is a cover name to hide my true name.\nMy imina... my real name is...
+251	message	Himiko.
+252	message	//An effect of Shirayuki turning red, or something—if that's too hard, don't worry about it.
+253	message	Flames!? Flames on the blade!?
+254	message	Jeanne, that sword of yours... I'll cut it down!
+255	message	//Would it look unnatural in the art\nto use the battle skill Hihi no Hotogigami here? If so, let's not use it.
+256	message	Hoshitogi Souten style:\n"Hihi no Hotogigami"!!
+257	message	//Play a booming sound, flash the screen, then show the event CG.
+258	message	That's... impossible...!?\nDurandal was shattered...!?
+259	message	Will you... continue...?
+260	message	...
+261	message	//Event CG off.
+266	message	Demonic sword Durandal, you're under arrest!
+267	message	I won't resist.
+268	message	Perhaps I underestimated\nHoshitogi Shirayuki until the very end.
+269	message	Butei Law Article 9: a Butei cannot kill.\nThat's why Shirayuki couldn't\ndeal me a fatal blow.
+270	message	I fought with the resolve to never admit defeat, even if killed—\nI couldn't possibly lose to someone with no killing intent.\nAnd yet it ended like this.
+271	message	Haa, haa, haa...
+272	message	//Shirayuki collapses (sound effect).
+273	message	Shirayuki-san! Are you all right!
+274	message	My strength... is all... gone...
+275	message	But there's one thing I don't understand.\nSetting aside the power of the forbidden demon arts,\nhow could you fight me to a standstill when I far surpass you in combat experience?
+276	message	Jeanne.
+277	message	Rika! I've cuffed her,\nbut don't get close!
+278	message	It's fine,\nI'd like to have a little chat with her, just the two of us.\nNipah~!
+279	message	//Fade to black, time passes.\n//Background: town.
+280	message	What did you want to talk about?
+281	message	Shirayuki's fast asleep,\nso I'll explain in her place.
+282	message	//Event CG: Dark Rika speaks.
+284	message	Listen, 30th-generation Jeanne d'Arc.
+285	message	You have passed through 30 generations\nover 600 years... and for one-sixth of that—100 years—\nI have repeated death, remaining myself. Do you believe me?
+287	message	What do you mean...?
+288	message	You must know a little\nabout Hinamizawa.\nThe loop is triggered by my death.
+289	message	What did you say...!?
+290	message	I've repeated death, accumulating 100 years.\nI've lost count of how many times.
+291	message	This power to turn back time...\nit's not something you can use at will...?
+292	message	I have no proof. But Shirayuki believed me.\nAnd... feeling its weight,\nshe cried for me.
+293	message	Because she too bears the weight\nof over 2000 years of Hoshitogi time.
+294	message	...
+295	message	The one you dueled\nwas no longer an unpolished gem bewildered by her power.\nSo you need not be ashamed of your defeat.
+296	message	//Event CG off.
+297	message	I think I understand why my holy sword was broken.\nAnd the secret of your strength,\nwhich puzzled me all along...
+298	message	I see... good.
+299	message	//Fade to black.\n//Background: in front of IS Academy.
+300	message	Rika, what were you talking about with Jeanne?
+301	message	She told me\nwhether escargot is really delicious~.
+302	message	With a face like that, you're really a sly one.
+303	message	Takes one to know one. Nipah~!
+304	message	Yeah, yeah... anyway, we'll hand Jeanne over\nto the police via Butei High, so once the IS maintenance is done,\nwe're moving out.
+305	message	Okay.\nWill Shirayuki be better by then?
+306	message	No need to worry about that.\nA super-detective's power drains mental strength,\nbut once that recovers she's fine.
+307	message	You of all people should know\nhow much mental training Shirayuki's done as a shrine maiden,\nRika.
+308	message	Then I can rest easy.
+309	message	//Fade to black.\n//Background: classroom.
+310	message	The medical check's finally over.
+311	message	Everyone's healthy, body and mind! No issues!\nWell, obviously!
+312	message	...
+313	message	The Akatsubaki's issues still aren't resolved?
+314	message	Yeah, there's apparently no fixing\nthe poor energy efficiency for now.
+315	message	The price of high performance, I guess.
+316	message	For now we'll have to manage as-is.\nWhat of it—I just need to handle it well myself!
+317	message	That's the most suspicious part...
+318	message	Don't say it! ...Come to think of it, where's Cecilia?
+319	message	Look, over there.
+320	message	Hafuu... I'm sleep-deprived...
+321	message	//END

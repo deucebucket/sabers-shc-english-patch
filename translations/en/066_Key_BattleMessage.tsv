@@ -1,0 +1,137 @@
+row	column	english
+3	message	「Combat area scanned. Enemy forces confirmed.\nInitiating combat.」
+4	message	「Enemy contact confirmed. Eliminating.」
+5	message	「Open combat. Ready.」
+6	message	「Hostile intent detected.」
+7	message	「Combat start.」
+8	message	「Not that I am interested in destruction.\nIt is my mission.」
+9	message	「I merely follow Mother's orders.」
+10	message	「Mother's words cannot be wrong.」
+11	message	「Going at full power.」
+12	message	「You... I will destroy.」
+13	message	「Mother's order is extermination. Prepare yourself.」
+14	message	「Emotions only hinder combat.」
+15	message	「That emotion is anger, I presume. Irrelevant, however.」
+16	message	「Revenge? That changes nothing I must do.」
+17	message	「Combat area scanned. Enemy forces confirmed.\nInitiating combat.」
+18	message	「Enemy contact confirmed. Eliminating.」
+19	message	「Open combat. Ready.」
+20	message	「Hostile intent detected.」
+21	message	「Combat start.」
+22	message	「Not that I am interested in destruction.\nIt is my mission.」
+23	message	「Long-range fire risk detected.\nRaising alert level.」
+24	message	「Combat area scanned. Enemy forces confirmed.\nInitiating combat.」
+25	message	「Enemy contact confirmed. Eliminating.」
+26	message	「Open combat. Ready.」
+27	message	「Hostile intent detected.」
+28	message	「Combat start.」
+29	message	「Not that I am interested in destruction.\nIt is my mission.」
+30	message	「Lifeform... erasing unidentified entity.」
+31	message	「Combat area scanned. Enemy forces confirmed.\nInitiating combat.」
+32	message	「Enemy contact confirmed. Eliminating.」
+33	message	「Open combat. Ready.」
+34	message	「Hostile intent detected.」
+35	message	「Combat start.」
+36	message	「Not that I am interested in destruction.\nIt is my mission.」
+37	message	「Behavior pattern is unexpected. What is this movement...」
+38	message	「Combat area scanned. Enemy forces confirmed.\nInitiating combat.」
+39	message	「Enemy contact confirmed. Eliminating.」
+40	message	「Open combat. Ready.」
+41	message	「Hostile intent detected.」
+42	message	「Combat start.」
+43	message	「Not that I am interested in destruction.\nIt is my mission.」
+44	message	「Going at full power.」
+45	message	「This ends it.」
+46	message	「Shifting to final mode.」
+47	message	「Stopping this is now impossible.」
+48	message	「Vengeance ends here as well.」
+49	message	「Going at full power.」
+50	message	「This ends it.」
+51	message	「Shifting to final mode.」
+52	message	「Enemy forces confirmed alive. Continuing combat.」
+53	message	「Destruction failed. Reviewing enemy durability data.」
+54	message	「Adjusting firepower... next time I will surely exterminate you.」
+55	message	「...This data is...?」
+56	message	「If I annihilate you,\nthis noise ringing in my head will surely...」
+57	message	「Past events are mere data.」
+58	message	「Enemy forces confirmed alive. Continuing combat.」
+59	message	「Destruction failed. Reviewing enemy durability data.」
+60	message	「Adjusting firepower... next time I will surely exterminate you.」
+61	message	「I am often told I lack playfulness.」
+62	message	「Further destruction is pointless.」
+63	message	「Combat has ended.」
+64	message	「Mission complete. Moving to next combat zone.」
+65	message	「Combat over...」
+66	message	「I am now... feeling 'fun'...?」
+67	message	「This is... joy...?」
+68	message	「Emotions are meaningless before power.」
+69	message	「I am often told I lack playfulness.」
+70	message	「Further destruction is pointless.」
+71	message	「Combat has ended.」
+72	message	「Mission complete. Moving to next combat zone.」
+73	message	「As predicted.」
+74	message	「Dodge successful.」
+75	message	「Hit probability: 0%.」
+76	message	「Judged to be no obstacle.」
+77	message	「No damaged areas.」
+78	message	「Damage is minor... continuing combat.」
+79	message	「Damage at this level: combat continuation judged possible.」
+80	message	「Damage percentage... rising.」
+81	message	「At this rate, the mission will be compromised...」
+82	message	「Ngh... the noise...」
+83	message	「This power... what is it...」
+84	message	「Emotions are increasing power...? I do not understand.」
+85	message	「Continuing combat is difficult... retreating.」
+86	message	「Mother... my apologies...」
+87	message	「Tch... mission failed...」
+88	message	「Mission completion judged impossible... retreating temporarily.」
+89	message	「Tch... what is your power...」
+90	message	「To think I cannot win even in this state...」
+91	message	「Far beyond my predictions...\nThis is human power...」
+92	message	「Emotions...?\nTo grow this strong from such a thing...」
+93	message	「You will not escape.」
+94	message	「Target acquired.」
+95	message	「Lock-on.」
+96	message	「Fire all!」
+97	message	「Found you.」
+98	message	「Wherever you run...」
+99	message	「You cannot escape me.」
+100	message	「It is over!」
+101	message	「Change: Bit Mode.」
+102	message	「Purge.」
+103	message	「Purge complete.」
+104	message	「Attack start.」
+105	message	「I...」
+106	message	「I can also use this kind of attack.」
+107	message	「Now.」
+108	message	「Can you dodge?」
+109	message	「Combat sequence, pattern alpha.」
+110	message	「Starting...」
+111	message	「You cannot escape now.」
+112	message	「Shifting to final stage.」
+113	message	「This beam...」
+114	message	「Erasing everything.」
+115	message	「Sequence complete.」
+116	message	「Attack start.」
+117	message	「Shot!」
+118	message	「You will not escape.」
+119	message	「Beginning energy charge.」
+120	message	「Overload.」
+121	message	「Fire.」
+122	message	「The End.」
+123	message	「Combat sequence, pattern beta.」
+124	message	「Start.」
+125	message	「Fire.」
+126	message	「Shifting to final sequence stage.」
+127	message	「Overdrive.」
+128	message	「This ends it.」
+129	message	「Sequence complete.」
+130	message	「Hmph.」
+131	message	「Change: Blade Mode.」
+132	message	「Mode start.」
+133	message	「No escape.」
+134	message	「Ending this now.」
+135	message	「Full power.」
+136	message	「Going.」
+137	message	「Shifting to search mode.」
+138	message	「Hah!」

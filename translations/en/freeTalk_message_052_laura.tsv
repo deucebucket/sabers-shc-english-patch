@@ -1,0 +1,270 @@
+row	column	english
+4	message	............
+5	message	Laura?\nSleeping propped up like that...
+8	message	Halt!\nOne step closer and...
+9	message	Eep...!
+10	message	Hm? You're...\n............\nMmm...
+11	message	Did you forget?\nIt's [CLAUDE].
+12	message	No, I do remember, more or less.\nI believe I've seen you.
+13	message	What are you doing there?\nDepending on your answer, you won't walk away unscathed.
+14	message	Schwarzer Regen\nwill crush you.
+15	message	I-I'm sorry...\nCould you lower that IS's arm...?
+16	message	...Very well.\nNow, what are you up to?
+17	message	Did you think I was asleep and go for my neck?
+18	message	I wouldn't do that!\nUm...\nyou looked tired, so I was just going to call out to you...
+19	message	Hm...\nSo you're the kind of man who calls out to a sleeping woman...
+20	message	All the more reason I can't let my guard down around you.
+21	message	I was resting, yes,\nbut I never dropped my guard.
+22	message	One more step and\nyou'd have been a charred corpse.
+23	message	Charred...\nCome on, you don't need to be that on guard...\nAren't we allies already?
+24	message	...\nI can't say for sure everyone's my ally.
+25	message	Especially with the likes of you —\nvigilance is the only option.
+28	message	Oh, come on~!\nI wouldn't do anything like that.
+29	message	...And I'm supposed to believe that?\nUnlikely.
+32	message	So I'm still not your ally...\nThat's a little sad...
+33	message	No need to look so down.\nIt's just a question of whether\nI can trust you.
+36	message	...That's how it is...\nGive it up...
+37	message	Huh? You raised that IS arm —\nis something wrong...?
+38	message	I still can't believe you're my ally.\nAnd I can't rule out\nthat you're in disguise.
+39	message	So I'll test you.\nYou've already survived fighting me.\nSurely you can handle this much.
+42	message	Wh-whoa, that was close!!\nWhat if that had hit me!?
+43	message	...You dodged it?\nI wasn't serious, but...\nat this range...
+44	message	You...
+45	message	(Her eyes are terrifying!!\nGotta get away before she shoots again!!)
+46	message	W-wait!!\nOr I'll shoot!!
+49	message	It dodged again...?
+50	message	(Eeeek...\nHow did it come to this...)
+53	message	Found you...\nPerfect timing.
+54	message	Huh? Wh-what is it?\nI'm... um... busy, so...
+55	message	No running.\nThis time I'll hit you for real.
+56	message	It's nothing much —\nI just want to ask you two or three questions.
+57	message	Clear my suspicions\nand I'll let you go at once.
+58	message	Then, I ask:\nare you confident in your running?
+59	message	My running...?\nThat much, I have...\n...More or less.
+60	message	I see.\nIs that some kind of ability?
+61	message	Don't tell me...\nyou can use an IS?
+62	message	There's no precedent\nfor a man using an IS...\nbut from another world, there's no way to check.
+63	message	I thought maybe\nyou used instant acceleration\nwhen you dodged my cannon fire.
+64	message	Otherwise, there's no way\nyou could've dodged my attack from that position.
+65	message	Igni... huh? What's that...?\nI don't really understand, but...\nI don't have an IS, and I don't have that kind of power.
+66	message	Not instant acceleration!?\nThen how...?
+67	message	Even if I wasn't serious,\nthat was no attack you could just dodge.
+68	message	...Fascinating.
+71	message	Um... I just sensed the danger.\nRan for dear life... that's all.
+72	message	Hm...\nThat too is a fine ability.\nSomething attacks can't hit is a threat.
+75	message	Maybe... it just missed?\nThe barrel was off, or...
+76	message	Mock Schwarzer Regen\nand I won't forgive you.
+77	message	My attack was perfect.\nOf that there is no doubt.
+80	message	One... favor. Will you do it?
+81	message	Wh-what is it...?
+82	message	I want some of your time later.\nThere's something I want to try.
+83	message	...Refusal is not accepted.\nDon't run.
+84	message	If you try to flee,\nI'll hunt you down with everything I've got.
+85	message	Understood...\nI couldn't run anyway...
+86	message	(...I have nothing but... bad feelings about this.)
+87	message	Well, that'll do for today.\nLater.
+90	message	Well.\nYou've come as promised.
+91	message	So... you know what this is about?
+92	message	Um... I'd rather not know...\nYou're not planning to shoot me, are you?
+93	message	Don't make it sound so bad.\nYou're good at dodging, right?\nSo let me practice my artillery on you.
+94	message	There's a big difference\nbetween aiming at a still target\nand one that can't be hit.
+95	message	Which makes you the perfect target.
+96	message	...That doesn't make me happy at all.
+97	message	You're the only one\nI can ask this of.
+98	message	What do you say?\nWill you do it?
+101	message	Fine...\nBut go easy on me, okay...
+102	message	I'll be as careful as I can.\nThe danger won't fully go away, but...\nyou'll be fine.
+105	message	What if I say no?
+106	message	Then it can't be helped...\nFor defying me,\nSchwarzer Regen will blow you to smithereens.
+107	message	So... either way,\nI'm getting shot at...?
+108	message	...You noticed?\nQuite clever.
+111	message	Begin.\nDodge for your life!
+114	message	...You dodged again.\nTo think MY shots could be dodged like this...
+115	message	You're the real deal, then.
+116	message	Next!
+119	message	Whoa!\nThat nearly grazed me!?
+120	message	It didn't graze you, did it...\n?\nAnd here I am shooting every one with intent to hit.
+121	message	Then how about this?
+122	message	Whaaat!?\nNobody said anything about close combat!!
+123	message	You left an opening!
+126	message	...!?\nThat was close...!\nWhat if it had hit me!?
+127	message	...This one too.\nEven I'm starting to lose confidence...
+128	message	Well, whatever.\nThis was enough of a test.
+129	message	No IS power,\nyet your mobility spikes when you dodge...
+130	message	As a research subject...\nyou might do nicely.\nRight, next I'll—
+131	message	S-sorry!\nI'm a little busy, so... bye!
+132	message	W-wait!\nI won't treat you badly!\nYou'll be guaranteed proper treatment.
+133	message	(Being your research subject sounds WAY worse!)
+136	message	Moe... what is it?
+137	message	...Where did that come from?
+138	message	Mhm.\nThere's a concept in this world called moe, no?\nAnd it's supposedly one of Japan's proudest cultures...
+139	message	I heard it while with the German army.\nDon't underestimate my intelligence network.
+140	message	That's quite the biased source...\nWho told you that...?
+141	message	That's none of your concern.\nNow, teach me moe.\nDon't think you have the right to refuse.
+142	message	It's a culture Germany lacks.\nIf Japan has such a thing,\nI shall learn it.
+143	message	Moe... it's hard to explain...\nF-for example... Dejiko, maybe...
+144	message	What? That cat-eared girl?\nWhat about her?
+145	message	I think a lot of people\nfeel moe when they look at Dejiko...
+146	message	I don't follow.\nI demand a more concrete explanation.
+147	message	Or is moe a concept\nonly Japanese can understand?
+148	message	I don't think that's the case... probably.
+151	message	For example...\nif YOU wore cat ears, Laura...
+152	message	M-me?\nImitating that cat-eared girl?
+153	message	...Mhm. If that is moe,\nthen becoming it myself...\nstands to reason...
+156	message	Probably... it's close to 'cute', I think...
+157	message	Then just say cute.\nNo need for other words.
+160	message	I still don't quite get it.\nIf only there were something easier\nfor me to grasp...
+161	message	...My waifu...
+162	message	...What?\nSomething wrong with a wife?
+163	message	My wife is Hibiki, that's decided.\nI will never give her up.
+164	message	That's... probably similar.\nWhat you feel for Hibiki right now.
+165	message	That might be close to the feeling of moe...
+166	message	This is... moe.\nThen I've been feeling it all along.
+167	message	I don't want to break her...\nbut I feel an urge to break her all the same.
+168	message	But then there's the contradiction —\nwanting her all to myself,\nyet wanting to watch Hibiki be free.
+169	message	...I see.\nThis complicated feeling... is moe.
+170	message	Japanese culture...\nis a strange thing...
+172	message	(It's hard to define, so...\nI don't know if that's right...)
+175	message	Mhm...
+176	message	What are you agonizing over with your arms crossed?
+177	message	...Which of these is better.\nThat's what I'm agonizing over.
+178	message	They're hair ornaments...\nBlue... or pink...\nIt's difficult...
+179	message	Which one suits her...
+180	message	Even you agonize over things, Laura.
+181	message	What do you take me for.\nI agonize like anyone else.
+182	message	I just avoid wasting time\nas much as possible.
+183	message	Normally I'd decide\nin an instant, but...
+184	message	Somehow, I can't.\nI'm feeling that moe thing\nyou taught me the other day.
+185	message	(Huh? Moe for hair ornaments?\nShe's using it a little wrong...)
+186	message	Both are bound to be cute.\nWhat should I do in that case...
+187	message	When torn between two things,\nwhat would you do?
+190	message	When I really can't choose...\nI get both.
+191	message	Normally I'd do the same.\nBut... to borrow a phrase...\nyou have no restraint...
+192	message	(Wh-why... am I being shot down?)
+195	message	I'd think about which one suits her...
+196	message	Which suits her...\nthe same situation I'm in.\nRight now in my head I'm picturing her wearing each hair clip, narrowing it down.
+197	message	And that's what I'm torn about.
+200	message	This one suits her... I'm sure.
+201	message	Wh-what are you doing!\nI don't wear hair clips...
+202	message	H-hey! Don't just put it on me!
+203	message	Look, it suits you really well, Laura.
+204	message	Enough.\nI don't wear hair clips to begin with...
+205	message	But you were agonizing over the hair clips, right?\nThat's what I heard.
+206	message	I was, but...\nthese aren't mine, they're for my wife...
+207	message	...\nYou look really cute, Laura.
+208	message	M-me? That doesn't matter...!\nI was picking something to give my wife!
+209	message	M-me, cute...?\nNo! My wife is far cuter!\nI can say that with certainty!
+210	message	Ah, it's a present for Hibiki...\nI thought it was for you...
+211	message	Well, still...\nI see...\nIf that's your opinion, I'll give Hibiki the other one.
+212	message	I thought this one\nsuited Hibiki better anyway.
+213	message	That was valuable input.\nMy thanks.
+214	message	(Laura... thanking me...?\nNo, it's not weird, but...\nI didn't expect it from her...)
+217	message	If you were going on a date,\nwhere would you take her?
+218	message	...That's sudden...
+219	message	The point got across.\nThat's enough...
+220	message	Or do you need an explanation?\nI'd rather skip such trouble.\nFine.
+221	message	Suppose you...\nsay...\nwere lucky enough to go out with a certain woman.
+222	message	For you, it'd be\nthe stage of a lifetime.
+223	message	You don't have to go that far...
+224	message	No need to posture.\nHear it as a hypothetical.\nA fantasy.
+225	message	When you decide where to go,\nwhere would it be?
+226	message	...That's hard...
+227	message	Obviously.\nOtherwise I wouldn't be agonizing over it.
+230	message	The movies, maybe...?\nIt's the classic choice.
+231	message	I see, that was a candidate.\nBut in that case...\ndoesn't what comes after depend on the movie you pick?
+232	message	Ah...!\nYou're right...
+233	message	You hadn't thought that far...\nThat won't do.
+236	message	How about an amusement park...?
+237	message	True... that could work.\nBecause you can enjoy it together.
+240	message	Mhm... I see.\nThat's the extent of your ideas...
+241	message	If that'd make her happy, fine...\nHm, well...\nClarissa mentioned those as candidates too...
+242	message	Also... how about an arcade?
+243	message	An arcade?\nFor a date?\nI have no such data...
+244	message	Is that really an option?\nYou're not trying to trick me, are you?
+245	message	I-I wouldn't do that...\nYou're precise with IS controls,\nso I thought it might suit you...
+246	message	...\nI see.\nNot just matching the other person, but mixing in my own strengths...
+247	message	That... may indeed be an effective move.
+248	message	Mhm. Understood.\nI'll take it under advisement.
+249	message	...I'll confirm with Clarissa too...
+251	message	(...That was a date question, but...\nwho is she planning to ask out?)
+252	message	(...The opposite sex... that's just me, right.\nCould this be... an invitation for me?\n...No way.)
+255	message	............
+256	message	Huh? Laura's asleep again.\nW-wait... am I inside her range!?
+257	message	Nn...?
+258	message	Ah, um, this is... I mean.\nI didn't notice...\nI didn't mean to step into range...
+259	message	...You?\nI fell asleep without realizing...
+260	message	Hm? What's wrong?\nCovering your face.\nWhat's the idea?
+261	message	Huh...?\nDidn't you say you'd attack with your IS if someone entered your range while you slept...?
+262	message	...Relax.\nI won't attack over that anymore.
+263	message	Unless you get REALLY close...
+264	message	Though...\nmy attacks don't hit you anyway.
+265	message	So being on guard\nis meaningless anyway.
+266	message	N-no... it might hit next time...
+267	message	Shall we try...?\n...Well, we can test that another time.\nMore importantly...
+268	message	Because allies are nearby...?\nThat I can sleep so defenselessly...
+269	message	(Just now, Laura...\n'allies'... she means me, right...)
+270	message	...Unthinkable not long ago.\nTo go so soft in such a short time.
+271	message	Soft...? That's not it.\nThat's... trust.
+272	message	Trust...\nAptly put... I don't hate it.
+273	message	Let's leave it at that.
+274	message	By the way, do you need something from me?
+277	message	About that date talk the other day...
+278	message	That's nothing\nfor you to worry about.
+279	message	It's all my business.
+280	message	(...Is Laura saying...\nshe'll invite me...?)
+283	message	You were sleeping here...\nI thought it'd be bad if you caught a cold.
+284	message	I see. You were worried about me.\nBut... I'm fine.\nI won't catch a cold from this.
+287	message	Sorry, but let me sleep a little longer.
+288	message	...I must've been too on edge...\n............
+289	message	...She's already asleep...\nShe must be really tired...
+290	message	There might be an invitation coming...\nuntil then, I'll pretend I don't know.
+293	message	H-hey...\nIt's time... Wake up.
+294	message	Time...?\nDid we have something...?\nHuh? Laura, that outfit?
+295	message	G-go ahead and laugh if you want!\nI didn't plan on dressing like this.
+296	message	...I won't laugh.\nIt suits you really well.
+297	message	I see! Th-that's... well.\nToday's special, you know...\nThis outfit is... just for today.
+298	message	Let's move to the café.\nWe're blocking the way.
+301	message	Here's the menu.\nOrder what you like.
+302	message	But... my recommendation is oden.
+303	message	...Oden... at a café?
+304	message	Objecting?\nIt's a well-liked meal in Japan, no?
+305	message	I prepared it based on that information.
+306	message	If you object, you don't have to order...
+307	message	N-no. I'll have it.\nThe oden.
+308	message	A wise decision.\nI'll bring it right out.
+311	message	Here.
+312	message	...\nSkewered — an old-fashioned, classic presentation...
+313	message	I learned it from a book.\nIt shows up a lot in Japanese manga,\nso I found it right away.
+314	message	It's that beloved, then.
+315	message	(...Did she reference a slightly old manga...)
+316	message	So... how is it?\nThe taste of my oden.
+317	message	It's really delicious.
+318	message	I-I see! Then good.\nEat as much as you like.
+319	message	I've caused you a lot of trouble...\nThis is my apology...
+320	message	An apology... I'm happy.\nTo have someone as cute as you do this for me.
+321	message	C-cu... cuuut...\nG-gahh! Wh-what are you saying!!
+322	message	A-again... What's wrong with me lately...?\nI can't calm down... What did you do to me?
+323	message	Is this your...\nOne-Off Ability...?
+324	message	This power is unfair... Neutralizing me...\nIt must not be!
+325	message	You're... my wife too.\nFrom now on, you're my wife as well! No objections!
+326	message	I am... your...
+329	message	Hm...? Where...?\nI fell asleep here...
+330	message	There's being defenseless, and then there's this.
+331	message	Laura!?\nHuh...? You're in uniform...
+332	message	Obviously.\nI wear this most of the time.
+333	message	Still half-asleep, are you.
+334	message	Wh-what... it was a dream...\nWhat a shame...
+335	message	Now...\nthere's something I need to tell you.
+336	message	Y-yes.
+337	message	(...An invitation?)
+338	message	Thanks to you, it went well.\nMy thanks.
+339	message	I was able to ask Hibiki on a date.\nI gave her the hair clip, and she was happy.
+340	message	Look.\nI wear one, and Hibiki wears the other.\nIt's what they call matching.
+341	message	With this, Hibiki is even more my wife.
+342	message	Huh? All of that was... for Hibiki?\nThen what about me?\nTo you, Laura... what am I?
+343	message	Don't ask strange things.\nI've never thought about it, but...
+344	message	If Hibiki is my wife,\nthen you...
+345	message	are my neighbor.
+346	message	N-neighbor...!?\nNo way...
+347	message	That's all for my report.\nIf anything comes up, I'll consult you again.
+349	message	(Seriously...\nI really jumped to conclusions there...)
