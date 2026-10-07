@@ -74,6 +74,28 @@ def utf_field_offsets(data):
     return offsets
 
 
+def choose_storage(raw):
+    """Return the bytes to store in the CPK for a replaced file.
+
+    CRI's CPK reader decides whether a member is compressed from the TOC
+    alone: FileSize == ExtractSize means "stored raw", anything else means
+    "CRILAYLA, decompress to ExtractSize".  The original ShcPack.cpk follows
+    that rule (502 stored members, 1,332 CRILAYLA members, no exceptions).
+
+    So a CRILAYLA stream whose length happens to equal the uncompressed
+    length is poison: the game hands the raw compressed bytes to the CSV
+    parser.  That is exactly what v2/v3 shipped for four 328-byte files
+    (100_Roper/120_Noise/145_Slime/165_Mieru_BattleMessage.csv) and it is
+    the null-pointer crash at PC 0x42e518 when Tsubasa attacks the Noise
+    (issue #3).  Store raw whenever compression does not shrink the file;
+    that is also what the original packer did for its small members.
+    """
+    comp = compress_crilayla(raw)
+    if len(comp) >= len(raw):
+        return raw
+    return comp
+
+
 def patch_u32(blob, off, val):
     return blob[:off] + struct.pack('>I', val) + blob[off + 4:]
 
@@ -126,9 +148,10 @@ def repack(orig_path, replacements, out_path):
         if ipath in replacements:
             with open(replacements[ipath], 'rb') as f:
                 new_raw = f.read()
-            comp = compress_crilayla(new_raw)
+            comp = choose_storage(new_raw)
             extract_size = len(new_raw)
-            print('PATCH %s: %d -> %d bytes' % (ipath, orig_size, len(comp)))
+            print('PATCH %s: %d -> %d bytes%s' % (ipath, orig_size, len(comp),
+                  '' if comp is not new_raw else ' (stored raw)'))
         else:
             comp = orig[orig_off:orig_off + orig_size]
             extract_size = r['ExtractSize']
