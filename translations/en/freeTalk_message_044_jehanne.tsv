@@ -2,11 +2,11 @@ row	column	english
 4	message	…Need something?
 5	message	(What do you say at a time like this?)
 6	message	Um, thank you for your service.
-7	message	Wh—!
+7	message	Wh-!
 8	message	What are you saying? I was never\nimprisoned to begin with. I got out\nthrough a plea deal.
 9	message	True, I was arrested once, but in exchange for\nproviding information and confessing…\nI was released right away…
 10	message	Um, why do you look like you're about to cry?
-11	message	D-don't be absurd! I would never—\nbe on the verge of tears from remembering…
+11	message	D-don't be absurd! I would never-\nbe on the verge of tears from remembering…
 12	message	(Something happened to her after the arrest…)
 15	message	Were you, like, tortured…?
 16	message	No, interrogated. At least, that's what\nthey insisted.
@@ -22,7 +22,7 @@ row	column	english
 30	message	It's a school that raises Butei, so naturally\nthe faculty are Butei of great skill, too.
 31	message	But whatever their skill, every last one of them\nis broken as a person…
 32	message	Where they took me was a place called\nButei High's interrogation department.
-33	message	There, a female teacher with a strange look in her eyes\nwas waiting, smoking something like a cigarette—\ncouldn't tell if it was legal or not.
+33	message	There, a female teacher with a strange look in her eyes\nwas waiting, smoking something like a cigarette-\ncouldn't tell if it was legal or not.
 34	message	There, I…
 35	message	…Jehanne-san?
 36	message	I-I can't go on…\nI went through something truly terrifying…
@@ -52,11 +52,11 @@ row	column	english
 68	message	How things turned out. You drifted along\nand ended up here, in other words.
 69	message	Well, yeah.
 70	message	I don't think this is something you can\ntag along with just because that's how things\nturned out…
-71	message	Unknown enemies, repeated battles,\nimminent danger, life-or-death crises—\nnothing but that, I'd think.
+71	message	Unknown enemies, repeated battles,\nimminent danger, life-or-death crises-\nnothing but that, I'd think.
 72	message	I don't understand your thinking.
 73	message	Don't scare me like that…\nWell, it's worked out so far,\nso I think it'll be fine from here on too. Probably.
 74	message	No one knows what lies ahead.
-75	message	No—Seika's shrine maiden, Shirayuki,\ncan supposedly do fortune-telling that sees\nthe future, I hear.
+75	message	No-Seika's shrine maiden, Shirayuki,\ncan supposedly do fortune-telling that sees\nthe future, I hear.
 76	message	Why not get a reading?\nBefore you lose your life.
 77	message	R-right… I'll ask her later.
 78	message	Just be careful not to lose your life.
@@ -66,11 +66,11 @@ row	column	english
 85	message	Um, Jehanne-san?
 86	message	Hm… can such a thing be allowed?
 87	message	(She doesn't seem to hear me…\nWhat is she doing?)
-88	message	Their feelings not reaching each other—absurd…
+88	message	Their feelings not reaching each other-absurd…
 89	message	(Looks like she's reading manga.\nShoujo manga, apparently.)
 90	message	Guh! So the two of them can never\nbe together…
 91	message	Jehanne-san, is that manga?
-92	message	Wh—! You…!
+92	message	Wh-! You…!
 95	message	Do you like shoujo manga?
 96	message	Huh? Y-yeah. Japanese romance manga are\nwonderful… I mean, that's not it!
 97	message	(She's flustered for once.)
@@ -94,11 +94,11 @@ row	column	english
 121	message	That was close!
 122	message	Ho, well dodged! But next time\nwon't go so well!
 123	message	Eep!
-126	message	Wh—! Wait!
+126	message	Wh-! Wait!
 127	message	What incredible speed…\nCan a human even move like that…?
 128	message	So you haven't survived this long for nothing.\nThat evasion ability is quite something…
-131	message	(That was close… So Jehanne-san was keeping\nher shoujo manga a secret. I'll keep quiet—\nif I don't, it'll be scary later…)
-134	message	…You seem to be either a fool or a big shot—\none or the other.
+131	message	(That was close… So Jehanne-san was keeping\nher shoujo manga a secret. I'll keep quiet-\nif I don't, it'll be scary later…)
+134	message	…You seem to be either a fool or a big shot-\none or the other.
 135	message	Did you forget that I nearly cut you down\nthe other day?
 136	message	That's why… I won't tell anyone, so\nplease let me off…
 137	message	Is that true?
@@ -165,7 +165,7 @@ row	column	english
 213	message	The prime example is weaponry.\nTanks, fighter jets, battleships.\nGuns and the like, too.
 214	message	All weapons are designed to reassure allies\nand strike fear into the enemies facing them.
 215	message	Some self-destruct under the pressure.\nThat happens in sports and gambling too,\nnot just combat, right?
-216	message	So I am absolutely not a narcissist—\nI was merely training to gain the upper hand!
+216	message	So I am absolutely not a narcissist-\nI was merely training to gain the upper hand!
 217	message	(That just looks like she's covering\nher embarrassment…)
 218	message	Did you say something?
 219	message	No, nothing.
@@ -190,11 +190,11 @@ row	column	english
 242	message	Oh, and I've finished all of these manga,\nso read them as you like.
 245	message	Is it interesting?
 246	message	Depends on the reader's taste, but\nat least I find it interesting.
-249	message	I just remembered—wasn't this a secret?
+249	message	I just remembered-wasn't this a secret?
 250	message	You already know about it.
-251	message	Besides, the urge to share something\nI found interesting with others—\nI have that too.
+251	message	Besides, the urge to share something\nI found interesting with others-\nI have that too.
 252	message	According to Riko, that kind of behavior\nis called 'evangelizing.'
-253	message	Hmph. For me, the 30th Joan of Arc,\nto evangelize—ironic, I find.
+253	message	Hmph. For me, the 30th Joan of Arc,\nto evangelize-ironic, I find.
 254	message	(That smile is scary…)
 255	message	By the way, what's the one you're reading now about?
 256	message	A love romance between a café clerk\nand a customer.
@@ -202,7 +202,7 @@ row	column	english
 258	message	This uniform is cute…
 259	message	Huh?
 260	message	No, nothing…
-261	message	(She doesn't just like manga—\nI wonder if she's interested in cute clothes too?)
+261	message	(She doesn't just like manga-\nI wonder if she's interested in cute clothes too?)
 262	message	(Sharing a secret like this… I feel like\nwe've gotten a lot closer…)
 265	message	I want your opinion. What do you think\nof this?
 266	message	This… the drawing? You mean?
@@ -215,7 +215,7 @@ row	column	english
 275	message	Yes. I think it's fair to say so.
 276	message	(Why is she embarrassed?)
 279	message	Give me a hint!
-280	message	What are you saying?\nNo hint needed—you can tell by looking.
+280	message	What are you saying?\nNo hint needed-you can tell by looking.
 281	message	(No good…)
 284	message	So? Don't you think anything?\nIt doesn't reach the great artists, of course,\nbut it's quite good.
 285	message	And don't you think it suits me?\n…Could your opinion differ?
@@ -232,7 +232,7 @@ row	column	english
 297	message	(She was acting strange, too.\nNormally she wouldn't be embarrassed\nto show a drawing…)
 300	message	Huh? I came to see Jehanne-san, but\nwhere is this…?
 301	message	Follow me. This way.
-302	message	That voice—is that you, Jehanne-san?
+302	message	That voice-is that you, Jehanne-san?
 303	message	Yes, I'm inside this classroom.
 306	message	Th-this is…?
 307	message	I prepared it for you.\nCome, entrust your body and soul to me.

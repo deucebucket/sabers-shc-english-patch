@@ -1,13 +1,13 @@
 row	column	english
 4	message	W-wait! Time! Tiiime-out!\nRiko's still in her underwear!
 5	message	Huh?!
-8	message	Kufu. Peeking on Riko, the peeping expert—\nnot bad.
+8	message	Kufu. Peeking on Riko, the peeping expert-\nnot bad.
 9	message	You're a top-class pervert!\nKufufu!
 10	message	Getting seen in such an indecent state\nreally gave me a little jolt, honestly!
 11	message	(Why is she suddenly being polite…)
 12	message	It was beyond my control…!\nI mean, nobody would expect someone\nstripping in a place like this…
 13	message	Nooo, you don't get it!\nThe thrill is the whole point!
-14	message	Besides, I was in a hurry—\nI have to fix my parachute fast,\nor I'll be in trouble when I need it!
+14	message	Besides, I was in a hurry-\nI have to fix my parachute fast,\nor I'll be in trouble when I need it!
 15	message	That's the one you usually wear\nas your uniform, right?
 16	message	Yup yup. Wow, you really were looking.\nNaauughty~
 17	message	(Whatever I say, I just dig myself deeper…)
@@ -24,11 +24,11 @@ row	column	english
 34	message	Huh? Did you maybe believe it\nfor a second there?
 35	message	I did not!
 36	message	Kufufu! That was hilarious!\nSuch a genuine reaction!
-37	message	Oh, I'm doing the rest over there,\nso no peeking—bad!
+37	message	Oh, I'm doing the rest over there,\nso no peeking-bad!
 38	message	If you peek, I'll get all huffy and pounce on you.\nAnd I'll tell the scary big sisters on you?
 40	message	(Ugh, what a nuisance…\nIs that what they call a troublemaker?)
 43	message	Hm? This outfit? A white-lolita-style arrangement\nof the Butei High girls' uniform!\nMy pride and joy!
-44	message	Not that—the one you're sewing by hand,\nand the clothes scattered around here.
+44	message	Not that-the one you're sewing by hand,\nand the clothes scattered around here.
 45	message	This? This is sweet lolita,\nand that one's a princess-lolita offshoot!
 46	message	Which one's your type?
 47	message	I can't tell the difference…
@@ -39,7 +39,7 @@ row	column	english
 52	message	Well, there's a top-class pervert around!
 53	message	(Dug myself deeper again…)
 54	message	What's that in the back?\nIt doesn't look like sweet lolita or anything.
-55	message	That stuff over there is my work outfit—\nhobby and business combined!
+55	message	That stuff over there is my work outfit-\nhobby and business combined!
 56	message	Like flight-attendant uniforms, police uniforms!\nThere's even a bunny-girl outfit!
 57	message	What do you use so many of them for?
 58	message	I said hobby AND business!
@@ -61,7 +61,7 @@ row	column	english
 82	message	Huh? Come back to peep again?
 83	message	No! I'm just listening to everyone\nto gather information!
 84	message	Ohh, information gathering?\nLeave that to Riko!
-85	message	Looks can deceive—I'm a Butei rank A\nin Butei High's detective department!
+85	message	Looks can deceive-I'm a Butei rank A\nin Butei High's detective department!
 86	message	(I don't know the scale, so all I can think\nis 'sounds impressive'…)
 87	message	Hm? You've got a 'I don't get it' face on?
 88	message	Allow me to explain! Rank indicates\na Butei's ability!
@@ -104,7 +104,7 @@ row	column	english
 134	message	Trade secret! If you clear the game,\nI might tell you as a bonus?
 135	message	…So what kind of game are you planning\nto play with bombs?
 136	message	Oh, nice, nice! That's the spirit!
-137	message	It's a bomb-defusal game using this screwdriver!\nTouch the wrong spot and—BOOM!
+137	message	It's a bomb-defusal game using this screwdriver!\nTouch the wrong spot and-BOOM!
 138	message	I'll die!
 139	message	Ehh! I'll adjust the gunpowder so it\nwon't kill you, promise!\nEven if it blows up, it'll just change your hairstyle.
 140	message	At Butei High, lead flying around\nis totally normal, y'know?
@@ -123,7 +123,7 @@ row	column	english
 159	message	I lock you in a box,\nand if you escape within the time limit, you clear it!
 160	message	One that doesn't use bombs, please…
 161	message	I went to all the trouble of preparing them!\nWell, whatever. I use them for work too.
-162	message	Okay, planning the game is homework I'll\ntake home—I'll think about it more!\nKufufu!
+162	message	Okay, planning the game is homework I'll\ntake home-I'll think about it more!\nKufufu!
 163	message	See ya!
 165	message	(No matter how you look at it, that's overkill,\nbut at Butei High, using gunpowder and having\nbullets flying around is normal…)
 166	message	(I hope the next game is a normal one…)
@@ -163,14 +163,14 @@ row	column	english
 208	message	That's even more impossible…
 209	message	Okay, do your best!
 211	message	(So I got roped into it after all…\nCan I do it without getting caught…)
-212	message	(Oh, right. I don't actually have to steal anything—\nI can just buy some peach buns somewhere!)
+212	message	(Oh, right. I don't actually have to steal anything-\nI can just buy some peach buns somewhere!)
 213	message	(Finding them will be tough, but still better\nthan stealing Aria-san's peach buns…)
 216	message	Riko-san, I bought… er, stole these\npeach buns from Aria-san.
 217	message	……
-218	message	Wh—?! Aria-san?! Why are you here!\nThat was a lie! I didn't steal them,\nI just bought them…
+218	message	Wh-?! Aria-san?! Why are you here!\nThat was a lie! I didn't steal them,\nI just bought them…
 219	message	……
 220	message	Thought I was Aria?\nToo bad! It was me, Riko-chan!
-221	message	No cheating—bad!\nTrying to fool Riko the thief?\nYou're a hundred years too early!
+221	message	No cheating-bad!\nTrying to fool Riko the thief?\nYou're a hundred years too early!
 222	message	…?!
 223	message	So? Surprised?\nYou were surprised, right?
 226	message	I thought my heart was going to stop.
@@ -180,7 +180,7 @@ row	column	english
 232	message	…I was putting on a brave face.
 233	message	Yep! Honesty is the best policy, y'know?
 234	message	(You're one to talk…)
-237	message	And now, the moment you've been waiting for—\nthe results!
+237	message	And now, the moment you've been waiting for-\nthe results!
 238	message	(I can tell without you saying it…)
 239	message	…Too baaad! No clear!\nSo the peach buns are confiscated!
 240	message	Plus, a penalty!\nThe real Aria-san appears!
@@ -189,7 +189,7 @@ row	column	english
 243	message	That's cruel…
 244	message	Sadly, you failed the challenge, so\nno measurements and no deluxe bonus!
 245	message	And since you cheated, maybe I'll blab\nto Aria about last time too!
-246	message	Wh—! Please don't!
+246	message	Wh-! Please don't!
 247	message	Really? Well, can't be helped!\nOne more chance!
 248	message	By the way, if you cheat again,\nI'll really blab!
 249	message	Now then, I gotta plan the next game!\n…If you run, I'll get all huffy and pounce on you!
@@ -255,6 +255,6 @@ row	column	english
 329	message	Come on, try it on right away! Kufu!
 330	message	…No thanks.
 331	message	Ehh! You're slender, so I thought\nit'd suit you!
-332	message	A goth-loli chuuni trap with bandages\nwrapped around his right arm—\nI thought the stacked settings were hilarious.
+332	message	A goth-loli chuuni trap with bandages\nwrapped around his right arm-\nI thought the stacked settings were hilarious.
 333	message	Kufufu! What eroge is that from?\n…What, too many attributes?
 334	message	(I have no idea what she's saying…)
