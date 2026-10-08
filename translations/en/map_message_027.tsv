@@ -1,6 +1,6 @@
 row	column	english
-3	message	It's so slow, nyo...\nEvery now and then there are times\nwith no customers, nyo~.
-4	message	If I strung all these short slow stretches together into one day,\nI could really get my doujinshi work done, nyo.
+3	message	It's so slow, nyo...\nEvery now and then there are times\nwith no customers, nyoo.
+4	message	Save up a day of these short slow stretches and\nI could really get my doujinshi work done, nyo.
 5	message	Still, I can't slack off on shop duty, nyo.
 6	message	To keep from getting sleepy,\nI'll do a patrol of the store, nyo.\nStarting with the gal-game corner, nyo.
 7	message	[Event art: Dejiko with sparkling eyes - "Buy something, nyo!"]
@@ -25,15 +25,15 @@ row	column	english
 28	message	Lately, there seem to be more and more\ntroublemakers in Akihabara, nyo!\nThey can't fool Dejiko's eyes, nyo!!
 29	message	I've got evil-heart-detecting sensors\nset up in this store, so\nif they react, it's instant eye-beams, nyo!!
 30	message	Anyway, Akihabara-with yours truly Dejiko at the top-\nmust be a town of youngsters and middle-aged youngsters\nwho buy things, nyo.
-31	message	Phew, I'm tired from passionately speechifying\nin an empty store, nyo.\nBack to zoning out, nyo~.
+31	message	Phew, I'm tired from passionately speechifying\nin an empty store, nyo.\nBack to zoning out, nyoo.
 33	message	Dejiko, it's terrible, nyu.
-34	message	Oh, it's Puchiko, nyo~.\nHere to switch shop duty, nyo~?
+34	message	Oh, it's Puchiko, nyoo.\nHere to switch shop duty, nyoo?
 35	message	We just switched a minute ago, nyu.\nMore importantly, it's bad outside, nyu.
-36	message	What's wrong, nyo~.\nIs that manga-loving ex-prime minister\ngiving a speech or something, nyo?
+36	message	What's wrong, nyoo.\nIs that manga-loving ex-prime minister\ngiving a speech or something, nyo?
 37	message	It's an enemy attack, nyu.
 38	message	Enemy attack?\nIs some giant game store or anime store\nhanding out sale flyers, nyo?
 39	message	Just come, nyu!!
-40	message	Fine, fine, I'm bored anyway, so I'll take a look, nyo~.
+40	message	Fine, fine, I'm bored anyway, so I'll take a look, nyoo.
 41	message	[BG: Akihabara streets (day)]
 42	message	*murmur...*
 43	message	*murmur... murmur...*
@@ -57,7 +57,7 @@ row	column	english
 64	message	Hm? What is this place?\nSo tacky, and the air's awful... what a nasty place.
 65	message	Something came out, nyo!
 66	message	You there, who are you?\nTell me in ten seconds.
-67	message	I'm Dejiko, nyo!\nMy real name's Chocolat, nyo!
+67	message	I'm Dejiko, nyo!\nMy real name's Chocola, nyo!
 68	message	But I ended up with the name De Ji Charat, nyo.\nSo just call me Dejiko, nyo.
 69	message	Puchiko, nyu.\nMy real name's Cappuccino, nyu.
 70	message	They also call me Petit Charat, nyu.\nBut Puchiko's fine, nyu.
@@ -113,8 +113,8 @@ row	column	english
 122	message	...With this much flash,\nKoto would've happily come jumping out by now.\nShe really doesn't seem to be here.
 123	message	...Tch, it was a bum tip...!
 124	message	[Yase vanishes]
-125	message	...What is going on?\nAttacking out of nowhere, then vanishing on her own.
-126	message	Is she an acquaintance of Koto-chan?\nShe was really beautiful~!
+125	message	...What is going on?\nAttacking out of nowhere, then vanishing alone.
+126	message	Is she an acquaintance of Koto-chan?\nShe was really beautifull!
 127	message	More importantly, is Tiffa here?\nI forgot to ask that one earlier.
 128	message	For now, why don't we calm down and think?
 129	message	[Battle ends]
@@ -126,7 +126,7 @@ row	column	english
 136	message	Um, 'biru' is short for\n'building'...
 137	message	Hmph, how confusing.
 138	message	It's like an English lesson♪\nTeacher Aoi-chan♪
-139	message	When we went to Louise-chan's world,\nwe were surprised by all kinds of things like this too.
+139	message	When we went to Louise-chan's world,\nwe were surprised by lots of things like this.
 140	message	I see, so it's the reverse this time.
 141	message	It's full of fresh surprises.
 142	message	But it still hasn't clicked for me.\nWhat this world, this town is like.
