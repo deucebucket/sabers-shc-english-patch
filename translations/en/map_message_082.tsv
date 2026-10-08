@@ -40,7 +40,7 @@ row	column	english
 46	message	If it's zero percent, then agree to it!
 47	message	What did you say?
 48	message	I asked if you're scared\nof losing to me.
-49	message	Really, you're thinking 'what if I actually lose' -\nthat's why you won't agree~!\nYou're scared of losing, teacher!
+49	message	Really, you're thinking 'what if I actually lose' -\nthat's why you won't agreee!\nYou're scared of losing, teacher!
 50	message	I have no reason to fear losing to you.
 51	message	Then what are you afraid of?\nIf you're not scared, you should have\nno problem accepting my terms.
 52	message	Then it's decided!\nIf you lose, you tell the truth.\nOtherwise admit you're scared of losing!
@@ -149,7 +149,7 @@ row	column	english
 176	message	Aw geez, how boring!
 177	message	//
 180	message	Eve-chin wanted to kill you, so\nI was gonna swoop in - zwoosh! - and steal her kill\nto mess with her!
-181	message	Dying yourself is just dumb, y'know~?\nSheesh, everything's ruined!
+181	message	Dying yourself is just dumb, y'knoww?\nSheesh, everything's ruined!
 182	message	...
 183	message	...
 184	message	The crime of ruining a king's fun is grave, y'know?\nYou understand, riiight...?
@@ -289,7 +289,7 @@ row	column	english
 323	message	This has gone long enough -\nwe'll take a short break, then split into teams.
 324	message	Yes, let's all calm down a bit.
 325	message	...
-328	message	(Hm? What's wrong with Soniko, nyo...?)
+328	message	(Hm? What's wrong with Sonico, nyo...?)
 330	message	...
 331	message	Eve... That wasn't\nsome play or anything...
 332	message	All this time, I thought\nit was a movie shoot, but...
@@ -302,11 +302,11 @@ row	column	english
 339	message	So now it's my turn.\nMy dream is to become a rock musician\nwho can cheer up everyone listening.
 340	message	So... even now,\nI have to smile, so I can\nshare even a little energy!
 341	message	Okay...!
-343	message	Heeey, Sonikoo! Time to gather up, nyo~!
+343	message	Heeey, Sonicoo! Time to gather up, nyoo!
 344	message	Comiiing!
 345	message	Hoho, feeling perky, nyo?
 346	message	Yep! The shoot's finally\nreaching its climax!\nI'll do my best - hiyah!
-347	message	That's the spirit, nyo!\nFufu, Soniko, you're gonna be\na great artist someday, nyo.
+347	message	That's the spirit, nyo!\nFufu, Sonico, you're gonna be\na great artist someday, nyo.
 348	message	Wah! R-really...!?
 349	message	No doubt about it, nyo.\nDejiko stamps it with her seal of approval, nyo!
 350	message	Yes, thank you so much!
@@ -329,7 +329,7 @@ row	column	english
 368	message	That's obvious...!
 369	message	(That's right, [CLAUDE].)
 371	message	...That about covers it, I guess?\nOkay, announcing the teams.
-372	message	Hibiki, Chris, Houki, Cecilia, Laura, Haruka, Aoi,\nTiffania, Shirayuki, Reki, Koto, Usada, and Soniko\nare on the surveillance team with me and Shion.
+372	message	Hibiki, Chris, Houki, Cecilia, Laura, Haruka, Aoi,\nTiffania, Shirayuki, Reki, Koto, Usada, and Sonico\nare on the surveillance team with me and Shion.
 373	message	Everyone else is going\nto Eve's lab with [NOEL].
 374	message	Everyone else is going\nto Eve's lab with [MERU].
 375	message	Surveillance on the Goddess of Destruction: safety first.\nNo overdoing it, absolutely.\nIt'll be plenty dangerous as is.

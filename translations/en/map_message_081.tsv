@@ -3,7 +3,7 @@ row	column	english
 4	message	What? This is Dokoka Town, you know?
 5	message	So there was a kind mailman or something?
 6	message	Don't be stupid.\nEve delivered it herself.\nShe's capable of that much.
-7	message	Going out of her way to do something so roundabout…\nI wonder what the reason is? I wonder~
+7	message	Going out of her way to do something so roundabout…\nI wonder what the reason is? I wonderr
 8	message	She's going to slowly wear us down and corner us.\nPsychologically and physically.
 9	message	Dejiko, what's in the letter?
 10	message	It's got the next battlefield and the date and time written on it, nyo.\nNyo-nyo!? We're almost out of time, nyo!!
@@ -39,11 +39,11 @@ row	column	english
 40	message	If we treat her as a mage,\ndenying her time to cast is textbook.
 41	message	If we take any more wounded,\nthings get even tougher.\nWe want to avoid a long battle.
 42	message	Decided! Round up everyone who can fight -\nwe're moving out!
-44	message	Heeey, Kei-chan.\nWhy d'you think Eve-chin\nwants to kill her disciples herself~?
+44	message	Heeey, Kei-chan.\nWhy d'you think Eve-chin\nwants to kill her disciples herselff?
 45	message	Unknown.
 46	message	Huh? It's not 'cannot comprehend' today?
 47	message	Data required for verification: insufficient.\nConclusion: unknown.
-48	message	I seee.\nEve's hiding something, huh~.
+48	message	I seee.\nEve's hiding something, huhh.
 49	message	Do you want the data?
 50	message	Kei-chan, you still don't get it, huh.\nSpoilers are the most un-fun thing ever!
 51	message	Then... shall I investigate\nEve's reason for killing her disciples?
@@ -132,7 +132,7 @@ row	column	english
 148	message	...!!
 149	message	...!!
 150	message	I'll say it once more. I will kill you.\nIn my own way.
-153	message	Soniko, hurry!\nThere are still so many injured!
+153	message	Sonico, hurry!\nThere are still so many injured!
 154	message	Right! Medicine, bandages...\nAnd this too...!
 155	message	Water first! Hot water if you can!
 156	message	Hot water, got it!
@@ -146,7 +146,7 @@ row	column	english
 164	message	Shirayuki...
 165	message	Shirayuki...
 166	message	//
-167	message	But sheesh, this is bad~.\nIf we just keep taking hits like this,\nhow long can we hold out...?
+167	message	But sheesh, this is badd.\nIf we just keep taking hits like this,\nhow long can we hold out...?
 168	message	We'll strike back, nyu!
 169	message	A surprise attack would be difficult.\nEve has no openings.
 170	message	Did you try sniping her?

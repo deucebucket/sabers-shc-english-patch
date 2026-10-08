@@ -39,7 +39,7 @@ row	column	english
 42	message	(Right now, Mother cannot act because of some important work,\nand the area is guarded by mass-produced Mie\nand Key units.)
 43	message	(There's a chance to escape.)
 44	message	Understood… With how little presence I have,\nI'm sure I can slip away…!
-46	message	So bored, nyo~.
+46	message	So bored, nyoo.
 47	message	That's fine.\nIt just means things have gotten better.
 48	message	Better than fighting every day, nyu!
 49	message	Then can I do the one-shot gag\nI came up with? I wonder? I wonder?
@@ -66,7 +66,7 @@ row	column	english
 72	message	Huge success, nyu!
 73	message	Huge success, nyo!
 75	message	There's a strange emotion to it.
-76	message	Waaah, so cute~!
+76	message	Waaah, so cutee!
 77	message	Japanese pop culture is popular\neven in my homeland,\nbut this is its pinnacle.
 78	message	Is it really that grand…?
 79	message	Rena's 'thing' is about to happen.\nShouldn't we run?
@@ -77,7 +77,7 @@ row	column	english
 84	message	A one-trick pony gets seen through, you know?
 85	message	Colds and Rena need early countermeasures.
 87	message	You want to know about Dokoka Town, ka?
-88	message	Yes, desu~.
+88	message	Yes, desuu.
 89	message	Yeah.
 90	message	No enemy has ever appeared in this town.\nCould it be a special place, I wonder?
 91	message	I don't know any other places, ne!\nI can't say whether it's special, yo!
@@ -90,12 +90,12 @@ row	column	english
 98	message	Come to think of it,\nare you two even human?
 99	message	I can't disclose that information, yo!\nThe code is locked, ne!
 100	message	(She's basically saying she's a machine…?\nWell, whatever.)
-101	message	How can the lock be undone, desu~?
+101	message	How can the lock be undone, desuu?
 102	message	Can you tell us how to unlock it?
 103	message	No one among you currently\nhas unlock authority, ne!
 104	message	Someone with unlock authority?\n'Currently none' means\nthere used to be, I wonder?
 105	message	That means…!?
-106	message	It's [CLAUDE], desu~!!
+106	message	It's [CLAUDE], desuu!!
 107	message	It's [CLAUDE]!!
 109	message	Yes! I made it back to the surface…!
 110	message	(The problem starts now.\nIt seems the spatial jump\ngave us away.)
@@ -115,13 +115,13 @@ row	column	english
 136	message	Target lock. Eliminate.
 137	message	Target lock. Eliminate.
 138	message	Tch… I can't outrun this!!
-139	message	I'll protect you, desu~!!
+139	message	I'll protect you, desuu!!
 140	message	Like hell I'll let you!!
 142	message	…!
 143	message	…!
 144	message	[MERU]!
 145	message	[NOEL]!
-146	message	There's a lot to talk about,\nbut that can wait, desu~!
+146	message	There's a lot to talk about,\nbut that can wait, desuu!
 147	message	This power came in handy!
 149	message	There he is! That idiot!
 150	message	Where the hell have you been wandering!?
@@ -142,7 +142,7 @@ row	column	english
 168	message	Attack.
 169	message	She was an annoying little brat,\nbut without the noise it's kinda lonely!
 171	message	Attack.
-172	message	The kid who loved fun stuff\nturned into such a boring mech -\nthe creator has no taste~.
+172	message	The kid who loved fun stuff\nturned into such a boring mech -\nthe creator has no tastee.
 174	message	Attack.
 175	message	A fist aimed at a heartless foe\ncarries nothing but all the power I've got!!
 177	message	Attack.
@@ -150,17 +150,17 @@ row	column	english
 180	message	Attack.
 181	message	Well, it's a well-made mech,\nbut defying me is a thousand years too early!
 183	message	Attack.
-184	message	If I could build a robot this good,\nI'd make it mind the shop, rake in cash, and draw doujinshi all day -\nlife would be rosy, nyo~!
+184	message	If I could build a robot this good,\nI'd make it mind the shop, rake in cash, and draw doujinshi all day -\nlife would be rosy, nyoo!
 186	message	All cleaned up.\nLet's fall back to Dokoka Town!
 187	message	Save the long stories for later.
 189	message	Phew, once we're in Dokoka Town we're safe.
-190	message	Welcome back, desu~!
+190	message	Welcome back, desuu!
 191	message	Welcome back, [CLAUDE]!
 192	message	Still, how did you manage to come\nrescue me at that exact moment?
 193	message	Remember Polial's property?\nThe one where you go where you wish to go.
 194	message	So that's how you got to me…?
-195	message	But until now, even when we went looking,\nwe couldn't find [CLAUDE],\ndesu~?
-196	message	This time the timing was good, desu~.
+195	message	But until now, even when we went looking,\nwe couldn't find [CLAUDE],\ndesuu?
+196	message	This time the timing was good, desuu.
 197	message	But until now, no matter where we went,\n[CLAUDE] wasn't there.\nWhat was different this time?
 198	message	As for where I've been,\nI'll explain it properly, in order.
 199	message	And about what I really am, too.
@@ -188,7 +188,7 @@ row	column	english
 222	message	'Was supposed to' - so it failed?
 223	message	Embarrassingly, I was defective too -\neven after being sent to the surface I never woke up,\nand on top of that I had amnesia.
 224	message	That's when we met you!\nYou'd just woken up?
-225	message	That was [CLAUDE]\nwhen we met, desu~?\nYou'd been asleep the whole time…
+225	message	That was [CLAUDE]\nwhen we met, desuu?\nYou'd been asleep the whole time…
 226	message	Mother was already malfunctioning\nwhen she created me, so it can't be helped.
 227	message	You really are a defective product…
 228	message	Yes… but Mother created\nthis Dokoka Town and Polial as a set with me.\nThose, at least, work properly.
@@ -200,7 +200,7 @@ row	column	english
 234	message	And as the Polial terminal I would use\nto travel between worlds, it became\na quarantined area independent of Mother.
 235	message	Was Polial\nmade just for you, [CLAUDE]?
 236	message	Originally. But since I'd forgotten Polial existed,\nshe probably forced jumps to happen\nto make me remember.
-237	message	That was the beginning\nof our journey, desu~.
+237	message	That was the beginning\nof our journey, desuu.
 238	message	So THAT'S what\nthe start of our journey was!
 239	message	Going back a bit: because I stayed asleep\non the surface and never worked, Mother's\nmemory gaps kept getting worse.
 240	message	And what the deranged Mother created\nwas the Goddess of Destruction -\nthe thing that returns the world to nothing.

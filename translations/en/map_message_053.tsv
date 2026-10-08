@@ -17,7 +17,7 @@ row	column	english
 19	message	[MERU]-chan is nowhere to be found!
 20	message	What!?
 22	message	Tsubasaa! Houki-chaan!
-23	message	Soniko? What happened?
+23	message	Sonico? What happened?
 24	message	Um…! [NOEL]-chan… [NOEL]-chan is gone…!
 25	message	What!?
 26	message	//Fade to black\n//Background: Saint Mont Blanc Academy (or similar)
@@ -325,20 +325,20 @@ row	column	english
 342	message	That's true...
 343	message	Thank you, both of you.\nI feel like I finally understand\na little of what I need to do!
 344	message	If we could be of help, I'm happy!
-345	message	Do your best, mii! Nipah~!
-346	message	Nipah~!
+345	message	Do your best, mii! Nipahh!
+346	message	Nipahh!
 347	message	//Fade to black.\n//Background: town (a town in the original characters' world).
 348	message	Looks like I can buy all sorts of things here, nyu.
-349	message	That's wonderful~! There's a town here!
+349	message	That's wonderfull! There's a town here!
 350	message	I'd like to look at dishes and cookware too.\nHehe, that's the fun of visiting a strange new town!
 351	message	Then let's split up and check the shops.
 352	message	//Fade to black, short time passes.\n//Background: town (a town in the original characters' world).
-353	message	Nyu~.
+353	message	Nyuu.
 354	message	//Event CG: Puchiko shopping.
 355	message	Nyu. I don't know the going rates, nyu.
 356	message	I'll haggle hard and figure them out, nyu.
-357	message	Soniko would pay asking price for anything,\nso I've got to teach her properly, nyu.
-358	message	Nyu-nyu~.
+357	message	Sonico would pay asking price for anything,\nso I've got to teach her properly, nyu.
+358	message	Nyu-nyuu.
 359	message	//Event CG off.
 360	message	Nyu?
 362	message	...
@@ -397,7 +397,7 @@ row	column	english
 415	message	//Fade to black, time passes.\n//The team split is decided.
 416	message	Okay, here's the announcement!\nFirst, the team going to IS Academy.
 417	message	Houki, Cecilia, Rin, Charlotte, Laura, plus\nHibiki, Aria, Shirayuki, Rika, Satoko, Rena,\nUsada, and Siesta.
-418	message	Going with Twin Phantom are me, plus\nSoniko, Tsubasa, Haruka, Aoi, Kurumi, Mion, Shion,\nKoto, Louise, Tefa, Dejiko, and Puchiko.
+418	message	Going with Twin Phantom are me, plus\nSonico, Tsubasa, Haruka, Aoi, Kurumi, Mion, Shion,\nKoto, Louise, Tefa, Dejiko, and Puchiko.
 419	message	Umm, which group should I go with...?
 420	message	//Choices\n//IS Academy team\n//Twin Phantom team\n//Check the members\n//Picking one advances the story. You can check members as many times as you like.
 421	message	It's decided, then.

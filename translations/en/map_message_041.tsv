@@ -2,8 +2,8 @@ row	column	english
 3	message	…You want me to hand over Tiffania?
 4	message	Yes. Zero's Louise's friend,\nTiffania Westwood. You've got her\nsecured, don't you?
 5	message	You've got a trump card in hand,\nso why not use it? I've been wondering.
-6	message	I'm afraid that's not possible~.
-7	message	Huh~? What's that supposed to mean?
+6	message	I'm afraid that's not possiblee.
+7	message	Huhh? What's that supposed to mean?
 8	message	I promised to guarantee her safety…\nthat's the deal.
 9	message	Keep… promises.
 10	message	Come on, just break that promise.
@@ -58,11 +58,11 @@ row	column	english
 63	message	Tifa…!!
 64	message	// Scene change\n// Battle map: forest\n// Louise deployed with allies; Aria (Riko in disguise) deployed with enemies.
 65	message	Aha♪ You came, Louisee.
-66	message	We're both flat as boards,\nso how about we two head off\nto the forbidden world together~?
+66	message	We're both flat as boards,\nso how about we two head off\nto the forbidden world togetherr?
 67	message	…Stop fooling around.\nWhy don't you drop the bad impression?
 68	message	…Fufu.
 69	message	// Aria drops her disguise, becoming Riko.
-70	message	Did you really come alone~?
+70	message	Did you really come alonee?
 71	message	A noble doesn't break promises.
 72	message	Oh, good for you.\nRiko'll give you a round of applause.
 73	message	More importantly, where's Tifa?\nI don't see her.
@@ -194,7 +194,7 @@ row	column	english
 210	message	I recognize this bullet.\nI don't think it was standard issue.\nA sniper who uses these is…
 211	message	// Scene change\n// Background: mountains or some natural scenery. The Twin Phantoms with Reki, finished sniping.
 212	message	Tiffania Westwood's protection:\nmission complete.
-213	message	Thank youuu.\nA difficult job, but splendidly done~.
+213	message	Thank youuu.\nA difficult job, but splendidly donee.
 214	message	…Thanks.
 215	message	I always honor my contract with the client. That's all.
 216	message	…Contact me again if needed.

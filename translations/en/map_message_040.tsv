@@ -3,7 +3,7 @@ row	column	english
 4	message	Charles, is there still something\nyou want to see?
 5	message	There are so many cute things.\nCharles must be having fun too.
 6	message	W-wow, that shop's lined with\nlots of pictures of mostly-naked people…!
-7	message	That's a little too early for you~.\nOkay, everyone, about-face~.
+7	message	That's a little too early for youu.\nOkay, everyone, about-facee.
 8	message	Aren't you about the same yourself?
 9	message	Hm? Well, yeah. Kyararin☆
 10	message	I don't get that spell of yours either.
@@ -32,13 +32,13 @@ row	column	english
 33	message	Tennetsu disease?
 34	message	Yes-the fever climbs without limit\nuntil you start hallucinating angels.\nA terrifying disease.
 35	message	That can be cured, right?
-36	message	Left as-is, no~.\nIt's an incurable disease, after all.
+36	message	Left as-is, noo.\nIt's an incurable disease, after all.
 37	message	Whaaat!? No way!!
 38	message	Just kidding-total lie.\nBut until a miracle cure was found,\nit really was incurable.
 39	message	Eve! Please stop joking\nat a time like this!
 40	message	Sowwy sowwy!\nWe know a medicinal herb called\n'Dark Stardust' works now,\nso it's not that dangerous.
 41	message	That herb can cure her!\nWhere is it!
-42	message	It grows in a cave\nnear Saint Mont Blanc Academy~.
+42	message	It grows in a cave\nnear Saint Mont Blanc Academyy.
 43	message	I think it was growing in a cave\nnear Saint Mont Blanc Academy?
 44	message	Good memory. Smart, zo!
 45	message	Then let's hurry there right away.
@@ -65,7 +65,7 @@ row	column	english
 67	message	…!
 68	message	// Fade to black\n// Background: the cave
 69	message	The herb's in this cave, right?
-70	message	Yes! It should be deeper inside~!
+70	message	Yes! It should be deeper insidee!
 71	message	There's spring water in the back,\nand it was near there, I think.
 72	message	It's a plant that grows in special conditions.\nMaybe it's related to something\nin the spring water.
 73	message	We gotta get there fast!
@@ -94,11 +94,11 @@ row	column	english
 96	message	…An ambush, of all things.
 97	message	// The rival appears
 98	message	…
-99	message	[NOEL]!? Why are you here~!?
+99	message	[NOEL]!? Why are you heree!?
 100	message	I don't think any idiot would tell you.
 101	message	…
 102	message	[MERU]…!! What are you doing in a place like this!?
-103	message	Even if you ask, I'm not telling~.
+103	message	Even if you ask, I'm not tellingg.
 104	message	Aoi doesn't have much time…!\nPlease, let us pick the herb!!
 105	message	Minazuki! Stay back!
 106	message	// Battle map: the cave\n// Enemy and allied deployment
@@ -106,14 +106,14 @@ row	column	english
 108	message	Can't chalk this up to coincidence.
 109	message	Indeed…
 110	message	Quite the thorough preparation.\nShould I celebrate my student's growth,\nor scold her mischief? I'm torn.
-111	message	Teacher, this is wrong~!\nDoing this while Aoi's suffering\nis awful~!
+111	message	Teacher, this is wrongg!\nDoing this while Aoi's suffering\nis awfull!
 112	message	True… but [MERU],\ncould you defy Teacher\ngoing this far?
-113	message	I could never do that~!!
+113	message	I could never do thatt!!
 114	message	And that's exactly what\n[NOEL]'s doing.
 115	message	I don't know the reason, but\nwouldn't I be a failed teacher\nif I didn't understand that resolve?
-116	message	I don't understand~…\n[NOEL] defying Teacher…\nI don't understand at all~…
+116	message	I don't understandd…\n[NOEL] defying Teacher…\nI don't understand at alll…
 117	message	Then why not clash with all your might?\nYou might learn something that way, zo☆.
-118	message	…I'll try~!
+118	message	…I'll tryy!
 119	message	Teacher, stop [MERU]!
 120	message	Hmm, isn't that what's strange?
 121	message	What's strange about it!\n[MERU]'s the strange one!
@@ -123,16 +123,16 @@ row	column	english
 125	message	This is all crazy…\nUgh, I don't get it!!\nFine! I'll clash with her!!
 126	message	That's right! That's the answer☆
 127	message	// Battle start\n// Event triggers when the rival and [MERU] engage
-128	message	[NOEL]!\nDo you really have to do this~?
+128	message	[NOEL]!\nDo you really have to do thiss?
 129	message	You know my personality, right?\nThen you should understand!
 130	message	// Event triggers when the rival and [NOEL] engage
 131	message	[MERU]!\nYou're prepared to go down, I hope!
-132	message	You're the one going down~…!
+132	message	You're the one going downn…!
 133	message	// Event triggers when the rival is defeated
 134	message	Fufu, my show isn't over yet!\nBye-bye!
-135	message	This much is… enough~!
+135	message	This much is… enoughh!
 136	message	// The rival character vanishes
-137	message	We haven't settled this yet~!!
+137	message	We haven't settled this yett!!
 138	message	What's 'enough'! Fight me to the end!
 139	message	Hmm, cute face and all…\nthat girl's got some skill.
 140	message	Wait! More of them!?
@@ -166,7 +166,7 @@ row	column	english
 168	message	The phantom-thief angel! Twin Angel!!
 169	message	There's only one of you!!
 170	message	What do you mean!\nWith the Red Angel over there that makes two…\nhuh? She's not here!?
-171	message	Mooou, for once I thought I could actually say\n'twin' today~! At this rate I'm a one-person\nTwin Angel!
+171	message	Mooou, for once I thought I could actually say\n'twin' todayy! At this rate I'm a one-person\nTwin Angel!
 172	message	A white Twin Angel…?
 173	message	That's right, I'm White Angel!\nFine, I'll do the work of three!
 174	message	And no pointing out that the numbers\ndon't add up either way!!
@@ -185,7 +185,7 @@ row	column	english
 187	message	Couldn't agree more.
 188	message	Laura, you've done stuff like that too…
 189	message	In my case, the movement was part of the plan.\nI wasn't using it freely.
-190	message	Hmm, interesting~.\nSo there's a difference in how it's used.
+190	message	Hmm, interestingg.\nSo there's a difference in how it's used.
 191	message	Hey! Way too early to relax!\nFinish them all off before you chit-chat!
 192	message	She's right. Let's clean up the rest!
 193	message	// Clear when all enemies are defeated
@@ -207,7 +207,7 @@ row	column	english
 209	message	Did Eve teach you? Maybe? maybe?
 210	message	Final answer?
 211	message	U-um, final answer, maybe, mayybe.
-212	message	Correct~! After I helped Sakimori-chan,\nNekomimi-chan came to Saint Cherine Academy,\nand that's where we met.
+212	message	Correctt! After I helped Sakimori-chan,\nNekomimi-chan came to Saint Cherine Academy,\nand that's where we met.
 213	message	Sakimori-chan?
 214	message	That's me. And 'Nekomimi-chan'\nmust be Hazuki.
 215	message	I heard someone was after the 'Angel's Tear',\nso I rushed from Italy to the academy,\nbut Aoi and the others were already gone.
@@ -227,7 +227,7 @@ row	column	english
 229	message	Eeep!? You're the one from before!!
 230	message	How many seconds do you think\nthis cave will hold?
 231	message	Wh-what!?
-232	message	Bye-bye-kii~n☆
+232	message	Bye-bye-kiiin☆
 233	message	// Riko vanishes
 234	message	Wait!
 235	message	// SE: rumbling, then a huge explosion\n// Screen shakes too.
@@ -263,7 +263,7 @@ row	column	english
 265	message	Aoi… I'm sorry, I…!
 266	message	Hey, what is this!?\nGrass… on top of Aoi?
 267	message	Huh? This grass, I've seen it somewhere…?
-268	message	Aaah! This is 'Dark Stardust'~!!
+268	message	Aaah! This is 'Dark Stardust'!!
 269	message	Hm? This grass looks familiar?
 270	message	Wasn't 'Dark Stardust' this?
 273	message	Really!?

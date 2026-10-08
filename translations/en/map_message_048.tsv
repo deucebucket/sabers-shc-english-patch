@@ -20,7 +20,7 @@ row	column	english
 22	message	Teacher! Teacher!
 23	message	My, that was quick, [NOEL]☆
 24	message	Huh!?\nTeacher... how did you know...?
-25	message	Hmm, I wonder why~?\nWhy, I wonder~?
+25	message	Hmm, I wonder whyy?\nWhy, I wonderr?
 26	message	//Meru_end
 27	message	Why am I here?
 28	message	I'm... two of me???
@@ -41,7 +41,7 @@ row	column	english
 44	message	Teacher! It's terrible!!
 45	message	My, that was quick, [MERU]☆
 46	message	Huh? You can tell it's me?
-47	message	Hmm, I wonder why~?\nWhy, I wonder~?
+47	message	Hmm, I wonder whyy?\nWhy, I wonderr?
 48	message	//Noel_end
 51	message	Incoming call confirmed. State your business.
 52	message	...That information requires verification.\nVerification procedure is unnecessary.
@@ -57,7 +57,7 @@ row	column	english
 62	message	'Walking the Dog'!
 63	message	...I see. You're [MERU].
 64	message	After seeing Louise's magic\nand the Shinigami Doctor's undying bit,\nI can believe a body swap... but still...
-65	message	Whoa~, just like manga!
+65	message	Whoaa, just like manga!
 66	message	How does it work, I wonder?
 67	message	It's not like a split personality\nor something?
 68	message	It's not!
@@ -89,7 +89,7 @@ row	column	english
 94	message	We'd have to ask [MERU]\nto learn the truth, it seems...
 95	message	//Noel_end
 97	message	What!? An enemy attack!?
-98	message	Could it be [NOEL]?\nI wonder~
+98	message	Could it be [NOEL]?\nI wonderr
 99	message	Could it be [MERU]?
 100	message	Laura! What's the security situation!
 101	message	Notice from the observation room:\nan unidentified high-speed flying object\nis approaching IS Academy.\nRepresentative cadets with personal IS units\nare ordered to sortie.
@@ -257,7 +257,7 @@ row	column	english
 276	message	...Interesting.
 277	message	This new power...\nlet me test it against you!
 278	message	// Battle resumes\n// Event when Kei and Houki engage
-279	message	Shinonono-style swordsmanship, dual-wield form-\nthe Jūjin stance...\nCome, let us duel!!
+279	message	Shinonono-style swordsmanship, dual-wield form-\nthe Jujin stance...\nCome, let us duel!!
 280	message	Data measurement commencing...
 281	message	// Event after Kei and Houki engage
 282	message	Amazing...\nthey're evenly matched...!
@@ -313,7 +313,7 @@ row	column	english
 333	message	If the enemy had a hideout,\nwe'd storm it and investigate.
 334	message	A hideout?
 335	message	A hideout, huh.
-336	message	Everyone, I have a proposal~
+336	message	Everyone, I have a proposall
 337	message	Rika, did you notice something?
 338	message	Now that we know how to use the Polyal,\nI'd like to go back to Hinamizawa once.
 339	message	...To Hinamizawa.
@@ -335,7 +335,7 @@ row	column	english
 357	message	It's nothing! Okay!
 358	message	But I want to ask Rika one thing.\nIf we go back to Hinamizawa,\nwhat happens...?
 359	message	...
-360	message	Nipaa~☆
+360	message	Nipaaa☆
 361	message	Ugh...
 362	message	// Fade to black\n// Background: by the stairs
 363	message	Uuuuh, how do I get this body\nback to normal...?
@@ -346,13 +346,13 @@ row	column	english
 368	message	And this girl never had\nthe concept of underwear, even before.
 369	message	Walking outside dressed like this-\nher screws really are loose.
 370	message	//Meru_end
-371	message	Sheesh~,\nhow do I get this body\nback to normal?
+371	message	Sheeshh,\nhow do I get this body\nback to normal?
 372	message	...Hm?
 373	message	[MERU] really is flat as a board.\nBut it might be comfy for sleeping!
-374	message	Hm? I felt something uncomfortable...\naaah, I knew it~.
+374	message	Hm? I felt something uncomfortable...\naaah, I knew itt.
 375	message	Why do I have these scraps of cloth\non my chest and waist?
-376	message	With these on, my movement's restricted\nand it feels gross~.
-377	message	But if I take them off, [MERU]...\nwould get mad, I bet~.
-378	message	She got furiously mad once\nwhen I forcibly took them off before~.
+376	message	With these on, my movement's restricted\nand it feels grosss.
+377	message	But if I take them off, [MERU]...\nwould get mad, I bett.
+378	message	She got furiously mad once\nwhen I forcibly took them off beforee.
 379	message	Not wearing them is more thrilling\nand exciting, but she doesn't get it, sigh.
 380	message	//Noel_end

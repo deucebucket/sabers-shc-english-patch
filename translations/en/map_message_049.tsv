@@ -14,7 +14,7 @@ row	column	english
 15	message	What's wrong, Aria?\nThere's no one named Rika among us, you know?
 16	message	Uh... huh?
 17	message	Wasn't Usada's name Rika, nyo?
-18	message	It's Usada Hikaru!!\nI mean, call me Rabi~en~Rose!!
+18	message	It's Usada Hikaru!!\nI mean, call me RabiiennRose!!
 19	message	Still, there's nothing here.
 20	message	The greenery's dazzling.
 21	message	Usada, Laura, Charlotte-\nyou're all here, right?
@@ -67,9 +67,9 @@ row	column	english
 82	message	...?
 83	message	(Damn! She's suspicious\nthat I know her name...!\nAll right then!)
 84	message	You're Ryugu Rena, right?\nI'm Kanzaki H. Aria.\nDoes that name ring a bell?
-85	message	...Don't think so?\nI wonder~
+85	message	...Don't think so?\nI wonderr
 86	message	(Ugh... this feeling...!)
-87	message	What's wrong?\nI wonder~
+87	message	What's wrong?\nI wonderr
 88	message	(Bad, she suspects me!\nIf my memory's right,\nsuspecting or being suspected is bad...\nthen!)
 89	message	Rika from the Furude shrine\nasked me to come.\nShe wanted me to meet you.
 90	message	Rika did?
@@ -82,11 +82,11 @@ row	column	english
 97	message	Yeah. Two of them.
 98	message	Impressive.\nYou might not know me,\nbut the you I know is exactly like that.
 99	message	Careful, thinking hard about what things are,\ntrying to find the answer. Right?
-100	message	I'm surprised...\nwhy is that, when we just met?\nI wonder~
+100	message	I'm surprised...\nwhy is that, when we just met?\nI wonderr
 101	message	I'll tell you the truth.\nYou and I aren't meeting for the first time.\nMaybe you'll remember eventually?
 102	message	I see...
 103	message	So? Something's troubling you, right?\nFeel like telling me?
-104	message	...Should we make a contract?\nI wonder~
+104	message	...Should we make a contract?\nI wonderr
 105	message	You're hiring me as a Butei.\nFine, let's do that.
 106	message	Butei Charter, Article Two:\nnever break a contract with a client.\nI will never betray you.
 107	message	Then, before the contract,\nI'll tell you the request.
@@ -132,7 +132,7 @@ row	column	english
 147	message	No, it's less a special power and more...\nempathy between those who carry shrines,\nI guess? Sorry, you wouldn't get it.
 148	message	Hmm, that's deep.\nBut if you say so, Shirayuki,\nI'll believe it too!
 149	message	Thank you, Koto.
-150	message	Still, this is troubling~.\nHow can we get them\nto release the hostages?
+150	message	Still, this is troublingg.\nHow can we get them\nto release the hostages?
 151	message	Based on Rena's petition, the police\nnegotiated directly with the Sonozaki family\nand concluded they're not behind\n'Demoning Away'.
 152	message	So the police won't act?
 153	message	That's how it is...
@@ -159,7 +159,7 @@ row	column	english
 174	message	...
 175	message	Rena... why are you doing this?
 176	message	Shut up! You Sonozaki!
-178	message	I mean, why am I captured, nyo~?
+178	message	I mean, why am I captured, nyoo?
 179	message	Aria asked me to come to the school with her,\nand then Rena ended up like this...
 180	message	Can't you hear me telling you to shut up!\nI could tape your mouth shut, you know?\nIf being tied up isn't enough for you.
 181	message	If the police don't move, you die!\nJust wait quietly.\nHaah-ha-ha-ha!!
@@ -206,7 +206,7 @@ row	column	english
 222	message	// Event when more grunts are defeated
 223	message	Aria's friends are amazing.\nBut... you're not asking them for help\nto get in my way, are you?
 224	message	I said I'd honor the contract.
-225	message	The contract is to protect me.\nYou're not thinking of stopping the bombing\nand calling that 'protection'?\nI wonder~
+225	message	The contract is to protect me.\nYou're not thinking of stopping the bombing\nand calling that 'protection'?\nI wonderr
 226	message	I'm bad at deduction.\nA slick solution like that's beyond me.\nBut I don't want to die here with you either.
 227	message	Then what'll you do?
 228	message	I'm thinking about that right now.\nWhat would you do, Rena?
@@ -215,7 +215,7 @@ row	column	english
 231	message	Huh?
 232	message	She's under contract with me, too.\nShe's no culprit.
 233	message	Of course we'd figure out\nthe best move together.
-234	message	What do you mean, I wonder~?
+234	message	What do you mean, I wonderr?
 235	message	Listen, Rena - and Rika, you too.\nI've been thinking about what I've been doing wrong,\nand watching you like this, Rena… I think I finally get it.
 236	message	Huh…?
 237	message	Going it alone doesn't work.\nIt's my own personal issue too, but…\nyou can't shoulder your problems all by yourself.

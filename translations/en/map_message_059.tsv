@@ -6,8 +6,8 @@ row	column	english
 7	message	I know, let's go to Akihabara... nyo!
 8	message	What are you saying!\nWe don't know when that Gustav thing\nmight fire!
 9	message	Um... I-I'd also like, just a little,\nto go back to Akihabara once... I'm sorry,\nI'm being selfish...!
-10	message	(Soniko-san mistook this for a photoshoot\nand ended up coming all the way here.)
-11	message	(Right, it'd be better\nto send Soniko back to her world.)
+10	message	(Sonico-san mistook this for a photoshoot\nand ended up coming all the way here.)
+11	message	(Right, it'd be better\nto send Sonico back to her world.)
 12	message	(I see. So, shall we go?)
 13	message	Kurumi-san is still in this world,\nso if anything happens\nshe'll come tell us right away.
 14	message	Huh? So we're going to Akihabara?
@@ -26,18 +26,18 @@ row	column	english
 29	message	Huh, this shop\neven carries photo books.
 30	message	Oooh, nice nice!\nOjisan's getting tempted.
 31	message	Sis, that's crude.
-32	message	Huh? Isn't this Soniko-chan?
-33	message	Huh! M-my photo book~!
-34	message	Uwaaah!! It's true!!\nSoniko-san's famous!!
+32	message	Huh? Isn't this Sonico-chan?
+33	message	Huh! M-my photo bookk!
+34	message	Uwaaah!! It's true!!\nSonico-san's famous!!
 35	message	Amazing! Amazing!!\nHaving a photo book out\nmeans you're not a newbie anymore!
 36	message	H-huh? Um...\nI-I've never put out\na photo book with this cover...
-37	message	But this is you, Soniko-chan, right?\nIt's monochrome, but there's no mistaking it?
+37	message	But this is you, Sonico-chan, right?\nIt's monochrome, but there's no mistaking it?
 38	message	But... mm... it does\nlook exactly like me, but I really have\nno memory of shooting these photos...
 39	message	So this is a knockoff?
 40	message	Maybe I've just...\nforgotten...?
-42	message	The manager was doing well, nyo~.
+42	message	The manager was doing well, nyoo.
 43	message	Ah, Dejiko! Take a look at this!
-44	message	Hm? Soniko, when did you put out a photo book, nyo?
+44	message	Hm? Sonico, when did you put out a photo book, nyo?
 45	message	The thing is,\nshe says she's never shot photos like these.
 46	message	Really, nyo?
 47	message	Yes... I have no memory of\nthis outfit, the background, or the poses...
@@ -47,9 +47,9 @@ row	column	english
 51	message	//
 52	message	That's not a typo, it's deliberate, isn't it?
 53	message	You mean a fake?
-54	message	Could it be...\na Black Soniko-chan, like Black Louise-chan\nand Black Twin Angel!?
+54	message	Could it be...\na Black Sonico-chan, like Black Louise-chan\nand Black Twin Angel!?
 55	message	A black me...?
-56	message	A Black Soniko in this world...?
+56	message	A Black Sonico in this world...?
 58	message	Where's Spaa Sonico's agency?\nLet's call them and storm in.
 59	message	Don't do anything stupid, nyu.
 60	message	Why not!
@@ -63,83 +63,83 @@ row	column	english
 69	message	You have some brilliant plan that'd work that well?
 70	message	There is, nyo!\nWe'll hold a "Super Sonico VS Spaa Sonico"\nshowdown event right here at Gamers, nyo!
 71	message	A showdown event?
-72	message	Since Black Soniko's in show business too,\nshe'll definitely jump on it once the buzz starts, nyo.
-73	message	Then we hype it up properly,\nsettle it, and Soniko's popularity and fame\nwill skyrocket! Nothing but good, nyo!
+72	message	Since Black Sonico's in show business too,\nshe'll definitely jump on it once the buzz starts, nyo.
+73	message	Then we hype it up properly,\nsettle it, and Sonico's popularity and fame\nwill skyrocket! Nothing but good, nyo!
 74	message	A no-script real fight?\nSounds fun!
 75	message	This is getting so exciting!\nI'm getting pumped!
 76	message	Wawa! But a showdown,\nthat's so violent...!\nAnd I don't have confidence...
-77	message	It's fine.\nThere's no way Soniko-san will lose.
+77	message	It's fine.\nThere's no way Sonico-san will lose.
 78	message	You can win! Nico-chan can do it!
 79	message	How can the real one be so timid?\nTake care of that fake\nin a flash!
 80	message	U-um... quickly might be... hard...\nbut, b-but, since you're cheering me on,\nI'll do my best!
 81	message	That's the spirit!
 82	message	We'll cheer you on too!
-83	message	Fight, Soniko-san!
+83	message	Fight, Sonico-san!
 84	message	Yes! I'll turn everyone's cheers into nipower\nand take on the challenge!
 85	message	Then I'll go consult the manager, nyo!\nGet ready, nyo.
-86	message	//Battle map: inside Gamers.\n//Ally placement; Soniko forced deployment in the center.
+86	message	//Battle map: inside Gamers.\n//Ally placement; Sonico forced deployment in the center.
 87	message	She's not showing up at all.\nDejiko, did you advertise properly?
 88	message	I did, nyo!\nI got articles on news sites\nand handed out flyers all over Akihabara, nyo!
 89	message	Will Spaa Sonico-san show up?
 90	message	Just wait patiently, nyo.\nThese things spread gradually,\nnyo!
 91	message	Is that how it goes?
-92	message	//Black Soniko appears at the entrance.
+92	message	//Black Sonico appears at the entrance.
 93	message	She's here!
 94	message	Um, a-are you Spaa Sonico-san...?
 95	message	Hello, my fake.\nSetting up such a farce-\nsmall-timers are such a bother.
 96	message	You're the fake!
 97	message	U-um, I-I'm not a fake,\nI'm Super Sonico! Um!\nI'd like to ask about the photo book...
-98	message	Fufufu, the photo book~?\nYou have no right to blame me~!\nYou barely even have work.
+98	message	Fufufu, the photo bookk?\nYou have no right to blame mee!\nYou barely even have work.
 99	message	Ah... um, I-I do have work, h-humbly...!\nEven now...\na shoot...
-100	message	Oh~? Work? A shoot, hmm.\nWell, whatever. After all,\nI'm going to take everything from you.
+100	message	Ohh? Work? A shoot, hmm.\nWell, whatever. After all,\nI'm going to take everything from you.
 101	message	Huh?
 102	message	Your work, your popularity, your fans.\nI'll take absolutely everything\nfrom you! And I will...!
 103	message	Become the real one, you mean?
-104	message	No~ no.\nI'm the real one to begin with.
+104	message	Noo no.\nI'm the real one to begin with.
 105	message	I-I'm the real me too!
-106	message	Then let's settle it here?\nWe don't need two Sonikos.
+106	message	Then let's settle it here?\nWe don't need two Sonicos.
 107	message	//Battle map: inside Gamers.\n//After enemy and ally placement.
 108	message	Leave the nuisances to us-\nyou focus on the showdown!
 109	message	Yes! I-I'll do my best!
 110	message	Steady now. You'll be fine!
 111	message	You're the real one, got it!
 113	message	Um... by the way, what exactly\nshould I do for the showdown...?
-114	message	Impression battles, chugging green juice, sexy pose battles-\nI've got all sorts planned,\nnyo~!
-115	message	...No need for that.\nA showdown means a battle\nstaking everything we have, obviously~!
+114	message	Impression battles, chugging green juice, sexy pose battles-\nI've got all sorts planned,\nnyoo!
+115	message	...No need for that.\nA showdown means a battle\nstaking everything we have, obviouslyy!
 117	message	A b-battle? Staking... everything?
 118	message	Or will you tuck your tail and run?
 119	message	Wawa, I-I'll do it!
-120	message	//Battle begins.\n//Talk event when Soniko and Black Soniko clash.
-121	message	There's no way I can lose~!
+120	message	//Battle begins.\n//Talk event when Sonico and Black Sonico clash.
+121	message	There's no way I can losee!
 122	message	Why... is that?
 123	message	Because you're soft.\nI'm saying I'll take everything.\nDo you have that resolve? What can you do?
 124	message	I-I...
-125	message	//Talk event when Soniko and Black Soniko clash again.
-126	message	What's wrong~? You're no good at all~.
+125	message	//Talk event when Sonico and Black Sonico clash again.
+126	message	What's wrongg? You're no good at alll.
 127	message	...Ungh...\nI really can't... fight...
-128	message	Haa~. You're sweeter than a macaron.\n...So I'll end this for you.\nBecause I'm different from you!
+128	message	Haaa. You're sweeter than a macaron.\n...So I'll end this for you.\nBecause I'm different from you!
 129	message	D-different... from me...?\nMy...
-131	message	Soniko-chan!! I'll save you now!
+131	message	Sonico-chan!! I'll save you now!
 132	message	//Haruka tries to go help.
 133	message	Wait! Right now,\nsomething inside her is about to change.\nLet's watch over her.
 134	message	B-but...
 136	message	Now, let's settle this!\nYour everything will be mine!
 137	message	...My everything...\n...Everything... that's...
-138	message	Soniko-chan! Hang in there!
+138	message	Sonico-chan! Hang in there!
 139	message	This is where you hold on!
 140	message	Nico-chan is Nico-chan!
 141	message	Everyone...! That's right-\nthe memories of time spent with everyone...\nour bonds are precious to me... so I want to protect them...!
 142	message	You're the real one!\nYou absolutely must win!
 143	message	But I don't have that kind of power...!
-144	message	No, you must!\nInside you, Soniko-san,\nthere must be the power of the Super Angel!
+144	message	No, you must!\nInside you, Sonico-san,\nthere must be the power of the Super Angel!
 145	message	...Th-that was just me being desperate\nto save Haruka-chan and Aoi-chan!
 146	message	That's it!
 147	message	Huh?
 148	message	Find the wings in your heart!\nThey'll become your own shining power!
 149	message	My... heart's wings...?
-150	message	//Soniko glows a little.
+150	message	//Sonico glows a little.
 151	message	Ah...!
-152	message	What is that~?\nYou think you can beat me\nwith something like a candle flame~?
+152	message	What is thatt?\nYou think you can beat me\nwith something like a candle flamee?
 153	message	M-my power may be tiny\nand unreliable...
 154	message	But I'm not alone!\nI can hear it. The sound of wings flapping!
 155	message	What are you even saying?\nThere's no such sound...
@@ -156,17 +156,17 @@ row	column	english
 169	message	So-ni-ko! So-ni-ko! So-ni-ko!\nSo-ni-ko! So-ni-ko! So-ni-ko!\nSo-ni-ko! So-ni-ko! So-ni-ko!
 170	message	I told you, nyo.\nAdvertising takes effect gradually, nyo!
 171	message	But why from outside...?
-172	message	This showdown is being filmed\nand streamed live online, nyo.\nAnd it's on the big screen outside too, nyo~.
-173	message	So the people outside could tell\nSoniko-san was in trouble!
+172	message	This showdown is being filmed\nand streamed live online, nyo.\nAnd it's on the big screen outside too, nyoo.
+173	message	So the people outside could tell\nSonico-san was in trouble!
 176	message	Everyone's giving me power.\nEnough to fly! This is...!
 177	message	Yes! Your shining power!
 179	message	So-ni-ko! So-ni-ko!
 180	message	Ngh...!?
-181	message	Ungh, ready... go!\nSuper Soniko, live on stage!\nHiyaaah!!
+181	message	Ungh, ready... go!\nSuper Sonico, live on stage!\nHiyaaah!!
 182	message	Yeeeaaah!
-183	message	//Soniko emits a shining aura.\n//Battle resumes.
+183	message	//Sonico emits a shining aura.\n//Battle resumes.
 185	message	No way, impossible...
-187	message	//Black Soniko vanishes. Any remaining grunts all vanish too.
+187	message	//Black Sonico vanishes. Any remaining grunts all vanish too.
 188	message	...Um... did I do it right?
 189	message	That was amazing!!
 190	message	Nico-chan was so cool!
@@ -180,17 +180,17 @@ row	column	english
 198	message	Um... I can't put my feelings\ninto words right now...\nso may I express them with music!
 199	message	Yeeeah!
 200	message	Then, listen-Powerful Power!
-201	message	//Event CG: Soniko live.
+201	message	//Event CG: Sonico live.
 202	message	Ready...!!
 203	message	Yeah! Yeah! Yeah! Yeah!
 204	message	Oh, amazing!
-205	message	Soniko-chaaan!!
-206	message	This is the real Soniko-san!
+205	message	Sonico-chaaan!!
+206	message	This is the real Sonico-san!
 207	message	Yes-the radiance of a true idol.\nNo, of a superstar.
 208	message	(How about it, [CLAUDE].\nIdols are wonderful things, aren't they?)
-209	message	(I can at least see that Soniko-san\nis making everyone here happy.)
-210	message	(It's not just that.\nThis huge crowd is also making Soniko-san happy.\nDon't forget that.)
-211	message	(Is that so... she does look happy,\nSoniko-san.)
+209	message	(I can at least see that Sonico-san\nis making everyone here happy.)
+210	message	(It's not just that.\nThis huge crowd is also making Sonico-san happy.\nDon't forget that.)
+211	message	(Is that so... she does look happy,\nSonico-san.)
 212	message	What a lovely song.
 213	message	I'm so moved... fehhn!!
 214	message	Becoming one with the fans... truly amazing!
@@ -200,23 +200,23 @@ row	column	english
 218	message	Talk about a merchant's spirit-\nor was that the plan from the start?
 219	message	Events have to make everyone happy,\nnyo!
 220	message	This time it's Dejiko-chan's achievement.
-222	message	I raised Soniko!
+222	message	I raised Sonico!
 223	message	That's not true!
 224	message	Restrain yourself, nyu.
 225	message	Silence.
-226	message	It's a joke, nyo!\nBut Soniko's grown a lot, nyo.
-228	message	Yeah, amazing~~!!
+226	message	It's a joke, nyo!\nBut Sonico's grown a lot, nyo.
+228	message	Yeah, amazinggg!!
 229	message	How wonderful!
-230	message	I wonder if this means saying goodbye to Soniko.
+230	message	I wonder if this means saying goodbye to Sonico.
 231	message	I see, going back to work, huh.
 232	message	//
 233	message	With this many fans, of course.\n...I'll miss her, though.
 234	message	Saying goodbye, huh, that's a shame...
-235	message	After all, Soniko-chan only came\nto this different world\nbecause she got caught in Porial's light.
-236	message	//Soniko arrives.
+235	message	After all, Sonico-chan only came\nto this different world\nbecause she got caught in Porial's light.
+236	message	//Sonico arrives.
 237	message	Good work, everyone!
 238	message	Wawa, everyone looks down!\nThen, how about we go back to Saint Cherine Academy\nand have some snacks!
-239	message	Huh? You're coming too, Soniko-chan??
+239	message	Huh? You're coming too, Sonico-chan??
 241	message	Yes! I just promised\nall the fans cheering for me\nthat I'll come back even bigger!
 242	message	Whaaat!?
 243	message	I want to see my role through to the end\nbefore moving to the next step!\nPlease keep supporting me!

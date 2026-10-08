@@ -1,7 +1,7 @@
 row	column	english
 3	message	Okay, let's get going, everyone!
 4	message	Will it really be all right?
-5	message	Maid practice was fun, desu~!
+5	message	Maid practice was fun, desuu!
 6	message	Fun!? You've gotta be kidding!\nNever again, no way!
 7	message	Maid training's great.\nEveryone was so cute!
 8	message	Please forget it...
@@ -26,7 +26,7 @@ row	column	english
 27	message	(We should stay on guard.)
 28	message	It's fine! It'll be over quick!\nOkay, operation staaart!
 29	message	//fade to black\n//Event CG: Charles in a maid outfit
-30	message	How is it? This maid outfit's\npretty risqué... doesn't it look weird?
+30	message	How is it? This maid outfit's\npretty risque... doesn't it look weird?
 31	message	No problem.
 32	message	But if I clean in this outfit,\nwon't it show...?
 33	message	The president presumably has those tastes.
@@ -60,7 +60,7 @@ row	column	english
 63	message	Riko!
 64	message	//Battle map: city\n//Riko, Aria, Houki, Satoko & Rika force-deployed. Riko counts as a third force.
 65	message	What do you mean, enemy attack!?\nIsn't this because you screwed up!?
-66	message	What are you getting wrong~?\nThe enemy's already here.
+66	message	What are you getting wrongg?\nThe enemy's already here.
 67	message	What do you mean...?
 68	message	Once I take back the rosary,\nall that's left is beating Ormes... kufufu!
 69	message	You... planned this\nfrom the start!
@@ -91,39 +91,39 @@ row	column	english
 95	message	This rosary is Riko's!!\nI won't give it to you!!
 96	message	Pfft! Ahahahahahahahahahaha\nhahahahahahahahahahaha\n*cough cough*!
 97	message	What's so funny!!
-98	message	Because~ Riko-chin has zero\ntalent as a phantom thief, but\nshe's a natural-born comedian~!
+98	message	Becausee Riko-chin has zero\ntalent as a phantom thief, but\nshe's a natural-born comediann!
 99	message	What do you mean!?
 100	message	What Riko-chin stole is a fake.\nOne Mii whipped up -\na bright-red FA-KE!
 101	message	Wh-what are you saying!?\nI mean, I could use my powers...
-102	message	That's right~! You could~!\nBecause I made it work just the same~!
-103	message	But, but, look closely?\nNot a scratch or speck of dirt, right?\nIt's freshly made, so it's all shiny~!
+102	message	That's rightt! You couldd!\nBecause I made it work just the samee!
+103	message	But, but, look closely?\nNot a scratch or speck of dirt, right?\nIt's freshly made, so it's all shinyy!
 104	message	!?
-105	message	Ahahahaha!\nIt's your precious mama's keepsake,\nand you didn't even notice it's a fake~!
-106	message	Are you stupid? Or were you so scared of Mii\nthat running away took everything you had~!?\nAhaha! The real one's over here~!
+105	message	Ahahahaha!\nIt's your precious mama's keepsake,\nand you didn't even notice it's a fakee!
+106	message	Are you stupid? Or were you so scared of Mii\nthat running away took everything you hadd!?\nAhaha! The real one's over heree!
 107	message	You...!
-108	message	I watched you crack that safe, every second.\nA sorry little inferior creature\ntricking Mii? Impossible~!
+108	message	I watched you crack that safe, every second.\nA sorry little inferior creature\ntricking Mii? Impossiblee!
 109	message	Blad-chan said it too -\nRiko-chan makes the\nabsolute best toy!
 110	message	Every job I gave you, all failures!\nPlus stealing a fake and looking smug!\nAhahahaha!
 111	message	//Gunshot.
 112	message	Don't laugh!!
 113	message	Ow?
 114	message	Now it's clear!\nYou're our enemy!
-115	message	Huh~? Why is Aria-chan\nangry~?
+115	message	Huhh? Why is Aria-chan\nangryy?
 116	message	Riko! You know what I'm thinking!\nLet's do what needs doing first!!
 117	message	Ormes...!
 118	message	We'll take the rosary back from her!!\nEverything else comes after!!
 119	message	Got it...!
 120	message	//Battle start.\n//Riko acts as an allied NPC targeting Mii.
 122	message	Apologize first!!
-123	message	Mii's the king, y'know? Kings don't apologize~!
+123	message	Mii's the king, y'know? Kings don't apologizee!
 124	message	You snot-nosed brat who can't tell\nright from wrong when you're playing around!\nWhat kind of king is that!!
 125	message	Didn't you know?\nA king can do whatever she wants!
 126	message	Shut up! Kazaana!!
 127	message	//Talk event when Mii and Riko engage.
 128	message	Give back the rosary!!
-129	message	Nooo! If Mii'd kept quiet,\nyou'd never have noticed it was a fake~\nNo rosary for the dummy!
+129	message	Nooo! If Mii'd kept quiet,\nyou'd never have noticed it was a fakee\nNo rosary for the dummy!
 130	message	Unforgivable... absolutely unforgivable!!
-131	message	The unforgivable one is\nthe failure of the phantom-thief clan, I think~?\nAhahahahaha!!
+131	message	The unforgivable one is\nthe failure of the phantom-thief clan, I thinkk?\nAhahahahaha!!
 132	message	//Talk event when Mii engages Rika & Satoko.
 133	message	I have just one thing\nI wish to say to you.
 134	message	What is it?
@@ -243,6 +243,6 @@ row	column	english
 261	message	//
 262	message	Sheesh, getting all serious\nfeels silly now.\nAnyway, I'm with you till we beat Mii!
 263	message	You should've said that from the start!
-264	message	Aria was throwing a fit\nabout doing it alone at first too!\nRiko saw it~.
+264	message	Aria was throwing a fit\nabout doing it alone at first too!\nRiko saw itt.
 265	message	Shut up shut up shuuut up!
 266	message	//END

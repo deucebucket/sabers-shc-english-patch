@@ -19,7 +19,7 @@ row	column	english
 22	message	Aaah!?
 23	message	Usada's out!\nYou put up a great fight for your first time,\nbut too bad!
 25	message	Hey!\nIt's Dejiko's fault I lost!
-27	message	Serves you right, nyo~.
+27	message	Serves you right, nyoo.
 29	message	No looking away\nin this water-gun battle.
 31	message	Exactly!!
 33	message	// SE: water gun firing sound, dodged by Rena
@@ -35,7 +35,7 @@ row	column	english
 45	message	Now I've got the ammo advantage.\nCome on, let's settle this!
 46	message	...I see.\nNow I understand how you've\nsurvived this far.
 47	message	But with your skill,\ntaking me down is impossible!
-48	message	Is that so? I wonder~
+48	message	Is that so? I wonderr
 49	message	No mercy! Here I go!
 52	message	...!
 54	message	// Rena moves a beat later
@@ -61,7 +61,7 @@ row	column	english
 75	message	Tch... how careless of me...
 76	message	Phew... I thought I had it, though.
 77	message	That was a duel for the ages, wasn't it.
-78	message	You were both wonderful, you know~
+78	message	You were both wonderful, you knoww
 79	message	Rena... at the end, how did your right water gun\nstill have two shots' worth of water?\nIt didn't look like you switched.
 80	message	While I was running at a distance,\nI shot the refill port of my right gun\nwith my left gun, where you couldn't see,\nto top it up.
 81	message	Huh... so that's the trick?
@@ -70,7 +70,7 @@ row	column	english
 84	message	It might not have worked\non Mii-chan or Satoko-chan.
 85	message	You got me.\nIt was a draw, but it feels like I lost.
 86	message	You're amazing.\nAn amateur, yet you fought thinking through\nyour weapon's traits and your opponent's mind...
-87	message	Must be the fruits of\ndaily club activities! I wonder~
+87	message	Must be the fruits of\ndaily club activities! I wonderr
 88	message	(I'm starting to understand...\nwhy a partner is needed.\nIdeas and ways of thinking I don't have...\nthey help me grow...)
 89	message	// Fade to black\n// Background: a cafeteria-like place
 90	message	So what are we doing from here?
@@ -104,13 +104,13 @@ row	column	english
 118	message	True-fighting in coordination\nbetween IS pilots and those who can't fly\ntakes special training.
 119	message	Sounds fine.\nNothing to lose by trying.
 120	message	So, what are the teams?
-121	message	IS Academy's deciding based on the data,\napparently. I wonder how it'll turn out~?
+121	message	IS Academy's deciding based on the data,\napparently. I wonder how it'll turn outt?
 122	message	// Battle map: IS Academy arena\n// Player deployment: Cecilia & Sonico, Rin & Dejiko, Charlotte & Puchiko, Laura & Siesta, and Houki & Hibiki teams are deployed.
 123	message	Cecilia, let's do our best!
 124	message	Leave it to me and victory is certain!
 125	message	//
 126	message	Dejiko! If we're doing this,\nwe're winning, got it!
-127	message	What a pain, nyo~.\nUsada, take my place, nyo.
+127	message	What a pain, nyoo.\nUsada, take my place, nyo.
 128	message	Just go get beaten already, Dejiko!
 129	message	What'd you say, nyo!?\nDon't screw with me, nyo!!
 130	message	//
@@ -160,7 +160,7 @@ row	column	english
 174	message	Don't care, nyo!!\nPreemptive strike! Eye beams!!
 175	message	// Dejiko attacks Riko; battle animation off, damage to Riko
 176	message	So meaan!!
-177	message	The battle-start countdown\nalready ended, nyo~!\nIt's not cowardly at all, nyo~!
+177	message	The battle-start countdown\nalready ended, nyoo!\nIt's not cowardly at all, nyoo!
 179	message	Riko, enough playing around?
 180	message	Tch. Yeah yeah, I'll get serious.
 181	message	// Grunts are also deployed in large numbers
@@ -193,7 +193,7 @@ row	column	english
 210	message	Of course, I like Louise too!
 211	message	(Her...? Strange tastes...)
 212	message	// Event triggers on defeating Riko
-213	message	I was going for a tag match,\nso maybe I was a bit off my game~?
+213	message	I was going for a tag match,\nso maybe I was a bit off my gamee?
 214	message	Excuses are unsightly.
 215	message	Slipping away quietly would be way lamer!\nSee ya later!
 216	message	// Event triggers on defeating Jeanne
@@ -233,7 +233,7 @@ row	column	english
 251	message	Sure do!\nGotta play once in a while\nor my skills get rusty.
 252	message	Then I'll be your opponent!\nI'm pretty good, you know!
 253	message	Bring it on!
-254	message	Sounds great~!\nLet's all have fun!
+254	message	Sounds greatt!\nLet's all have fun!
 255	message	Doubles would be fun, right?\nI'm in too!
 256	message	Can you even play, nyu?
 257	message	I've played before, you know!
@@ -245,7 +245,7 @@ row	column	english
 263	message	I'll handle the court reservation\nand equipment!
 264	message	Then I'll prepare lunch boxes and drinks.
 265	message	I'll help too.
-266	message	We'll be watching, you know~
+266	message	We'll be watching, you knoww
 267	message	I was good at baseball, though.\nWhat a shame.
 268	message	// Fade to black\n// Background: top of stairs (or a substitute)
 269	message	Sigh...\nI still feel so deflated...
@@ -282,7 +282,7 @@ row	column	english
 300	message	You're looking down on me as always!
 301	message	So, where did Teacher go?
 302	message	I don't know.\nShe was gone before I noticed...
-303	message	Phew~-[NOEL] really is\nan idiot, idiot!!
+303	message	Pheww-[NOEL] really is\nan idiot, idiot!!
 304	message	Wh-what do you mean!
 305	message	You're an idiot because\nyou don't think about anything!\nYou never once thought about\nwhat Teacher's thinking\nor what she's trying to do!!
 306	message	But Teacher never talks\nabout that stuff...!

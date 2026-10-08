@@ -31,7 +31,7 @@ row	column	english
 32	message	Kei aside, where did those black ones\ndisappear to?\nCould they be ghosts or something?
 33	message	Since neither I nor Rem-san have sensed\nanything like that,\nI don't think so.
 34	message	Rem mentioned something about doppelgangers-\nyou know, those lookalike monsters\nshe talked about.
-35	message	Black lookalikes are popping up\nin worlds everywhere, desu~!
+35	message	Black lookalikes are popping up\nin worlds everywhere, desuu!
 36	message	The scary part is, those black ones\nshow up anywhere.\nWhere do they even come from?
 37	message	I wonder how they travel between worlds.\nThey don't seem connected\nto Mii and Kei, though...
 38	message	Doesn't look like they're using a Poryal.\nUnless there are more Poryals\nin places we don't know about.
@@ -75,7 +75,7 @@ row	column	english
 77	message	They're already here!
 78	message	Maybe they're trying to wear us down\nand force Kenran Butou to activate?
 79	message	Unfortunately, we still don't know how to activate it.
-80	message	The ones that just showed up are pretty too, desu~.\nCandidates for my collection, desu~!
+80	message	The ones that just showed up are pretty too, desuu.\nCandidates for my collection, desuu!
 81	message	[MERU]-san!\nSave that for when we have breathing room!
 82	message	Being worn down bit by bit is nice too... ufufu!
 83	message	Hey! What's with that look!?
@@ -87,21 +87,21 @@ row	column	english
 90	message	//Event below triggers after defeating several more enemy grunts.
 92	message	Ugh, they're persistent!\nWhere do they keep coming from!?
 93	message	Truly, no end in sight.
-94	message	This is getting a little tough, desu~...
+94	message	This is getting a little tough, desuu...
 95	message	Ufufu... being worn down\nbit by bit... feels good...
 96	message	Wh-what a weirdo...
 97	message	...Time to move.
 98	message	//The Master and the Rival appear.
 99	message	New readings!? That's!!
 100	message	!?
-101	message	Teacher! And [NOEL] too!?\nDid you come to save us, desu~?
+101	message	Teacher! And [NOEL] too!?\nDid you come to save us, desuu?
 102	message	Teacher! And [MERU] as a bonus!\nDid you come to save us!?
 103	message	Foolish.
 104	message	N-no way...
 105	message	I-I knew it...?
 106	message	Do it.
 107	message	Yes! Teacher!
-108	message	Yes, desu~!
+108	message	Yes, desuu!
 109	message	Eve, you've joined forces with Kei?
 110	message	You don't need to know.
 111	message	[NOEL]-san,\nthere's no one among us\nwho wants to fight you.
@@ -126,26 +126,26 @@ row	column	english
 130	message	Don't resist, and you'll die easy.
 131	message	Confirming Eve's combat actions.\nClassifying as execution behavior.
 132	message	(...Good.)
-133	message	Teacher! Why are you doing this, desu~?
+133	message	Teacher! Why are you doing this, desuu?
 134	message	Teacher, do you hate me that much?
 135	message	Shut up and die.
 136	message	You should die by the Teacher's hand.
-137	message	I should be disposed of by the Teacher, desu~!
+137	message	I should be disposed of by the Teacher, desuu!
 138	message	Since you defied my orders,\nyour will deserves to be ignored.\nWhat a fool needs is not a teacher, but death!
 139	message	This is all strangely theatrical, isn't it?
 140	message	(This exchange is unnatural...\nWhat are they after...?)
 141	message	//Event upon defeating Eve and the Rival.
 142	message	Persistent, aren't you.\nIn honor of that tenacity, I'll withdraw for now.
-143	message	Wait, desu~!\nWhy do we have to fight, desu~!\nAt least tell me why, desu~!
+143	message	Wait, desuu!\nWhy do we have to fight, desuu!\nAt least tell me why, desuu!
 144	message	[MERU], the real enemy is...
 145	message	Hold on!\nWhat are the Teacher and [MERU]\neven trying to do!?
-146	message	Figure it out already, desu~!\nThe enemy is...
+146	message	Figure it out already, desuu!\nThe enemy is...
 147	message	Silence.
 148	message	Y-yes!
-149	message	Eep! I'm sorry, desu~!
+149	message	Eep! I'm sorry, desuu!
 150	message	We're going.
 153	message	//Eve and the Rival vanish.
-154	message	Are they hiding something, desu~...?
+154	message	Are they hiding something, desuu...?
 155	message	What is it!? This doesn't sit right!!
 156	message	//Event after dealing a set amount of damage to Kei or after several turns.\n//SE: Kei's alert sound
 157	message	Error detected. Scanning all systems.\nProblem detected.

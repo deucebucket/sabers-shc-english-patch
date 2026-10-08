@@ -20,7 +20,7 @@ row	column	english
 22	message	Any guy'd prefer melons\nover lemons.
 23	message	Mion! Is that really what you're talking about!?
 24	message	//
-25	message	(Am I on the lemon side, desu~...?)
+25	message	(Am I on the lemon side, desuu...?)
 26	message	(Am I a melon?\nNo, maybe more like a grapefruit?)
 27	message	([CLAUDE], do you prefer\nmelons or lemons?)
 28	message	(No comment, please...)
@@ -31,7 +31,7 @@ row	column	english
 33	message	(Too early for [CLAUDE]? All that matters\nis that she's cute.)
 35	message	(For example, an outfit like this\nwould suit Louise-san, don't you think?)
 36	message	(This... certainly...)
-37	message	[CLAUDE]-san, what's wrong, desu~?
+37	message	[CLAUDE]-san, what's wrong, desuu?
 38	message	[CLAUDE]-kun, what's wrong?
 40	message	Huh!? N-no, it's nothing.
 41	message	//
@@ -46,7 +46,7 @@ row	column	english
 53	message	Right. Let's get to bed.
 54	message	Let's rest well and prepare for what's next.
 56	message	Mmm, no matter when I sleep I can't wake up anyway,\nso I'd rather chat a little more...
-57	message	Oh, me too!\nA warm futon is a monster, isn't it~!
+57	message	Oh, me too!\nA warm futon is a monster, isn't itt!
 58	message	Being unable to wake up is no excuse\nto stay up late!\nOff to bed, now!
 61	message	Y-yes! Good night!
 62	message	//fade to black\n//Background: night sky
@@ -160,11 +160,11 @@ row	column	english
 176	message	Fufufu...
 177	message	//fade to black\n//Background: wherever Mii and the others are (whatever works)\n//Kei and the others are talking.
 178	message	Dark Rem test complete.\nJudged sufficiently usable.
-179	message	Do we really need that thing?\nDark Rem-chan never talks, so\nshe's no fun. She's like a doll~!
+179	message	Do we really need that thing?\nDark Rem-chan never talks, so\nshe's no fun. She's like a dolll!
 180	message	Lately, Doctor Shinigami has been\nacting suspiciously.\nHis "dream power" is dangerous.
 181	message	Is it? Aren't you a little too scared\nof things you don't understand, Kei-chan?
 182	message	The power of Ama-no-Tsukai. Dream power. Void magic. IS.\nHinamizawa... all incomprehensible.
-183	message	Not getting it is what makes it fun~!\nYou've still got a lot to learn, Kei-chan.
+183	message	Not getting it is what makes it funn!\nYou've still got a lot to learn, Kei-chan.
 184	message	Yes. Still lacking data.
 185	message	Nooo! It's not about data!\nBzzzt, wrong!!
 186	message	//END

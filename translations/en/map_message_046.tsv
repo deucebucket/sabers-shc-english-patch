@@ -31,18 +31,18 @@ row	column	english
 37	message	Hot-spring manju?
 38	message	Not THOSE buns, nyo!!\nI'm asking what those 'strongest boobs I ever designed'\nthings are, nyo!!
 39	message	Huh...?
-40	message	No can do, Dejiko~. These are mine!\nI won't let you touch~!
+40	message	No can do, Dejikoo. These are mine!\nI won't let you touchh!
 41	message	Ah...
 43	message	//Tiffania flees Mion and hides behind Dejiko.
 45	message	What even IS this picture, nyo!?
 47	message	(A scheming petit knight\nprotecting a busty beauty from a molester, perhaps?)
 48	message	(I don't understand at all, but...)
-49	message	[CLAUDE]-san,\nhave you seen Teach, desu~?
+49	message	[CLAUDE]-san,\nhave you seen Teach, desuu?
 50	message	[CLAUDE]-kun,\ndid you see Teach?
 51	message	Eve-san?\nCome to think of it, she's nowhere to be seen...
-52	message	Don't tell me she slipped away\nwithout a word again, desu~?\nAfter we finally found her...
+52	message	Don't tell me she slipped away\nwithout a word again, desuu?\nAfter we finally found her...
 53	message	Sheesh! Did her curiosity explode again\nand she wandered off somewhere!?\nHonestly, Teach!!
-54	message	With the [NOEL] thing too,\nI'm worried, desu~...
+54	message	With the [NOEL] thing too,\nI'm worried, desuu...
 55	message	I doubt it, but...\nmaybe she went to [MERU]...?
 56	message	//SFX: booming attack sounds. Usada's army attacks.\n//Screen shake and other effects.
 57	message	!?
@@ -69,9 +69,9 @@ row	column	english
 86	message	Come at me!!
 87	message	(Dejiko, not flinching is admirable, but\nthis enemy lineup is on an unprecedented scale.\nWe don't have that much leeway...)
 88	message	(And since we were ambushed,\nwe're forced on the defensive!)
-90	message	(Ah, no problem, nyo.\nThe enemy has a decisive weakness,\nso this battle's a piece of cake, nyo~.)
+90	message	(Ah, no problem, nyo.\nThe enemy has a decisive weakness,\nso this battle's a piece of cake, nyoo.)
 93	message	Huh?
-94	message	(The enemy's weakness is Usada, nyo.\nAs long as Usada's there, we can't lose, nyo~.)
+94	message	(The enemy's weakness is Usada, nyo.\nAs long as Usada's there, we can't lose, nyoo.)
 95	message	//Battle map: Symphogear.\n//Initial deployment: Yase, Riko, and Jeanne's units, with Usada's unit positioned behind them like a supreme commander. Strong in numbers and quality.\n//To sell the ambush, the enemy goes first if possible. Fine if not.\n//Allied deployment. Dejiko ambushes Usada later, so no initial deployment for her.\n//Conversation event after allied deployment.
 96	message	O-hohohoho!!\nBehold! The beauty of this formation!\nOverwhelming, no!
 97	message	How she gathered\nthis many people...
@@ -80,7 +80,7 @@ row	column	english
 100	message	Huh? Dejiko doesn't seem to be here?\nHey you lot! Where's Dejiko?
 101	message	Oh, Dejiko-chan ran away.
 102	message	Ran away?
-103	message	She said something like 'no way we can win, nyo~'\nand wandered off somewhere.\nHonestly, what a handful.
+103	message	She said something like 'no way we can win, nyoo'\nand wandered off somewhere.\nHonestly, what a handful.
 104	message	//
 105	message	Fufu... yes, she ran.\nIf that crafty Dejiko ran,\nit means she judged we can't win!
 106	message	We won! This battle is won!\nEveryone! Advance and suppress!! Crush them!!
@@ -92,10 +92,10 @@ row	column	english
 113	message	//Battle start. The enemy advances aggressively.\n//Conversation event at the start of turn 2.
 114	message	Ufufu! I'm on fire!\nWhy didn't I do this sooner?
 115	message	What a smug face.
-116	message	That B-tier idol vibe of getting carried away\nwithout even conquering anything\ngives me chills of admiration, desu~!
+116	message	That B-tier idol vibe of getting carried away\nwithout even conquering anything\ngives me chills of admiration, desuu!
 117	message	That's niche...
-118	message	N-no, that's wrong, Char-san!\nMy strike zone is\nbetween C-tier and D-tier, desu~!
-119	message	So\nI'd like her to fall a bit further, desu~!!
+118	message	N-no, that's wrong, Char-san!\nMy strike zone is\nbetween C-tier and D-tier, desuu!
+119	message	So\nI'd like her to fall a bit further, desuu!!
 120	message	She'd be great for magic tricks!\nHypnosis would work on her in one shot.
 121	message	In other words, she's an idiot.
 122	message	At least say 'simple.'\nLike 'her heart is pure to an exasperating degree.' Y'know?
@@ -126,7 +126,7 @@ row	column	english
 147	message	The performance is lame too.\nJust swinging a sword around like that,\nRiko says no way!
 148	message	The sword is the soul of the samurai! Don't mock it!
 149	message	//Event when Riko and Tiffania clash.
-150	message	Oh my? Is that okay~?\nI'll catch you~?
+150	message	Oh my? Is that okayy?\nI'll catch youu?
 151	message	I won't be caught!\nFor everyone's sake too...!
 152	message	There's something big and jiggly\nthat looks easy to grab?\nKufufu, like a naughty game!
 153	message	I-I won't lose!!
@@ -190,9 +190,9 @@ row	column	english
 215	message	Just what I want!
 216	message	//Event when Tesla and White Angel clash.
 217	message	Hmph, so you're the Twin Phantom?\nSorry, but as long as I'M here,\nyou won't be throwing your weight around!
-218	message	Oh my, still a child~.\nBut I won't hold back?
+218	message	Oh my, still a childd.\nBut I won't hold back?
 219	message	Hmph, I wonder if you'll be saying the same thing later?
-220	message	Quite confident, aren't you~?\nThen let me see what you can do!
+220	message	Quite confident, aren't youu?\nThen let me see what you can do!
 221	message	Bring it on!!
 222	message	//Event when Nine and White Angel clash.
 223	message	Twin Phantom or whatever you are,\nget in my way and I won't hold back!
@@ -223,7 +223,7 @@ row	column	english
 248	message	Nyu.
 249	message	That's Puchiko-san!
 250	message	The hostage they kidnapped\nfrom Gamers!
-251	message	That's a no-no~.
+251	message	That's a no-noo.
 253	message	I don't want to resort to this either!\nMy crushing-victory plan got ruined,\nso I have no choice!
 254	message	You're bad at fighting, nyu.\nIf Puchiko commanded, it'd be a piece of cake, nyu.
 255	message	Silence!\nA hostage should just beg for help!
@@ -292,7 +292,7 @@ row	column	english
 318	message	// Fade to black\n// Background: Dokoka Town
 319	message	...I see.\nSo Usada got talked into taking down Dejiko\nand went along with it, huh?
 320	message	That's right... um,\ncould you not call me 'Usada', please?
-321	message	Er, then, Rabi~en~Rose.\nWho was it that talked you into it?
+321	message	Er, then, RabiiennRose.\nWho was it that talked you into it?
 322	message	A girl about elementary-school age.
 323	message	Huh? An elementary schooler?
 324	message	Not Riko or Jeanne?\nOr maybe the Shinigami Doctor in disguise.

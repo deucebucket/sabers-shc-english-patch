@@ -14,14 +14,14 @@ row	column	english
 15	message	Maybe we've been lumping them together\nas 'the enemy,' but\nwhat if they're not united over there?
 16	message	Hmm, can't say either way.\nJeanne and Riko seem to be allies, though...
 17	message	Jeanne and Riko are members of I-U.\nLaura was acting on German military orders, but\nI doubt she's connected to I-U.
-18	message	I just can't see how they connect~.
+18	message	I just can't see how they connectt.
 19	message	Figuring out the enemy factions' relationships\nlooks like a future task.
 20	message	And the reason for the enemy's speed, too.
 21	message	About that, I have an idea.
 22	message	Oh? What's that?
 23	message	Actually, before we set out, Laura-chan and I...
 24	message	//Scene change: inside Butei High.\n//A different room from where the three are. The group prepares for the rendezvous.
-25	message	Whoa, that's a ton of luggage~?
+25	message	Whoa, that's a ton of luggagee?
 26	message	'Be prepared and have no worries!'\nI'm packing it full and taking it all!
 27	message	Hoshitoga Shrine still hasn't caught on?
 28	message	Butei High is cooperating too.\nButei Charter, Article One:\n'Trust your comrades, help your comrades.'
@@ -40,7 +40,7 @@ row	column	english
 41	message	//Tiffania shows them hot-spring manju.
 42	message	...Hot-spring manju?
 43	message	Yes! They were so delicious!\nIf this helps us get along...
-44	message	Better than hot-spring manju,\nthere's an even nicer pair of buns right here~?
+44	message	Better than hot-spring manju,\nthere's an even nicer pair of buns right heree?
 45	message	//SFX: boing boing.
 46	message	Kyaa!?
 47	message	With these, you can become friends\nwith any human, I tell ya.\nC'mere c'mere c'mere!
@@ -61,7 +61,7 @@ row	column	english
 62	message	Hey hey,\nhave you seen [NOEL]-chan?
 63	message	Hm? She's gone?\nMaybe she went to buy souvenirs?
 64	message	//[MERU] ([NOEL]) comes running.
-65	message	It's terrible, Remu-san!\nLots of pedestrians in the city fell asleep, desu~!
+65	message	It's terrible, Remu-san!\nLots of pedestrians in the city fell asleep, desuu!
 66	message	Remu-san, it's bad!\nPeople walking in the city suddenly fell asleep!
 67	message	Huh? What's that about?
 68	message	'Sudden street-sleeping phenomenon'!\nNo way... Dr. Shinigami!?
@@ -132,7 +132,7 @@ row	column	english
 138	message	//Dr. Shinigami vanishes.
 139	message	He vanished...?
 140	message	That was different from the others\nvanishing in a flash of light, wasn't it?
-141	message	Teach, what was that, desu~?
+141	message	Teach, what was that, desuu?
 142	message	Teach, what do you think?
 143	message	Hmm, duuunno☆\nBut I think that was an ability\nthat gentleman always had.
 144	message	Yeah, I think so too.
@@ -176,7 +176,7 @@ row	column	english
 182	message	So we gotta hunt for a spy?\nThat's no fun.
 183	message	Then let's move right away.\nEveryone's here, right?
 184	message	Um, huh? Feels like someone's missing...
-185	message	Hanya? Teach isn't here, desu~!
+185	message	Hanya? Teach isn't here, desuu!
 186	message	Huh, where's Teach?
 187	message	//Eve appears.
 188	message	Hey now☆\nForgetting your teacher gets you a boo, y'know?

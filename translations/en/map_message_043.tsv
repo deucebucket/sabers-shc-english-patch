@@ -12,12 +12,12 @@ row	column	english
 13	message	Humans fear elves.\nAnd yet you've all welcomed me\nso warmly...
 14	message	A friend of a friend is a friend! That's what I say☆
 15	message	The circle of friends, connected by phone!
-16	message	...Sometimes you and Remu-san\nare perfectly in sync, desu~.
+16	message	...Sometimes you and Remu-san\nare perfectly in sync, desuu.
 17	message	You two get along super well sometimes,\nyou and Remu-san, Teach!
 20	message	Well, yeah!
 22	message	We don't really know\nwhat elves are like, so\nmaybe that's for the best.
 23	message	I'll do my best\nnot to be afraid of all of you, too.
-24	message	All right, this old man'll\ndo his best to deepen our friendship too~!\nC'mere c'mere, skinship skinship!
+24	message	All right, this old man'll\ndo his best to deepen our friendship tooo!\nC'mere c'mere, skinship skinship!
 25	message	Ah! Mion-san!?
 26	message	//SFX: boing boing
 27	message	H-hey! Mion!\nWhat are you doing!
@@ -50,9 +50,9 @@ row	column	english
 54	message	This'll make a great memory!
 55	message	I'm going to check out the bath!
 56	message	[MERU],\ngo clean the bath☆
-57	message	Yes! Magical bath-cleaning, desu~!
+57	message	Yes! Magical bath-cleaning, desuu!
 58	message	[NOEL],\ngo clean the bath☆
-59	message	Yeees! I'll wipe out any stain~!
+59	message	Yeees! I'll wipe out any stainn!
 60	message	Naturally, I'll be on cooking duty!
 61	message	Cecilia's on bath duty too.
 62	message	Honestly! I won't accept this!
@@ -67,14 +67,14 @@ row	column	english
 71	message	You really can do anything...
 72	message	But y'know, now that it's dark,\nisn't this building kinda creepy?
 73	message	It's pretty old.\nAnd there's nobody here but us...
-74	message	Maybe it's one of those inns with a dark past~.\nLike at night, while you're sleeping,\nthe guests vanish one by one~...
+74	message	Maybe it's one of those inns with a dark pastt.\nLike at night, while you're sleeping,\nthe guests vanish one by onee...
 75	message	H-hey!?\nStop it! That kind of talk!
 76	message	Is Cecilia-san bad with scary stories?
 77	message	N-no, that's not true at all!
 78	message	...But aren't we really missing someone?
 79	message	Stop it, Aria-san!\nEven as a joke, that kind of thing...
 80	message	No, I really feel like someone's missing...
-81	message	Who's missing, desu~?
+81	message	Who's missing, desuu?
 82	message	Who's missing?
 84	message	Sorry, it's me...
 85	message	Oh, it was you.\nI'd forgotten\nyou were even here.
@@ -102,7 +102,7 @@ row	column	english
 107	message	That's what makes it thrilling!
 108	message	This is, however...
 109	message	We charged in on momentum, but...
-110	message	It's scarier than I imagined, desu~...
+110	message	It's scarier than I imagined, desuu...
 111	message	Kinda scary, actually. Haha...
 112	message	...
 113	message	...Everyone. Shall we go back?
@@ -230,7 +230,7 @@ row	column	english
 246	message	Let's soak in the hot spring, warm up,\nand forget allll about it!
 250	message	No objections!
 252	message	Nikoniko-chan's smart☆
-253	message	Desu~!
+253	message	Desuu!
 254	message	As expected of a college student!
 255	message	//Fade to black.\n//Background: cave (a different shot, or the entrance if available).
 256	message	...

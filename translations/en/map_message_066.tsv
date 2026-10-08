@@ -15,12 +15,12 @@ row	column	english
 16	message	Super Sonico? Weird name.\nWhat do you want with me?
 17	message	Um... well,\nI'd love it if we could be friends!
 18	message	Huh? This carefree toward someone\nwho was an enemy until recently!?\nYou'd fall for scams easy, wouldn't you!
-19	message	A-awawa! P-people tell me that a lot,\nbut that's not true~!\nB-but thank you for worrying about me!
+19	message	A-awawa! P-people tell me that a lot,\nbut that's not truee!\nB-but thank you for worrying about me!
 20	message	This lack of distance... hey, Hibiki!
 21	message	What's up, Chris-chan?\nWant a snack?
-22	message	Ah♪ Ehehe~, I just happen\nto have macarons♪
+22	message	Ah♪ Ehehee, I just happen\nto have macarons♪
 23	message	Chris-chan, do you like macarons?
-24	message	Would you like one~♪
+24	message	Would you like onee♪
 25	message	Just as I thought... you two are the same breed...
 28	message	Huh?
 29	message	Reki! You're coming too?
@@ -43,7 +43,7 @@ row	column	english
 46	message	Frustrating, but we wait for their move.\nAlso, the black fakes have\nbeen getting active.
 47	message	The black IS, even a black Symphogear appeared -\none crisis after another.
 48	message	I think we pulled through well, and\nthis battle helped us grow.
-49	message	On our end, black Louise-san, black Rem-san,\nthe black Twin Angel,\nand even black Soniko-san showed up!
+49	message	On our end, black Louise-san, black Rem-san,\nthe black Twin Angel,\nand even black Sonico-san showed up!
 50	message	So what ARE those things?
 51	message	I don't know... but I feel like just calling them\ncheap fakes of us\ndoesn't explain it...
 52	message	The black me I met in Hinamizawa\ntried to use\nmy Oyashiro-sama's power.
@@ -71,9 +71,9 @@ row	column	english
 74	message	So it was hidden\nby them, as I thought.
 75	message	But who'd have thought the hiding place was there.\n...Now, this is getting interesting.\nFufufu...!
 76	message	//fade to black\n//Background: inside Gamers
-77	message	Well then, today's work is done, nyo!\nI'll head out first, nyo~.
+77	message	Well then, today's work is done, nyo!\nI'll head out first, nyoo.
 78	message	Huh? Dejiko, going somewhere?
-79	message	Dejiko's taking a break for a while, nyo!\nEveryone, do your best, nyo~.
+79	message	Dejiko's taking a break for a while, nyo!\nEveryone, do your best, nyoo.
 80	message	A sudden break - what's that about!?
 81	message	I'm not saying no, but\nat least give us a reason.
 82	message	Are you tired, perhaps...?\nIs there anything I can do?
@@ -144,7 +144,7 @@ row	column	english
 151	message	Let's do it, nyo!
 152	message	//fade to black\n//Background: inside Gamers
 153	message	-Several days later
-154	message	No good, nyo~. Can't find the culprit, nyo~.
+154	message	No good, nyoo. Can't find the culprit, nyoo.
 155	message	Five IS units, plus field investigations\nby Rem, Aria, and Shirayuki, and not a single clue!?\nWhat's going on!?
 156	message	I investigated the printer where the manuscript\nwas likely swapped, but no clues.\nWhat method did they even use?
 157	message	She's Dejiko's fake, so of course she's clever, nyo!
@@ -152,7 +152,7 @@ row	column	english
 159	message	Um, just an idea...\nHow about holding an event,\nlike the one for me?
 160	message	I see, that's reasonable, nyo.
 161	message	An event? What would we do?
-162	message	Hmm, nyo~...
+162	message	Hmm, nyoo...
 163	message	//fade to black\n//Background: outside Gamers
 164	message	Hey!!\nWhy are we doing a photo shoot of me!?
 165	message	This is the best plan, nyo.
@@ -166,19 +166,19 @@ row	column	english
 173	message	Just get ready, nyo!\nThe ads are already out, nyo!
 174	message	Fine, I get it!\nI'll do it, okay! I'll do it!
 175	message	//fade to black
-176	message	Umm, I'm Rabi~en~Rose.\nYikes, I'm not a celebrity, but\nI'm doing a photo shoot?
+176	message	Umm, I'm RabiiennRose.\nYikes, I'm not a celebrity, but\nI'm doing a photo shoot?
 177	message	P-please support me... though\nwhat kind of support, I wonder... haha...
-178	message	Usada-chan, you're lovely~
+178	message	Usada-chan, you're lovelyy
 179	message	Go Usada-chan!
 180	message	Hauu! So cuuute!
-181	message	Don't call me Usada~!!
+181	message	Don't call me Usadaa!!
 182	message	[CLAUDE], at a time like this,\nstand out properly as a plant!
 183	message	Y-yes... Usada-saan,\nlook this way!
 184	message	Wh-, you're really taking photos!?\nAnd don't call me "Usada"!!
 185	message	Eyes this way, please.
 186	message	L-like... this?
 187	message	Yeah, the plant's adding good flavor.\nIt's shaping up decently.
-188	message	That B-list idol vibe of almost-but-not-quite making it\nis irresistibly wonderful, desu~!\nJust [MERU]'s type of idol, desu~!
+188	message	That B-list idol vibe of almost-but-not-quite making it\nis irresistibly wonderful, desuu!\nJust [MERU]'s type of idol, desuu!
 189	message	I can't tell if that's\npraise or an insult!
 190	message	The amateurishness is off the charts, but\nyou could call it fresh.
 191	message	Um, I was taught at work that\nan unadorned natural smile\nis super charming!
@@ -192,7 +192,7 @@ row	column	english
 199	message	Refused!\nI mean, what did you even draw!?
 200	message	It's fan activity, nyo.
 201	message	You're saying you're my fan?
-202	message	I don't draw things I don't love, nyo~.
+202	message	I don't draw things I don't love, nyoo.
 203	message	Ugh... don't casually say you love me\nto my face!\nEspecially coming from a Dejiko!
 204	message	More importantly, swapping my circle cut\nand my manuscript\ndeserves ten thousand deaths, nyo!
 205	message	Even if the courts forgive you,\ndoujin artists nationwide won't, nyo!!
@@ -269,7 +269,7 @@ row	column	english
 278	message	Beeeeep de beep de beeeep, so\nI thought if I made a beep character do beeeep,\nit'd be beeeep, nyo!
 279	message	Restrain yourseeeeeeeeeeeeeeelf\noooooooooooooooooooo\nooooooooooooooooo!!
 280	message	//Black Dejiko is blasted off, becoming a star.\n//SE: dokaan! A huge bang.\n//Black Dejiko disappears into the distance.
-281	message	The ultimate reward, nyo~
+281	message	The ultimate reward, nyoo
 282	message	Phew, all's well that ends well, nyo.
 283	message	So, will Dejiko's\nnew book make the submission deadline, nyu?
 284	message	Nyo?
@@ -277,7 +277,7 @@ row	column	english
 286	message	//fade to black\n//Background: inside Gamers
 287	message	So why do WE have to\nhelp make\nDejiko's doujinshi!?
 288	message	Sorry, nyo... printing won't make it,\nso I've got to make a copy-book, nyo...
-289	message	I can help with handwork, you know~.
+289	message	I can help with handwork, you knoww.
 290	message	This much is easy even for me!
 291	message	A book being made is kind of exciting!
 292	message	Helping together with everyone is fun♪
