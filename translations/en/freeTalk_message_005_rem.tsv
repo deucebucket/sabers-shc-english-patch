@@ -33,12 +33,12 @@ row	column	english
 41	message	Of course! Someone taking an interest\nin the dream world makes me\nso happy, you know.
 42	message	Then, some other time.\nI'll think about what to talk about.
 43	message	Look forward to it, okay?
-46	message	Rem's study class~!
+46	message	Rem's study classs!
 47	message	Haaai, how've you been?\nToday we'll study dreams with me\nlots and lots, okay.
 48	message	(Rem looks like she's having fun.\nDoes she like this kind of thing?)
 49	message	Well then, let's start\nwith the basics!
 50	message	Here's a question.\nWhere, exactly, do humans dream?\nYes, you there!
-51	message	Where... with our eyes?\nOh, but we're asleep, so our eyes are closed.\nUmm~...
+51	message	Where... with our eyes?\nOh, but we're asleep, so our eyes are closed.\nUmmm...
 52	message	Bzzzt. Time's up.\nYou'll have to study harder. Hehe.
 53	message	The answer is: the brain.\nHumans dream in their brains.
 54	message	The mechanism of dreaming and the human brain\nare said to be deeply connected.
@@ -49,7 +49,7 @@ row	column	english
 61	message	This is study time, you know.\nThere's nothing embarrassing\nabout not knowing things, okay?
 62	message	Sorry...\nI was bluffing a little...
 65	message	Sorry. I don't know.
-66	message	It's fine, it's fine. It's okay.\nBeing able to say you don't know something\nyou don't know is the mark of a good student~.
+66	message	It's fine, it's fine. It's okay.\nBeing able to say you don't know something\nyou don't know is the mark of a good studentt.
 67	message	We're studying to learn\nthe things we don't know, right?
 70	message	Then shall I explain?
 71	message	Offline processing means\nprocessing information internally\nwithout feeding in outside information.
@@ -61,7 +61,7 @@ row	column	english
 77	message	Good question! Exactly right!
 78	message	Because the brain's organizing is random,\nunrelated memories get linked together.
 79	message	As a result, you get to experience\nan absurd world impossible in daily life.\nYou could call it one of dreams' great charms!
-80	message	I see~. Interesting.
+80	message	I seee. Interesting.
 81	message	Hehe. I'm glad if you understand\neven a little of dreams' charm.
 82	message	Teacher Rem. May I ask a question?
 83	message	Hm? What is it?
@@ -70,7 +70,7 @@ row	column	english
 86	message	No matter how romantic,\nno matter how impossible in reality,\nit can happen in a dream.
 87	message	That freedom, I guess?
 88	message	Oh. In dreams anything goes, right.\nImpossible things happen.
-89	message	Right, right. You're\nsuch a quick, good student~.
+89	message	Right, right. You're\nsuch a quick, good studentt.
 90	message	Oops, I talked too much again.\nLet's call it a day.
 91	message	Will there be a next time?\nI'd like to hear about interesting dreams\nyou've experienced, Rem.
 92	message	Interesting dreams I've experienced...\nthat'd turn into stories about cases\nI've worked.
@@ -82,7 +82,7 @@ row	column	english
 100	message	I've been involved in so many cases that\nwhen it's time to talk, I get stuck.
 101	message	Any requests from you?\nWhat kind of story do you want to hear?
 104	message	I'd like a story with lots of girls in it.
-105	message	Jeez, what kind of request is that~.\nAm I not enough of a girl on my own?
+105	message	Jeez, what kind of request is thatt.\nAm I not enough of a girl on my own?
 106	message	Well, speaking of stories with lots of girls,\nthere's a fitting case.
 109	message	I'd like a story you feel strongly about, Rem.
 110	message	A story I feel strongly about...\nEvery case is precious to me, but...
@@ -106,7 +106,7 @@ row	column	english
 130	message	Wow. You're amazing, Rem...
 131	message	Hm? What is?
 132	message	You know so much about so many things,\nand you've had all these mysterious experiences.\nHonestly, I think that's cool.
-133	message	Oh my. What's gotten into you all of a sudden.\nFlattery won't get you anything, you know~.
+133	message	Oh my. What's gotten into you all of a sudden.\nFlattery won't get you anything, you knoww.
 134	message	I know a lot about dreams\nbecause it's my job.
 135	message	Of course I've had mysterious experiences.\nI'm not an ordinary girl, after all.
 136	message	But being called cool made me\na little happy.
@@ -143,18 +143,18 @@ row	column	english
 175	message	Phew... good. I'm relieved.
 176	message	Um... what was that about?
 177	message	Hm? That was, um...
-178	message	Ahahaha. It's nothing~.\nAs long as everything's normal, it's fine.
+178	message	Ahahaha. It's nothingg.\nAs long as everything's normal, it's fine.
 179	message	So don't you worry about it.\nYou can forget it, okay?
 180	message	Even if you say that, I'm curious.\nThe usually calm Rem getting\nthis flustered... what could...
 181	message	Geez! It's fine!\nStop prying!
 182	message	Keep saying mean things and\nI might start hating you!
 183	message	I don't mean to be mean...\nI just want to know what happened.
 184	message	When I say no, I mean NO!\nI'll never tell!
-185	message	Well then, forget about today, okay~?
+185	message	Well then, forget about today, okayy?
 187	message	What was that about...?\nHmm, I'm curious...
 190	message	Hmm...
 191	message	Rem?\nYou're swaying. Is something wrong?
-192	message	Ah, it's you~.\nI just can't get any strength\ninto my body...
+192	message	Ah, it's youu.\nI just can't get any strength\ninto my body...
 193	message	Ah, I'm fine, okay?\nI know the cause myself.
 194	message	So don't tell anyone.\nDon't worry about it. Okay?
 197	message	Are you feeling unwell?
@@ -165,11 +165,11 @@ row	column	english
 206	message	Ugh...
 207	message	Rem! Are you okay?!
 208	message	Ugh... yeah, no good.\nDid I push myself too hard, I wonder...
-209	message	My tummy... got empty~.
+209	message	My tummy... got emptyy.
 210	message	Tummy...?\nRem, haven't you been eating?
 211	message	N-no! I am! Of course\nI'm eating properly!
 212	message	That wasn't why I almost collapsed.\nUm, well...
-213	message	I've got a bit of a cold!\nSo I got all wobbly~.
+213	message	I've got a bit of a cold!\nSo I got all wobblyy.
 214	message	See? Makes sense, right?\nBeing hungry, what a\nsilly reason that'd be...
 217	message	Ah?!
 218	message	Uuugh...
@@ -218,9 +218,9 @@ row	column	english
 263	message	Really?
 264	message	We studied this before, right?\nWhere, exactly, do we dream?
 267	message	The brain, right?
-268	message	You remembered! Good boy~!
+268	message	You remembered! Good boyy!
 271	message	The eyes, right?
-272	message	No~. We dream with the brain, right?\nWe studied so hard; you can't\nforget it already~.
+272	message	Noo. We dream with the brain, right?\nWe studied so hard; you can't\nforget it alreadyy.
 275	message	Anyway, the dreams you dream\nare dreams your brain made.
 276	message	You know, people can't dream\nabout things their brain has no information on?
 277	message	Then the reverse is true too.\nIf your brain strongly focuses on a scene,\nit's more likely to appear in your dreams.
@@ -241,21 +241,21 @@ row	column	english
 295	message	Yeah. I thought about it.\nI've kind of settled on one.
 296	message	Ooh, what, what?\nI want to hear what kind of dream.
 299	message	No, it's a little embarrassing...
-300	message	Nothing to be embarrassed about~.\nTalking about the dreams you want to see\nis a wonderful topic!
+300	message	Nothing to be embarrassed aboutt.\nTalking about the dreams you want to see\nis a wonderful topic!
 303	message	No, it's private...
 304	message	Well... maybe so.\nBut that's a little cold.
 307	message	Could it be...\nyou think I'd go blabbing to someone?
 308	message	I'd never do that. I promise.\nIt'll be our secret, just you and me.\nSo, c'mon?
-309	message	It's just for me, so what's the harm?\nTell me what dream it is~.
+309	message	It's just for me, so what's the harm?\nTell me what dream it iss.
 310	message	No, it's BECAUSE it's you, Rem,\nthat I can't tell you...
 311	message	Huh? What do you mean?\nIs it a dream where I appear?
-312	message	You've got a guilty look on your face~.\nNow I'm even more curious!
+312	message	You've got a guilty look on your facee.\nNow I'm even more curious!
 313	message	Hey, out with it!\nWhat are you doing with me in your dream?
 314	message	What are the two of you planning to do?\nTell meee!
 315	message	O-okay, I'll tell you, I'll tell you!\nUm... I thought it'd be a nice dream\nif I could go on a date with you, Rem...
 316	message	With me... a date?
 317	message	(Ahh. I said something weird...\nWill she think I'm creepy...)
-318	message	Aha♪ That makes me happy~.
+318	message	Aha♪ That makes me happyy.
 319	message	Huh? You're not put off?
 320	message	Of course not!\nIn the dream world you can do anything, right?
 321	message	And out of everything you could do\nin that anything-goes world, you chose\na date with me?
@@ -278,10 +278,10 @@ row	column	english
 341	message	...H-huh?\nWhere on earth am I?
 342	message	Ufufu♪
 343	message	Ah, Rem.\nI came to and found myself here...\nwhere is this?
-344	message	Who cares about that~?\nThere's something much more important...
+344	message	Who cares about thatt?\nThere's something much more important...
 345	message	Today... you're going on\na date with me, right?
 346	message	Huh?
-347	message	Did you forget~?\nThat's no good, no good.
+347	message	Did you forgett?\nThat's no good, no good.
 348	message	Come on, let's go.\nStep into this classroom and\nwe'll be completely alone.
 349	message	Come on, don't make that weird face.\nHurry, let's go, okay?
 352	message	Um. I don't really get the situation...\n...H-huh? Rem?
@@ -312,4 +312,4 @@ row	column	english
 381	message	(S-sorry. That weird face...\nI was just grinning...)
 382	message	Something's off with you...\nWhat kind of dream did you dream?
 383	message	Tell me the details!\nMaybe I can help!
-384	message	(There's no way I can say\nwhat kind of dream it was~!)
+384	message	(There's no way I can say\nwhat kind of dream it wass!)

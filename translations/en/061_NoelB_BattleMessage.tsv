@@ -22,7 +22,7 @@ row	column	english
 23	message	This chaotic world - I'll save it!
 24	message	The last magic show -\nI'll make it flashy!
 25	message	Protect the world...\nUuugh, I'm getting all fired up!!
-26	message	Whoa, electricity is scary, I tell ya!\nI won't let... whatchamacallit get away with it~?
+26	message	Whoa, electricity is scary, I tell ya!\nI won't let... whatchamacallit get away with itt?
 27	message	Now, the magic show begins!
 28	message	Ahaha, entertain me!
 29	message	Alright, it's a match! I won't lose!
@@ -31,7 +31,7 @@ row	column	english
 32	message	Alright, I'm your opponent!\nNo mercy from me!
 33	message	Fufufu, can you see through my magic!?
 34	message	Magic taught to me by the Teacher himself - you'll be amazed!
-35	message	That disguise technique... not bad~\nDisguises are hard even with my magic!
+35	message	That disguise technique... not badd\nDisguises are hard even with my magic!
 36	message	Now, the magic show begins!
 37	message	Ahaha, entertain me!
 38	message	Alright, it's a match! I won't lose!
@@ -40,7 +40,7 @@ row	column	english
 41	message	Alright, I'm your opponent!\nNo mercy from me!
 42	message	Fufufu, can you see through my magic!?
 43	message	Magic taught to me by the Teacher himself - you'll be amazed!
-44	message	That eyepatch is suspicious~\nMaybe they're hiding the trick\nright up there?
+44	message	That eyepatch is suspiciouss\nMaybe they're hiding the trick\nright up there?
 45	message	Now, the magic show begins!
 46	message	Ahaha, entertain me!
 47	message	Alright, it's a match! I won't lose!
@@ -89,9 +89,9 @@ row	column	english
 90	message	WOOOOH!!
 91	message	GAAAAAH!!
 92	message	Oops!
-93	message	Missed me~!
+93	message	Missed mee!
 94	message	This close-call feeling is the best!
-95	message	Ahaha, nope nope nope~
+95	message	Ahaha, nope nope nopee
 96	message	WOOOOH!!
 97	message	GAAAAAH!!
 98	message	Dodging by a hair's breadth is what it's all about!
@@ -101,7 +101,7 @@ row	column	english
 102	message	GWOOOH...
 103	message	I-I'm still fine!
 104	message	Ahaha... ha! Bad, bad...
-105	message	Ugyuu~, this might be a liiittle bad...
+105	message	Ugyuuu, this might be a liiittle bad...
 106	message	Owowow... that's rough...
 107	message	I can't afford to fall here...
 108	message	I won't give up over this!
@@ -111,8 +111,8 @@ row	column	english
 112	message	You're serious... huh...
 113	message	GAAAAAH!!
 114	message	GWOOOH...
-115	message	Unyuu~, my power wasn't enough...
-116	message	Uu~, I couldn't take it...
+115	message	Unyuuu, my power wasn't enough...
+116	message	Uuu, I couldn't take it...
 117	message	I-I lost...
 118	message	My magical magic didn't go well...
 119	message	Everyone... sorry...
@@ -129,22 +129,22 @@ row	column	english
 142	message	GWOOOH!
 144	message	GAAAAAH!!
 146	message	It's showtime!
-147	message	Well~...
+147	message	Welll...
 148	message	Watch closely!
 149	message	Two...
 150	message	Three...
 151	message	Four!
-152	message	And with this~...
+152	message	And with thiss...
 153	message	Wah!?
 154	message	Kyaaaaaaah!!
 155	message	Keho... I messed up...
 156	message	Alright, let's begin!
 157	message	Now then...
 158	message	Yes!
-159	message	No tricks~...
-160	message	No gimmicks~...
+159	message	No trickss...
+160	message	No gimmickss...
 161	message	At all!
-162	message	And finally~...
+162	message	And finallyy...
 163	message	Ah!
 164	message	Uwaaaaaaaaah!!
 165	message	Sniff... whyyy?...
@@ -201,19 +201,19 @@ row	column	english
 260	message	Or maybe!?
 261	message	Wh... huh?
 262	message	No way...
-263	message	Uwaa~... this is bad~...
+263	message	Uwaaa... this is badd...
 264	message	Ouch!
 265	message	W-wah...
 266	message	C-cold stares... bring 'em on!
 267	message	M-my apologies!
 268	message	Next up: vanishing magic!
-269	message	Here we gooo~!
+269	message	Here we goooo!
 270	message	Theere!
 271	message	Reaady... go!
 272	message	Yes! ...H-huh?
 273	message	Huh? What's going on!?
 274	message	Nn...? Uwahhh!
-275	message	R-retreat~!
+275	message	R-retreatt!
 276	message	I don't know anythiiing...!
 277	message	Welcome to the magic show!
 278	message	Enjoy yourselves today!
@@ -226,13 +226,13 @@ row	column	english
 285	message	Toh!
 286	message	There! ...Huh?
 287	message	N-no way...
-288	message	Aah~... I messed up...
+288	message	Aahh... I messed up...
 289	message	Auh!
 290	message	Aha... ahahaha...
-291	message	Th-this gaze... I can't take it~...
+291	message	Th-this gaze... I can't take itt...
 292	message	Th-there seems to have been a mix-up...
 293	message	The next magic is this!
-294	message	Vanish~
+294	message	Vanishh
 295	message	Maaagic!
 296	message	Surpriiise!
 297	message	Yes! It won't... disappear...
@@ -286,7 +286,7 @@ row	column	english
 423	message	Next: illusion magic!
 424	message	Go through here
 425	message	And come out here!
-426	message	And finally~...
+426	message	And finallyy...
 427	message	The escape show of the century begins!
 428	message	Eei!
 429	message	It's okay...
@@ -307,7 +307,7 @@ row	column	english
 444	message	Yes!
 445	message	Haaaaah!
 446	message	One guest, right this waaay!
-447	message	We're going too~!
+447	message	We're going tooo!
 448	message	Finally, the big trick...
 449	message	Shall we go for it!
 450	message	Crystal magic!
@@ -324,7 +324,7 @@ row	column	english
 461	message	Next: illusion magic!
 462	message	Go through here
 463	message	And come out here!
-464	message	And finally~...
+464	message	And finallyy...
 465	message	The escape show of the century begins!
 466	message	Eei!
 467	message	It's okay...
@@ -345,7 +345,7 @@ row	column	english
 482	message	Yes!
 483	message	Haaaaah!
 484	message	One guest, right this waaay!
-485	message	We're going too~!
+485	message	We're going tooo!
 486	message	Finally, the big trick...
 487	message	Shall we go for it!
 488	message	Crystal magic!
@@ -362,7 +362,7 @@ row	column	english
 499	message	Next: illusion magic!
 500	message	Go through here
 501	message	And come out here!
-502	message	And finally~...
+502	message	And finallyy...
 503	message	The escape show of the century begins!
 504	message	Eei!
 505	message	It's okay...
@@ -383,7 +383,7 @@ row	column	english
 520	message	Yes!
 521	message	Haaaaah!
 522	message	One guest, right this waaay!
-523	message	We're going too~!
+523	message	We're going tooo!
 524	message	Finally, the big trick...
 525	message	Shall we go for it!
 526	message	Crystal magic!

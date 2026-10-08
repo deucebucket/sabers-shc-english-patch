@@ -1,6 +1,6 @@
 row	column	english
 3	message	「Heeey, what should we play?」
-4	message	「Now, are you ready~?」
+4	message	「Now, are you readyy?」
 5	message	「I won't hold back!」
 6	message	「Mie's goin' in-!」
 7	message	「You better play with Mie properly!」
@@ -18,19 +18,19 @@ row	column	english
 19	message	「Making such a scary face-what's wrong?」
 20	message	「Revenge? Huh, that game sounds fun too!」
 21	message	「Heeey, what should we play?」
-22	message	「Now, are you ready~?」
+22	message	「Now, are you readyy?」
 23	message	「I won't hold back!」
 24	message	「Mie's goin' in-!」
 25	message	「You better play with Mie properly!」
-26	message	「Hmm~, isn't your character kinda overlapping mine?\nDon't copy me!」
+26	message	「Hmmm, isn't your character kinda overlapping mine?\nDon't copy me!」
 27	message	「It's fine, it'll all be over soon! Kyahaha.」
 28	message	「Kyahaha!\nThis is the game called war, right!」
 29	message	「I can just beat you up quick, right?」
 30	message	「Mie's gonna do her best-!」
 31	message	「Kyahaha!\nThis is the game called war, right!」
-32	message	「What a weird getup~!\nYou can play in that? Kyahaha.」
+32	message	「What a weird getupp!\nYou can play in that? Kyahaha.」
 33	message	「Heeey, what should we play?」
-34	message	「Now, are you ready~?」
+34	message	「Now, are you readyy?」
 35	message	「I won't hold back!」
 36	message	「Mie's goin' in-!」
 37	message	「You better play with Mie properly!」
@@ -65,16 +65,16 @@ row	column	english
 66	message	「Kyahaha, this is what you get\nfor coming out all cocky.」
 67	message	「Let's play again-oh, impossible now, kyahaha.」
 68	message	「Mie wins! Kyahahaha.」
-69	message	「Winning was only natural? I mean, Mie's strong~♪」
+69	message	「Winning was only natural? I mean, Mie's strongg♪」
 70	message	「This is what you get for coming out-kyahaha!」
 71	message	「Of course... this isn't a game, after all.」
 72	message	「Gotta wrap this up quick!」
 73	message	「This is Mie getting serious!」
-74	message	「Kyahahaha, you failed! Too bad~」
+74	message	「Kyahahaha, you failed! Too badd」
 75	message	「Kyahaha, this is what you get\nfor coming out all cocky.」
 76	message	「Let's play again-oh, impossible now, kyahaha.」
 77	message	「Mie wins! Kyahahaha.」
-78	message	「Winning was only natural? I mean, Mie's strong~♪」
+78	message	「Winning was only natural? I mean, Mie's strongg♪」
 79	message	「This is what you get for coming out-kyahaha!」
 80	message	「I can see everything!」
 81	message	「It didn't hiiit...」
@@ -83,7 +83,7 @@ row	column	english
 84	message	「Not that way!」
 85	message	「If it can't hit me, it's no big deal!」
 86	message	「Come on! It's no fun if you don't take it seriously!」
-87	message	「Sheesh! Can't this end already~?」
+87	message	「Sheesh! Can't this end alreadyy?」
 88	message	「Not yet-Mie won't lose to something like this!」
 89	message	「It's no fun playing if it's one-sided.」
 90	message	「Don't underestimate Mie's power!」
@@ -267,7 +267,7 @@ row	column	english
 267	message	「Boooom!」
 268	message	「How's that?!」
 269	message	「W-whoa!」
-270	message	「Ukyu~」
+270	message	「Ukyuu」
 271	message	「With this...」
 272	message	「This is the end!」
 273	message	「Remember how to read Mie's special move!\nThe 'Super' kanji reads 'chou'!」
@@ -285,7 +285,7 @@ row	column	english
 285	message	「Boooom!」
 286	message	「How's that?!」
 287	message	「W-whoa!」
-288	message	「Ukyu~」
+288	message	「Ukyuu」
 289	message	「With this...」
 290	message	「This is the end!」
 291	message	「Everyone together... ready...!」
@@ -303,4 +303,4 @@ row	column	english
 303	message	「Boooom!」
 304	message	「How's that?!」
 305	message	「W-whoa!」
-306	message	「Ukyu~」
+306	message	「Ukyuu」

@@ -1,17 +1,17 @@
 row	column	english
 4	message	Oh?
-5	message	Tesla!?\nActually, something bad happened~.
-6	message	Ahaha, I heard~?\nYou lost to Minazuki at a game,\ndidn't you~?
+5	message	Tesla!?\nActually, something bad happenedd.
+6	message	Ahaha, I heardd?\nYou lost to Minazuki at a game,\ndidn't youu?
 7	message	And now you're helping her\nwith homework?
 8	message	Y-yeah...\nNot homework exactly, more like finding\nmaterials for it... it's tougher than I thought.
-9	message	Oh, was it~?\nWould you like a little help?
-10	message	You're always\nhelping me out, so\nthe least I can do is this~.
-11	message	Still, that's a lot of materials~.\nMinazuki must've let her homework\npile up quite a bit.
+9	message	Oh, was itt?\nWould you like a little help?
+10	message	You're always\nhelping me out, so\nthe least I can do is thiss.
+11	message	Still, that's a lot of materialss.\nMinazuki must've let her homework\npile up quite a bit.
 12	message	Um, history books and the assigned books\nfor the book report... well, this much\nI can gather right away, I think.
 13	message	All of this!?
 14	message	(Wow... Tesla can do\nanything)
 17	message	Okay, gathered them.\nThis is all of it, right?
-18	message	It was a bit much, but\nthe library had it all, so\nit was easier than I thought~.
+18	message	It was a bit much, but\nthe library had it all, so\nit was easier than I thoughtt.
 19	message	Ah, right.\nWhile I was there, I got you this book...
 20	message	This is...?\nA physics reference book...?
 21	message	It's by a scientist I admire.\nIt's really interesting, so please, if you'd like.
@@ -23,30 +23,30 @@ row	column	english
 31	message	Then that's good.\nI'm sometimes told\nI meddle too much, so...
 32	message	But I'm glad if you're happy.
 35	message	Well, I'm bad at the humanities myself,\nso I have to work hard too.
-36	message	Anyway, you shouldn't let homework pile up\nlike a certain someone~.
+36	message	Anyway, you shouldn't let homework pile up\nlike a certain someonee.
 37	message	Being in a place where you can focus on\nstudying is a happy thing, I think.
-38	message	To make your future dreams come true,\nyou have to work hard at school, right~.
-39	message	Sorry, that got\na bit preachy~.\nI should get going~.
+38	message	To make your future dreams come true,\nyou have to work hard at school, rightt.
+39	message	Sorry, that got\na bit preachyy.\nI should get goingg.
 40	message	Ah, let me thank you.\nHow about some tea?\nMy treat, of course.
-41	message	Thanks~. But sorry,\nI promised to meet\nNacchan after this.
+41	message	Thankss. But sorry,\nI promised to meet\nNacchan after this.
 42	message	And don't worry about thanking me.\nIt's just my daily gratitude...
-43	message	Well then, if anything comes up,\njust ask me~.
+43	message	Well then, if anything comes up,\njust ask mee.
 45	message	She's so kind to me,\nasking nothing in return...
-46	message	She's like a goddess~~~~!!
+46	message	She's like a goddessssss!!
 49	message	Tesla, um...\nthanks for the other day.
-50	message	Oh, it's nothing~.\nI'm glad I could help~.
-51	message	Plus, it was a good way to kill time\nuntil I met up with Nacchan~.
+50	message	Oh, it's nothingg.\nI'm glad I could helpp.
+51	message	Plus, it was a good way to kill time\nuntil I met up with Nacchann.
 52	message	But... I didn't know you\nwere that kind, Tesla. Ah, I don't\nmean that in a bad way...
 53	message	Fufu, it's fine.\nI'm often told\nI'm hard to approach...
 54	message	So, how was\nthat book?
 55	message	I'd be happy if it got you even\na little interested in physics.
-56	message	Oh, right. If you'd like,\nwhy don't we study together sometime~?
+56	message	Oh, right. If you'd like,\nwhy don't we study together sometimee?
 57	message	I'm sure homework goes faster\nwith two people.
 58	message	(Studying with Tesla...\nI'm not good at studying, but with Tesla...)
 59	message	Ah... watch out, watch out!
 60	message	Kyaaa!\nWatch out!!
 61	message	Huh? Ehhh!?\nWahhhh!!
-64	message	O-oh, I'm drowning~.
+64	message	O-oh, I'm drowningg.
 65	message	Hang on!\nI'll save you right now.
 68	message	Are you okay?\nCalm down, stay with me!!
 69	message	Don't struggle, just hold on to me.
@@ -54,9 +54,9 @@ row	column	english
 73	message	Phew... you saved me.\nThank you, Tesla.
 74	message	You're welcome.\nGlad you're safe and not hurt.
 75	message	Still, what were you thinking about?
-76	message	You have to watch where you're going,\nor it's dangerous~?
-77	message	Ye~s...\nStill, Tesla, you're athletic too.
-78	message	Hehe, really?\nI'm a pretty good swimmer~.
+76	message	You have to watch where you're going,\nor it's dangerouss?
+77	message	Yees...\nStill, Tesla, you're athletic too.
+78	message	Hehe, really?\nI'm a pretty good swimmerr.
 81	message	You can do anything.
 82	message	That's not true.\nThere's no such thing as a perfect person.
 83	message	I fail all the time.\nIn all sorts of ways.
@@ -66,7 +66,7 @@ row	column	english
 91	message	Anyway, what matters is you're safe.
 92	message	(Smart AND athletic - maybe\nshe really is a goddess...)
 93	message	...?\nIs something wrong?
-94	message	N-no, nothing~.\nAhaha...
+94	message	N-no, nothingg.\nAhaha...
 97	message	Are you feeling better now?
 98	message	Yeah, thanks to you, Tesla,\nno real injuries, I'm fine!
 99	message	That's good.\nBut...
@@ -86,13 +86,13 @@ row	column	english
 119	message	I'm just a worrier.\nFlip it around... you could say\nI'm bad at trusting people.
 120	message	Like Minazuki and Kannazuki,\nwho can trust people with their\nbrightness and kindness...
 121	message	I think THOSE are the kinds of people\ncalled perfect women.
-122	message	Minazuki may look\nfar from perfect, though~?\nFufu...
-123	message	To me, you're plenty wonderful too, Tesla~.\nAh, but you're nothing like Nine, are you.
+122	message	Minazuki may look\nfar from perfect, thoughh?\nFufu...
+123	message	To me, you're plenty wonderful too, Teslaa.\nAh, but you're nothing like Nine, are you.
 124	message	...Huh? What did you just say?\nSo you're saying Nacchan ISN'T wonderful...?
-125	message	You wouldn't say that, right~?\nSo which is it...?
+125	message	You wouldn't say that, rightt?\nSo which is it...?
 126	message	Eep!
-127	message	Ah, sorry~.\nI hope I misheard~.
-128	message	People do say Nacchan and I don't look\nor act alike~.
+127	message	Ah, sorryy.\nI hope I misheardd.
+128	message	People do say Nacchan and I don't look\nor act alikee.
 129	message	Nacchan is really wonderful too.\nShe's my pride and joy of a little sister!
 130	message	Y-yeah... ahaha.
 131	message	Well then.\nNo more walking while distracted, okay?
@@ -112,21 +112,21 @@ row	column	english
 148	message	Come to think of it, how do YOU\nknow about that?
 151	message	I happened to see her in the forest...
 152	message	Coincidence...?\nThe forest Nacchan goes to shouldn't\nhave many people around...
-153	message	Ending up in that forest by chance -\nyou're a strange one~...?
+153	message	Ending up in that forest by chance -\nyou're a strange onee...?
 156	message	When I talked to her the other day...
-157	message	Oh, I see~~.\nYou talked with Nacchan~~.
+157	message	Oh, I seeee.\nYou talked with Nacchannn.
 158	message	That's... unexpected. Nacchan talking\nalone with a boy...
 161	message	It was the first time I'd seen Nine laugh\nlike that. Her smile was really cute...
 162	message	A smile... hmm, so Nacchan\nsmiled. I see...
-163	message	Nacchan's smile really is cute\nlike an angel, isn't it~~?
-164	message	Ah, but no good~?\nNo matter how cute Nacchan is,\ndon't go getting any funny ideas...
+163	message	Nacchan's smile really is cute\nlike an angel, isn't ittt?
+164	message	Ah, but no goodd?\nNo matter how cute Nacchan is,\ndon't go getting any funny ideas...
 165	message	Hah! Surely you haven't\nalready done something... right...?
 166	message	If anything like that ever happened...\nyou know what would happen to you... right...?
-167	message	Eep! Eee~.
+167	message	Eep! Eeee.
 168	message	Hah! S-sorry.\nI-I just...
 169	message	Well... I suppose it's natural to think that.
 170	message	Anyone would be drawn in\nby Nacchan's smile...
-171	message	But don't get serious about it, okay~?\nShe's still in high school, you know...
+171	message	But don't get serious about it, okayy?\nShe's still in high school, you know...
 172	message	(Gulp...)
 173	message	If you see Nacchan in the forest again,\nlet me know too.
 174	message	I'd love to play together.\nThe three of us... hehe...
@@ -134,8 +134,8 @@ row	column	english
 177	message	Tesla's love for Nine is\nintense...
 178	message	...But maybe a little scary.
 181	message	Good at studying, good at sports, beautiful.\nAnd she dotes on her little sister Nine - or rather...\nthat seems a bit over the top...
-182	message	Oh, lunch~?
-183	message	Eating alone is so lonely~.\nMind if I join you?
+182	message	Oh, lunchh?
+183	message	Eating alone is so lonelyy.\nMind if I join you?
 184	message	What's wrong?\nThat surprised face...
 185	message	Ahaha, you've got rice on your cheek?
 186	message	Huh!? W-where?
@@ -176,7 +176,7 @@ row	column	english
 230	message	Wow, a delicious-looking cake.\nWhere'd you get this?
 231	message	Did you know I like cake\nand...?
 232	message	Haruka was making some, and\nshe shared it with me.
-233	message	Oh, is that right~.\nCould this be... for me~?
+233	message	Oh, is that rightt.\nCould this be... for mee?
 234	message	Going out of your way for such a big cake...\nthank you.
 235	message	Nacchan will be happy too.\nWe'll eat it together later.
 236	message	If possible, I'd like only you to eat it, Tesla.
@@ -193,7 +193,7 @@ row	column	english
 253	message	...Itadakimasu.\nNom.
 254	message	This is... yes, delicious!\nA rich cheesecake.
 255	message	It seems the meringue was deliberately left unwhipped,\nso the batter holds fine bubbles.
-256	message	That gives it a delicate,\npowder-snow-like texture.\nMinazuki, impressive~.
+256	message	That gives it a delicate,\npowder-snow-like texture.\nMinazuki, impressivee.
 257	message	You can make that kind of face on your own too, see?
 258	message	Huh? ...Oh.\nI-is that right...?
 259	message	...Thank you.\nI made you worry about me.
@@ -215,20 +215,20 @@ row	column	english
 277	message	You're a little bit like\nMinazuki, maybe.
 278	message	Sorry for saying all kinds of weird things.\nWould you like to talk, just the two of us,\nsometime?
 279	message	Huh!? Just the two of us, like, now...?
-280	message	Yes. I'm getting a little\ncurious about you~.
+280	message	Yes. I'm getting a little\ncurious about youu.
 283	message	Obviously I'm in!
 284	message	Ahaha, good.
-285	message	I know lots of shops with\ngreat cake and tea~.
+285	message	I know lots of shops with\ngreat cake and teaa.
 288	message	Nine won't be there, right?
 289	message	Huh? Why would you\nask that...?
-290	message	But well, yes.\nIt's just the two of us~.
-293	message	I'll buy a special cake, so\nlook forward to it~.
-294	message	Hmm, which kind should I get.\nChoosing for someone else is tricky~.
+290	message	But well, yes.\nIt's just the two of uss.
+293	message	I'll buy a special cake, so\nlook forward to itt.
+294	message	Hmm, which kind should I get.\nChoosing for someone else is trickyy.
 295	message	Anything's fine by me.
 296	message	The special Mont Blanc, then...?\nAh, I have to check the limited-time ones too...
 297	message	But the deluxe shortcake is\ntoo good to pass up... fufu, hehe...
 298	message	I-I'll skip meals from now and\nkeep my stomach empty.
-299	message	Yes, I'll get plenty, so\nlook forward to it~.
+299	message	Yes, I'll get plenty, so\nlook forward to itt.
 301	message	Tesla inviting ME...\nSuch a sudden turn... could it be!?
 302	message	...I imagined it, but...\nno way... right.
 305	message	I've been waiting for you.
@@ -237,7 +237,7 @@ row	column	english
 308	message	They call it cosplay, right? This.\nHow is it? Does it suit me?
 311	message	Y-you look amazing!
 312	message	Really?\nFufu, glad I let Minazuki pick it out.
-313	message	Ah! I completely forgot about the cake~.
+313	message	Ah! I completely forgot about the cakee.
 314	message	I actually lined up from early morning to buy it.
 315	message	Today's cake is from a three-star shop.\nI love that shop, but the lines are always insane...
 316	message	I really went for it today. And this is my top recommendation,\nthe 'Deluxe Shortcake, Everything-On-It Style'!
@@ -246,15 +246,15 @@ row	column	english
 319	message	How is it?\nDoes it suit your taste?
 320	message	N-no... more than that, Tesla in cosplay\nis so stunning the flavor got overshadowed...
 321	message	Huh, is that a roundabout way of saying\nthe cake wasn't good?
-322	message	Ah, was it too sweet for your taste~?
+322	message	Ah, was it too sweet for your tastee?
 323	message	Sorry. I hear it all the time.\nThat I've got too much of a sweet tooth...
 324	message	N-no! You're as stunning\nas the amazing cake is!!
 325	message	Huh? R-really? Being praised that much is making me blush...\nhuh? Looking closer, this is... see-through!?
 328	message	Gyaaaah!!
 331	message	...Hm? Hmm... huh?
-332	message	Oh, good morning~.
+332	message	Oh, good morningg.
 333	message	You were sleeping with a very happy look.
-334	message	What were you dreaming about~?
+334	message	What were you dreaming aboutt?
 335	message	Tesla in cosplay...\nmufufu...
 336	message	Cosplay...?
 337	message	Yeah, it really suited you.
