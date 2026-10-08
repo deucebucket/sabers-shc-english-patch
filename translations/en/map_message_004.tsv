@@ -1,10 +1,10 @@
 row	column	english
-3	message	Waaah~, we finally made it back!
+3	message	Waaahh, we finally made it back!
 4	message	Was Sonico's shoot location in this town?
 5	message	W-w-what's this? So many people...\nBut why? The people walking around\nfeel strangely familiar...
-6	message	Hunyaa~!?\nWhy are there so many people?\nIs there a festival or something?
+6	message	Hunyaaa!?\nWhy are there so many people?\nIs there a festival or something?
 7	message	Is this everyone's first time in Akihabara?\nThen I'll be your guide!
-8	message	Nice! This place looks fun,\nNico-chan! Show us around~!
+8	message	Nice! This place looks fun,\nNico-chan! Show us aroundd!
 9	message	There are tons of shops too!\nHey, hey, do they sell like\nmagic items?
 10	message	Ah, I'm sure they do!\nThey sell lots of\ninteresting things♪
 11	message	// SFX: 'pikiin' - a Newtype-style flash of insight
@@ -26,7 +26,7 @@ row	column	english
 30	message	// Black Dejiko and Black Puchiko appear
 31	message	Ah! That person over there\nis a maid cosplayer!
 32	message	A maid? A kid that small?
-33	message	Maybe she's doing it with her mom?\nHow cute~♪
+33	message	Maybe she's doing it with her mom?\nHow cutee♪
 34	message	...Wait, something's off.
 35	message	All those people from before\nhave vanished without a trace.
 36	message	Ah, now that you mention it...
@@ -35,8 +35,8 @@ row	column	english
 39	message	...Take this, nyo.
 40	message	// Black Dejiko fires beams from her eyes;\nlands a short distance away
 41	message	She's attacking!
-42	message	Waaah!! That was sudden~?\nThey look kinda like the kids we fought before we came here!
-43	message	Uwawa~! Such intensity!\nThe staff's passion for film, no doubt!
+42	message	Waaah!! That was suddenn?\nThey look kinda like the kids we fought before we came here!
+43	message	Uwawaa! Such intensity!\nThe staff's passion for film, no doubt!
 44	message	Sonico, stay in the rear!\nLeave this to us!
 45	message	Y-yes! I'll study hard\nfrom everyone's acting!
 46	message	// Battle start
@@ -57,7 +57,7 @@ row	column	english
 62	message	Tired, nyu...
 63	message	//
 64	message	They're leaving?
-65	message	Good work, everyone~!\nAh, did they call cut...?
+65	message	Good work, everyonee!\nAh, did they call cut...?
 66	message	Well, we survived, so fine, right?
 67	message	// Battle over
 69	message	Everyone, good work!\nSuch intensity again...!\nI learned a lot!
@@ -69,14 +69,14 @@ row	column	english
 75	message	Um... is everyone\nhungry?
 76	message	I know a delicious ramen shop...\nif you'd like...
 77	message	Ramen!! Yes, ramen!!\nI'm hungry-is it good there?
-78	message	Yes! I recommend it! Let's go~!
+78	message	Yes! I recommend it! Let's goo!
 79	message	...True.\nMy partner always said you can't think straight\non an empty stomach.
 80	message	Yes♪ Let's eat something delicious\nand do our best at the next shoot!
 81	message	// Sonico starts moving; everyone follows
-83	message	Man, that was amazing~!\nTonkotsu yogurt ramen, ajitama,\ndouble garlic, extra fat, extra veggies!!
+83	message	Man, that was amazingg!\nTonkotsu yogurt ramen, ajitama,\ndouble garlic, extra fat, extra veggies!!
 84	message	(It looked brutal, but it was delicious...)
-85	message	Not many people try\nthose toppings right away~!
-86	message	And the way you eat is so hearty...\nehehe~, it reminded me\nof my friend♪
+85	message	Not many people try\nthose toppings right awayy!
+86	message	And the way you eat is so hearty...\nehehee, it reminded me\nof my friend♪
 87	message	[NOEL]-chan is amazing...\nI've got to try harder!
 88	message	(Is that okay for an idol, I wonder...)
 89	message	Now, for after-meal exercise,\nlet's head to where Nico-chan was working!

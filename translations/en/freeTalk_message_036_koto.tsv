@@ -1,8 +1,8 @@
 row	column	english
-4	message	Hmm~. I'm boooored.\nWon't someone play with meee?
+4	message	Hmmm. I'm boooored.\nWon't someone play with meee?
 5	message	Koto. What are you doing?
 6	message	Oh!\nHey hey. You free right now?
-7	message	If you are, play with me, won't you?\nI've got no one to play with and it's a problem~.
+7	message	If you are, play with me, won't you?\nI've got no one to play with and it's a problemm.
 8	message	Play...,\nif it's games in my room that's fine, but...
 9	message	Ehh! That's no fun!\nLet's go outside, outside!
 10	message	Playing inside a room\nis just not something I can do, I'm telling you!
@@ -10,11 +10,11 @@ row	column	english
 14	message	Hmm. Maybe, but right now\nI'm in the mood to go wild\noutside!
 17	message	I'm not good at playing outside.
 18	message	That's no good. Are you even\na boy?
-21	message	When I was in Kyōto,\nI played outside every single day, you know?
-22	message	Running around on rooftops and stuff,\nsmashing up the town like crazy.\nIt was sooo fun~.
+21	message	When I was in Kyoto,\nI played outside every single day, you know?
+22	message	Running around on rooftops and stuff,\nsmashing up the town like crazy.\nIt was sooo funn.
 23	message	Smashing up the town - what kind of playing is that...
 24	message	Normal stuff. Like tag?
-25	message	In Kyōto there was Shoko-chan,\nthe greatest playmate ever.
+25	message	In Kyoto there was Shoko-chan,\nthe greatest playmate ever.
 26	message	She had tons of underlings,\nand every day they'd all\nplay with me.
 27	message	They'd come charging at me in cars,\nblasting away with pistols and stuff...
 28	message	And I'd take them all together\nand KAKIIIN with my hammer -\na home run. The end.
@@ -25,23 +25,23 @@ row	column	english
 33	message	So, what do you say.\nI want you to play with me\nkind of like that.
 34	message	Umm... I'll have to pass.
 35	message	Ehh, why why why!?
-36	message	I mean, you're free, right?\nSo what's the harm. Hang out with me~.
+36	message	I mean, you're free, right?\nSo what's the harm. Hang out with mee.
 37	message	Hearing all that, I don't think\nI have the stamina to keep up\nwith your kind of playing...
 38	message	Ehh, I don't think stamina has anything to do with it.\nPlaying together would totally be fun, I bet.
 39	message	Wouldn't it be better to invite\nsomeone other than me?
-40	message	Hmm, I guess~.\nWell, if you say you don't wanna, can't be helped.
+40	message	Hmm, I guesss.\nWell, if you say you don't wanna, can't be helped.
 41	message	I'll go ask someone else. Later!
-44	message	Uwaaah.\nBored bored bored bored~.
+44	message	Uwaaah.\nBored bored bored boredd.
 45	message	Don't tell me that...\nWeren't you going to play with someone else?
 46	message	Everyone looks pretty busy, you know?\nI'd feel bad getting in their way.
 47	message	Hm? You're making a face like\n'so it's fine to get in MY way?',\nare you?
 48	message	I mean, you're free, right?\nYou've got that aura drifting off you.
 51	message	I am free, it's true, but...
-52	message	See~? Heheh.\nBeing free and all alone\nis boring, right?
+52	message	Seee? Heheh.\nBeing free and all alone\nis boring, right?
 53	message	So I came to play with you.\nYep, yep.
 56	message	I've got things to do too, you know.
-57	message	What the heck~.\nWhy tell such an obvious lie~.
-58	message	You wanna chase me off that badly?\nHow rude~.
+57	message	What the heckk.\nWhy tell such an obvious liee.
+58	message	You wanna chase me off that badly?\nHow rudee.
 61	message	There's really no one besides you\nI could invite.
 62	message	Hey, still no good? Can't play?\nI even thought up a game\nthat you might enjoy...
 63	message	A game I'd enjoy?\nWhat's that?
@@ -60,8 +60,8 @@ row	column	english
 76	message	I'm the one who can use the hammer,\nso I gave you the flying role.
 77	message	To be called a punishment game...\na little disappointing.
 78	message	Hmm... Koto and I seem to have\ndifferent scales of play...
-79	message	...I guess~.
-80	message	Ahh. When I was in Kyōto it was fun.\nEvery day was like a festival.
+79	message	...I guesss.
+80	message	Ahh. When I was in Kyoto it was fun.\nEvery day was like a festival.
 81	message	Maybe I just got used to that.\nI only wanna play normally, though...
 82	message	...
 83	message	No - no moping! I decided\nto go on this journey myself.
@@ -71,15 +71,15 @@ row	column	english
 87	message	Huh?
 88	message	If you guarantee my safety...\nI could play with you a little.
 89	message	Really!?
-90	message	Sheesh! You're a good guy~\nA really good guy~! Ahahaha!
-91	message	Then let's go right now!\nWhatcha wanna do, whatcha wanna do~?
+90	message	Sheesh! You're a good guyy\nA really good guyy! Ahahaha!
+91	message	Then let's go right now!\nWhatcha wanna do, whatcha wanna doo?
 92	message	Let's not today.\nIt's almost dinner time.
 93	message	Oh, you're right!\nWhen did it get so late.
 94	message	Then play with me sometime, okay?\nIt's a promise? If you break a promise I'll rampage, got it?
 95	message	Rampaging sounds scary.\nI'll remember the promise.\nSome other time.
 96	message	Yeah! Some other time!\nFor now it's food, food!\nYou come too!
 99	message	I came to collect on our promise!
-100	message	What's with the surprised face~.\nDon't tell me you forgot what promise?
+100	message	What's with the surprised facee.\nDon't tell me you forgot what promise?
 103	message	The promise to play together, right.
 104	message	Heheh. Exactly!
 105	message	I've been looking forward to it.\nCome on, let's go play!
@@ -115,70 +115,70 @@ row	column	english
 141	message	You promised to play with me,\nso you're sticking with me till I'm satisfied, got it?
 142	message	W-wait a sec...
 143	message	No waiting! Tag STAAART!\nTOOORYAAA!
-144	message	Wawawawa~!?
-145	message	(Will my body survive this!?\nFor now, run for real~!)
-148	message	Man, playing together the other day\nwas fun~.
+144	message	Wawawawaa!?
+145	message	(Will my body survive this!?\nFor now, run for reall!)
+148	message	Man, playing together the other day\nwas funn.
 149	message	More grueling than fun.\nMy whole body was sore after...
-150	message	Ahaha. Sore muscles, he says.\nHow old-man-like~.
+150	message	Ahaha. Sore muscles, he says.\nHow old-man-likee.
 151	message	That's 'cause you never move your body normally!\nThat's why it happens, I'm telling you!
 152	message	This isn't that kind of story!\nI mean, it was tag, and\nyou were swinging the hammer for real!
 153	message	I mean, you kept not getting hit!\nI was shocked!
 154	message	Even when I thought 'gotcha!',\nyou'd slip away at the last second.
-155	message	That was godlike~\nI was impressed just watching.
-156	message	So I went 'come here, you~' and\ngot a little serious. Haha.
+155	message	That was godlikee\nI was impressed just watching.
+156	message	So I went 'come here, youu' and\ngot a little serious. Haha.
 157	message	There you go laughing again...\nYou were laughing while chasing me too, right?
-158	message	I mean, your face while running away\nwas so funny~.
+158	message	I mean, your face while running away\nwas so funnyy.
 159	message	I crack up just remembering it now.\nKukuku...
 160	message	Ah, are you mad? Sorry sorry.\nI'm not making fun of you.
-161	message	Anyway, it was fun~\nMaybe the most since I was in Kyōto.
+161	message	Anyway, it was funn\nMaybe the most since I was in Kyoto.
 162	message	How about you?\nDid you have fun playing with me?
 165	message	Yeah. It was fun.
-166	message	Right~? Heheh.\nIf you think so too,\nthat makes me happy.
+166	message	Rightt? Heheh.\nIf you think so too,\nthat makes me happy.
 169	message	Still, I like playing in my room better.
-170	message	What the heck~. Don't say that~\nI'll sulk, you know~?
+170	message	What the heckk. Don't say thatt\nI'll sulk, you knoww?
 173	message	Y'know, I think I like\nplaying with you.
 174	message	Huh...?
 175	message	Like, maybe\nI had you a little wrong.
 176	message	You barely talk, gloomy vibe -\nI thought you were some boring guy.
 177	message	But playing together, I saw\nwhat a fun, kind guy you are.
-178	message	You kept saying no no while running,\nbut you stuck with me to the end~.
+178	message	You kept saying no no while running,\nbut you stuck with me to the endd.
 179	message	You're a good guy! I like you!
 180	message	...Ah, thank you.
-181	message	What're you thanking me for, weirdo~.\nNothing to thank me for. Ahaha.
+181	message	What're you thanking me for, weirdoo.\nNothing to thank me for. Ahaha.
 182	message	Anyway, it was super fun.\nThanks for hanging out with me!
 183	message	If you're satisfied, Koto,\nthen I'm glad.
 184	message	Satisfied, satisfied! Totally satisfied!\nGotta move your body to play, that's for sure.
 185	message	Hey, can I ask you to play again sometime?\nI'll come invite you!
 186	message	Got it. Invite me anytime.
-187	message	Alright, well said! I won't forget!\nI'll invite you like crazy~.
+187	message	Alright, well said! I won't forget!\nI'll invite you like crazyy.
 188	message	Well, later!
-191	message	Heeey. You in there~?
+191	message	Heeey. You in theree?
 192	message	Koto. What's up?
-193	message	What's up, she says -\nI came, so figure it out~.
+193	message	What's up, she says -\nI came, so figure it outt.
 194	message	You know what I came for, right?
 197	message	An invitation to a date?
 198	message	Whoa!? You made a joke!
-199	message	Whew~. First time I've seen that.\nSaw something rare...
+199	message	Wheww. First time I've seen that.\nSaw something rare...
 200	message	I'll worship it as a memento.\nMight bring some divine favor...
 203	message	Sorry, I don't get it.
-204	message	Ehh, what a letdown~.\nI thought we were on the same wavelength.
-205	message	Still, 'I don't get it' - what's that about~.\nCan't you at least laugh it off lightly?
+204	message	Ehh, what a letdownn.\nI thought we were on the same wavelength.
+205	message	Still, 'I don't get it' - what's that aboutt.\nCan't you at least laugh it off lightly?
 206	message	Hmm. Asking that's harsh, I guess.\nYou don't seem like the joking type.
 209	message	Whatever, that doesn't matter!\nI came, so obviously\nit's a playdate invite!
 210	message	Again...?\nWe just played together the other day, right?
 211	message	You mean the no-touching-the-ground-rules\ntag from that time?
-212	message	That was a masterpiece~\nWe both ran around on rooftops!
+212	message	That was a masterpiecee\nWe both ran around on rooftops!
 213	message	And your face when you almost fell!\nKukuku...
 214	message	Come on. That's no laughing matter.
-215	message	It was fun, so it's fine~\nSo, what'll we do today?
+215	message	It was fun, so it's finee\nSo, what'll we do today?
 216	message	We've gotta throw in a new rule.\nNo ingenuity and it'll get boring!
 217	message	I was thinking -\nhow about roping other people in?
 218	message	We prank someone who looks like they'd get mad,\nthen you and I run away! How's that?\nHow's that? Sounds fun, right?
 219	message	The question is who to target.\nI think someone who'd get REALLY mad\nwould be more fun, but...
 220	message	...Um, Koto.\nCould you give me a pass today?
-221	message	Hm? Why~?
+221	message	Hm? Whyy?
 222	message	You're gonna say old-man stuff again,\nlike it's too much for your stamina or sore muscles?
-223	message	Come on, come on, that stuff!\nPlaying will fix it! Let's go together~!
+223	message	Come on, come on, that stuff!\nPlaying will fix it! Let's go togetherr!
 224	message	W-wait a second.\nI'm really wiped, I'm telling you.
 225	message	...That much?
 226	message	You're way too energetic, Koto - keeping up\nwith you is tough on me.
@@ -205,7 +205,7 @@ row	column	english
 253	message	No! I wouldn't do that!\nJust playing with dolls normally!
 254	message	Hmm. You've got a 'not getting it' face...\nSo, um...
 256	message	Girls are into this stuff, y'know?\nLike, playing with dolls, see?
-257	message	B-Bunny boy! Welcome, come on in~\nOh, please, come on up~ ...stuff like that.
+257	message	B-Bunny boy! Welcome, come on inn\nOh, please, come on upp ...stuff like that.
 258	message	Y'know, that kind of thing!\nThat's what I wanna try with you.
 261	message	Why would you do something so unlike you?
 262	message	Shuuut up! It's fine!\nCall it a change of heart!
@@ -286,7 +286,7 @@ row	column	english
 353	message	(She got that happy over my words...\nCould it be that Koto-san... likes me?)
 356	message	...Um, what is this place?
 357	message	Ah!\nYou came!
-358	message	Koto-san? Are you in this room?\nUm... Café SHC?
+358	message	Koto-san? Are you in this room?\nUm... Cafe SHC?
 359	message	Jeez, still half asleep?\nI'm the one who called you!
 360	message	Just come in!\nI wanna show you something already!
 361	message	Show me...?\nI don't really get it, but I should come in, right?
@@ -302,7 +302,7 @@ row	column	english
 375	message	N-no, not at all!\nGetting to see your everyday look is the best!
 376	message	Really!?\nEheheh. That makes me happy.
 377	message	Okay, today I'm gonna give you\nsome special treatment, got it?
-378	message	You saw the sign outside, right? This is Café SHC.\nAnd I'm your own personal waitress!
+378	message	You saw the sign outside, right? This is Cafe SHC.\nAnd I'm your own personal waitress!
 379	message	Say anything you want.\nI'll grant any wish.
 380	message	Why are you standing so far away?\nCome closer!
 381	message	I-is that okay?
@@ -313,8 +313,8 @@ row	column	english
 388	message	H-huh? Koto-san!?\nWhat happened to the outfit from before!?
 389	message	The outfit from before...?\nWhat kind of dream were you having?
 390	message	D-dream...?\nSo all of that was a dream...?
-391	message	Nihihihih~!
-392	message	You were having a weird dream~.\nI'll just have to tell everyone about this! ♪
+391	message	Nihihihihh!
+392	message	You were having a weird dreamm.\nI'll just have to tell everyone about this! ♪
 393	message	W-wait a minute!
 394	message	No way!\nI can't pass up something this funny!
 395	message	Hey, everyone!\nThis guy was having a weird dream!

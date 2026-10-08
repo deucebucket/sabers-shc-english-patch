@@ -19,7 +19,7 @@ row	column	english
 23	message	Nothing... it's nothing. Nothing at all.
 24	message	Huh? Rena, who're these people? Friends?
 25	message	Ah, Mii-chan!
-26	message	Howdy. Rena's bosom friend,\nSonozaki Mion, at your service.\nThank you for looking after our girl~.
+26	message	Howdy. Rena's bosom friend,\nSonozaki Mion, at your service.\nThank you for looking after our girll.
 27	message	Our girl?
 28	message	Yeah, I'm the club president, you see.\nClub member Rena is like my own child!\n...Though it'd hurt if she got in my eye.
 29	message	They said they came traveling.
@@ -47,8 +47,8 @@ row	column	english
 51	message	It's tiny!?
 52	message	Then let me introduce my classmates.\nHeey, Rika-chan, Satoko!
 53	message	What is it, Mion-san?
-54	message	Mii~?
-55	message	Aren't they cute~?\nRika-chan and Satoko-chan.\nThey're precious club members too.
+54	message	Miii?
+55	message	Aren't they cutee?\nRika-chan and Satoko-chan.\nThey're precious club members too.
 56	message	Classmates!?\nThey clearly aren't your age!
 57	message	(Coming from Aria-san, that's not convincing...)
 58	message	Ah, it's a small school so\nall students are in the same class.\nThere's only one teacher, too.
@@ -56,7 +56,7 @@ row	column	english
 60	message	And who might you be?
 61	message	They're here to see the "Watanagashi" festival.\nBy a twist of fate, we're showing them\naround the village's famous spots.
 62	message	This school is a famous spot?
-63	message	It's unusual for city folks, you know. Nipa~.
+63	message	It's unusual for city folks, you know. Nipaa.
 64	message	True. This small, it is unusual.
 65	message	Right?\nWell, now that the club members are all here,\nlet's do club!
 66	message	Club?
@@ -73,7 +73,7 @@ row	column	english
 77	message	//BG: in front of Furude Shrine (day)
 78	message	This is called Furude Shrine.\nProbably the place with the best view, kana?
 79	message	Furude Shrine, so that means...
-80	message	Mii~. I'm the shrine maiden here, you know.
+80	message	Miii. I'm the shrine maiden here, you know.
 81	message	Tomorrow's "Watanagashi" festival star is\nRika-chan, performing the dedication dance\nas the shrine maiden.
 82	message	What a cute shrine maiden!
 83	message	Hauu! I wanna take her home!!
@@ -91,10 +91,10 @@ row	column	english
 95	message	Aria-chan!?
 96	message	Oh my?\nTo draw the super-spicy Russian tamagoyaki\non the first try - what luck!
 97	message	Mugugu, water, water!
-98	message	Here, water, you know~.
+98	message	Here, water, you knoww.
 99	message	Gok, gok!
 100	message	Buhaaa, spiiicy!!
-101	message	O~hohohohoho!\nYou fell for it, Aria-san!
+101	message	OOhohohohoho!\nYou fell for it, Aria-san!
 102	message	Fell for it or not,\nyou just shoved it in my mouth!
 103	message	Wrong! If you chow down with zero caution,\nyou can't survive this harsh modern society!
 104	message	Indeed! If Aria-san were a fish,\nshe'd be the first caught\nand turned into sashimi!
@@ -106,7 +106,7 @@ row	column	english
 110	message	Fufufu, that carelessness is what gets you killed.
 111	message	You dig a pitfall where you'd least expect one -\nthe basics and essence of traps.
 112	message	Traps?
-113	message	Satoko's a trap master, you know~.
+113	message	Satoko's a trap master, you knoww.
 114	message	An elementary schooler, and traps...
 115	message	I told you!\nWe do club to cope with\nan increasingly complex modern society.
 116	message	Mion-san and Rena-san show no mercy\nto me or Rika, either.\nIt's wisdom and technique for survival!
@@ -123,7 +123,7 @@ row	column	english
 127	message	...
 128	message	...
 129	message	If I didn't say it,\nit'd be like I lied.\nThis is the truth.
-130	message	Mii~.
+130	message	Miii.
 131	message	Has anything changed in this village lately?\nLike seeing a suspicious person.
 132	message	Nothing.
 133	message	Nothing in particular, kana? Kana?
@@ -305,7 +305,7 @@ row	column	english
 328	message	Roger!!
 329	message	Rem, what've you been doing all this time!
 330	message	Mion-chan was holding me up… Huh?\nWhy is Mion-chan here!?
-331	message	Hmm, I wonder why~
+331	message	Hmm, I wonder whyy
 332	message	Now that the audience is gathered,\nlet's end this game.
 334	message	This is!? A dream demon!!
 335	message	Mion! You and Dr. Shinigami…!!
@@ -332,7 +332,7 @@ row	column	english
 363	message	…Sa…to…
 365	message	What? You died already?\nThe Furude family just isn't satisfying!!\nEntertain me a little longer…
 366	message	No, Rika… Rika… sob!
-367	message	Satokoo~!\nYou're not gonna die right away, are you?\nYou'll let me hear plenty of screaming, won't you?
+367	message	Satokooo!\nYou're not gonna die right away, are you?\nYou'll let me hear plenty of screaming, won't you?
 368	message	Nii-nii…
 369	message	Shut UP!! If you'd just died sooner!\nSatoshi-kun wouldn't have had to suffer!!
 371	message	I knew… Because of me,\nNii-nii has always…
@@ -365,6 +365,6 @@ row	column	english
 410	message	…ngh…
 411	message	Finally awake?
 412	message	…Mion?
-413	message	That's right~\nI was thinking of letting you live…
+413	message	That's rightt\nI was thinking of letting you live…
 414	message	Changed my mind!
 416	message	//END

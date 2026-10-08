@@ -1,10 +1,10 @@
 row	column	english
 3	message	…
-5	message	Looks like you're having a rough time, Jeanne~.
+5	message	Looks like you're having a rough time, Jeannee.
 6	message	…You too.
 7	message	I'm fine.\nIt'd be a problem if those guys\nwere small fry, after all.
 8	message	…The client's orders are too hasty.\nThey don't suit my methods.
-9	message	So you like it intense, huh.\nWhat a closet pervert~.
+9	message	So you like it intense, huh.\nWhat a closet pervertt.
 10	message	Silence.
 11	message	Still as stiff as ever.\nBut hey-is that really the only reason\nyou're struggling?
 12	message	…They're growing stronger.\nDifferent from when we fought before.
@@ -40,10 +40,10 @@ row	column	english
 42	message	Hmm… and I was trying\nto handle this gracefully.
 43	message	Then I'll just have to\nsearch every nook and cranny!
 44	message	Kyaa! Ghosts!!\nNooo! Scaryyy!
-45	message	Teacher, you've always been\nreally bad at fake crying~…
+45	message	Teacher, you've always been\nreally bad at fake cryingg…
 46	message	Teacher, your eyes aren't scared at all!\nYou're so bad at this…
 47	message	// Battle start
-49	message	Hm? Someone showed up~.
+49	message	Hm? Someone showed upp.
 50	message	Ooh, who could it be?
 51	message	O-hohoho!\nThe reinforcements have arrived!
 52	message	Oh, a rabbit person.
@@ -70,7 +70,7 @@ row	column	english
 73	message	What are you saying, bunny!\nHanging in there at times like this\nis how you earn points!
 74	message	Come ooon! La Vie en Rose Corps!
 75	message	// Usada summons grunts.
-76	message	There are so many cuties~!!\nTeacher, I want one~!!
+76	message	There are so many cutiess!!\nTeacher, I want onee!!
 77	message	Nooope☆
 78	message	Like fighting Kintaro candy come to life!\nWhere'd she get so many?!
 79	message	A perfect chance to show that\nquality beats quantity, zo☆!
@@ -100,35 +100,35 @@ row	column	english
 105	message	…Come to think of it, Yase said something\nthat caught my attention as she left.\nSomething about 'the twintail who tricked me'…
 106	message	She did. That could be…
 107	message	// Fade to black\n// Background: a deserted place (a bleak spot like an abandoned building) where Riko is.
-108	message	Fufufu. What pushovers~.
+108	message	Fufufu. What pushoverss.
 109	message	That blonde youkai's simple too.\nTell her Koto's here and she believes it\njust like that.
 110	message	And Usada does whatever I tell her right away.\nThanks to them, I bought time\nto invite those two.
 112	message	…What do you want,\nRiko Mine Lupin the Fourth.
 113	message	…
 114	message	Adding 'the Fourth' on purpose is just snide, y'know?\nI'm getting to know you pretty well,\nTesla Violet.
 115	message	How kind of you.
-116	message	Nine still doesn't talk, huh.\nYou'd be more popular with boys\nif you were a little friendlier~.
+116	message	Nine still doesn't talk, huh.\nYou'd be more popular with boys\nif you were a little friendlierr.
 117	message	You didn't call us here\nto drag us into such trivial talk, did you?
 118	message	…The point.
 119	message	For Riko's plan,\nI want to borrow something from you.\nKufufu…!
 120	message	// Scene change\n// Background: a room (same as 022B, Aria's room)\n// Shirayuki alone in her room.
 121	message	Jeanne's still after me…
 122	message	I set out on this journey to help my friends,\nbut am I just being a burden instead…
-123	message	// SE: doorbell chime 'ding-dong', then a door opening.\n// Soniko, Mion, Cecilia, and Houki appear.
-124	message	Shirayukiii! Comin' in~!
-125	message	So this is the pure student council president's room~\nUncle's getting all excited!!
-126	message	S-Soniko!? And Mion too…
+123	message	// SE: doorbell chime 'ding-dong', then a door opening.\n// Sonico, Mion, Cecilia, and Houki appear.
+124	message	Shirayukiii! Comin' inn!
+125	message	So this is the pure student council president's roomm\nUncle's getting all excited!!
+126	message	S-Sonico!? And Mion too…
 127	message	What are you doing, Houki!\nYou said you'd go yourself-\nwhy are you hiding behind us?
 128	message	I-I did say that, but…\nI doubt the conversation would flow\nwith me around…
 129	message	Cecilia… and even Houki…\nWhat's going on, everyone?\nIs something wrong at Butei High?
 130	message	We're your bodyguards!
 131	message	Bodyguards?
 132	message	Yep. Figured it's better\nif you're not alone.
-133	message	Soniko insisted on coming to Shirayuki's room,\nso I had no choice but to tag along…
+133	message	Sonico insisted on coming to Shirayuki's room,\nso I had no choice but to tag along…
 134	message	Guarding while having girl talk-\nthat'd be fun, wouldn't it!
 135	message	G-girl t-talk?
 136	message	You know, the kind of talk\nonly girl friends can have together.
-137	message	We eat yummy food till morning\nand talk our hearts out~!
+137	message	We eat yummy food till morning\nand talk our hearts outt!
 138	message	I picked out the cake and tea!
 139	message	I taste-tested the cake already,\nso no worries.
 140	message	What? Do you have a problem\nwith my selection?
@@ -155,8 +155,8 @@ row	column	english
 162	message	I think I understand.\nI too want to be free-\nnot bound by my ancestors' customs and rules.
 163	message	Freedom's a tricky thing.\nWhat seems free can be confining,\nand the reverse is true as well.
 164	message	Indeed.
-165	message	Ugh, this is getting way too heavy!\nNo no! Soniko, change the subject!
-166	message	Then let's go with the girl-talk classic:\nyour type of guy~!
+165	message	Ugh, this is getting way too heavy!\nNo no! Sonico, change the subject!
+166	message	Then let's go with the girl-talk classic:\nyour type of guyy!
 170	message	Wha!?
 172	message	Uh…
 173	message	Huh? What's wrong?\nMion, you first.
@@ -181,25 +181,25 @@ row	column	english
 192	message	It was lovely.
 193	message	I should've just stood by the front door…
 194	message	Now then, on to the next topic.
-195	message	Huh? It's still Soniko's turn, isn't it?
+195	message	Huh? It's still Sonico's turn, isn't it?
 196	message	Indeed.
-197	message	My ideal… is a seeecret~!
+197	message	My ideal… is a seeecrett!
 198	message	That's not fair!
-199	message	Yes, we want to hear\nabout Soniko.
+199	message	Yes, we want to hear\nabout Sonico.
 200	message	I can't do it!\nIt's too embarrassing…
 201	message	Everyone else put up with the embarrassment.\nNo keeping secrets all by yourself.
-202	message	All right, then Soniko gets a punishment game\nby club rules!
+202	message	All right, then Sonico gets a punishment game\nby club rules!
 206	message	I agree!
 208	message	A punishment game? What is it?
 209	message	Fufufu, this!!
 210	message	// [Event CG] Mion discovering Shirayuki's underwear
 211	message	That's my underwear!!
-212	message	Exactly! You're probably about the same size,\nso Soniko's gonna put on a fashion show\nhere in Shirayuki's clothes!
+212	message	Exactly! You're probably about the same size,\nso Sonico's gonna put on a fashion show\nhere in Shirayuki's clothes!
 213	message	Whaaat!?
-214	message	Underwear looks are obviously included!\nOoh, not just white but black underwear too!\nUhehe, this'll be fun~!
+214	message	Underwear looks are obviously included!\nOoh, not just white but black underwear too!\nUhehe, this'll be funn!
 215	message	Nooo!!
 216	message	That's a punishment game for ME too!
-217	message	Houki, Cecilia, you two search for\nwhatever clothes she's hiding too!\nDress Soniko in anything you like!
+217	message	Houki, Cecilia, you two search for\nwhatever clothes she's hiding too!\nDress Sonico in anything you like!
 218	message	This is getting interesting!
 219	message	The shrine maiden outfit's nice, but\nthere might be more hiding.
 220	message	Should've brought a camera.\nI'll make Shion bring one!

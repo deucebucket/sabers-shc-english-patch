@@ -78,16 +78,16 @@ row	column	english
 83	message	But hearing your story, Houki,\nI feel like I grasped something!\nI can't explain it well, though…
 84	message	It's a difficult thing.
 85	message	It really is.
-90	message	//Soniko comes over.
-91	message	D-difficult~!
-92	message	Whoa!? Soniko!?
+90	message	//Sonico comes over.
+91	message	D-difficultt!
+92	message	Whoa!? Sonico!?
 93	message	What's with the sudden outburst!? You startled me!
 94	message	Ah! I-I'm sorry…! Actually, I was hoping\nI could help out in the action scenes too,\nso, um, I was practicing, but…
-95	message	(It'd be better if Soniko stayed in the back…)
+95	message	(It'd be better if Sonico stayed in the back…)
 96	message	(If I teach her something half-baked and she gets cocky\nand charges to the front, that's a problem)
 97	message	It's d-difficult… uuuh… um, excuse me!\nIf it's not too much trouble, could you teach me\nsome tricks or something…!
 98	message	(Ah, I have a good idea!)
-99	message	Got it! I'll teach Soniko\nmy secret special technique!
+99	message	Got it! I'll teach Sonico\nmy secret special technique!
 100	message	Wah! Really!?\nThank you so much!
 101	message	Practice hard, okay!\nFirst, take a half-body stance like this…
 102	message	Mhm mhm…!
@@ -112,7 +112,7 @@ row	column	english
 122	message	Time to end the arguing.\nTaste my Magical Magic!
 123	message	//Battle start\n//Ally reinforcements deploy on turn 2, then enemy reinforcements
 124	message	Huh? Isn't that [NOEL]?
-126	message	Wah~! Long time no see!\nYou look well-that's wonderful!
+126	message	Wahh! Long time no see!\nYou look well-that's wonderful!
 128	message	[NOEL]! We finally met!
 130	message	Are you unhurt, [NOEL]?
 132	message	I heard you'd gone missing,\nbut you're back.
@@ -228,33 +228,33 @@ row	column	english
 252	message	Ahaha, I get it!
 253	message	At this rate, we could do a two-person cell\nmock battle soon.
 254	message	When that time comes, I'll…
-255	message	//Soniko comes over.
+255	message	//Sonico comes over.
 256	message	Um, excuse me! Could you let me join in too!?
-257	message	Soniko?
+257	message	Sonico?
 258	message	S-since Hibiki was kind enough to teach me\na technique…!\n…Uuuh, toryaa!
-259	message	//Event art: Soniko masters the cat-fist pose
+259	message	//Event art: Sonico masters the cat-fist pose
 260	message	…U-unyaaan!
 261	message	!?
-262	message	N-nyaa~n! U-unya!
+262	message	N-nyaaan! U-unya!
 263	message	(Hibiki, what is this?)
-264	message	(I figured something safe for Soniko)
+264	message	(I figured something safe for Sonico)
 265	message	I-it's embarrassing…! But if this means\nI can be of use to everyone…!
 266	message	This stance is for intercepting-\na technique to counterattack swiftly when attacked!
-267	message	Nyaa~n! Shpa, shpapa!
-268	message	And it's cute too!\nPerfect for an idol like Soniko!
-269	message	Toryaa! Nyaa~n!
+267	message	Nyaaan! Shpa, shpapa!
+268	message	And it's cute too!\nPerfect for an idol like Sonico!
+269	message	Toryaa! Nyaaan!
 270	message	(Hibiki, your imagination is genius…)
 271	message	//Event art off\n//Fade to black\n//Background: forest (day)
 272	message	…
 273	message	…
 274	message	Fuu…
-275	message	Good work~.
+275	message	Good workk.
 276	message	Doesn't watching me do focus training\nbore you?
 277	message	We're both priestesses, but you're different from me,\nand that's interesting.
 278	message	Seika priestesses use the demon arts\npassed down through generations.\nThat training is essential.
 279	message	Shirayuki's a hard worker.
 280	message	What do you do, Rika?
-281	message	I do mochi-pounding~.
+281	message	I do mochi-poundingg.
 282	message	Mochi-pounding?
 283	message	I practiced so I could wield\na heavy hoe in the rites.
 284	message	Then you're super strong.
@@ -262,7 +262,7 @@ row	column	english
 286	message	Swords aren't that heavy.\nMachine guns weigh like ten times more.
 287	message	Eh.
 288	message	Ufufu, being a priestess is all about arm strength.
-289	message	N-nipah~☆
+289	message	N-nipahh☆
 290	message	But I'm glad.\nThat you're here, Rika the priestess.
 291	message	Are normal people hard for you, Shirayuki?
 292	message	…So you have it too, Rika.\nThat feeling of not being normal.
@@ -270,7 +270,7 @@ row	column	english
 294	message	I can tell.\nWatching you and Satoko,\nI can tell you're different.
 295	message	Mii…
 296	message	But I envy you, Rika.\nBeing able to connect with people like that.
-297	message	Yes it is. Nipah~☆
+297	message	Yes it is. Nipahh☆
 298	message	(Yes, it's a very happy thing,\nwhich is why I want to protect Satoko and the others… but\nI'm far too powerless…)
 299	message	…
 300	message	Rika, if anything's troubling you,\ntell me anytime, okay?

@@ -1,11 +1,11 @@
 row	column	english
 3	message	Wow, it's like we really came to another world.\nThat startled me.
-4	message	I wonder if we've come to a different world\nfrom [NOEL] and the others?\nI'm worried~...
+4	message	I wonder if we've come to a different world\nfrom [NOEL] and the others?\nI'm worriedd...
 5	message	If Tsubasa-san's here, everything'll be absolutely fine!\nI guarantee it!
 6	message	I just hope [NOEL] isn't being\nany trouble for Tsubasa-san...
 7	message	Does anyone recognize this world?
 8	message	It's similar to the world I was in.\nAh, but... a little different, maybe.
-9	message	Unyuu, it's totally different\nfrom my world~.
+9	message	Unyuu, it's totally different\nfrom my worldd.
 10	message	Sorry, I don't recognize it either...
 11	message	I see. Then let's ask the townspeople.\nFirst we need to find out what kind of place this world is\nbefore we act.
 12	message	Huh? Me?\nBut............ Hmm, well...
@@ -139,20 +139,20 @@ row	column	english
 155	message	//Scene change.\n//Background: in front of Butei High.\n//Meru and Remu. They met Riko and were brought here.
 156	message	...So this is Butei High?\nI just followed along, but\nit looks like a normal school.
 157	message	You really don't know, huh.\nSimply put, this is\na school that trains Butei.
-158	message	What is a 'butei'~?\nUm... you were Mine Riko-san, right?
-159	message	Just Riko is fine~\nDrop the stiff formalities!\n[MERU]-chan♪
-160	message	Y-yes~...\n(She's so hyper~...)
+158	message	What is a 'butei'?\nUm... you were Mine Riko-san, right?
+159	message	Just Riko is finee\nDrop the stiff formalities!\n[MERU]-chan♪
+160	message	Y-yess...\n(She's so hyperr...)
 161	message	A Butei is an armed detective!\nEvery Butei High student is a Butei.\nPretty amazing, right?
-162	message	Is that so~? St. Mont Blanc Academy\nalso required combat skills, but\nthat's not normal~?
+162	message	Is that soo? St. Mont Blanc Academy\nalso required combat skills, but\nthat's not normall?
 163	message	Not normal, I'd say...?
 164	message	Riko's a Butei High student too!\nI'll show you around!
 165	message	Will you really help us?
 166	message	If something weird was going on,\nButei High's Inquesta (detective division)\nwould've caught wind of it already.
-167	message	Riko's in Inquesta too,\nso leave that to me! \nMaybe there's already word about the missing kids~?
-168	message	I hope [CLAUDE]-san and Hibiki-san\nare all right~...
+167	message	Riko's in Inquesta too,\nso leave that to me! \nMaybe there's already word about the missing kidss?
+168	message	I hope [CLAUDE]-san and Hibiki-san\nare all rightt...
 169	message	//Aria, Claude, and Hibiki arrive in front of Butei High.
 170	message	Ah!
-171	message	[CLAUDE]-san!\nWhere'd you go~!?
+171	message	[CLAUDE]-san!\nWhere'd you goo!?
 172	message	So Aria was looking after you.\nA fated meeting, perhaps?
 173	message	Don't say stupid stuff.\nSo, what? These guys your friends?
 174	message	Yes!\nThis is Remu-san and [MERU]-chan!
@@ -166,7 +166,7 @@ row	column	english
 182	message	It's obviously a lie! No way!
 183	message	Huh? Didn't you believe\nthat story?
 184	message	I don't recall believing anything about coming from another world.\nThat's way too out there, even so!
-185	message	Now now, Ariaaa.\nSounds interesting, doesn't it? Let's hear 'em out~.
+185	message	Now now, Ariaaa.\nSounds interesting, doesn't it? Let's hear 'em outt.
 186	message	I haven't completely believed\nyour story either, but...
 187	message	It's hard to be believed without proof, isn't it.\nBy the way, may I ask\nsome questions of my own?
 188	message	Of course.
@@ -175,7 +175,7 @@ row	column	english
 191	message	Hm, same as a normal detective in that respect.
 192	message	If every Butei High student is a Butei,\ndoes everyone carry weapons?
 193	message	Carrying guns and blades is a student's duty.
-194	message	Like handkerchiefs and tissues~...
+194	message	Like handkerchiefs and tissuess...
 195	message	The uniforms are bulletproof, y'know!\nGetting shot a little won't even faze us!
 196	message	Whoa...
 197	message	Then you must all\npractice martial arts too, right?\nCheck this out!
@@ -189,7 +189,7 @@ row	column	english
 205	message	//Event art off.
 206	message	Huh!? No good!?\nBut it's the coolest martial art in the world,\ntaught to me by my master...
 207	message	I see-so your skills are the real deal.
-208	message	By the way, contracting a Butei\nrequires payment.\nThis ain't charity~.
+208	message	By the way, contracting a Butei\nrequires payment.\nThis ain't charityy.
 209	message	Well, if they're armed and\ntake on life-or-death jobs, that's only natural.
 210	message	So, what is it you'd like our help with?
 211	message	Let's see... first I need to confirm\nwhether people suddenly vanishing from this world-\nlike mysterious disappearances-has been happening.
@@ -235,15 +235,15 @@ row	column	english
 251	message	Y-you wouldn't shoot at school... right?
 252	message	Shooting outside the range is\n'not to be done more than necessary,' that's the rule.
 253	message	'Not more than necessary'... so\nit's fine to shoot if it's necessary!?
-254	message	Why the surprise~?\nIf armed guerrillas attacked,\nnot being able to fight back would be a problem~?
+254	message	Why the surprisee?\nIf armed guerrillas attacked,\nnot being able to fight back would be a problemm?
 255	message	([MERU]-chan...\nhas she seen more action than I'd think...)
 256	message	Now that that's settled, pack your bags\nand move to the prison!
 257	message	Prison...?
 258	message	No, it's a normal classroom?
-259	message	You startled me~...
+259	message	You startled mee...
 260	message	But you'd best not get any funny ideas,\nfor your own sake, 'kay?
 261	message	They call her Quadra-Aria of the twin blades and twin guns!\nThe strongest S-rank Butei\nin the all-combat Assault division, y'know?
-262	message	Is S-rank amazing~?
+262	message	Is S-rank amazingg?
 263	message	Aria's caught criminals\n99 times in a row.\nYou'll never get away☆
 264	message	...Be ready, got it?
 265	message	Um... excuse me,\nwh-why are you glaring at me...?

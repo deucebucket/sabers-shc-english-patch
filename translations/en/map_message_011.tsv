@@ -66,7 +66,7 @@ row	column	english
 69	message	//Riko appears
 70	message	I heard everything!\nSo everyone just LOVES\nme, huh!!
 71	message	Riko!?
-72	message	Howdy~☆
+72	message	Howdyy☆
 73	message	Did you hear, Riko?\nAbout Aria...
 74	message	Of course. It's the hottest topic\nat Butei High right now.
 75	message	Anyway, I came because there's something\nI want you all to hear.
@@ -80,12 +80,12 @@ row	column	english
 83	message	An aria is a solo song in opera.\nA part sung alone.\nWe learned it in school.
 84	message	Even if she's managed alone so far,\nthis time might be bad news, don't you think?\nThe Butei Killer isn't that easy an opponent.
 85	message	W-wait,\ndo you think Riko believes the headless corpse\nmurders are connected to the Butei Killer?
-86	message	The Butei Killer is super cunning.\nI doubt she'd leave Aria alone\nwhen Aria's hunting her, y'know~?
+86	message	The Butei Killer is super cunning.\nI doubt she'd leave Aria alone\nwhen Aria's hunting her, y'knoww?
 87	message	Mixed in with the serial murders,\nfinishing off Aria... plausible.
 88	message	Rem! Let's go after all!
 89	message	But we can't just\nact on our own...!
-90	message	Which is where I come in!\nSign a contract with Riko of the Detective Department (Inquesta),\nand I can help out with all sorts of things~☆
-91	message	Scrambling intel, disposing of evidence, cover-ups!\nCheap rates right now~?
+90	message	Which is where I come in!\nSign a contract with Riko of the Detective Department (Inquesta),\nand I can help out with all sorts of thingss☆
+91	message	Scrambling intel, disposing of evidence, cover-ups!\nCheap rates right noww?
 92	message	...Doesn't look like we have a reason to refuse.
 93	message	//Scene change\n//Background: Night streets\n//Aria, here to investigate
 94	message	A murder investigation, huh. For my first time,\nI didn't expect to be this nervous...
@@ -366,6 +366,6 @@ row	column	english
 372	message	(Aria, Sonico is a rookie idol\nwho thinks all of this\nis a movie shoot...)
 373	message	(Thinks it's a shoot, huh...\nWell, she'd probably be happier\ngoing back to her world none the wiser...)
 374	message	So for now, we all act as one -\ndoes that sound alright, I wonder?
-375	message	Yeees~.
+375	message	Yeeess.
 377	message	(Riko, I'll catch you for sure...!\nWait for me, Mama...)
 378	message	//END

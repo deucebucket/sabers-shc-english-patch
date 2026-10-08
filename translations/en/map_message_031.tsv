@@ -2,7 +2,7 @@ row	column	english
 3	message	Oh my, it seems someone's here!
 4	message	Rem, are those the friends she mentioned?
 5	message	Yes. The group that arrived is Houki-chan's team.
-6	message	I wonder what kind of kids they are, kana?\nHauu! I'm so excited~!!
+6	message	I wonder what kind of kids they are, kana?\nHauu! I'm so excitedd!!
 7	message	Rena, if you scare them in cute-mode,\nthat's a no-no, nanodesu.
 8	message	Fufu, but they're all cute.
 10	message	Heeey! How've you been!?
@@ -15,10 +15,10 @@ row	column	english
 27	message	Everyone's from different worlds, yet\nyou're like close friends...
 28	message	Found a shrine maiden, nanodesu. Nipah☆
 29	message	U-um... I'm Hoshika Shirayuki!\nI'll be joining you all -\nI'm inexperienced, but please treat me well.
-30	message	I'm a shrine maiden too, nanodesu~.
+30	message	I'm a shrine maiden too, nanodesuu.
 31	message	Huh?
 32	message	Rika is the official shrine maiden of Furude Shrine.\nJust because she's small,\ndon't you dare look down on her?
-33	message	Shirayuki, nice to meet you, nanodesu~. Nipah☆
+33	message	Shirayuki, nice to meet you, nanodesuu. Nipah☆
 34	message	Y-yes! Likewise! Rika-san!
 35	message	Wow, two shrine maidens -\nthis group's gonna be lucky!
 36	message	You're the Chinese representative candidate,\nHou Rin'in-san?
@@ -41,7 +41,7 @@ row	column	english
 53	message	Okay... right.
 54	message	(Can I really say I came through okay...\nbut maybe I should think it's good it was me)
 55	message	Oh, the last group's here too!\nHeeey! Welcome back!
-56	message	We're hooome~! ...Wah!\nThere are so many people!
+56	message	We're hooomee! ...Wah!\nThere are so many people!
 57	message	Really!\n...But is growing good or bad,\nI wonder?
 58	message	Obviously bad, nyo!!\nDon't drag Dejiko into this, nyo!!
 59	message	Now now, Dejiko-san.\nThis place looks safe,\nso it's fine.
@@ -121,7 +121,7 @@ row	column	english
 155	message	Yeah! I'll help too!
 156	message	[MERU]...\nwhere did she go?\nNobody's seen her...
 157	message	No idea where my teacher is or what she's doing either.\nMooou, what to do...
-158	message	[NOEL]-chan,\nhere! Ice cream~♪
+158	message	[NOEL]-chan,\nhere! Ice creamm♪
 159	message	Waaah! Thanks, Nico-chan!\nMmm! Lemon yogurt flavor, sweet and tangy!
 160	message	...You seem a little down.\nTired?
 161	message	Nope, I'm fine!\nJust wondering how my teacher and [MERU]\nare doing.
@@ -132,7 +132,7 @@ row	column	english
 166	message	My teacher holds tons of Magical Doctorates -\nshe's famous even at Saint Mont Blanc Academy!
 167	message	She studies Magical Archaeology - phantom techniques\nand cultures, things from long ago -\nand she's super curious.
 168	message	My magical magic is also a technique\nmixing ancient sorcery and stage magic\nthat my teacher revived in modern times.
-169	message	I see! She's an archaeologist~!\nThat's amazing!
+169	message	I see! She's an archaeologistt!\nThat's amazing!
 170	message	My teacher has tons of other magical techniques\ntoo, and she's terrifyingly strong!
 171	message	Me and [MERU]\ncan't hold a candle to her.
 172	message	She's a wonderful teacher...\n...I wonder what she's doing now.
@@ -226,7 +226,7 @@ row	column	english
 261	message	O-hohohoho!!\nThis is my power!\nKnow it well, Dejiko!
 262	message	We just have to whittle their numbers down, little by little!
 263	message	This is where we grit our teeth and hang on!
-264	message	Lalala~♪ How naive, so naive!\nI've got a finishing move ready too~!
+264	message	Lalalaa♪ How naive, so naive!\nI've got a finishing move ready tooo!
 265	message	Nyo!?
 266	message	//Laura appears
 267	message	Hoh, so the numbers really are assembled… Interesting.
@@ -292,10 +292,10 @@ row	column	english
 336	message	//[MERU] or [NOEL] comes running up as Hibiki and Tsubasa are talking.
 337	message	Tsubasaaa!!
 338	message	Tsubasaaa!!
-340	message	//Haruka, Aoi, and Soniko come running.\n//[MERU] or [NOEL] and Hibiki get shoved aside.
+340	message	//Haruka, Aoi, and Sonico come running.\n//[MERU] or [NOEL] and Hibiki get shoved aside.
 341	message	Tsubasaaa!!
 342	message	Tsubasa!
-343	message	Tsubasaa~n!
+343	message	Tsubasaaan!
 344	message	Everyone… I'm glad you're all safe.
 345	message	That's OUR line!\nI'm so glad you're safe, really glad…
 346	message	And you were sooo cool!
@@ -353,10 +353,10 @@ row	column	english
 410	message	No no! That color suits you just fine, says this old man!
 411	message	Any color would look good on you, Shirayuki!
 412	message	Y-you think so…?
-413	message	So I want you to try on this striped swimsuit too~!
+413	message	So I want you to try on this striped swimsuit tooo!
 414	message	Th-that's way too flashy…
-415	message	Ehh, no it's not~.\nJust try it on for now! C'mon! C'mon!?
-416	message	Whoa there, Haruka! Sneaking in for the good part!\nMaybe this old man'll help with the fitting too~?
+415	message	Ehh, no it's nott.\nJust try it on for now! C'mon! C'mon!?
+416	message	Whoa there, Haruka! Sneaking in for the good part!\nMaybe this old man'll help with the fitting tooo?
 417	message	H-huh…!?
 418	message	//Event art off\n//Fade to black\n//Event art: Charlotte trying on a swimsuit
 419	message	Do I look good in this kind of thing…?

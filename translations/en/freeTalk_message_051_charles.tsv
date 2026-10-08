@@ -219,8 +219,8 @@ row	column	english
 290	message	Come on, hurry up.
 291	message	Ch-Charles?\nHuh? That outfit?\nAnd this place...
 292	message	Come on, let's head to the classroom first.\nStanding around here won't get us anywhere.
-295	message	Welcome.\nTo Café SHC.
-296	message	Café SHC?
+295	message	Welcome.\nTo Cafe SHC.
+296	message	Cafe SHC?
 297	message	I'm dressed like this 'cause I'm working here today.\nI mean, what else would it be?
 298	message	I don't think I've ever shown you\nme dressed like this.
 299	message	S-so... how do I look?
@@ -231,7 +231,7 @@ row	column	english
 304	message	Really!? Phew -\nif you'd said it didn't, I don't know what I'd've done.
 305	message	I was gonna go change right away if you had...
 306	message	Th-then I'll stay in this outfit?
-307	message	So, about the café...\nwe don't have a menu yet. Is chef's choice okay?
+307	message	So, about the cafe...\nwe don't have a menu yet. Is chef's choice okay?
 308	message	S-sure.\nThat's fine...
 309	message	Okay!\nJust a sec.
 312	message	Sorry to keep you waiting.\nThis is...
@@ -265,7 +265,7 @@ row	column	english
 342	message	(An answer... right.\nMy feelings are...)
 343	message	Of course, it's fine...\nif I'm good enough...
 344	message	Huh? That doesn't quite make sense.\nYou mean the bento's okay?\nThat it's good, right?
-345	message	Yay~.\nWhat a relief.
+345	message	Yayy.\nWhat a relief.
 346	message	Ah, relief...?
 347	message	Oh - I wanted you to taste it first\nas thanks for hearing me out\nabout everything.
 348	message	And, well, I ended up in a cooking showdown\nwith Houki...\nso it was a taste test for that too...

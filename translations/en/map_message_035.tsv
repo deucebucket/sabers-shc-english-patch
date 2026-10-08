@@ -4,7 +4,7 @@ row	column	english
 5	message	I'm good at it. No need to hold back.
 6	message	I've also studied some techniques\nfor use in bed,\nif you'd prefer that?
 7	message	What are you saying!?
-8	message	Mufufu, Dejiko knows nothing, nyo~.\nI definitely didn't happen to leave\nthat kind of book in Laura's room, nyo~.
+8	message	Mufufu, Dejiko knows nothing, nyoo.\nI definitely didn't happen to leave\nthat kind of book in Laura's room, nyoo.
 9	message	So Dejiko's the culprit!!
 10	message	Either way, it'll be educational. Come on!
 11	message	Laura, training's fine, but\nthere's something I want you to answer.
@@ -30,7 +30,7 @@ row	column	english
 31	message	…
 32	message	//Fade to black\n//Background: IS Academy classroom
 33	message	Haa…
-34	message	What's wrong?\nA sigh from you is unusual, Soniko.
+34	message	What's wrong?\nA sigh from you is unusual, Sonico.
 35	message	Ah, I-I'm sorry! Um…\nI just found myself wondering how many days\nit's been since I've been home…
 36	message	True.\nEvery day brings new surprises,\nand time just flies by.
 37	message	Work is fun,\nand being with everyone is\nso much fun too, but…
@@ -39,29 +39,29 @@ row	column	english
 40	message	I understand how you feel.\nBeing away from home,\nyou start to feel anxious…
 41	message	Ah… ugh, everyone's in the same boat,\nand here I am complaining… I'm sorry…!
 42	message	(This is homesickness…)
-43	message	(Soniko's believed all along this is a filming job,\nso her sense of everyday life is stronger than ours)
+43	message	(Sonico's believed all along this is a filming job,\nso her sense of everyday life is stronger than ours)
 44	message	Huh? What are you talking about?
 45	message	Wah, no! Um…\nHaruka, are you doing okay!
 46	message	Yup! I'm great!\nI even had seconds of breakfast today!\nIS Academy's cafeteria is really yummy!
 47	message	Ehehe… that's good!\nBeing healthy really is the best, isn't it…
-48	message	Hweh? Soniko, feeling down?\nAh, did you eat too much and your tummy hurts!?
+48	message	Hweh? Sonico, feeling down?\nAh, did you eat too much and your tummy hurts!?
 49	message	That was you this morning, Haruka…
 50	message	Oh, was it? Ehehe.
-51	message	That's it!\nI thought of something that might cheer Soniko up!
+51	message	That's it!\nI thought of something that might cheer Sonico up!
 52	message	Really, Haruka?
 53	message	Awawa, what is it…?
-54	message	Aoi, Soniko!\nLet's get ready to go out!
+54	message	Aoi, Sonico!\nLet's get ready to go out!
 55	message	//Fade to black\n//Background: park (park-like background)
 56	message	Hmm, nice spot!\nLet's settle here!
 57	message	What a lovely park.\nSpacious, quiet, and relaxing.
-58	message	A picnic with bentos!\nWonderful~♪
+58	message	A picnic with bentos!\nWonderfull♪
 59	message	Right? With all the traveling and fighting,\nwe never got to relax.\nToday let's take it easy and bask in the sun!
 60	message	It's no substitute for home, but…\nplease relax, even a little.
 61	message	Yes! …And most of all, your kind thoughtfulness,\nHaruka, Aoi, makes me sooo happy♪ Thank you!
 62	message	Oh, it's no trouble at all.\nWe're having fun too, right, Haruka?
 63	message	Of course!
-64	message	We always eat our bentos outside like this\nduring lunch break too~.
-65	message	We wanted to share a bit\nof our everyday life with you, Soniko.
+64	message	We always eat our bentos outside like this\nduring lunch break tooo.
+65	message	We wanted to share a bit\nof our everyday life with you, Sonico.
 66	message	Your everyday life, Haruka, Aoi… with me?
 67	message	Yeah. Eating bentos outside like this,\nit feels like peaceful everyday life!
 68	message	…I've always thought so-Haruka,\nyou're a really, really kind girl!
@@ -69,28 +69,28 @@ row	column	english
 70	message	Ufufu, I think so too.
 71	message	I was going to invite everyone,\nbut the 'just the three of us today' part was Haruka's idea.
 72	message	Yeah. Lively is nice, but\nquiet is nice sometimes too.
-73	message	Haruka, you'll make a wonderful wife\nsomeday~!
-74	message	Geez, Soniko,\nflatter me all you want, all you'll get is bento?
+73	message	Haruka, you'll make a wonderful wife\nsomedayy!
+74	message	Geez, Sonico,\nflatter me all you want, all you'll get is bento?
 75	message	Ufufu, then shall we have\nthat bento?
-76	message	Ehehe~ I can't wait♪
+76	message	Ehehee I can't wait♪
 77	message	//Event art: bento in the big park
-78	message	Soniko, here, aaahn!
+78	message	Sonico, here, aaahn!
 79	message	U-um… aaahn!
 80	message	Mogu mogu… wah!\nIt's sooo yummy!
 81	message	I put extra sugar in this tamagoyaki!\nIt's more like a dessert than a side dish, right?
-82	message	Sweet and fluffy~♪\nJust like you, Haruka!
-83	message	Ehehe, but I made this\nwith you in mind, Soniko.
+82	message	Sweet and fluffyy♪\nJust like you, Haruka!
+83	message	Ehehe, but I made this\nwith you in mind, Sonico.
 84	message	You're both sweet and fluffy.
 85	message	Aoi, aaahn too!
 86	message	Aaahn.
-87	message	Mmm, this is definitely Soniko\nand Haruka!
-88	message	Soniko, Aoi,\neat lots, okay!
+87	message	Mmm, this is definitely Sonico\nand Haruka!
+88	message	Sonico, Aoi,\neat lots, okay!
 89	message	//Event art off
 90	message	I'm supposed to be the older one, yet you're\ncheering me up like this… uuuh…\nI'm sorry for being so unreliable!
 91	message	That's not true! I'm clumsy,\nI can't get up in the morning,\nand Aoi and Shirayuki tutor me in studying…
 92	message	No! Um, I'm participating\nin this location shoot,\nbut I can barely be of use to anyone…!
 93	message	Me too-all I do is call Red Angel,\nI don't know if I'm useful either.
-94	message	But, Soniko.\nThe fact that we're traveling and working hard together\nright now-that's surely something really precious.
+94	message	But, Sonico.\nThe fact that we're traveling and working hard together\nright now-that's surely something really precious.
 95	message	Huh?
 96	message	I think so too.\nIt's a strange fate, but\nI'm glad I met everyone.
 97	message	Everyone's working so hard, joining forces\nto solve the problems right in front of us.\nIt makes me want to work hard too.
@@ -105,9 +105,9 @@ row	column	english
 106	message	Thank you both, so much…\nI get it now!
 107	message	Instead of struggling on my own,\nthis is everyone's work, so everyone\nshould give it their all!
 108	message	Yeah! Let's all keep making it\nbetter and better, together!
-109	message	Indeed, Haruka-san, Soniko-san.
-110	message	(Still… if we use the way to decide where we move,\nthe day we can send Soniko-san home\nmight not be so far off…)
-111	message	//Fade to black\n//Background: forest\n//Tesla and Nain are watching Soniko and the others.
+109	message	Indeed, Haruka-san, Sonico-san.
+110	message	(Still… if we use the way to decide where we move,\nthe day we can send Sonico-san home\nmight not be so far off…)
+111	message	//Fade to black\n//Background: forest\n//Tesla and Nain are watching Sonico and the others.
 112	message	Minazuki Haruka, Kannazuki Aoi.\nHeaven's emissaries, each holding half of the "Angel's Tears"-\nthe Holy Grail fragments said to hide the greatest power…
 113	message	Sis, now's our chance…
 114	message	Yes, we could steal the "Angel's Tears" easily.\nBut first, there's something more important\nwe need to confirm.
@@ -117,14 +117,14 @@ row	column	english
 118	message	We should head home soon.
 119	message	Yes! My tummy's full and my heart is, too♪
 120	message	I'm glad you're feeling better.
-121	message	Well then, how about some\nafter-dinner exercise~?
+121	message	Well then, how about some\nafter-dinner exercisee?
 122	message	Huh?
 123	message	//Fade to black\n//Background: park (or similar)
 124	message	GAGAGA!!
 125	message	GAGAGA!!
 126	message	Ah!!
 127	message	When did they get here!?
-128	message	Now then, what'll it be~?
+128	message	Now then, what'll it bee?
 129	message	Who are you people… and what are those robots…!?
 130	message	…Twin Phantom.
 131	message	Twin… Phantom?
@@ -132,14 +132,14 @@ row	column	english
 135	message	Huh!?
 137	message	Twin Angel is… our sworn enemy…!
 138	message	Wh-what do you mean by that?
-139	message	Come on, why don't you just call\nTwin Angel already~?
+139	message	Come on, why don't you just call\nTwin Angel alreadyy?
 140	message	The "Angel's Tears"… we'll take them.
 141	message	How do you know where the "Angel's Tears" are!?
 142	message	Hehe… we're nothing like some careless thief\nor battle-crazed lunatic, you know.
 143	message	(Wh-what do I do? I can't\ntransform here…!)
 144	message	(If this keeps up, the "Angel's Tears" will…!)
 145	message	Um, uh… so these are the bad guys!?
-146	message	Soniko-chan, run!
+146	message	Sonico-chan, run!
 147	message	Yes, hurry!
 148	message	Huh!?
 149	message	(Haruka-chan and Aoi-chan can't fight…\nI can't just run away and leave them!\nWhat do I do…!)
@@ -152,30 +152,30 @@ row	column	english
 160	message	Haruka-chan, Aoi-chan, I'm sorry\nI hid this from you! Actually,\nI'm a Twin Angel too!
 163	message	Whaaat!?
 165	message	Leave this to me- you two run!\nHurry!
-166	message	(Soniko-san, so this means…)
+166	message	(Sonico-san, so this means…)
 167	message	(…Yes!)
-168	message	Haruka-san, let's leave this to Soniko-san\nand run!
+168	message	Haruka-san, let's leave this to Sonico-san\nand run!
 169	message	Aoi-chan, but…!
-170	message	Let's trust Soniko-san. Come on!
+170	message	Let's trust Sonico-san. Come on!
 171	message	Wah! Aoi-chan!?
 172	message	//Aoi and Haruka run off.
 173	message	Hey! Wait!
 174	message	N-no way-! You can't get past me!
 175	message	Your opponent is, um, yours truly!\nS-Super Angel…! That's me!
 176	message	//If usable, use the cat-fist event art here.
-177	message	U-um, so… who- who wants\nto get hurt~!
+177	message	U-um, so… who- who wants\nto get hurtt!
 178	message	That stance… don't get careless!
 179	message	Come over here to this wide-open\nspot! Hiyah!
 180	message	//Battle map: open field (a park-like one if available)
 182	message	(Somehow I got Haruka-chan and Aoi-chan away…!)
-183	message	So you're a Twin Angel~?\nThat seems doubtful~.
+183	message	So you're a Twin Angell?\nThat seems doubtfull.
 184	message	I've never heard of any "Super Angel,"\nand "Twin" means two, so three\nof you is just weird.
 185	message	(Eep, she's right, but still, I have to\nact the part here…!)
 186	message	Th-that's not the point! Twin Angel is\nyour sworn enemy, right?\nWell, I'm… that sworn enemy!
 187	message	…Fine, whatever.\nSmall fry just need to be crushed…!
 188	message	If you get in our way… no mercy.
 189	message	//Battle start\n//Twin Angel appears on turn 2
-190	message	Soniko-chan!
+190	message	Sonico-chan!
 191	message	Sorry to keep you waiting!
 192	message	…Here they come.
 193	message	Twin Angel…!
@@ -183,7 +183,7 @@ row	column	english
 195	message	The real show starts now!
 196	message	That's right, we're doing THAT\none! Super Angel-san!
 197	message	Huh?
-198	message	//Soniko, Red, and Blue Angel line up.
+198	message	//Sonico, Red, and Blue Angel line up.
 199	message	Here we go! Aoi-chan!
 200	message	Yes!\nWith love and courage, we never miss!
 201	message	Bringing back everyone's smiles!
@@ -224,11 +224,11 @@ row	column	english
 237	message	A job well done!
 238	message	Ah, ehehe… thank you!
 239	message	//Battle end\n//Background: park (or similar)
-240	message	My!\nSoniko-san did all that?
+240	message	My!\nSonico-san did all that?
 241	message	Unbelievable, nyo…
-242	message	It's true! If Soniko-chan hadn't been there,\nwho knows what would've happened.\nRight, Aoi-chan?
+242	message	It's true! If Sonico-chan hadn't been there,\nwho knows what would've happened.\nRight, Aoi-chan?
 243	message	Yes, she was so cool.
-244	message	It's all because Haruka-chan and Aoi-chan\nwent and brought Twin Angel-san\nright away~!
+244	message	It's all because Haruka-chan and Aoi-chan\nwent and brought Twin Angel-san\nright awayy!
 245	message	Super Angel is so coool!
 246	message	I wanted to see Nico-chan's\nSuper Angel!
 247	message	Th-that's a little embarrassing…!\nUm, could we just say S-Super Angel\nwent back to her home planet…?
@@ -240,8 +240,8 @@ row	column	english
 253	message	Um, well…\nSuper Angel is gone now,\nbut I'm here instead!
 254	message	From now on, I'll do what I can,\nproperly, and work hard\ntogether with everyone!
 255	message	I'm still inexperienced,\nbut please take care of me!
-256	message	Aha, Soniko-chan, you've got a great look on your face!
-257	message	That's our usual energetic Soniko-san.
+256	message	Aha, Sonico-chan, you've got a great look on your face!
+257	message	That's our usual energetic Sonico-san.
 258	message	//Fade to black\n//Background: seaside (somewhere far away)
 259	message	Twin Angel… the hated enemy who set fire\nto our house when we were small,\nand killed our Father and Mother…
 260	message	But, Sis…
@@ -319,13 +319,13 @@ row	column	english
 335	message	It's fine.\nThat's my own personal problem.\nI don't plan to trouble everyone with it.
 336	message	They say to be good to your parents\nwhile you've got 'em.\nI'm in favor of going to Aria's world.
 337	message	I'm in toooo!
-338	message	I'm in too!\nI get how it feels\nto wanna see your family~.
+338	message	I'm in too!\nI get how it feels\nto wanna see your familyy.
 339	message	True. From here on we can go looking\nfor Mine Riko ourselves, so go and\nset your mother's mind at ease!
 340	message	Th-thank you…
 341	message	Then, let's split into teams!\nDejiko-chan's team and\nAria-chan's team!
 342	message	//Fade to black - time passing
 343	message	After a rigorously fair Amidakuji, Dejiko's team is:\nHaruka, Aoi, Rika-chan, Satoko, Rena,\nCharles, Laura, Tsubasa, Hibiki, and Koto!
-344	message	My team will be Louise, Siesta, Remu,\nSuzu, Houki, Cecilia, Shirayuki, Mion,\nShion, and Soniko.
+344	message	My team will be Louise, Siesta, Remu,\nSuzu, Houki, Cecilia, Shirayuki, Mion,\nShion, and Sonico.
 345	message	Um, my lot was a dud, though.
 346	message	Mine was a dud too!
 347	message	Mine's a dud too!
@@ -355,17 +355,17 @@ row	column	english
 375	message	U-um…
 376	message	//
 377	message	Ever seen glowing wings\non your status during battle?
-378	message	Those grow bigger and bigger\nthe more battles you fight~
+378	message	Those grow bigger and bigger\nthe more battles you fightt
 379	message	And the bigger they get, the more AP\nyou recover at the start of a turn!
 380	message	I see. That sounds handy.
-381	message	The details are a maiden's seeecret~
+381	message	The details are a maiden's seeecrett
 382	message	…
-383	message	Oh… don't make such a scary face,\nI'll tell you one more good thing~
+383	message	Oh… don't make such a scary face,\nI'll tell you one more good thingg
 384	message	Y-yes…
 385	message	There's one more secret, actually…
 386	message	It's closely tied to the "Heroic Arts"\nwhich only the chosen\ncan master!
 387	message	Heroic… Arts?
-388	message	Eve named it~ Basically it means\nsuper special moves!
+388	message	Eve named itt Basically it means\nsuper special moves!
 389	message	Oooh!?
 390	message	If you work harder and grow,\nmaybe some of you\nwill be able to use them too?
 391	message	But just learning them isn't enough-\nyou spend your grown-up Heroic Boost\nto use them!

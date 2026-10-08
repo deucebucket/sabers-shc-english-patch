@@ -19,7 +19,7 @@ row	column	english
 23	message	Charred...\nCome on, you don't need to be that on guard...\nAren't we allies already?
 24	message	...\nI can't say for sure everyone's my ally.
 25	message	Especially with the likes of you -\nvigilance is the only option.
-28	message	Oh, come on~!\nI wouldn't do anything like that.
+28	message	Oh, come onn!\nI wouldn't do anything like that.
 29	message	...And I'm supposed to believe that?\nUnlikely.
 32	message	So I'm still not your ally...\nThat's a little sad...
 33	message	No need to look so down.\nIt's just a question of whether\nI can trust you.
@@ -223,10 +223,10 @@ row	column	english
 295	message	G-go ahead and laugh if you want!\nI didn't plan on dressing like this.
 296	message	...I won't laugh.\nIt suits you really well.
 297	message	I see! Th-that's... well.\nToday's special, you know...\nThis outfit is... just for today.
-298	message	Let's move to the café.\nWe're blocking the way.
+298	message	Let's move to the cafe.\nWe're blocking the way.
 301	message	Here's the menu.\nOrder what you like.
 302	message	But... my recommendation is oden.
-303	message	...Oden... at a café?
+303	message	...Oden... at a cafe?
 304	message	Objecting?\nIt's a well-liked meal in Japan, no?
 305	message	I prepared it based on that information.
 306	message	If you object, you don't have to order...

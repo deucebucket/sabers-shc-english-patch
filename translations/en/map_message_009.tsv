@@ -1,14 +1,14 @@
 row	column	english
 3	message	............
-4	message	............~
-5	message	Um, Aria-san~?
+4	message	............
+5	message	Um, Aria-sann?
 6	message	If it's the bathroom, go within five minutes.
-7	message	N-no, not the bathroom...\nHauu~...
+7	message	N-no, not the bathroom...\nHauuu...
 8	message	This really is like a prison.\nIsn't this tough on you too, Aria-chan?
 9	message	Not really.
 10	message	No need to be so on edge-\nwe won't escape or rebel.\nYou can relax more, y'know?
 11	message	Is that so. Then show me your abilities.
-12	message	Abilities~?
+12	message	Abilitiess?
 13	message	You've got combat skills, right?\nI'll watch to kill time.
 14	message	You'll judge us with a pro's eye?\nThen first up, Tachibana Hibiki! Here I gooo!
 15	message	I don't have a weapon, so I'm barehanded!\nNo particular school, but\nif I had to say, it's my master's personal style...
@@ -20,9 +20,9 @@ row	column	english
 21	message	But doing it bare, you lack power and snap-\nfull of openings.
 22	message	...Yes, there are...\nvarious circumstances.\nI can't go all out right now, so to speak...
 23	message	No need to explain. Next, you over there!
-24	message	Um, second, [MERU]~suu!\nI'll show you my magical yo-yo's\nspecial move-Walk the Dog~!
+24	message	Um, second, [MERU]suu!\nI'll show you my magical yo-yo's\nspecial move-Walk the Dogg!
 25	message	...Cute moves, but I'm not here for street tricks.
-26	message	It's not street tricks~!\nThe magical yo-yo is a historic\nassassination art passed to a single successor...
+26	message	It's not street trickss!\nThe magical yo-yo is a historic\nassassination art passed to a single successor...
 27	message	Yeah yeah. Next.
 28	message	Third, me: Ayanokouji Remu.\nMy weapon is this Colt .44 Magnum Custom!
 29	message	Hm, not an Anaconda-\na Python custom.\nRare choice these days.
@@ -40,25 +40,25 @@ row	column	english
 42	message	//Claude exits.
 43	message	...So, this is what you wanted?\nI think things'd be more peaceful if you'd stayed quiet.
 44	message	I see-she's a tough one.
-45	message	Is she usually like this~?
+45	message	Is she usually like thiss?
 46	message	Yep. Got a problem?
 47	message	(This reminds me of the old Tsubasa-san...)
 48	message	//Fade to black: time passes.
-49	message	Funyuuu~! Momoman's sooo good~!
+49	message	Funyuuuu! Momoman's sooo goodd!
 50	message	This!\nIt rivals Flower's okonomiyaki-\nI can't pick a winner!
 51	message	Momoman is the best, I'm tellin' ya!
 52	message	She's already had five...\n(Seems like keeping her fed is the best plan!)
-53	message	I'll have one more~♪\nHam-ham-ham~.
+53	message	I'll have one moree♪\nHam-ham-hamm.
 54	message	Huff... huff...\nI ran myself half to death...
 55	message	You were a bit over time, but\nI'll praise you for buying\nplenty.
 56	message	I didn't know... how many you'd eat...\nHaah, fuuh, heeh...
-57	message	Surprisingly thoughtful~.
+57	message	Surprisingly thoughtfull.
 58	message	//SE: Aria's phone ringtone.
 59	message	Hm? An email?\nNot from Informa (intel division).\nUrgent...?
 60	message	...I'll be right back.
 61	message	Something happen?
 62	message	There's been a bus hijacking in Tokyo.\nThe culprit's probably the Butei Killer.
-63	message	The one who rigged the skateboard~?\nBut Shirayuki-san said the Butei Killer was caught...
+63	message	The one who rigged the skateboardd?\nBut Shirayuki-san said the Butei Killer was caught...
 64	message	The Butei Killer was never caught!
 65	message	Sounds like there's more to it.
 66	message	Aria-san!\nIs there anything we can help with?
@@ -70,7 +70,7 @@ row	column	english
 72	message	(They really would be in the way... moving in numbers\nagainst a bus hijacking just stands out and adds danger. Besides...)
 73	message	Later.
 74	message	//Aria rushes out.
-75	message	...She's gone~.
+75	message	...She's gonee.
 76	message	Remu-san! I can't just leave her!
 77	message	Forcing our way along would\nreally just get in the way.\nIf only she'd tell us what's going on...
 78	message	............
@@ -137,7 +137,7 @@ row	column	english
 140	message	I came after all!
 141	message	You guys... how'd you get here?
 142	message	I put a tracker on him.\nOn [CLAUDE]-kun!
-143	message	I'll show you my magical yo-yo\nisn't street tricks~!
+143	message	I'll show you my magical yo-yo\nisn't street trickss!
 144	message	Fine... this might get a little interesting.
 145	message	//Minor units multiply.
 146	message	Ah...!
@@ -149,7 +149,7 @@ row	column	english
 152	message	Keep honing your skills.\nThen I can get fresh data again.
 153	message	//Laura withdraws.
 154	message	My lead on the Butei Killer got away!\nGot away! Got away! Got awaaay!!
-155	message	Aria-san, calm down~!!
+155	message	Aria-san, calm downn!!
 156	message	No way! I'm not letting her get away!\nI'll catch her, I'll catch her, no matter what!
 157	message	We can't chase her unless we can fly!!
 158	message	Coward! Give me my Butei Killer lead!\nGet back here!!
@@ -158,7 +158,7 @@ row	column	english
 161	message	//■Battle end.\n//Background: plains.
 162	message	............
 163	message	Sorry\nwe couldn't catch that flying person.
-164	message	That was, I believe, someone called Laura~.\nShe fought Tsubasa-san too.
+164	message	That was, I believe, someone called Lauraa.\nShe fought Tsubasa-san too.
 165	message	Really!?
 166	message	Aria-san, who was the sniper who saved you?
 167	message	Ah, Reki.
@@ -167,7 +167,7 @@ row	column	english
 171	message	I merely carried out\nthe client's request.
 172	message	Reki's an S-rank Butei\nof the Snipe division.\nI contracted her as insurance.
 173	message	...Mission complete. Leaving.
-175	message	Reki-san left~.
+175	message	Reki-san leftt.
 176	message	By the way, why'd you all show up!?
 177	message	I got curious and checked with Butei High students.\nTurns out no bus hijacking\never happened.
 178	message	What!?
@@ -212,17 +212,17 @@ row	column	english
 217	message	So that's what it was.\nI understand why Aria-chan's in a hurry.
 218	message	Having to arrest every criminal behind\nan 864-year sentence-\nno one can do that alone!
 219	message	No, it's the opposite. With such a reckless goal,\nshe doesn't want to drag others in.\nThat's why she tries to act alone.
-220	message	But the reason she watched\nour combat skills... could it be~?
+220	message	But the reason she watched\nour combat skills... could it bee?
 221	message	That's it! Maybe she's really\nlooking for comrades to fight alongside...!?
 222	message	Maybe.\nBut barging into her feelings\nso easily...
 223	message	I've got a good idea!!
-224	message	Hibiki-san!? ...What're you gonna do~?
+224	message	Hibiki-san!? ...What're you gonna doo?
 225	message	Hehe, leave it to me!!
 226	message	//SE: door sound.\n//Aria comes in.
 227	message	Noisy in here-planning an escape or something?
 228	message	Aria-san! Let's go to karaoke together!
 229	message	Huh...?
-230	message	(No thinking, just a straight pitch~...!!)
+230	message	(No thinking, just a straight pitchh...!!)
 231	message	(I'd forgotten... Hibiki-chan is\nthe totally unstoppable force-it-through type...)
 232	message	Are you stupid!?\nKaraoke!? I don't have time\nto goof off!
 233	message	Then when are you free?\nTell me! We'll go that day!
@@ -232,12 +232,12 @@ row	column	english
 237	message	//Hibiki clings to Aria.
 238	message	Then let's sing here!\nI'm actually a student at Lydian Private Music Academy,\na music school, so even a cappella...
 239	message	Hey!? Don't cling to me! Let go!
-240	message	Not letting go~! Sing here,\nor go to karaoke-which'll it be?\nEither's fine with me!
-241	message	(Th-this is blackmail~...!)
+240	message	Not letting goo! Sing here,\nor go to karaoke-which'll it be?\nEither's fine with me!
+241	message	(Th-this is blackmaill...!)
 242	message	Geez, what IS this!?\nWhere'd this brute strength come from...!!\nNgh, I can't break the hold!!
 243	message	Come on, come on, Aria-san!
 244	message	F-fine! I'll go, all right,\nI'll gooo!
-245	message	She forced it through~!!
+245	message	She forced it throughh!!
 246	message	A difference in combat styles, I wonder...?
 247	message	Hehe, I'm looking forward to it, Aria-san!
 248	message	Just let gooo!!

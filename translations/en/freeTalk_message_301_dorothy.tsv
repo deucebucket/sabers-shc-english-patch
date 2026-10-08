@@ -10,7 +10,7 @@ row	column	english
 12	message	Y-yes... then, Lady Dor...othy?
 13	message	Hm, what is it? You look like a child\nwith many questions. Ask me anything.
 16	message	U-um, Lady Dor...othy,\nhow... old are you now?
-17	message	Fuu~. You're a child so it can't be helped, but\nasking a woman her age shows a lack of\nthe most basic etiquette.
+17	message	Fuuu. You're a child so it can't be helped, but\nasking a woman her age shows a lack of\nthe most basic etiquette.
 18	message	Even a woman of experience like me\nhas the heart of a maiden, forever and always.
 19	message	(No, she clearly looks younger than me though...)
 20	message	The child just wanted to act a bit grown-up, hmm?\nWell, in that case, I'll pretend\nI never heard it.
@@ -20,12 +20,12 @@ row	column	english
 26	message	I may need to re-educate\nthat rotten nature of yours\nin place of your parents.
 27	message	First, I don't like\nthat fidgety attitude!\nLook people in the eye when you speak!!
 30	message	Honestly, young people these days...\nSpoil them a little and this is what you get.
-31	message	When I was young,\nthere were ever so many\nstalwart gentlemen, you know~.
+31	message	When I was young,\nthere were ever so many\nstalwart gentlemen, you knoww.
 32	message	Back then, they were heroes who saved the world,\nor masters of a one-hit-kill fist art\nthat only one person could learn.
-33	message	There were even those who could pull\nall sorts of items from a mysterious pocket, you know~.
+33	message	There were even those who could pull\nall sorts of items from a mysterious pocket, you knoww.
 34	message	How lamentable,\nthat a child like you\nwould come to this town...
 35	message	...Haah, it's not like I came\nto this town because I wanted to...
-36	message	Well, this too may be\nthe flow of the times~.
+36	message	Well, this too may be\nthe flow of the timess.
 37	message	???
 38	message	Perhaps it means I've grown old.
 39	message	(No, you're a kid...\nBut she'd get mad if I pointed that out...)
@@ -38,10 +38,10 @@ row	column	english
 48	message	Lady Dorothy, do you like spicy food?
 49	message	What? I am an adult!\nI'd never eat sweets\nthat women and children like!!
 50	message	R-right?\nActually, when I was traveling alone, in an eastern country\nI got my hands on a strange food in a pack...
-51	message	Oh, the eastern lands?\nThey were once called the land of gold~.
+51	message	Oh, the eastern lands?\nThey were once called the land of goldd.
 52	message	Gold!? There wasn't any, but\nI thought you might like this food\nyou pour this yellow liquid over...
 55	message	This Bonjour Curry just needs 3 minutes in hot water,\nthen pour it over steaming rice and it's a masterpiece.\nP-please, have some!
-56	message	Hoho, how convenient~\nFood from that golden land... Long ago, when I traveled,\neveryone gave me all sorts of souvenirs.
+56	message	Hoho, how convenientt\nFood from that golden land... Long ago, when I traveled,\neveryone gave me all sorts of souvenirs.
 57	message	Well, since the child made it for me,\nI suppose I'll partake...
 58	message	Th-this is!!\nSooooo goooood!!!\nM-my, child, such a wonderful thing!!
 59	message	The moment it touches my tongue, the aroma of eastern culture spreads,\nthe sweetness of the vegetables melting into the rice-\nmy mouth is a treasure box!
@@ -60,11 +60,11 @@ row	column	english
 76	message	Indeed. If you visit the eastern lands again,\ndo call on me.
 77	message	I have an old friend there;\nI'd ask you to carry a message.
 78	message	Lady Dorothy, you have a friend\nin the eastern lands?
-79	message	W-well... but he rarely\nshows himself before people~.
+79	message	W-well... but he rarely\nshows himself before peoplee.
 80	message	Well, if you bring his favorite fried tofu,\nhe'll surely show his face.
 81	message	I don't know what 'oage' is, but\nunderstood... though I can't go\nuntil this journey ends...
-82	message	Indeed, the eastern lands...\nHow nostalgic~...
-85	message	Hmm~mm, these recent machines...
+82	message	Indeed, the eastern lands...\nHow nostalgicc...
+85	message	Hmmmmm, these recent machines...
 86	message	...Huh? That's Dorothy from the weapon shop...\nShe looks troubled.
 87	message	Is something the matter?
 88	message	Oh! You came at just the right time!!\nDo you know how to use this?
@@ -84,10 +84,10 @@ row	column	english
 108	message	No, it suddenly fell from the sky.
 109	message	It made strange noises now and then, so\nI thought I'd save it... but\nI've lost patience with it!
 110	message	Still, it's strange to think there was\nan age when such things ran rampant.
-111	message	Not using bodies like ours that can\ntransmit instantly from positional data-\nhow inconvenient~.
+111	message	Not using bodies like ours that can\ntransmit instantly from positional data-\nhow inconvenientt.
 112	message	?? Using... bodies??
 113	message	Nwo!\nYou, what are you staring at my body for...
-114	message	Wh-what a creepy child~.
+114	message	Wh-what a creepy childd.
 115	message	A child like you taking interest in\nan adult woman's body like mine\nis far too early.
 116	message	Gain more experience,\nand come before me once you're a full adult!
 117	message	Now, if you understand, begone, begone!
@@ -98,9 +98,9 @@ row	column	english
 126	message	Ohhh, sorry sorry,\nI didn't think a child would be there.
 127	message	A weapon sample arrived, so\nI was testing how it works.
 128	message	It's some weapon combining a cannon and a spear...\nI'd never seen one, and fiddling with it\nblind, it went off.
-129	message	They say it's a fine piece that can take down\nscreeching giant birds and ancient dragons!\nAmazing, no~!!
+129	message	They say it's a fine piece that can take down\nscreeching giant birds and ancient dragons!\nAmazing, noo!!
 132	message	I-I don't need such dangerous gear.\nResolving things peacefully is best...\nI think...
-133	message	Fuu~, you don't get it~. Equipping\nmighty weapons makes a man's worth\nskyrocket. Well, this one's especially flashy~.
+133	message	Fuuu, you don't get itt. Equipping\nmighty weapons makes a man's worth\nskyrocket. Well, this one's especially flashyy.
 134	message	Well, it's not heavy artillery, but\nthere's this fish-shaped sword,\nor this monster-mouth flute! How about it?
 137	message	If it's no trouble... where did you get them?
 138	message	Hohhohho, trade secret!\nI source them through special channels I can't reveal, but\n...I'll tell you just a little.
@@ -147,11 +147,11 @@ row	column	english
 190	message	Not Lady Dorothy -\nDorothy-chan!
 191	message	Dorothy likes big brother!\nEhehe.
 192	message	W-waaah, my inner demon that absolutely\nMUST NOT come out is about to surface, so\nlet's hurry to the shop!!
-195	message	Phew~. But last time really surprised me.\nThe moment we reached the shop, Rin went pale\nand dragged Lady Dorothy off...
+195	message	Pheww. But last time really surprised me.\nThe moment we reached the shop, Rin went pale\nand dragged Lady Dorothy off...
 196	message	Ah, Dorothy-chan!\nAre you okay?
 197	message	.........
 198	message	Dorothy-chan?
-199	message	You, calling me '-chan'...\nyou've grown bold, haven't you~.
+199	message	You, calling me '-chan'...\nyou've grown bold, haven't youu.
 200	message	Huh? Huuuh??
 201	message	I have no memory of last time at all, but\nit seems Rin restored my data\nfrom just before that point.
 202	message	It's deeply unpleasant that some data is corrupted,\nbut it can't be helped.
@@ -165,12 +165,12 @@ row	column	english
 216	message	(Now's my chance... soft steps... sneak...ing...)
 219	message	Aaaah, sorry sorry sorry,\nI wasn't trying to run away or anything...
 220	message	H-huh, big brother?
-221	message	Mooou, you're heavy~. Move off, quick~.
-222	message	Huh~? Or maybe\nyou don't want to leave Dorothy?
+221	message	Mooou, you're heavyy. Move off, quickk.
+222	message	Huhh? Or maybe\nyou don't want to leave Dorothy?
 223	message	Mooou! Big brother's being naughty.
 224	message	...Th-this is!?
 225	message	Either way, sorry sorry sorry,\nI'll leap away immediately!\nI'll prostrate myself into the ground!!
-226	message	Nn! Ch-ch, nooo~,\nbig brother... you can't\ntouch me there.
+226	message	Nn! Ch-ch, noooo,\nbig brother... you can't\ntouch me there.
 227	message	W-w-w, I'm no good...\nI'm gonna faint............ *phweee*.
 228	message	...
 229	message	...Hmph, so this is what this one likes?\nWhat a creep, honestly... but...\nnow and then, this isn't so bad. Ufufu.
@@ -180,28 +180,28 @@ row	column	english
 235	message	Hey, how long are you going to keep that up!?\nYou're going to give ME breathing trouble.
 236	message	*pant pant pant*, sorry, I lost my composure.
 237	message	...Um... are you Lady Dorothy?\nOr Dorothy-chan?
-238	message	Fuu~. Didn't I tell you not to call me '-chan'?\nOr do you fancy yourself my husband?
+238	message	Fuuu. Didn't I tell you not to call me '-chan'?\nOr do you fancy yourself my husband?
 239	message	N-no, I'm so sorry, but\nthere are times when Lady Dorothy transforms, you see...
 240	message	Fuu, that's become quite the strange title.\nWell, it's amusing in its own way,\nso I'll allow it.
 243	message	Um... is Dorothy-chan\nLady Dorothy? Or...
 244	message	Fuu, you saw me in an embarrassing state, child.\nIt's true - in my infancy everyone called me\nDorothy-chan and doted on me.
-245	message	But yesterday, for some reason a system error occurred\nand my memory data regressed to infancy, it seems.\nWell, the me of that era was naive about the world, unlike now~.
-246	message	(Uwaah~. The cause of the system error...\nwas me. I should NOT say that.)
+245	message	But yesterday, for some reason a system error occurred\nand my memory data regressed to infancy, it seems.\nWell, the me of that era was naive about the world, unlike noww.
+246	message	(Uwaahh. The cause of the system error...\nwas me. I should NOT say that.)
 249	message	Lady Dorothy... um, did you have a husband?
-250	message	Fuh, memories of the distant past...\nso many wonderful people stayed by my side...\nI was young then~.
+250	message	Fuh, memories of the distant past...\nso many wonderful people stayed by my side...\nI was young thenn.
 251	message	(Hm? 'Everyone'? Um, not just one...\nno, I feel like I shouldn't ask...)
 254	message	What's wrong?\nGone all quiet? You're drenched in sweat?
-255	message	Ha! Sorry,\nn-n-n-nothing at all~.
-256	message	You're a strange child~.\nOf all the men I know,\nnone were like you~.
+255	message	Ha! Sorry,\nn-n-n-nothing at alll.
+256	message	You're a strange childd.\nOf all the men I know,\nnone were like youu.
 257	message	But you, child... how to put it, you tickle\nmy maternal instincts... I just\ncan't leave you alone.
 258	message	Ha!? Could this be\nyour scheme!?
-259	message	If so... you may be\nquite the player~.
+259	message	If so... you may be\nquite the playerr.
 260	message	Th-that's not it at all...\nBut, Lady Dorothy, I feel...\nsomething... a strange feeling too...
 261	message	Now now,\ndon't tease adults.
 262	message	I-it's my bedtime now! T-take care\nnot to catch cold! And brush your teeth!
 263	message	Huh... wha...\nshe vanished like she was running away...\nwhat was that about?
 266	message	Huh? This place... a school?\nBut why am I in a place like this...
-267	message	There's a sign... 'Café Iron Fist'?\n...Maybe I'll understand if I go in?
+267	message	There's a sign... 'Cafe Iron Fist'?\n...Maybe I'll understand if I go in?
 270	message	B-big brother, welcome.
 271	message	Lady Dorothy!? No, Dorothy-chan...
 272	message	Um, Dorothy asked\nif she could see big brother.
@@ -211,11 +211,11 @@ row	column	english
 276	message	Yes, they're very cute.
 277	message	R-really!! I was so worried\nyou'd hate me, big brother...\nthis whole time.
 278	message	I'd never hate you.\nBoth Lady Dorothy and Dorothy-chan are precious to me.
-279	message	Ehehe, I'm so happy~.\nI love you, big brother~.
+279	message	Ehehe, I'm so happyy.\nI love you, big brotherr.
 280	message	Today, I got them to make me\nyour personal maid, big brother... so...
 281	message	Wh-what!? S-so...!?
-284	message	Fuu~. Now, child,\nyou'll catch cold sleeping in a place like this.
-285	message	Drooling...\ngrinning like that, how creepy~.
+284	message	Fuuu. Now, child,\nyou'll catch cold sleeping in a place like this.
+285	message	Drooling...\ngrinning like that, how creepyy.
 286	message	Ah, huh!?\nJust the two of us, just for today... huh...
 287	message	Huh? Dorothy's in her shop uniform...\nWhere's the miko outfit? The fox ears?
 288	message	Nnh!
