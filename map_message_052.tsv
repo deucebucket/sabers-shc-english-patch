@@ -1,0 +1,187 @@
+row	column	english
+3	message	We're almost at that place.
+4	message	Nothing so far, but…
+5	message	Are they fortifying their defenses?
+6	message	Most likely.
+7	message	So they chose to concentrate their forces.
+8	message	Or maybe each faction is focusing\non one of our teams?
+9	message	Anyway, we just beat up whatever shows up!
+10	message	Let's do our best, Red Angel!
+11	message	Yeah!
+12	message	…
+13	message	What's wrong, Shirayuki-san?\nYou don't look so good.
+14	message	I don't really know why, but…\nI have a bad feeling…
+15	message	I have a bad feeling too, desuu.
+16	message	Kinda gives me chills.\nBut I don't hate this feeling.
+17	message	…No use dwelling on it.\nTimes like this, we trust our friends…!
+18	message	//Battlefield map: Hinamizawa\n//Before our initial deployment. Conversation only.
+19	message	It seems no one is here…?
+20	message	Even I find that suspicious.
+21	message	Usada, get to the front, nyo.
+22	message	You go, Dejiko!
+23	message	No - we all go together!\nHold this ground until\nRika and the others arrive!
+24	message	Indeed. I'll show you a battle worthy\nof this defender's blade.
+25	message	Stand by to jump to the other world at once,\nand let's welcome Rika-chan and the others!
+26	message	//Deploy our forces. Near the center of the map
+27	message	Now we just wait!
+28	message	It's so empty here -\nis the other team okay?
+29	message	…They're coming!!
+30	message	Huh?
+31	message	//Enemies appear, completely surrounding us. Grunts of many types, everything they've got.
+32	message	Nyoo!? That's way too many, nyoo!!
+33	message	Encircle and annihilate - correct tactics.\nBut will it work on us, I wonder!
+34	message	Right! We're used to fighting\nmountains of them!
+35	message	This gets me fired up too!
+36	message	This is OUR Hinamizawa!\nWe won't let you do as you please!!
+37	message	I'll clean this up before Satoko-chan gets back!
+38	message	Lovely ones galore, desuu!\nBut now I'll swallow my tears and smash them, desuu!
+39	message	Oohh… they're all coming at once…\nKinda nice… ufufu♪
+40	message	…
+41	message	Don't make that face!\nI'll put holes through the whole lot of 'em!!
+42	message	//Battle start.
+44	message	Ready or nooot!
+45	message	Hm? Dejiko, did you hear something?
+46	message	Kinda heard it, kinda didn't, nyo.
+47	message	Okay, if you say so.
+48	message	//At the start of turn 3, Mie's voice again
+49	message	Ready or nooot!
+50	message	Did I just hear a hide-and-seek voice, nyo?
+51	message	See, I'm not imagining it!
+52	message	But why hide-and-seek in the middle of a battle, nyo?\nI don't get it, nyo!
+53	message	//At the start of turn 4, Mie's voice again
+54	message	Reaaady or noooot!
+55	message	Someone IS playing hide-and-seek, nyo!
+56	message	But the one who says 'ready or not' is supposed to be IT, nyo!\nIt's weird for the hider to be shouting it, nyo!!
+57	message	Hmm, hmm, but not yett!
+58	message	What's not yet, nyo!?
+59	message	//From turn 5 on, after defeating a set number of enemies, Mie's voice again
+60	message	Ah, they're here! Readyyy!!
+61	message	What is it?
+62	message	//Mie appears
+63	message	Heheh, I got tired of waiting!
+64	message	Wah! A-a little girl!
+65	message	It's dangerous here.
+66	message	Huh? That girl… have I seen her…?
+67	message	Oh, long time no see, bunny-chan.
+68	message	Aaah!! You're the kid who egged me on\nto beat up Dejiko!
+69	message	This girl…?
+70	message	They did say a girl about elementary-school age…
+71	message	You're the mastermind?
+72	message	Hmm, over there, maybe?
+73	message	You're totally ignoring me!?
+74	message	//Rin and Rika appear (it's Louise's illusion)
+75	message	Ah! It's Rin-chan and Rika-chan!
+76	message	Thank goodness, they're safe!
+77	message	Gotcha!
+78	message	//Mie closes in on Rika (the illusion) in an instant
+79	message	Fast!!
+80	message	Found you, Rikaaa!
+81	message	!?
+82	message	Heheh, so that's the face you make?\nI'll play with you lots…
+83	message	As my toy! Ahaha!!
+84	message	This is bad!
+85	message	Rika-chan! I'm coming!
+86	message	Wait, that's not her!
+87	message	//Kei appears. From a different direction than Mie
+88	message	Mii. Error. That is…
+89	message	Hweh?
+90	message	//Houki and Louise appear
+91	message	Got you!
+92	message	Careless, weren't you!
+93	message	//The Rin and Rika illusion vanishes
+94	message	Huuuhh?
+95	message	//The real Rin and Rika appear near Houki and Louise
+96	message	That was an illusion Louise made!
+97	message	An illusion.
+98	message	//Laura, Kurumi, Cecilia, Satoko, Charlotte, and Puchiko also appear.\nEveryone moves toward Aria's main force
+100	message	We broke through safely!
+101	message	So, what is that girl?
+102	message	She's about my age.
+103	message	Don't let your guard down!\nThat girl's not normal!
+104	message	…Ufufu! I see - I got outwitted!
+105	message	//Event art: Mie laughing hard
+106	message	Kyahahahaha!! Amazing - that's great!
+107	message	I got close and they went shooom, gone!\nIt surprised me!
+108	message	It was Louise's magic! But it looked\njust like the real thing from every angle!
+109	message	K-chan, did you see that!?
+110	message	//Event art off
+111	message	Had mass and life signs been confirmed,\nit could have been avoided. A mistake.
+112	message	Boo! That's your department, K-chan!\nI'm not doing that!
+113	message	You two seem… quite close…?
+114	message	They don't seem like bad people…?
+115	message	Oh, right right! I got beaten, huh!\nYou're good, you guys!
+116	message	Who ARE you!
+117	message	I'm Mie!
+118	message	Mie?
+119	message	Huh? That's the same as my nickname!\nWhat's the big idea!
+120	message	And over there is K-chan.
+121	message	I am K-86X. Codename: Kei.\nNot 'K-chan'.
+122	message	K-chan is fine!
+123	message	Why are you targeting Rika-chan?
+124	message	Well, you see…
+125	message	//SE: comical fanfare, like 'tente-ke-teen!'
+126	message	Because it looked fun!
+127	message	You… what are you saying…?\nYou DO know where this is and what's happening,\nsaying that!
+128	message	Yup, I know.
+129	message	So casual, nyo!?
+131	message	Very well. As a reward for getting one over on me,\nI'll specially tell you about me!
+132	message	I'm a king, y'know!
+133	message	A king?
+134	message	That's right! I'll become the king who rules\neveryone's worlds - and makes them all fun!
+135	message	Pleased to meetcha!
+136	message	That's why you sweet-talked me into working for you!?
+137	message	It was fun, wasn't it?
+138	message	Are you the boss targeting me and Shirayuki?
+139	message	Yup. Though Riko and Jeanne keep messing up.\nWanna join us?
+140	message	What do you plan to do with us?
+141	message	Oh myy? You know why you're being targeted, rightt?
+142	message	No fair hiding it!
+143	message	…
+144	message	…
+145	message	No matter what, I won't hand Rika-chan\nand the others over to you!
+146	message	That's fine. If you just handed them over,\nit'd be no fun!
+147	message	I'll say it again! I'm the king\nwho'll conquer all the worlds!
+148	message	Defying the king is… scaaary, y'know?
+149	message	…We're done here. Bye.
+150	message	I can't indulge in playing king.\nOne who stands above others needs\nthe virtue to match, you know?
+151	message	Glad I got a look at the enemy's face.\nLater!
+152	message	One last thing I'll teach you, nyo.
+153	message	Kings are boys, nyoo!
+154	message	//Polyal activates; our entire force vanishes.
+156	message	//
+157	message	…
+158	message	I see! Girls are queens!\nK-chan, why didn't you tell me!
+159	message	Because the possibility of Mii changing gender\nis not zero.
+160	message	I see! Wait - I'm not changing!!
+161	message	…But becoming a boy and making\nall of them my brides might not be bad…?
+162	message	That is also acceptable.
+163	message	But that's a hassle, so never mind!\nKyahahaha!!
+164	message	//Fade to black\n//Background: Dokoka Town
+165	message	Escape successful, I wonderr?
+166	message	It looks like everyone's here!
+167	message	Good work, everyone. Tifa and I will take\nthe first watch, so please get some rest.
+168	message	If anything happens, I'll wake you right away.\nRest easy.
+169	message	Rika, let's take Siesta and the others up on their offer\nand rest right away today.
+170	message	Yes.
+171	message	(We've escaped the worst situation -\nbeing trapped inside the loop… that's good.)
+172	message	(But as before, Oyashiro-sama - that child -\nhasn't come with us. We'll have to settle this\nin Hinamizawa after all…)
+173	message	//Fade to black\n//Background: Dokoka Town (night)
+174	message	Siesta, anything unusual?
+175	message	No. Dokoka Town has always been safe, and -\nthe Dokoka Card, was it? It seems you can't get in\nwithout one.
+176	message	This town is strange.
+177	message	Maybe it's like Albion, the floating continent\nof Halkeginia? You can only get there by flying.
+178	message	Is this town's existence the work of magic, then?
+179	message	Even if you ask me - a commoner -\nI wouldn't know.
+180	message	Sorry, I just…
+181	message	Just being in a world that isn't Halkeginia\nis strange enough. Maybe I've gotten\ntoo used to strange things?
+182	message	True…
+183	message	But we have so many reliable friends -\nit'll be fine!
+184	message	Yes. Let's help however we can.
+185	message	Now, back to patrol!
+186	message	I'll keep at it!
+187	message	//Siesta and Tiffania leave.\n//Eve's shadow appears there (darkish. Scary assassin-mode feel)
+188	message	…
+189	message	//Eve reveals herself. Like deactivating optical camouflage.\nDeliberately hiding her name so we can't tell if she's the real one or a fake.
+190	message	…
+191	message	(The rest are all asleep.\nLet's get this over with quickly.)
+192	message	//END
