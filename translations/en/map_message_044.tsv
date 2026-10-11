@@ -108,7 +108,7 @@ row	column	english
 117	message	Chris-chan, listen!\nThe ones you fought might have been\nfakes of me and Tsubasa-san!
 118	message	Fakes? Don't screw with me!\nThere can't be two\nof the same Symphogear!
 119	message	And there's no way I'd mistake\nyour songs!
-120	message	What if there's someone who can perfectly recreate\neven our songs?
+120	message	What if there's someone who\ncan perfectly recreate\neven our songs?
 121	message	Wh-what are you saying!\nNo way! Nobody like that exists!
 122	message	Don't mock me!!
 123	message	//Chris vanishes.
@@ -133,13 +133,13 @@ row	column	english
 142	message	Tsubasa, lingering too long in one world\nis dangerous after all.
 143	message	Yeah.
 144	message	Isn't it about time\nto rendezvous at IS Academy? I wonder?
-145	message	Yeah.\nIt's a bit early, but shall we head to IS Academy?
+145	message	Yeah.\nIt's a bit early, but\nshall we head to\nIS Academy?
 146	message	That might be nice.
-147	message	Then prepare yourselves\nand gather in the top-floor warehouse at Gamers.
+147	message	Then prepare yourselves\nand gather in the\ntop-floor warehouse\nat Gamers.
 148	message	What about you, Dejiko-chan?
 149	message	I'll see you off, nyo.\n...is what I'd like to say, nyo,\nbut I'm going to save Puchiko, nyo.
 150	message	We have to find Usada-san.
-151	message	I don't want that idiot Usada attacking Gamers again\nand wrecking the store, nyo!
+151	message	I don't want that idiot\nUsada attacking Gamers\nagain and wrecking the\nstore, nyo!
 152	message	I'll punish her thoroughly, nyo!!
 153	message	//Fade to black.\n//Background: warehouse interior (something fitting), same as 016C.
 154	message	Everyone's here.
