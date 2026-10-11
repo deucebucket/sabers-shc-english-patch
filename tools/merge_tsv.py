@@ -11,8 +11,9 @@ means a real line break inside the cell.)
 
 Message columns are detected exactly like extract_english.py: within the first
 6 rows, a header whose '#' stripped text is in {'Message', 'Shortened Message',
-'メッセージ本文', 'メッセージ', '短縮時メッセージ'}; 'Shortened Message' and
-'短縮時メッセージ' map to the 'short' column, the others to 'message'. The
+'メッセージ本文', 'メッセージ', '短縮時メッセージ', 'タイトル名'}; 'Shortened Message' and
+'短縮時メッセージ' map to the 'short' column, the others to 'message' (this
+includes 'タイトル名', the chapter-title column in ScenarioTable.csv). The
 Japanese headers are the ones in untouched dumps; the English ones are what
 the patched CSVs (that the public TSVs were extracted from) carry.
 
@@ -31,7 +32,7 @@ import sys
 from pathlib import Path
 
 WANTED = {'Message', 'Shortened Message', 'メッセージ本文',
-          'メッセージ', '短縮時メッセージ'}
+          'メッセージ', '短縮時メッセージ', 'タイトル名'}
 # Headers mapping to the 'short' column (everything else in WANTED is 'message').
 SHORT_HEADERS = {'Shortened Message', '短縮時メッセージ'}
 
