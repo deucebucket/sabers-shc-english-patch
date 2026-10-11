@@ -36,7 +36,7 @@ row	column	english
 37	message	You're the new manager…?
 38	message	Ding ding, correctt!!
 39	message	Nyo!?
-40	message	I'm RabiiennRose, Gamers' new manager.\nPleased to meetcha!
+40	message	I'm RabiiennRose, Gamers'\nnew manager. Pleased to meetcha!
 41	message	That's… impossible, nyo…!
 42	message	If dumb Usada becomes manager, bankruptcy in three months\nis guaranteed, nyo!!
 43	message	Don't throw out such oddly realistic numbers!!
@@ -82,7 +82,7 @@ row	column	english
 83	message	Everyone, something's here!
 84	message	There seem to be traps too.\nBe careful!
 85	message	Laura, what's your read?
-86	message	It'd be easy if we could smash through the floor and go up,\nbut if not, this'll be tricky.
+86	message	It'd be easy if we could smash\nthrough the floor and go up,\nbut if not, this'll be tricky.
 87	message	Pin-pon-pan-poon!\nWelcome to Manager Usada's\nfortress Gamers! I welcome you!
 88	message	Usadaaa!\nHow dare you do this to everyone's Gamers!
 89	message	Do you remember how many days you skipped minding the store?\nComing from you, complaints don't mean muchh?
@@ -113,7 +113,7 @@ row	column	english
 115	message	Okay, to the second floor, nyo!!
 116	message	Huh!? I just realized!\nIsn't this the format of that\nfamous kung fu movie!
 117	message	Kung… fu movie? What's that…?
-118	message	There's a five-storied pagoda, and on each floor\na different martial artist guards it as a warden,\nand the hero defeats them to climb up!
+118	message	There's a five-storied pagoda,\nand on each floor a different\nmartial artist guards it as a\nwarden, and the hero defeats\nthem to climb up!
 119	message	That's it… I'm doing that right now!\nUwah, I'm getting fired up!
 120	message	Battling is fine, but we also have\nto watch out for traps and such.
 121	message	She did say it was an impregnable fortress.\nNo telling what's in here…
