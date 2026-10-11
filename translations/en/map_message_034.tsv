@@ -99,7 +99,7 @@ row	column	english
 111	message	When did you two slip out!?
 112	message	Sorry, Tsubasa noticed right away…
 113	message	A guardian's instincts, I suppose.
-114	message	Seeing through an IS's stealth mode on instinct!?\nHow does that even work!?
+114	message	Seeing through an IS's\nstealth mode on instinct!?\nHow does that even work!?
 115	message	So you've come out, my prey.\nI'll dispose of you along with these samurai.
 116	message	I'm no samurai-I'm a sword!
 117	message	//Event on defeating Laura
@@ -147,27 +147,27 @@ row	column	english
 163	message	You… what are you?
 164	message	I'm Tachibana Hibiki, 15 years old,\nbirthday September 13th, blood type O!
 165	message	My height at the last school checkup was\n157 cm-my weight I'll tell you once\nwe're better friends!
-166	message	My hobby is helping people, and I love\nrice & rice! Also, my record of never having a boyfriend\nequals my age! Um, what about you, Laura?
+166	message	My hobby is helping people,\nand I love rice & rice! Also,\nmy record of never having a boyfriend\nequals my age! Um, what about you, Laura?
 167	message	…???
 168	message	This is the human called Tachibana.\nWhat kind of human are you?
 169	message	I… I am…
 170	message	To become a warrior is to drift away\nfrom the way humans live.
 171	message	I, who thought so, never knew what lay\non the far side of battle, beyond it.\nJust like you now.
 172	message	Beyond… battle…?
-173	message	What you fight for, what you grow strong for.\nThe greater that reason,\nthe stronger a person can become. Tachibana is proof.
+173	message	What you fight for,\nwhat you grow strong for.\nThe greater that reason,\nthe stronger a person can\nbecome. Tachibana is proof.
 174	message	A reason to fight…
-175	message	I wanted to grow strong because I have things to protect.\nIf someone's in trouble, I want to rush to them\nat top speed, by the shortest route, straight as an arrow.
-176	message	And… because I want to laugh and eat dinner tomorrow\njust like today.
+175	message	I wanted to grow strong because\nI have things to protect.\nIf someone's in trouble,\nI want to rush to them at top speed,\nby the shortest route,\nstraight as an arrow.
+176	message	And… because I want to\nlaugh and eat dinner tomorrow\njust like today.
 177	message	I have… nothing to laugh about…
 178	message	No need to think too hard.\nWhen do you feel happy, Laura?\nAnything at all is fine.
 179	message	If you get to eat yummy food,\nthat's happiness, right?\nThat's what it means!
-180	message	There are lots of otaku among soldiers too, nyo!\nIf it's hobbies, I know a great shop, nyoo.
+180	message	There are lots of otaku\namong soldiers too, nyo!\nIf it's hobbies, I know\na great shop, nyoo.
 181	message	How about B-list idol research?
 182	message	If you keep making that gloomy face,\nall the fun stuff'll run away, you know
 183	message	The nightmare is over.\nLet's find a happy dream!
 184	message	That's right! I'll help!\nAs friend number one!
 185	message	Friend?
-186	message	Embarrassing as it is to admit,\nI was also swallowed by power like you, Laura,\nand went berserk.
+186	message	Embarrassing as it is to admit,\nI was also swallowed by power\nlike you, Laura, and went berserk.
 187	message	I didn't know what was what anymore.\nBut then, a friend saved me.\nShe brought me back to being human.
 188	message	So when you're in trouble, Laura,\nwhen things are hard, when you're in danger,\nI'll definitely save you. As a friend!
 189	message	I was your enemy, you know…?
