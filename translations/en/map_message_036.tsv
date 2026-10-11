@@ -208,7 +208,7 @@ row	column	english
 217	message	Interesting. If that's how it is,\nit'll be worth doing.
 218	message	Everyone, do your best and beat her, nyo!\nDejiko will cheer you on, nyo!
 219	message	Just cheering?
-220	message	I'm saving my strength for the showdown with Usada, nyo!\nThis is a cerebral strategy, nyo!
+220	message	I'm saving my strength\nfor the showdown with\nUsada, nyo! This is a\ncerebral strategy, nyo!
 221	message	//Clear by defeating Tesla.
 222	message	…I let myself\nget a little heated.\nWe should retreat here.
 223	message	//Tesla vanishes.
@@ -219,12 +219,12 @@ row	column	english
 228	message	It's Gamers' top floor, nyo!\nUsada, you're not getting away, nyo…!!
 229	message	//Battle end\n//Can save
 231	message	You made it all the way up here!
-232	message	Usada, be honest, nyo. You're freaking out that we made it\nto this floor, nyo?
+232	message	Usada, be honest, nyo.\nYou're freaking out that\nwe made it to this\nfloor, nyo?
 233	message	After defeating all those, of course.
 234	message	We've gotten serious too!
-235	message	True, I worked desperately hard to beat Dejiko\nand made all these preparations!\nHaving them smashed through is a shock!
+235	message	True, I worked desperately\nhard to beat Dejiko and made\nall these preparations!\nHaving them smashed\nthrough is a shock!
 236	message	But that doesn't mean I'll surrender-\nthat's not the RabiiennRose I am now!\nCome at me!
-237	message	Usada's ambitions end here, nyo! No national edition, no warlords saga,\nno turbulent chronicle for you, nyo!
+237	message	Usada's ambitions end here,\nnyo! No national edition,\nno warlords saga, no turbulent\nchronicle for you, nyo!
 238	message	As if!\nI'll show you Rabi-an Musou!
 239	message	//Battle start\n//Event triggers when Usada and Dejiko engage
 240	message	Come at me from anywhere! Dejiko!
