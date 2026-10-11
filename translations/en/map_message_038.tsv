@@ -5,7 +5,7 @@ row	column	english
 6	message	Yeah, it's cuuute!
 7	message	You're not lying? Really?
 8	message	It's true! Right, [CLAUDE]-kun?
-9	message	(Tell her a beautiful girl looks good in anything)
+9	message	(Tell her a beautiful\ngirl looks good in\nanything)
 10	message	B-beautiful girls look good in anything.
 11	message	Beautiful girl? Does she mean me?\nBeing told that by a boy…\nit's the first time…!
 12	message	You're not lying?\nThis isn't a prank, right?
