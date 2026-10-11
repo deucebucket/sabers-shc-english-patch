@@ -248,7 +248,7 @@ row	column	english
 255	message	// Event triggers when Chris is defeated
 256	message	Dammit!! Again…!\nI lost again!!
 257	message	Wait! Something's wrong!\nThe last time I fought Chris\nwas a loong time ago…
-258	message	Shut up! I won't believe a word you say!!\nThe fact that you tricked me and tried to crush me\nwon't be erased by words!!
+258	message	Shut up! I won't believe\na word you say!! The fact that\nyou tricked me and tried to\ncrush me won't be erased\nby words!!
 259	message	The scars and pain carved into this body!\nYou can't take those back!! Never!!
 260	message	// Chris vanishes
 261	message	Chris!!
@@ -259,15 +259,15 @@ row	column	english
 266	message	Chris… why…?
 267	message	Don't let it get you down.\nThanks to Yukine, we've learned a few things.
 268	message	She said she fought Hibiki and Tsubasaa.
-269	message	Could she be one of those lookalikess\nthat Remu was researching-\na doppelgangerr?
+269	message	Could she be one of those lookalikes\nthat Remu was researching...\na doppelganger?
 270	message	We hadn't seen her lately, but\nthere was that shady blackish one, right?\nIt looked like somebody, y'know.
 271	message	Right-when I came to Akihabara once\nwith Sonico, I fought a small black one,\nand it looked like Dejiko.
 272	message	Come to think of it, there was a fake Shirayuki too!\nMaybe that Barrage Girl fought\none of those things?
 273	message	But still-to be so completely convinced\nit's the real thing, like that girl was…\nisn't that going a bit far?
 274	message	A Symphogear is a relic-\nit can't be replicated. And hearing our songs,\nof course she'd think it was real.
 275	message	Could something like that really happen?\nSomeone besides me singing my song,\nwielding a Symphogear that shouldn't exist…
-276	message	Yukine sang and fought beside us-\nshe's our comrade. I couldn't mistake her song.
-277	message	You're right.\nBut if she really did fight\nsomeone like that, I can understand how she feels.
+276	message	Yukine sang and fought\nbeside us- she's our comrade.\nI couldn't mistake her song.
+277	message	You're right.\nBut if she really did fight\nsomeone like that, I can\nunderstand how she feels.
 278	message	More mysteries have piled up, but\nthey're surely mysteries we must solve.
 279	message	We'll put our heads together\nand solve it, won't we!
 280	message	Thank you, Rika, Satoko.\nNo time to sit around moping!
