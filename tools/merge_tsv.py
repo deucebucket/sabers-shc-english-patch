@@ -5,6 +5,12 @@ Inverse of tools/extract_english.py. For each <name>.tsv in the translations
 dir, reads <csv_dir>/<name>.csv, replaces the listed message cells, and writes
 <out_dir>/<name>.csv, preserving BOM, line endings and all other cells.
 
+A literal '\\n' in a TSV's english text means a real line break inside the
+cell. The break is written using the ORIGINAL cell's own line-break style:
+a cell whose source text used CRLF keeps CRLF, LF stays LF, CR stays CR
+(mixed-style cells take the most common style). Byte-level fidelity of
+untouched cells is preserved.
+
 TSV format: row<TAB>column<TAB>english   (row is 1-based over ALL csv rows,
 including # comment rows; column is 'message' or 'short'; '\\n' in english
 means a real line break inside the cell.)
@@ -37,6 +43,25 @@ WANTED = {'Message', 'Shortened Message', 'メッセージ本文',
 SHORT_HEADERS = {'Shortened Message', '短縮時メッセージ'}
 
 
+def cell_style(cell):
+    """Return the in-cell line-break style of a CSV cell: '\\r\\n', '\\r' or '\\n'.
+
+    Counts each style's occurrences in the cell and returns the most common
+    one (ties break toward '\\r\\n', then '\\r'). A cell with no line breaks
+    reports '\\n', which is a no-op for the replacement below.
+    """
+    crlf = cell.count('\r\n')
+    cr = cell.count('\r') - crlf
+    lf = cell.count('\n') - crlf
+    if crlf == 0 and cr == 0 and lf == 0:
+        return '\n'  # no breaks: nothing to convert
+    if crlf >= cr and crlf >= lf:
+        return '\r\n'
+    if cr >= lf:
+        return '\r'
+    return '\n'
+
+
 def find_columns(rows):
     """Return {col_index: 'message'|'short'}.
 
@@ -65,7 +90,7 @@ def merge_one(tsv_path, csv_path, out_path):
         lineterm = '\r'
     else:
         lineterm = '\n'
-    rows = list(csv.reader(io.StringIO(text)))
+    rows = list(csv.reader(io.StringIO(text, newline='')))
     want = find_columns(rows)
     if not want:
         return 0, 'no message column found'
@@ -98,7 +123,10 @@ def merge_one(tsv_path, csv_path, out_path):
         for i in rev[kind]:
             while len(r) <= i:
                 r.append('')
-            r[i] = eng
+            # Preserve the original cell's own line-break style (issue #10):
+            # the TSV's '\\n' breaks are re-emitted as CRLF/LF/CR to match
+            # whatever the source cell used.
+            r[i] = eng.replace('\n', cell_style(r[i]))
             applied += 1
 
     buf = io.StringIO()

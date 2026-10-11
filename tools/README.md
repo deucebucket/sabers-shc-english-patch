@@ -11,6 +11,7 @@ Extraction / repack scripts. You bring your own dump; no game data lives here.
 | `shc_cpk_check.py` | **release gate**: storage-rule, decompress-size and game-CSV-parser checks on a built CPK |
 | `test_shc_repack.py` | unit tests for the storage rule and the parser model |
 | `merge_tsv.py` | apply `translations/en/*.tsv` onto extracted CSVs (inverse of `extract_english.py`) |
+| `test_merge_tsv.py` | unit tests for `merge_tsv.py` (per-cell line-ending preservation, issue #10) |
 
 ## Full build pipeline (from your own dump)
 
@@ -27,7 +28,12 @@ python3 tools/shc_cpk_check.py out.cpk --orig ShcPack.cpk
 
 `merge_tsv.py` is the inverse of `extract_english.py`: it writes each TSV's
 `row/column/english` cells back into the corresponding CSV, preserving BOM,
-line endings and every untouched cell. It understands both the English headers
+line endings and every untouched cell. A literal `\n` in a TSV's english text
+means a real line break inside the cell; the merge preserves the original
+cell's line-break style (a cell whose source used CRLF keeps CRLF, LF stays
+LF, CR stays CR — mixed cells take the most common style), so merged CSVs stay
+byte-identical to the originals everywhere except the translated text itself
+(issue #10). It understands both the English headers
 the patched CSVs carry (`Message`, `Shortened Message`) and the original
 Japanese ones (`メッセージ`, `短縮時メッセージ`). It exits non-zero if any
 TSV cannot be merged cleanly, so a build pipeline stops instead of shipping
@@ -39,6 +45,7 @@ a half-merged CPK.
 python3 tools/shc_repack.py ShcPack.cpk out.cpk replacements.json
 python3 tools/shc_cpk_check.py out.cpk --orig ShcPack.cpk      # must print PASS
 python3 tools/test_shc_repack.py
+python3 tools/test_merge_tsv.py
 ```
 
 Then update `USRDIR/hash.csv` line 1 with the new size + md5 (keep the BOM and CRLF); the game's first-run
