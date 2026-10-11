@@ -125,7 +125,7 @@ row	column	english
 141	message	//Event on defeating [NOEL]
 142	message	How… losing to [MERU] of all people!
 143	message	You can say or do whatever you want to me.\nBut… but, if the teacher found out about this,\nshe'd be sad, wouldn't she?
-144	message	I told you, the teacher's got nothing to do with it.
+144	message	I told you, the teacher's got\nnothing to do with it.
 145	message	[NOEL]!!
 146	message	Hmph! Let's call this one a draw.\nNext time won't go like this!
 147	message	//[NOEL] vanishes with the light.
@@ -143,7 +143,7 @@ row	column	english
 160	message	B-but… that girl…?
 161	message	What if I told you I once turned\nmy blade on Tachibana and attacked her?
 162	message	You attacked Hibiki…!?
-163	message	It's true, [MERU].\nThere was a time when my heart and Tsubasa's\nwere that far apart.
+163	message	It's true, [MERU].\nThere was a time when my heart\nand Tsubasa's were that far apart.
 164	message	But people can truly\nreach each other's hearts.\nRight, Tachibana?
 165	message	Yes!\nBecause people can talk to each other!
 166	message	Hibiki… Tsubasa…

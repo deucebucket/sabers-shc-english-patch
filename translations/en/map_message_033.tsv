@@ -1,12 +1,12 @@
 row	column	english
 3	message	Almost to St. Mont Blanc Academy!
 4	message	Come to think of it, what's that school like?\nI feel like someone said all the students\ncan fight or something.
-5	message	St. Mont Blanc Academy has lots of departments,\nand most of them are 'Magicall' departments\nwith combat techniques attached.
-6	message	Cooking, sewing, math, music, and so on-\nin ancient times, all of them were techniques\nborn from the struggles of living things, but
+5	message	St. Mont Blanc Academy has lots\nof departments, and most of them\nare 'Magical' departments with\ncombat techniques attached.
+6	message	Cooking, sewing, math, music,\nand so on- in ancient times, all\nof them were techniques born from\nthe struggles of living things, but
 7	message	as the ages grew peaceful and\nthe need for combat faded,\nthey were absorbed into wholesome culture.
 8	message	Like how the javelin throw went from\na combat technique to a sport?
-9	message	Exactly. For example, in the Magical Patissier department,\nthey focus on making sweets, while also researching\ntechniques that apply those cooking skills to combat.
-10	message	But since combat techniques are their roots,\nit's based on the philosophy of cherishing the original\ntechniques and preserving their original forms.
+9	message	Exactly. For example, in the\nMagical Patissier department,\nthey focus on making sweets,\nwhile also researching techniques\nthat apply those cooking\nskills to combat.
+10	message	But since combat techniques\nare their roots, it's based on\nthe philosophy of cherishing\nthe original techniques and\npreserving their original forms.
 11	message	Hmm, that might not be so different\nfrom I-U's research philosophy…
 12	message	Almost to St. Mont Blanc Academy!
 13	message	Come to think of it, what's that school like?\nI feel like I heard all the students\ncan fight or something.
@@ -19,7 +19,7 @@ row	column	english
 20	message	Hmm, that might not be so different\nfrom I-U's research philosophy…
 21	message	Interesting story, but\nthis isn't the time for it!
 22	message	What's wrong?
-23	message	Looks like we're being ambushed.\nThey don't want us reaching St. Mont Blanc Academy,\nI wonder?
+23	message	Looks like we're being ambushed.\nThey don't want us reaching\nSt. Mont Blanc Academy, I wonder?
 24	message	Well, our movements were plain to see,\nso it can't be helped.\nCan we force our way through?
 25	message	Too late to go around now.\nLet's go head-on!
 26	message	//Battle map: Original Character World\n//The teacher set up this battle, so the placement and spawn timing are nasty.
