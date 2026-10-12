@@ -97,11 +97,11 @@ row	column	english
 101	message	Yes. Unfortunately for you,\nyou'll never win that way.
 102	message	I already understand.\nWhy you're after me -\nand why you can never win.
 103	message	Is that so, I wonder?
-104	message	From what we know, those\nblack IS units match our\nabilities. Everyone, be careful!
+104	message	From what we know, those\nblack IS units match our\nabilities. Everyone,\nbe careful!
 105	message	Fighting oneself is not pleasant.
 106	message	It's strangely unsettling.
-107	message	Protecting Rika and the others\ncomes first, period. Don't get\nhung up on beating them!
-108	message	Right - keep the offense-defense balance in mind.
+107	message	Protecting Rika and\nthe others comes first,\nperiod. Don't get hung up\non beating them!
+108	message	Right - keep the offense-defense\nbalance in mind.
 109	message	The plan: hold out until the other team\nsecures Polyal, then rush in all at once.\nSurvive until then, no matter what!
 110	message	Got it!
 111	message	Nyu.
@@ -127,7 +127,7 @@ row	column	english
 132	message	This one's got a bad attitude!\nWhat is this, harassment?
 133	message	//Conversation event when Black Charlotte clashes with someone
 134	message	…
-135	message	Trying not to show your hand?\nHard to fight when I can't tell what you're thinking…
+135	message	Trying not to show\nyour hand? Hard to fight\nwhen I can't tell what\nyou're thinking…
 136	message	//Conversation event when Black Laura clashes with someone
 137	message	…
 138	message	Hmph, you could've at least come out\nin whiteface paint. How artless!
