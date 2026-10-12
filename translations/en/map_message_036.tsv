@@ -113,7 +113,7 @@ row	column	english
 115	message	Okay, to the second floor, nyo!!
 116	message	Huh!? I just realized!\nIsn't this the format of that\nfamous kung fu movie!
 117	message	Kung… fu movie? What's that…?
-118	message	There's a five-storied pagoda,\nand on each floor a different\nmartial artist guards it as a\nwarden, and the hero defeats\nthem to climb up!
+118	message	There's a five-storied pagoda,\nand on each floor a different\nmartial artist guards it as a warden,\nand the hero defeats them to climb up!
 119	message	That's it… I'm doing that right now!\nUwah, I'm getting fired up!
 120	message	Battling is fine, but we also have\nto watch out for traps and such.
 121	message	She did say it was an impregnable fortress.\nNo telling what's in here…
@@ -222,7 +222,7 @@ row	column	english
 232	message	Usada, be honest, nyo.\nYou're freaking out that\nwe made it to this\nfloor, nyo?
 233	message	After defeating all those, of course.
 234	message	We've gotten serious too!
-235	message	True, I worked desperately\nhard to beat Dejiko and made\nall these preparations!\nHaving them smashed\nthrough is a shock!
+235	message	True, I worked desperately\nhard to beat Dejiko and made\nall these preparations! Having\nthem smashed through is a shock!
 236	message	But that doesn't mean I'll surrender-\nthat's not the RabiiennRose I am now!\nCome at me!
 237	message	Usada's ambitions end here,\nnyo! No national edition,\nno warlords saga, no turbulent\nchronicle for you, nyo!
 238	message	As if!\nI'll show you Rabi-an Musou!

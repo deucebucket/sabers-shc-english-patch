@@ -92,14 +92,14 @@ row	column	english
 98	message	Could it be [NOEL]?\nI wonderr
 99	message	Could it be [MERU]?
 100	message	Laura! What's the security situation!
-101	message	Notice from the observation room:\nan unidentified high-speed flying object\nis approaching IS Academy.\nRepresentative cadets with personal IS units\nare ordered to sortie.
+101	message	Notice from the observation room:\nan unidentified high-speed flying object\nis approaching IS Academy. Representative\ncadets with personal IS units, sortie!
 102	message	You're telling us to go investigate...?
 104	message	What? You're saying it's that thing!?
 105	message	That thing-what is it?
-106	message	An unidentified IS that fought indiscriminately\nacross European nations, scattering the seeds\nof conflict-confirmed to have\nthe codename 'Demon'.
+106	message	An unidentified IS that fought\nindiscriminately across European nations,\nscattering the seeds of conflict -\nconfirmed to have the codename 'Demon'.
 107	message	That thing's coming to IS Academy!?\nI see-we'll have to go...
 108	message	What kind of guy is it?
-109	message	It indiscriminately attacks and destroys\nanything that approaches.\nIgnores warnings, won't negotiate,\nappears and vanishes like a ghost...\napparently.
+109	message	It indiscriminately attacks and destroys\nanything that approaches. Ignores\nwarnings, won't negotiate, appears and\nvanishes like a ghost... apparently.
 110	message	So once you meet it,\neven surviving is hard for ordinary forces?
 111	message	That's why they're only sending us\npersonal-IS pilots, I suppose... but...
 112	message	...What's wrong,\nhurry up and sortie!
@@ -262,7 +262,7 @@ row	column	english
 281	message	// Event after Kei and Houki engage
 282	message	Amazing...\nthey're evenly matched...!
 283	message	Neither is at full power yet,\nbut the difference is clear...
-284	message	Third-gen IS units aren't even mass-produced yet,\nso a fourth-gen sounded like a joke, but...
+284	message	Third-gen IS units aren't even\nmass-produced yet, so a fourth-gen\nsounded like a joke, but...
 285	message	We have no choice but\nto accept it as fact...
 286	message	// Kei retreats after taking a set amount of damage or after a set number of turns
 287	message	Akatsubaki, fourth-generation IS.\nGood... data can be harvested.

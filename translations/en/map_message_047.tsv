@@ -127,7 +127,7 @@ row	column	english
 141	message	The rule is: if either teammate\ngoes down, you lose, right?
 142	message	Looks like we'll be protecting\nour partners.
 143	message	Since we can't fight selfishly,\nthis'll be different from\nan IS-vs-IS match!
-144	message	Honestly, this isn't my strong suit.\nSiesta, don't do anything-\njust watch the surroundings\nand give me directions.\nThat'll be easier for me.
+144	message	Honestly, this isn't my strong suit.\nSiesta, don't do anything- just\nwatch the surroundings and give\nme directions. That'll be easier for me.
 145	message	Understood!\nI'm counting on you!
 146	message	Houki, what should we do?
 147	message	Don't overthink it-\njust do what we always do.\nWe both know each other's strength,\ndon't we?
@@ -136,7 +136,7 @@ row	column	english
 150	message	I'd like to say Hibiki\nand Houki, but...
 151	message	Dejiko's in this, y'know.\nRin's a tricky one too-\nfeels like they'll stir\nthings up.
 152	message	Then Puchiko and\nCharlotte, who can read\nDejiko's personality,\nmight have a shot?
-153	message	In raw IS combat\npower, Laura's a cut\nabove the rest. How\nthe others fight her\nis worth watching too.
+153	message	In raw IS combat power,\nLaura's a cut above the rest.\nHow the others fight her\nis worth watching too.
 154	message	What if Cecilia carried Sonico\nand fought in the air?
 155	message	This format favors the Blue Tears.
 156	message	When you have to protect someone\nbesides yourself, bit attacks\nare a threat, you know.
@@ -261,7 +261,7 @@ row	column	english
 279	message	I don't know...\ndoesn't [NOEL] know?
 280	message	There it is again!! Again!!\n[MERU]! What are you even doing?!
 281	message	Huh?
-282	message	You finally found Teacher\nand got to be together!\nHow can you just sit there\nwith an 'oh, she's gone' face!?
+282	message	You finally found\nTeacher and got to be together!\nHow can you just sit there\nwith an 'oh, she's gone' face!?
 283	message	Th-that's not fair!!\n[NOEL] met Teacher too,\nand still attacked her!!
 284	message	And why am I the bad one!!
 285	message	You are!!
@@ -284,7 +284,7 @@ row	column	english
 302	message	I don't know.\nShe was gone before I noticed...
 303	message	Pheww-[NOEL] really is\nan idiot, idiot!!
 304	message	Wh-what do you mean!
-305	message	You're an idiot because\nyou don't think about anything!\nYou never once thought about\nwhat Teacher's thinking\nor what she's trying to do!!
+305	message	You're an idiot because you don't\nthink about anything! You never\nonce thought about what Teacher's\nthinking or what she's trying to do!!
 306	message	But Teacher never talks\nabout that stuff...!
 307	message	You call me passive,\nbut what about you!!
 308	message	[MERU]'s bad too!!\nPicking a fight with me in front of Teacher!\nAnd you think you can complain!?
